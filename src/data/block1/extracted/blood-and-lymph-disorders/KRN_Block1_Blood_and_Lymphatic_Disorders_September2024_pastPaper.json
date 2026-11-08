@@ -1,0 +1,293 @@
+[
+  {
+    "id": "krn-block1-september2024-blood-and-lymphatic-disorders",
+    "year": "2024",
+    "month": "September",
+    "examType": "Main",
+    "title": "September 2024 Class Block 1 Exam",
+    "block": "Block 1",
+    "unit": "Blood and Lymphatic Disorders",
+    "totalQuestions": 15,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2024 class Block 1 Exam paper (MSN 104: Blood and Lymphatic Disorders, sat 24 March 2025, Part A, Q1 to Q15).",
+        "questionCount": 15
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q1",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The blood component that is liquid in nature without clotting factors is:",
+        "options": {
+          "A": "Plasma",
+          "B": "Serum",
+          "C": "Fresh frozen plasma",
+          "D": "Hematocrit"
+        },
+        "correctAnswer": "B",
+        "explanation": "Serum (B) is correct because serum is the clear, straw-coloured fluid that remains after blood has clotted. The fibrinogen and the other clotting factors are used up in forming the clot, so serum is essentially plasma without clotting factors. Plasma (A) is incorrect because it is the fluid portion of unclotted blood (about 55% of blood volume, made of 92% water, 7% protein and 1% salts) and it still contains the clotting factors, including fibrinogen and prothrombin. Fresh frozen plasma (C) is incorrect because it is plasma that has been separated and frozen to preserve its clotting factors, and it is transfused to replace those factors (for example in liver disease, DIC or warfarin reversal). Hematocrit (D) is incorrect because it is not a fluid component but the percentage of the total blood volume that is occupied by red blood cells. Note: serum is not defined in the lecture notes, so this explanation combines the notes on plasma and clotting with standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q2",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "The role of plasmin in hemostasis is to:",
+        "options": {
+          "A": "Initiate the extrinsic pathway",
+          "B": "Activate the platelets",
+          "C": "Initiate breakdown of fibrin",
+          "D": "Convert fibrinogen to fibrin"
+        },
+        "correctAnswer": "C",
+        "explanation": "Initiate breakdown of fibrin (C) is correct because plasmin is the enzyme of the fibrinolytic phase of hemostasis (the fourth phase after the vascular, platelet and coagulation phases). Once the clot has retracted and repair has begun, plasmin dissolves the fibrin mesh, which is important because the clot is a rough surface that would otherwise obstruct the vessel. Initiate the extrinsic pathway (A) is incorrect because the extrinsic pathway is started by tissue factor (tissue thromboplastin) leaking from damaged cells outside the vessel. Activate the platelets (B) is incorrect because platelets are activated by collagen, ADP, thromboxane A2 and thrombin during the platelet phase. Convert fibrinogen to fibrin (D) is incorrect because that is the action of thrombin in the common pathway, which builds the clot rather than breaking it down. Note: plasmin is not named in the lecture notes (they only describe the fibrinolytic phase), so this explanation also draws on standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q3",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Patient Zee has a platelet count of 200,000 cells/mm3. The nurse understands that Patient Zee has a:",
+        "options": {
+          "A": "Normal platelet count",
+          "B": "Higher than normal platelet count",
+          "C": "Low platelet count and is at risk of spontaneous bleeding",
+          "D": "Low platelet count but is not at high risk for bleeding"
+        },
+        "correctAnswer": "A",
+        "explanation": "Normal platelet count (A) is correct because the normal platelet count is 150,000 to 450,000 per mm3, so 200,000 per mm3 lies well within the normal range. Higher than normal platelet count (B) is incorrect because a count above 450,000 per mm3 would be thrombocytosis (thrombocythemia). Low platelet count and is at risk of spontaneous bleeding (C) is incorrect because thrombocytopenia is a count below 150,000 per mm3, and spontaneous bleeding is generally a risk only when the count falls very low (commonly below about 20,000 per mm3). Low platelet count but is not at high risk for bleeding (D) is incorrect because the count is not low at all, so there is no thrombocytopenia to assess for bleeding risk. Note: the bleeding-risk threshold in option C is from standard references, because the lecture notes give only the normal range.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q4",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Regarding the International Normalized Ratio (INR):",
+        "options": {
+          "A": "It is calculated from a standardized ratio from the thrombin time",
+          "B": "Measures the effectiveness of the intrinsic pathway",
+          "C": "Useful in measuring the effectiveness of heparin therapy",
+          "D": "The higher the INR the higher the risk of bleeding"
+        },
+        "correctAnswer": "D",
+        "explanation": "The higher the INR the higher the risk of bleeding (D) is correct because a higher INR means the blood takes longer to clot. The INR is used to monitor warfarin therapy, where the therapeutic range is 2 to 3 (the healthy value is about 1.1), so a value above the target puts the patient at risk of bleeding and a value below it at risk of clotting. It is calculated from a standardized ratio from the thrombin time (A) is incorrect because the INR standardizes the prothrombin time (PT): it is the ratio of the patient's PT to the normal mean PT. Measures the effectiveness of the intrinsic pathway (B) is incorrect because the PT and INR assess the extrinsic pathway, while the partial thromboplastin time (PTT or aPTT) assesses the intrinsic pathway. Useful in measuring the effectiveness of heparin therapy (C) is incorrect because heparin therapy is monitored with the PTT or aPTT, and the INR is used for warfarin.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q5",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "An example of megaloblastic anemia is:",
+        "options": {
+          "A": "Hemolytic anemia",
+          "B": "Iron deficiency anemia",
+          "C": "Folic acid deficiency anemia",
+          "D": "Hemorrhagic anemia"
+        },
+        "correctAnswer": "C",
+        "explanation": "Folic acid deficiency anemia (C) is correct because folate (like vitamin B12) is needed for DNA synthesis in the developing red cells. When it is lacking, the red cell precursors in the marrow become large and immature (megaloblasts) and the anemia is macrocytic. Vitamin B12 deficiency (pernicious anemia) is the other example, and both are hypoproliferative anemias caused by a lack of factors needed for RBC formation. Hemolytic anemia (A) is incorrect because it is caused by premature destruction of red cells, with a raised reticulocyte count and raised bilirubin. Iron deficiency anemia (B) is incorrect because it gives small, pale red cells (microcytic, hypochromic). Hemorrhagic anemia (D) is incorrect because it results from loss of red cells through bleeding (for example GI bleeding, menorrhagia or trauma) and is usually normocytic.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q6",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "A child suffering from hemophilia A lacks clotting factor:",
+        "options": {
+          "A": "IX",
+          "B": "VIII",
+          "C": "VII",
+          "D": "VI"
+        },
+        "correctAnswer": "B",
+        "explanation": "VIII (B) is correct because hemophilia A (classic hemophilia) is a deficiency of factor VIII. It accounts for 80 to 85% of hemophilia cases and is X-linked recessive, so it mainly affects males. IX (A) is incorrect because a deficiency of factor IX is hemophilia B (Christmas disease), which accounts for 15 to 20% of cases. VII (C) is incorrect because factor VII is part of the extrinsic pathway and is vitamin K dependent, and its deficiency is not hemophilia. VI (D) is incorrect because there is no factor VI in the clotting cascade that is used in practice (the number is not assigned to a clotting factor). The rare hemophilia C is a deficiency of factor XI.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q7",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "The effects of anemia on the neurological system include:",
+        "options": {
+          "A": "Pain, forgetfulness, cheilosis",
+          "B": "Petechiae, fainting, proprioception deficits",
+          "C": "Paresthesia, syncope, headache",
+          "D": "Palpitations, headache, pain"
+        },
+        "correctAnswer": "C",
+        "explanation": "Paresthesia, syncope, headache (C) is correct because anemia reduces oxygen delivery to the brain and nerves, and the notes list dizziness, tingling or numbness (paresthesia), headache, forgetfulness or confusion, gait disturbance, fatigue and weakness as the neurologic effects. Syncope (fainting) is the result of reduced cerebral perfusion and oxygenation. Pain, forgetfulness, cheilosis (A) is incorrect because cheilosis (angular cheilitis) is a lesion at the corners of the mouth seen in iron deficiency, which is a mucocutaneous sign and not a neurological one, and pain is not a typical neurologic effect of anemia. Petechiae, fainting, proprioception deficits (B) is incorrect because petechiae are a sign of altered clotting (bleeding into the skin) and not of anemia, even though loss of position sense can occur in megaloblastic anemia. Palpitations, headache, pain (D) is incorrect because palpitations are a cardiovascular effect (the heart works harder to compensate for the low oxygen-carrying capacity), so the option mixes systems.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q8",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "The type of sickle cell crisis where the patient presents with hypovolemia and shock is:",
+        "options": {
+          "A": "Thrombocytic",
+          "B": "Vasoocclusive",
+          "C": "Sequestration",
+          "D": "Hyperhemolytic"
+        },
+        "correctAnswer": "C",
+        "explanation": "Sequestration (C) is correct because in splenic sequestration crisis large amounts of blood pool in the spleen with sickled cells, causing massive splenomegaly and a great drop in red cell mass within hours. The effective circulating volume falls, giving hypovolemia, hypotension and rapid circulatory collapse (shock), and it is a frequent cause of death in infants. It is managed with plasma volume expanders and transfusion, and some patients need a splenectomy. Thrombocytic (A) is incorrect because it is not a recognized type of sickle cell crisis (the crises are vaso-occlusive, sequestration, aplastic and hemolytic). Vasoocclusive (B) is incorrect because the key feature of this crisis is pain from blockage of small vessels by sickled cells (dactylitis, bone pain, priapism, stroke), not hypovolemic shock. Hyperhemolytic (D) is incorrect because the hemolytic crisis is a faster destruction of red cells that presents with a falling hemoglobin and jaundice and is managed by hydration and transfusion if the hemoglobin drops significantly, and it does not primarily cause hypovolemia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q9",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "The test done to detect problems with absorption of vitamin B12 is:",
+        "options": {
+          "A": "Schilling's test",
+          "B": "Coombs test",
+          "C": "Bone marrow aspirate",
+          "D": "Flow cytometry"
+        },
+        "correctAnswer": "A",
+        "explanation": "Schilling's test (A) is correct because it determines whether the body absorbs vitamin B12, and it is used to investigate B12 (cobalamin) deficiency, that is, pernicious anemia caused by a lack of intrinsic factor. Coombs test (B) is incorrect because it detects antibodies attached to red cells and is used to diagnose immune (autoimmune) hemolytic anemia. Bone marrow aspirate (C) is incorrect because it shows how blood cells are being formed (quality and quantity) and is used to diagnose hematologic disorders, but it does not test vitamin B12 absorption. Flow cytometry (D) is incorrect because it identifies cell types by their surface markers, and it is used to classify leukemias and lymphomas. Note: the Coombs test and flow cytometry are not covered in the lecture notes, so these explanations are based on standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q10",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Patient Dee is on an iron supplementation and reports to have black hard stool. The nurse should tell the patient:",
+        "options": {
+          "A": "That this is an expected effect, increase water intake",
+          "B": "To stop the drug immediately, take plenty of yoghurt",
+          "C": "To take the drug with milk, observe for 2 days",
+          "D": "To take one tablet instead of two, report back in two days"
+        },
+        "correctAnswer": "A",
+        "explanation": "That this is an expected effect, increase water intake (A) is correct because oral iron makes the stools dark (black or greenish-black) and also causes constipation, so the stool is hard. The nurse reassures the patient that this is a harmless side effect and advises more fluids and fibre to prevent constipation. The patient should still report tarry, sticky, foul-smelling stools, or abdominal pain, because these could be melena from GI bleeding. To stop the drug immediately, take plenty of yoghurt (B) is incorrect because the side effect is expected and stopping would interrupt treatment (oral iron is continued for 6 to 12 months to replenish stores), and dairy products such as yoghurt reduce iron absorption. To take the drug with milk, observe for 2 days (C) is incorrect because food, especially dairy, reduces absorption, and iron is best taken on an empty stomach (1 hour before or 2 hours after a meal). To take one tablet instead of two, report back in two days (D) is incorrect because the nurse must not change a prescribed dose, and the dark stool is not a sign of overdose.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q11",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Master A is admitted and has a neutrophil count of 700 cells/mm3. The priority nursing intervention is to:",
+        "options": {
+          "A": "Offer fruit and vegetable salads",
+          "B": "Monitor the temperature closely",
+          "C": "Transfuse platelets as soon as possible",
+          "D": "Administer antibiotics"
+        },
+        "correctAnswer": "B",
+        "explanation": "Monitor the temperature closely (B) is correct because a count of 700 per mm3 is neutropenia (below 2,000 per mm3), and below 1,000 per mm3 the risk of infection is significant. Neutropenic patients often lack the classic signs of infection, and fever is the most common and earliest indicator, so close monitoring of temperature allows early detection and prompt treatment. Neutropenia with fever is treated as infection, with admission and broad-spectrum antibiotics. Offer fruit and vegetable salads (A) is incorrect because raw fresh vegetables, salads and unpeeled fresh fruit are avoided in neutropenia, since they carry organisms such as Pseudomonas, E. coli and Klebsiella from the gut into the bloodstream. Transfuse platelets as soon as possible (C) is incorrect because the problem is a low neutrophil count and not a low platelet count, and platelets do not help against infection. Administer antibiotics (D) is incorrect because antibiotics are started when there is fever or infection (after cultures are taken) and are not the first priority in an afebrile neutropenic patient, whereas monitoring comes first.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q11"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q12",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "A patient with hemolytic anemia also presents with jaundice due to:",
+        "options": {
+          "A": "Increased reticulocyte release into circulation",
+          "B": "Accumulation of bilirubin",
+          "C": "Associated liver failure",
+          "D": "Increased breakdown of bile"
+        },
+        "correctAnswer": "B",
+        "explanation": "Accumulation of bilirubin (B) is correct because in hemolytic anemia the red cells are destroyed prematurely, and the released hemoglobin is converted largely (about 80% of the heme) to bilirubin. When the amount of bilirubin made is more than the liver can conjugate and excrete in bile, it accumulates in the blood (mostly indirect, unconjugated bilirubin) and stains the skin and sclera yellow. Increased reticulocyte release into circulation (A) is incorrect because it is the marrow's compensatory response to the hypoxia and anemia and it does not produce jaundice. Associated liver failure (C) is incorrect because the liver is usually normal in hemolytic anemia, and the jaundice is pre-hepatic (from excess production of bilirubin). Increased breakdown of bile (D) is incorrect because bile is not broken down to produce jaundice, and it is the breakdown of hemoglobin that produces bilirubin.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q12"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q13",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "The cells affected by multiple myeloma are:",
+        "options": {
+          "A": "Plasma cell",
+          "B": "Red blood cells",
+          "C": "Pluripotent stem cells",
+          "D": "T lymphocytes"
+        },
+        "correctAnswer": "A",
+        "explanation": "Plasma cell (A) is correct because multiple myeloma is a malignant proliferation of plasma cells (the most mature form of the B lymphocyte, which normally secrete immunoglobulin) in the bone marrow. The abnormal plasma cells make large amounts of a single (monoclonal) immunoglobulin or its light chains, crowd out normal marrow cells and destroy bone. Red blood cells (B) is incorrect because they are affected only secondarily, as the marrow is crowded out and anemia develops. Pluripotent stem cells (C) is incorrect because stem cell disorders are seen in the leukemias and myeloproliferative disorders. T lymphocytes (D) is incorrect because they are involved in cell-mediated immunity, and their malignancies are T-cell lymphomas and leukemias. Note: multiple myeloma is in the unit objectives but no lecture deck on it was provided, so this explanation is based on the notes on plasma cells and standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q13"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q14",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "Bence Jones proteins are a diagnostic indicator for:",
+        "options": {
+          "A": "Sickle cell anemia",
+          "B": "Hodgkin's lymphoma",
+          "C": "Acute lymphocytic leukemia",
+          "D": "Multiple myeloma"
+        },
+        "correctAnswer": "D",
+        "explanation": "Multiple myeloma (D) is correct because Bence Jones proteins are free monoclonal immunoglobulin light chains made by the malignant plasma cells. They are small enough to be filtered by the kidney and appear in the urine, where they are detected by urine protein electrophoresis, and they can damage the renal tubules. Sickle cell anemia (A) is incorrect because it is diagnosed by the blood smear, the sickling test or Sickledex, and confirmed by hemoglobin electrophoresis showing HbS. Hodgkin's lymphoma (B) is incorrect because it is diagnosed by lymph node biopsy showing Reed-Sternberg cells, with a raised ESR and LDH. Acute lymphocytic leukemia (C) is incorrect because it is diagnosed by the blood count and smear showing lymphoblasts and by bone marrow aspiration. Note: Bence Jones proteins are not covered in the lecture notes, so this explanation is based on standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q14"
+      },
+      {
+        "id": "krn-block1-september2024-blood-and-lymphatic-disorders_q15",
+        "paperId": "krn-block1-september2024-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "The virus implicated as a potential co factor in development of Hodgkin's lymphoma is:",
+        "options": {
+          "A": "Human Immunodeficiency virus",
+          "B": "Human herpes virus 8",
+          "C": "Human papilloma virus",
+          "D": "Epstein Barr Virus"
+        },
+        "correctAnswer": "D",
+        "explanation": "Epstein Barr Virus (D) is correct because the cause of Hodgkin's lymphoma is unknown, but a viral cause is suspected, and fragments of EBV have been found in some Reed-Sternberg cells. The notes also link it to the disease through the theory that children from affluent families meet EBV later in life. Human Immunodeficiency virus (A) is incorrect because the notes list HIV and immunodeficiency among the risk factors for non-Hodgkin's lymphoma and not as the implicated co-factor in Hodgkin's lymphoma. Human herpes virus 8 (B) is incorrect because it is associated with Kaposi sarcoma and some rare lymphomas, and is not the virus linked to Hodgkin's lymphoma in the notes. Human papilloma virus (C) is incorrect because it is associated with cervical and some other epithelial cancers and not with lymphomas. Note: the options on HHV-8 and HPV are explained from standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q15"
+      }
+    ]
+  }
+]

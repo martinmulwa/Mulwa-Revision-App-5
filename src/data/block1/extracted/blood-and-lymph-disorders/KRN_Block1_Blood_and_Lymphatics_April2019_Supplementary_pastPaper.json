@@ -1,0 +1,203 @@
+[
+  {
+    "id": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+    "year": "2019",
+    "month": "April",
+    "examType": "Supplementary",
+    "title": "April 2019 Class Block 1 Supplementary Exam",
+    "block": "Block 1",
+    "unit": "Blood and Lymphatics",
+    "totalQuestions": 10,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the April 2019 class Block 1 Supplementary Exam paper (Blood and Lymphatics, sat 15 January 2020, Part A, Q1 to Q10).",
+        "questionCount": 10
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q1",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "Granulocytes includes:",
+        "options": {
+          "A": "Neutrophils, Monocytes",
+          "B": "Thrombocytes, lymphocytes",
+          "C": "Reticulocytes, leukocytes",
+          "D": "Basophils, eosinophils"
+        },
+        "correctAnswer": "D",
+        "explanation": "Basophils, eosinophils (D) is correct because granulocytes are the white cells that contain conspicuous granules in the cytoplasm when stained, and there are three types: neutrophils, basophils and eosinophils. Together they make up about 70% of all white blood cells. Neutrophils, monocytes (A) is incorrect because monocytes are mononuclear (agranular) leukocytes, with a single-lobed nucleus and granule-free cytoplasm, even though neutrophils are granulocytes. Thrombocytes, lymphocytes (B) is incorrect because thrombocytes are platelets (cell fragments from megakaryocytes) and lymphocytes (T, B and NK cells) are agranular leukocytes. Reticulocytes, leukocytes (C) is incorrect because reticulocytes are immature red blood cells, and leukocytes is the name of the whole white cell group, which includes both granulocytes and mononuclear cells.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q2",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "Hypoproliferative anaemia can occur due to:",
+        "options": {
+          "A": "Erythropoietin deficiency",
+          "B": "Hypersplenism",
+          "C": "Menorrhagia",
+          "D": "Epistaxis"
+        },
+        "correctAnswer": "A",
+        "explanation": "Erythropoietin deficiency (A) is correct because in hypoproliferative anaemia the bone marrow cannot produce enough red blood cells and the reticulocyte count is inappropriately normal or low. Causes include marrow damage from drugs (for example chloramphenicol) or chemicals (benzene), lack of the factors needed for red cell formation (erythropoietin deficiency as in renal dysfunction, iron deficiency, vitamin B12 deficiency and folic acid deficiency), and cancer or inflammation. Hypersplenism (B) is incorrect because it causes anaemia by premature destruction of red cells in an enlarged spleen, which is a hemolytic mechanism. Menorrhagia (C) and epistaxis (D) are incorrect because they are causes of anaemia from blood loss (the bleeding type), not from failure of the marrow to produce cells.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q3",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Common risk factors of iron deficiency Anaemia in infants include:",
+        "options": {
+          "A": "Breastfeeding, tumours",
+          "B": "Maternal anemia, intestinal worms",
+          "C": "Use of cow milk, prematurity",
+          "D": "Use of formula milk, maternal anemia"
+        },
+        "correctAnswer": "C",
+        "explanation": "Use of cow milk, prematurity (C) is correct because both are classic risk factors in infants. Cow's milk is low in iron that the body can absorb and it can also irritate the gut and cause small, hidden blood losses, while premature babies are born with small iron stores and grow quickly, so their iron needs outstrip their supply. Iron deficiency anaemia only develops once the body's iron stores (one quarter to one third of its iron) are used up. Breastfeeding, tumours (A) is incorrect because breast milk iron is well absorbed (only prolonged exclusive breastfeeding without iron-rich complementary foods after 6 months adds risk) and tumours are not a common cause in infants. Maternal anemia, intestinal worms (B) is partly plausible, since maternal iron deficiency reduces the infant's stores, but intestinal worms (for example hookworm) are mainly a cause in older children, so it is a weaker choice. Use of formula milk, maternal anemia (D) is incorrect because iron-fortified formula protects against iron deficiency. Note: options B and D each contain one plausible risk factor, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q4",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Schilling test is diagnostic of:",
+        "options": {
+          "A": "Sickle cell disease",
+          "B": "Pernicious anaemia",
+          "C": "Multiple myeloma",
+          "D": "Thalassemia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Pernicious anaemia (B) is correct because the Schilling test determines whether the body absorbs vitamin B12 (cobalamin). In pernicious anaemia the stomach does not make enough intrinsic factor, so B12 cannot be absorbed from the gut, and the test is used to investigate this cause of megaloblastic (macrocytic) anaemia. Sickle cell disease (A) and thalassemia (D) are hemoglobinopathies diagnosed by hemoglobin electrophoresis (HbS in sickle cell disease; raised HbF and low MCV in thalassemia), not by the Schilling test. Multiple myeloma (C) is a plasma cell malignancy that is investigated with bone marrow aspiration and biopsy, protein studies and radiological examination of the bones.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q5",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Microcirculation occlusion in sickle cell disease leads to:",
+        "options": {
+          "A": "Jaundice, frontal bone enlargement",
+          "B": "Priapism, Anaemia",
+          "C": "Renal failure, bone pain",
+          "D": "Retinal detachment, hematochezia"
+        },
+        "correctAnswer": "C",
+        "explanation": "Renal failure, bone pain (C) is correct because in sickle cell disease the sickled cells clump together and block small vessels (vaso-occlusion), causing ischaemia and infarction of tissue. The kidneys are vulnerable because of their constant oxygen demand, so renal changes (enuresis, haematuria and progressive kidney impairment, eventually renal failure) develop, and infarction of bone and bone marrow causes the severe bone pain that is the key feature of a vaso-occlusive crisis. Jaundice, frontal bone enlargement (A) is incorrect because jaundice comes from haemolysis (breakdown of the fragile sickled cells) and frontal bossing is a feature of thalassemia major from marrow expansion. Priapism, Anaemia (B) is incorrect because, although priapism is a vaso-occlusive complication, anaemia results from haemolysis (the sickled cells survive only 6 to 20 days) and not from the blockage. Retinal detachment, hematochezia (D) is incorrect because the retinal damage in sickle cell disease comes from blocked retinal vessels (retinopathy) and passing fresh blood per rectum is not a feature.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q6",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "The commonest type of leukemia in children is:",
+        "options": {
+          "A": "Acute lymphocytic leukemia",
+          "B": "Acute myeloid leukemia",
+          "C": "Chronic lymphocytic leukemia",
+          "D": "Chronic myeloid leukemia"
+        },
+        "correctAnswer": "A",
+        "explanation": "Acute lymphocytic leukemia (A) is correct because ALL (a malignancy of lymphoblasts) is the commonest childhood leukemia and the commonest childhood cancer, with the peak in children aged about 2 to 9 years. It often involves the CNS and testes, so treatment includes corticosteroids and vincristine with CNS prophylaxis (intrathecal methotrexate or cranial radiation). Acute myeloid leukemia (B) occurs in children but much less often, and is typified by gum hyperplasia and leukostasis. Chronic lymphocytic leukemia (C) involves mature B lymphocytes and occurs in older adults. Chronic myeloid leukemia (D) is marked by the Philadelphia chromosome and is also mainly a disease of adults, with a chronic course.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q7",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Thrombocytopenia secondary to increased destruction of platelets may be caused by:",
+        "options": {
+          "A": "Megaloblastic anaemia",
+          "B": "Acute leukemia",
+          "C": "Hypersplenism",
+          "D": "Disseminated intravascular coagulopathy"
+        },
+        "correctAnswer": "D",
+        "explanation": "Disseminated intravascular coagulopathy (D) is the best answer because in DIC there is widespread clotting inside the vessels, and platelets and clotting factors are used up (consumed) in forming thousands of tiny clots, so the platelet count falls through increased consumption and destruction (the lab picture is low platelets and fibrinogen, prolonged PT, PTT and thrombin time, and raised FDPs). Megaloblastic anaemia (A) is incorrect because the low platelets come from ineffective production in the marrow (a lack of vitamin B12 or folate impairs cell formation). Acute leukemia (B) is incorrect because the malignant cells crowd out the marrow and reduce production of normal platelets. Hypersplenism (C) is a weaker choice because platelets are mainly pooled (sequestered) in the enlarged spleen, which is a distribution problem more than true destruction. Note: hypersplenism is sometimes listed under increased destruction in other textbooks, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q8",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Hemophilia:",
+        "options": {
+          "A": "Is a common disease in young males",
+          "B": "Is characterized by reduced platelets",
+          "C": "Commonly presents with bleeding into joints",
+          "D": "Is caused by deficiency on Von Willebrand Factor"
+        },
+        "correctAnswer": "C",
+        "explanation": "Commonly presents with bleeding into joints (C) is correct because hemophilia is a sex-linked recessive deficiency of clotting factor VIII (hemophilia A) or factor IX (hemophilia B), and it presents in early childhood with easy bruising, haematomas, prolonged bleeding after a cut and haemarthrosis (bleeding into the joints), which causes pain, swelling and limited movement, and with repeated bleeds leads to degenerative joint changes. The child needs prompt factor replacement, rest and immobilisation of the joint, and ice packs. Is a common disease in young males (A) is incorrect because hemophilia is uncommon (about 1 in 5,000 males), although it mainly affects males. Is characterized by reduced platelets (B) is incorrect because platelet number and function are normal in hemophilia, the defect is in the intrinsic clotting pathway (prolonged PTT, with normal PT and bleeding time). Is caused by deficiency of von Willebrand factor (D) is incorrect because that describes von Willebrand's disease, which is autosomal dominant, usually mild and affects both sexes.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q9",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "The classic presenting manifestation in multiple myeloma is:",
+        "options": {
+          "A": "Purpura",
+          "B": "Frequent infections",
+          "C": "Anaemia",
+          "D": "Bone pain"
+        },
+        "correctAnswer": "D",
+        "explanation": "Bone pain (D) is correct because multiple myeloma is a malignancy of plasma cells in the bone marrow, and the cells release substances that activate osteoclasts and destroy bone, producing punched-out (lytic) lesions, most often in the spine, ribs and pelvis. The classic presentation is therefore bone pain (often back pain) and pathologic fractures, and the destruction also releases calcium into the blood. Purpura (A) is incorrect because bleeding is a late problem from low platelets or abnormal clotting. Frequent infections (B) is incorrect because it occurs as the abnormal plasma cells make non-functional immunoglobulins (M-protein) and normal antibody production falls, but it is not the commonest first presentation. Anaemia (C) is common but it is usually a later finding from marrow crowding and not the classic presenting symptom. Note: multiple myeloma is listed in the unit objectives, but no lecture deck on it was provided, so this explanation is based on standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-supplementary_q10",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-supplementary",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "The feature that distinguishes Hodgkins disease from non-Hodgkins disease is:",
+        "options": {
+          "A": "Reed-Sternberg cells",
+          "B": "Bence Jones proteins",
+          "C": "M-proteins",
+          "D": "Painless lymphadenopathy"
+        },
+        "correctAnswer": "A",
+        "explanation": "Reed-Sternberg cells (A) is correct because Hodgkin's lymphoma is defined histologically by multinucleated giant Reed-Sternberg cells, usually arising from B lymphocytes in the germinal centres of lymph nodes; they are absent in non-Hodgkin's lymphoma, which is a heterogeneous group of T and B cell malignancies. Other differences are that Hodgkin's spreads in a contiguous way through the lymphatics and has a bimodal age distribution (15 to 34 years and over 50), while NHL is more often advanced at presentation, and has a median age at diagnosis of 67. Bence Jones proteins (B) and M-proteins (C) are features of multiple myeloma, not of lymphomas. Painless lymphadenopathy (D) is incorrect because painless node enlargement occurs in both Hodgkin's and non-Hodgkin's lymphoma, so it does not distinguish them.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      }
+    ]
+  }
+]

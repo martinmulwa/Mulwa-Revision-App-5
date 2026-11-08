@@ -1,0 +1,563 @@
+[
+  {
+    "id": "krn-sept2021-block1-git-disorders",
+    "year": "2021",
+    "month": "September",
+    "examType": "Main",
+    "title": "TNH September 2021 Class MSN GIT Disorders Examination",
+    "block": "Block 1",
+    "unit": "GIT Disorders",
+    "totalQuestions": 30,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from TNH September 2021 class MSN GIT Disorders examination paper (sat 19 April 2022, Part One, Q1 to Q30).",
+        "questionCount": 30
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-sept2021-block1-git-disorders_q1",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "Gastric secretions that are chiefly responsible for protection of epithelial cells from enzymes and acid are secreted by following cells:",
+        "options": {
+          "A": "Endocrine",
+          "B": "Chief",
+          "C": "Mucous",
+          "D": "Parietal"
+        },
+        "correctAnswer": "C",
+        "explanation": "Mucous (C) is correct because mucous cells (surface and neck cells) secrete the thick alkaline mucus and bicarbonate layer that coats the stomach lining and protects it from acid and pepsin. Endocrine (A) is incorrect because these cells secrete hormones such as gastrin. Chief (B) is incorrect because they secrete pepsinogen. Parietal (D) is incorrect because they secrete hydrochloric acid and intrinsic factor.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q1"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q2",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "Protease enzymes include:",
+        "options": {
+          "A": "Amylase, chymotrypsin",
+          "B": "Chymotrypsin, trypsin",
+          "C": "Trypsin, lipase",
+          "D": "Lipase, amylase"
+        },
+        "correctAnswer": "B",
+        "explanation": "Chymotrypsin, trypsin (B) is correct because proteases digest protein, and trypsin and chymotrypsin are the pancreatic proteases. Amylase digests starch and lipase digests fat, so options A, C and D are incorrect.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q2"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q3",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Hepatic ducts arise from the fusion of:",
+        "options": {
+          "A": "Bile sinusoids",
+          "B": "Bile canaliculi",
+          "C": "Cystic ducts",
+          "D": "Bile ducts"
+        },
+        "correctAnswer": "D",
+        "explanation": "Bile ducts (D) is correct because the small bile ducts from the liver lobes join to form the right and left hepatic ducts, which fuse to form the common hepatic duct. Bile sinusoids (A) is incorrect because sinusoids carry blood. Bile canaliculi (B) is incorrect because they are the tiny channels between hepatocytes that drain into the bile ductules. Cystic ducts (C) is incorrect because the cystic duct drains the gallbladder and joins the common hepatic duct to form the common bile duct. Note: bile canaliculi are an earlier stage in the biliary tree, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q3"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q4",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Hepatic encephalopathy presents with:",
+        "options": {
+          "A": "Weight loss, generalized edema",
+          "B": "Malaise, spider angiomas",
+          "C": "Stomatitis, esophageal varices",
+          "D": "Hand tremors, confusion"
+        },
+        "correctAnswer": "D",
+        "explanation": "Hand tremors, confusion (D) is correct because the build-up of ammonia and other toxins in the brain causes asterixis (flapping hand tremor), confusion, personality change, drowsiness and eventually coma. The other options are features of chronic liver disease (weight loss, edema, spider angiomas, varices) and do not describe the brain involvement.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q4"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q5",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "The most common site of gall stone formation is:",
+        "options": {
+          "A": "Common bile duct",
+          "B": "Hepatic duct",
+          "C": "Gall bladder",
+          "D": "Cystic duct"
+        },
+        "correctAnswer": "C",
+        "explanation": "Gall bladder (C) is correct because most gallstones form in the gallbladder, where bile is concentrated and stored, and cholesterol or bilirubin can crystallise; stones in the ducts have usually migrated from the gallbladder.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q5"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q6",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Test for malabsorption in gastrointestinal disease include:",
+        "options": {
+          "A": "24-hour pH monitoring, D Xylose test",
+          "B": "Serum lipase levels, Schilling's test",
+          "C": "Hydrogen breath test, quantitative fecal fat determination",
+          "D": "Rapid urease test, serum calcium levels"
+        },
+        "correctAnswer": "C",
+        "explanation": "Hydrogen breath test, quantitative fecal fat determination (C) is correct because both are tests for malabsorption: the breath test detects carbohydrate malabsorption and bacterial overgrowth, and the fecal fat test detects fat malabsorption. Option A is incorrect because 24-hour pH monitoring is for reflux, and option B is incorrect because serum lipase is for pancreatitis (although the Schilling test is a malabsorption test). Option D is incorrect because the rapid urease test is for H. pylori.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q6"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q7",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Therapeutic indications for lower GI endoscopy include:",
+        "options": {
+          "A": "Removal of polyps, colonic decompression",
+          "B": "Dilation of stricture, unexplained abdominal pain",
+          "C": "Constipation, reduction of sigmoid volvulus",
+          "D": "Evaluation of abnormal barium enema, rectal bleeding"
+        },
+        "correctAnswer": "A",
+        "explanation": "Removal of polyps, colonic decompression (A) is correct because both are treatments done through the colonoscope (therapeutic procedures). Option B is incorrect because unexplained abdominal pain is a diagnostic indication. Option C is incorrect because constipation is not an indication (although sigmoid volvulus can be reduced). Option D is incorrect because evaluation of an abnormal barium enema and rectal bleeding are diagnostic indications.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q7"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q8",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "A procedure that decreases transit time from stomach to the duodenum is:",
+        "options": {
+          "A": "Gastrectomy",
+          "B": "Vagotomy",
+          "C": "Pyloroplasty",
+          "D": "Gastrojejunostomy"
+        },
+        "correctAnswer": "C",
+        "explanation": "Pyloroplasty (C) is correct because it widens the pyloric outlet so that the stomach empties faster into the duodenum; it is done together with vagotomy, which slows emptying. Gastrectomy (A) is incorrect because it removes part or all of the stomach. Vagotomy (B) is incorrect because it cuts the vagus nerve to reduce acid and delays gastric emptying. Gastrojejunostomy (D) is incorrect as the best answer because it joins the stomach to the jejunum and bypasses the duodenum. Note: option D also speeds emptying, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q8"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q9",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "In Acute pancreatitis there is:",
+        "options": {
+          "A": "Epigastric pain radiating to the right shoulder",
+          "B": "Severe pain that worsens after meals",
+          "C": "Epigastric tenderness without localized guarding",
+          "D": "Abdominal pain relieved by binge drinking"
+        },
+        "correctAnswer": "B",
+        "explanation": "Severe pain that worsens after meals (B) is correct because eating stimulates the pancreas to release enzymes, which makes the pain of acute pancreatitis worse. Epigastric pain radiating to the right shoulder (A) is incorrect because the pain radiates to the back (and left shoulder), and right shoulder pain suggests gallbladder disease. Epigastric tenderness without localized guarding (C) is incorrect because tenderness with guarding and rigidity may occur. Abdominal pain relieved by binge drinking (D) is incorrect because alcohol is a cause of pancreatitis and does not relieve it.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q9"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q10",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Supportive care in Acute pancreatitis involves:",
+        "options": {
+          "A": "Administration of broad spectrum antibiotics",
+          "B": "Endoscopic retrograde cholangiopancreatography",
+          "C": "Limitation of oral intake",
+          "D": "Early cholecystectomy"
+        },
+        "correctAnswer": "C",
+        "explanation": "Limitation of oral intake (C) is correct because keeping the patient nil by mouth rests the pancreas by stopping enzyme stimulation; supportive care also includes IV fluids, pain relief and nutrition support. Broad spectrum antibiotics (A) is incorrect because they are given only for infection or necrosis. ERCP (B) is incorrect because it is a procedure for gallstone pancreatitis with cholangitis or obstruction. Early cholecystectomy (D) is incorrect because it is surgical treatment of the cause and is not supportive care.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q10"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q11",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Rovsing's sign is described as:",
+        "options": {
+          "A": "Pain on palpating the McBurney's point",
+          "B": "Pain that begins at the epigastrium and is vague to localize",
+          "C": "Pain in right lower quadrant when left lower quadrant is palpated",
+          "D": "Migration of pain from the peri-umbilical area to the right lower quadrant"
+        },
+        "correctAnswer": "C",
+        "explanation": "Pain in right lower quadrant when left lower quadrant is palpated (C) is correct because this is Rovsing's sign, a sign of appendicitis from peritoneal irritation. Pain on palpating McBurney's point (A) is incorrect because it is McBurney's sign. Pain that begins at the epigastrium and is vague (B) and migration of pain from the peri-umbilical area to the right lower quadrant (D) are incorrect because they describe the typical progression of appendicitis pain.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q11"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q12",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "Inability of the liver to metabolize nitrogenous compounds leads to:",
+        "options": {
+          "A": "Melena stools",
+          "B": "Jaundice",
+          "C": "Portal hypertension",
+          "D": "Hepatic encephalopathy"
+        },
+        "correctAnswer": "D",
+        "explanation": "Hepatic encephalopathy (D) is correct because when the liver cannot convert ammonia to urea, ammonia builds up in the blood and affects the brain. Melena (A), jaundice (B) and portal hypertension (C) are incorrect because they result from bleeding, impaired bilirubin handling and raised portal pressure.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q12"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q13",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Grade II hemorrhoids are characterized by:",
+        "options": {
+          "A": "Incarcerated, irreducible prolapse",
+          "B": "Prolapse with spontaneous reduction",
+          "C": "Prolapse with manual reduction",
+          "D": "Bleeding without prolapse"
+        },
+        "correctAnswer": "B",
+        "explanation": "Prolapse with spontaneous reduction (B) is correct because second degree hemorrhoids prolapse on straining and return by themselves. Incarcerated, irreducible prolapse (A) is incorrect because it is fourth degree. Prolapse with manual reduction (C) is incorrect because it is third degree. Bleeding without prolapse (D) is incorrect because it is first degree.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q13"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q14",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "Injection of an irritating substance into the submucosa layer of the rectum in management of hemorrhoids is:",
+        "options": {
+          "A": "Infra-red coagulation",
+          "B": "Scintigraphy",
+          "C": "Sclerotherapy",
+          "D": "Photo coagulation"
+        },
+        "correctAnswer": "C",
+        "explanation": "Sclerotherapy (C) is correct because a sclerosing agent (such as phenol in oil) is injected into the submucosa, which causes fibrosis and shrinks the hemorrhoid. Infra-red coagulation (A) and photo coagulation (D) are incorrect because they use heat or light to coagulate the tissue. Scintigraphy (B) is incorrect because it is an imaging test.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q14"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q15",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "In Achalasia management, prevention of acetylcholine release is achieved by:",
+        "options": {
+          "A": "Pneumatic dilation",
+          "B": "Administration of Nifedipine",
+          "C": "Esophagomyotomy",
+          "D": "Administration of Botulinum toxin"
+        },
+        "correctAnswer": "D",
+        "explanation": "Administration of Botulinum toxin (D) is correct because botulinum toxin blocks the release of acetylcholine from nerve endings, which relaxes the lower esophageal sphincter. Pneumatic dilation (A) and esophagomyotomy (C) are incorrect because they stretch or cut the sphincter muscle. Nifedipine (B) is incorrect because it is a calcium channel blocker that relaxes smooth muscle.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q15"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q16",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Regarding Paraesophageal hernia:",
+        "options": {
+          "A": "Patient presents with reflux esophagitis",
+          "B": "There is a sense of fullness after a small meal",
+          "C": "Upper stomach is displaced upward and slide into the esophagus",
+          "D": "Accounts for more than 90 percent of the hiatal hernias"
+        },
+        "correctAnswer": "B",
+        "explanation": "There is a sense of fullness after a small meal (B) is correct because the herniated part of the stomach beside the esophagus is compressed, so the patient feels full quickly. Patient presents with reflux esophagitis (A) and upper stomach is displaced upward and slides into the esophagus (C) are incorrect because they describe a sliding hernia. Accounts for more than 90 percent of the hiatal hernias (D) is incorrect because the sliding type makes up about 90%, and paraesophageal hernias are about 5 to 10%.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q16"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q17",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "Cancer of the esophagus is common in the:",
+        "options": {
+          "A": "Laryngeal portion",
+          "B": "Cervical portion",
+          "C": "Abdominal portion",
+          "D": "Thoracic portion"
+        },
+        "correctAnswer": "D",
+        "explanation": "Thoracic portion (D) is correct because most esophageal cancers (especially squamous cell carcinoma) occur in the middle and lower thoracic esophagus. Laryngeal (A) and cervical (B) portions are incorrect because tumours there are uncommon. Abdominal portion (C) is incorrect because it is short, although adenocarcinoma occurs at the lower end. Note: adenocarcinoma of the lower esophagus is rising, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q17"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q18",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "Regarding type A Chronic gastritis:",
+        "options": {
+          "A": "There is loss of parietal cells",
+          "B": "It is common with increased age",
+          "C": "Causes include H.pylori infection",
+          "D": "Pepsin secretion is increased"
+        },
+        "correctAnswer": "A",
+        "explanation": "There is loss of parietal cells (A) is correct because type A (autoimmune) gastritis is caused by antibodies against parietal cells, which are destroyed in the fundus, so acid and intrinsic factor are lost and pernicious anemia develops. It is common with increased age (B) and causes include H.pylori infection (C) are incorrect because they describe type B. Pepsin secretion is increased (D) is incorrect because pepsin secretion falls.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q18"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q19",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "A surgical procedure done to decrease transit time to the duodenum in Peptic ulcer disease management is:",
+        "options": {
+          "A": "Pyloroplasty",
+          "B": "Gastrojejunostomy",
+          "C": "Vagotomy",
+          "D": "Gastroduodenostomy"
+        },
+        "correctAnswer": "A",
+        "explanation": "Pyloroplasty (A) is correct because it enlarges the pyloric opening so that the stomach empties quickly into the duodenum, and it is done with vagotomy. Gastrojejunostomy (B) is incorrect as the best answer because it bypasses the duodenum. Vagotomy (C) is incorrect because it reduces acid secretion and slows emptying. Gastroduodenostomy (D) is incorrect because it joins the stomach to the duodenum after resection (Billroth I). Note: this repeats the idea of Q8, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q19"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q20",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "Botulism food poisoning:",
+        "options": {
+          "A": "Occurs in acidic foods like pineapples",
+          "B": "Occurs in aerobic environment stored food",
+          "C": "Commonly presents with photophobia",
+          "D": "Is due to Staphylococcus aureus toxins"
+        },
+        "correctAnswer": "C",
+        "explanation": "Commonly presents with photophobia (C) is correct from the options because botulinum toxin affects the cranial nerves first and causes visual disturbances (blurred vision, diplopia, dilated pupils and photophobia), followed by dysphagia and descending flaccid paralysis. Occurs in acidic foods like pineapples (A) is incorrect because Clostridium botulinum grows in low-acid foods. Occurs in aerobic environment stored food (B) is incorrect because it grows in anaerobic conditions (canned and bottled food). Is due to Staphylococcus aureus toxins (D) is incorrect because botulism is caused by the toxin of Clostridium botulinum. Note: diplopia is the more classic visual sign, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q20"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q21",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 21,
+        "questionType": "mcq",
+        "text": "In the pathophysiology of Diverticula disease:",
+        "options": {
+          "A": "Herniation occurs only in the mucosal layer",
+          "B": "Increased intraluminal pressure leads to herniation",
+          "C": "Increased muscle strength in the colon wall leads to herniation",
+          "D": "Bowel contents rarely accumulate in the diverticulum"
+        },
+        "correctAnswer": "B",
+        "explanation": "Increased intraluminal pressure leads to herniation (B) is correct because a low-fibre diet causes small hard stool and straining, so the pressure in the colon rises and pushes the mucosa and submucosa through weak points in the muscle wall. Herniation occurs only in the mucosal layer (A) is incorrect because the submucosa also herniates. Increased muscle strength (C) is incorrect because the wall is weak. Bowel contents rarely accumulate (D) is incorrect because stool and bacteria are trapped, which leads to diverticulitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q21"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q22",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 22,
+        "questionType": "mcq",
+        "text": "Recommended diet in Cholecystitis includes:",
+        "options": {
+          "A": "4-6 small meals of low-carbohydrate foods daily",
+          "B": "High-fat, high-carbohydrate meals",
+          "C": "Low-fat, high-carbohydrate meals",
+          "D": "High-fat, low protein meals"
+        },
+        "correctAnswer": "C",
+        "explanation": "Low-fat, high-carbohydrate meals (C) is correct because fat stimulates the gallbladder to contract and causes pain, so the diet is low in fat, with carbohydrate as the main energy source. High-fat options (B and D) are incorrect because they trigger attacks. Option A is incorrect because it restricts carbohydrate and does not mention fat restriction.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q22"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q23",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 23,
+        "questionType": "mcq",
+        "text": "A characteristic 'string sign' appearance on an x-ray film of the terminal ileum is suggestive of:",
+        "options": {
+          "A": "Ulcerative colitis",
+          "B": "Acute appendicitis",
+          "C": "Crohn's disease",
+          "D": "Diverticulitis"
+        },
+        "correctAnswer": "C",
+        "explanation": "Crohn's disease (C) is correct because the string sign is a thin line of barium through a severely narrowed segment of the terminal ileum, caused by inflammation and fibrosis. The other conditions are incorrect because ulcerative colitis affects the colon and gives a lead-pipe appearance, and appendicitis and diverticulitis do not cause this finding.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q23"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q24",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 24,
+        "questionType": "mcq",
+        "text": "Early signs suggestive of Cancer of the stomach include:",
+        "options": {
+          "A": "Positive occult blood in stool, vomiting",
+          "B": "Anorexia, early satiety",
+          "C": "Cachexia, presence of abdominal mass",
+          "D": "Pain after meals, weight loss"
+        },
+        "correctAnswer": "B",
+        "explanation": "Anorexia, early satiety (B) is correct because the early signs are vague, with loss of appetite, a feeling of fullness after a small amount of food and indigestion. Cachexia, presence of abdominal mass (C) and weight loss (D) are incorrect because they are late signs. Positive occult blood in stool, vomiting (A) is incorrect because they occur with ulceration or obstruction as the tumour advances.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q24"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q25",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 25,
+        "questionType": "mcq",
+        "text": "Priority care for a patient with Ulcerative colitis includes:",
+        "options": {
+          "A": "Administration of corticosteroids",
+          "B": "Administration of immune modulators",
+          "C": "Management of dehydration",
+          "D": "Diet low in proteins and carbohydrates"
+        },
+        "correctAnswer": "C",
+        "explanation": "Management of dehydration (C) is correct because severe bloody diarrhoea causes fluid and electrolyte loss, which is life-threatening, so replacing fluids is the priority. Corticosteroids (A) and immune modulators (B) are incorrect because they treat the inflammation and are not the first priority. Diet low in proteins and carbohydrates (D) is incorrect because the patient needs a high-protein, high-calorie diet.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q25"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q26",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 26,
+        "questionType": "mcq",
+        "text": "Inflammatory bowel syndrome is characterized by imbalance of:",
+        "options": {
+          "A": "Serotonin",
+          "B": "Somatostatin",
+          "C": "Acetylcholine",
+          "D": "Dopamine"
+        },
+        "correctAnswer": "A",
+        "explanation": "Serotonin (A) is correct because serotonin regulates gut motility, secretion and pain sensation, and its imbalance is linked to irritable bowel syndrome. Somatostatin (B), acetylcholine (C) and dopamine (D) are incorrect because they are not the main transmitters implicated. Note: the paper says inflammatory bowel syndrome, but irritable bowel syndrome is evidently meant, since serotonin imbalance is characteristic of IBS.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q26"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q27",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 27,
+        "questionType": "mcq",
+        "text": "The following features are common in Duodenal ulcers:",
+        "options": {
+          "A": "Weight gain, pain relief after food ingestion",
+          "B": "Vomiting, progressive weight loss",
+          "C": "Hemorrhage, hypersecretion of gastric acid",
+          "D": "Hyposecretion of gastric acid, pain after food ingestion"
+        },
+        "correctAnswer": "A",
+        "explanation": "Weight gain, pain relief after food ingestion (A) is correct because in duodenal ulcers food neutralises the acid and relieves the pain, so the patient eats more and may gain weight. Vomiting, progressive weight loss (B) and hyposecretion with pain after food (D) are incorrect because they suggest gastric ulcer. Hemorrhage, hypersecretion of gastric acid (C) is incorrect as the best answer because hypersecretion is common but hemorrhage is a complication. Note: option C is also plausible, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q27"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q28",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 28,
+        "questionType": "mcq",
+        "text": "A health message for a patient with dumping syndrome post gastrectomy include:",
+        "options": {
+          "A": "Take a lot of water with meals",
+          "B": "Eat three large meals in a day",
+          "C": "Avoid roughage rich foods in the diet",
+          "D": "Limit carbohydrate in the diet"
+        },
+        "correctAnswer": "D",
+        "explanation": "Limit carbohydrate in the diet (D) is correct because concentrated sugars draw fluid into the bowel and cause the rapid emptying symptoms, so the diet is low in simple carbohydrates and high in protein and fat. Take a lot of water with meals (A) is incorrect because fluids are taken between meals and not with them. Eat three large meals (B) is incorrect because six small meals are advised. Avoid roughage rich foods (C) is incorrect because roughage is not the trigger.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q28"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q29",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 29,
+        "questionType": "mcq",
+        "text": "Regarding acute calculous Cholecystitis:",
+        "options": {
+          "A": "Jaundice is present in majority of the patients",
+          "B": "Ultrasound is the definitive diagnostic test",
+          "C": "Patients complain of colicky pain",
+          "D": "There is decreased white blood cell count"
+        },
+        "correctAnswer": "B",
+        "explanation": "Ultrasound is the definitive diagnostic test (B) is correct because ultrasound shows stones, wall thickening and fluid and is the main test to diagnose it. Jaundice is present in majority of the patients (A) is incorrect because jaundice occurs in a minority, when stones block the bile duct. Patients complain of colicky pain (C) is incorrect as the best answer because the pain of acute cholecystitis is steady and severe, although biliary colic precedes it. There is decreased white blood cell count (D) is incorrect because it is raised. Note: option C is also plausible, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q29"
+      },
+      {
+        "id": "krn-sept2021-block1-git-disorders_q30",
+        "paperId": "krn-sept2021-block1-git-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 30,
+        "questionType": "mcq",
+        "text": "'Whipple procedure' involves surgical removal of the:",
+        "options": {
+          "A": "Body of the pancreas, duodenum and hepatic duct",
+          "B": "Bile duct, jejunum and tail of the pancreas",
+          "C": "Gall bladder, duodenum and head of the pancreas",
+          "D": "Ileum, common bile duct and body of the pancreas"
+        },
+        "correctAnswer": "C",
+        "explanation": "Gall bladder, duodenum and head of the pancreas (C) is correct because the Whipple procedure (pancreaticoduodenectomy) removes the head of the pancreas, the duodenum, the gallbladder and the distal bile duct (and often part of the stomach), and the remaining organs are reconnected. The other options are incorrect because they name the wrong parts of the pancreas and gut.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part One, Q30"
+      }
+    ]
+  }
+]

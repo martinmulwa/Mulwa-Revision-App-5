@@ -1,0 +1,384 @@
+[
+  {
+    "id": "hca-feb2026-college-final-exam-set3",
+    "year": "2026",
+    "month": "August",
+    "examType": "College Final Exam",
+    "title": "February 2026 Class College Final Exam (Part 3)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q48 to Q67. Q1 to Q7 are not included because page 2 of the paper was not available.",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q1",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "A grieving relative says, \"This cannot be happening. The doctors must be wrong.\" This is most consistent with:",
+        "options": {
+          "A": "Acceptance",
+          "B": "Denial",
+          "C": "Depression",
+          "D": "Bargaining"
+        },
+        "correctAnswer": "B",
+        "explanation": "Denial (B) is correct because in Kübler-Ross's stages of grief, denial is a defence in which the person refuses to accept the reality of the loss (\"this cannot be happening\"). Acceptance (A) is coming to terms with the loss, depression (C) is sadness and withdrawal, and bargaining (D) is trying to make deals (\"if only\").",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q48"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q2",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "A dying terminally ill patient develops noisy respiratory secretions. The HCA should:",
+        "options": {
+          "A": "Become anxious and tell the family the patient is suffering",
+          "B": "Report to the nurse and provide appropriate comfort measures",
+          "C": "Suction the patient to remove the secretions",
+          "D": "Perform cardiopulmonary resuscitation to the patient immediately"
+        },
+        "correctAnswer": "B",
+        "explanation": "Report to the nurse and provide appropriate comfort measures (B) is correct because noisy breathing (the death rattle) is common near the end of life, is usually more distressing for the family than for the patient, and is managed by the nurse with positioning (side-lying), mouth care and prescribed drugs, and by explaining to the family. Showing anxiety (A) alarms the family, suctioning (C) is usually not helpful and is outside the HCA's role, and CPR (D) is not appropriate in a dying patient unless it is ordered.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q49"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q3",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "When communicating with a person who has a hearing impairment, the HCA should:",
+        "options": {
+          "A": "Shout directly into their ear",
+          "B": "Face the person and speak clearly",
+          "C": "Minimize speaking to the patient",
+          "D": "Speak on a low tone"
+        },
+        "correctAnswer": "B",
+        "explanation": "Face the person and speak clearly (B) is correct because facing the person lets them see your lips and facial expressions and speaking clearly at a normal pace with good lighting helps them understand. Shouting (A) distorts the sound and is disrespectful, reducing communication (C) isolates the patient, and a low tone (D) is harder to hear, since many hearing-impaired people lose high pitches first, but low, slow, clear speech is better than high pitch.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q50"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q4",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "A patient with cerebral palsy requires assistance with bathing. The patient can wash their face and upper body independently. The HCA should:",
+        "options": {
+          "A": "Complete the entire bath without involving the patient",
+          "B": "Encourage the patient to perform the tasks they can safely manage",
+          "C": "Encourage the patient to perform the entire bath",
+          "D": "Ask a relative to help in performing the bed bath"
+        },
+        "correctAnswer": "B",
+        "explanation": "Encourage the patient to perform the tasks they can safely manage (B) is correct because care should promote independence, dignity and self-esteem, so the patient washes the face and upper body while the HCA helps with the parts they cannot reach. Doing everything for the patient (A) takes away independence. Expecting the entire bath (C) is unsafe, and asking a relative to help (D) is unnecessary.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q51"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q5",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "A 10 year old patient with Down syndrome is being assisted with personal care. The HCA should:",
+        "options": {
+          "A": "Speak to the patient's guardian instead of the patient",
+          "B": "Adapt communication to their level of understanding",
+          "C": "Make all choices for the patient",
+          "D": "Disregard their preferences"
+        },
+        "correctAnswer": "B",
+        "explanation": "Adapt communication to their level of understanding (B) is correct because the child is spoken to directly, using simple words, short sentences, demonstration and time to respond, which respects the child's dignity and encourages cooperation. The guardian is involved but should not replace the child (A). Making all choices (C) and ignoring preferences (D) take away the child's rights.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q52"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q6",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Older adults are at increased risk of pressure injuries because of:",
+        "options": {
+          "A": "Increased skin thickness",
+          "B": "Reduced mobility",
+          "C": "Increased blood circulation",
+          "D": "Increased muscle mass"
+        },
+        "correctAnswer": "B",
+        "explanation": "Reduced mobility (B) is correct because when older adults move less, pressure stays on bony areas for long and blocks blood supply to the skin, causing pressure injuries. With ageing the skin becomes thinner (not thicker, so A is wrong), circulation decreases (not increases, so C is wrong), and muscle mass is lost (not gained, so D is wrong).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q53"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q7",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "The most important principle when providing care to an elderly person is to:",
+        "options": {
+          "A": "Promote dependence",
+          "B": "Provide person-centred care",
+          "C": "Make all decisions for the patient",
+          "D": "Focus only on physical illness"
+        },
+        "correctAnswer": "B",
+        "explanation": "Provide person-centred care (B) is correct because care is built around the person's needs, preferences, values and dignity, and involves them in decisions. Promoting dependence (A) and making all decisions for the patient (C) remove independence, and focusing only on physical illness (D) ignores emotional, social and spiritual needs.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q54"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q8",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "An 82-year-old patient with dementia repeatedly tries to get out of bed at night. The most appropriate action is to:",
+        "options": {
+          "A": "Restrain the patient immediately in the bed and warn them not to come out",
+          "B": "Assess the reason for the behaviour and implement appropriate safety measures",
+          "C": "Delegate to the relative to restrain the patient at the bed at night",
+          "D": "Allow the patient to have their wish"
+        },
+        "correctAnswer": "B",
+        "explanation": "Assess the reason for the behaviour and implement appropriate safety measures (B) is correct because wandering and restlessness often have a cause such as pain, hunger, a need to use the toilet, fear or an unfamiliar place, and measures such as a low bed, bed alarm, night light, toileting and calm reassurance are used. Restraint (A, C) is a last resort, can harm the patient and violates their rights. Simply allowing the patient to do as they wish (D) risks falls.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q55"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q9",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "The scope of the HCA's practice includes:",
+        "options": {
+          "A": "Administration of intravenous analgesics",
+          "B": "Taking and documenting vital signs",
+          "C": "Counselling patients with depression",
+          "D": "Assisting surgeons during surgeries"
+        },
+        "correctAnswer": "B",
+        "explanation": "Taking and documenting vital signs (B) is correct because measuring and recording temperature, pulse, respiration and blood pressure, and reporting abnormal results to the nurse, is within the HCA's scope. Giving intravenous drugs (A), counselling depressed patients (C) and assisting surgeons in theatre (D) require specialised training and professional registration.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q56"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q10",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Unwritten rules, behaviors and expectations in a group or society are:",
+        "options": {
+          "A": "Principles",
+          "B": "Norms",
+          "C": "Morals",
+          "D": "Values"
+        },
+        "correctAnswer": "B",
+        "explanation": "Norms (B) is correct because norms are the unwritten rules and expected behaviours that guide how members of a group or society act. Principles (A) are fundamental guiding rules or truths, morals (C) are beliefs about right and wrong, and values (D) are the beliefs and ideals considered important.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q57"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q11",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "The ethical principle that requires the HCA to keep promises made to the patient is:",
+        "options": {
+          "A": "Fidelity",
+          "B": "Veracity",
+          "C": "Confidentiality",
+          "D": "Non maleficence"
+        },
+        "correctAnswer": "A",
+        "explanation": "Fidelity (A) is correct because fidelity means being faithful and keeping promises and commitments to patients. Veracity (B) is telling the truth, confidentiality (C) is protecting private information, and non-maleficence (D) is avoiding harm.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q58"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q12",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "A HCA administers a subcutaneous injection of insulin to a patient who had declined the injection. The HCA is liable for:",
+        "options": {
+          "A": "Libel",
+          "B": "Assault",
+          "C": "Battery",
+          "D": "Invasion of privacy"
+        },
+        "correctAnswer": "C",
+        "explanation": "Battery (C) is correct because battery is unlawful physical contact with a person without their consent; giving an injection to a patient who refused it is battery. Assault (B) is a threat or attempt to touch without consent, without the contact itself. Libel (A) is a written false statement that harms reputation, and invasion of privacy (D) is a breach of confidentiality or personal space.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q59"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q13",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Which of the following is classified as a 'High-Alert' medication?",
+        "options": {
+          "A": "Antacids",
+          "B": "Saline nasal spray",
+          "C": "Multivitamins",
+          "D": "Insulin"
+        },
+        "correctAnswer": "D",
+        "explanation": "Insulin (D) is correct because high-alert medications carry a higher risk of serious harm if used wrongly, and insulin can cause severe low blood sugar if the dose is wrong, so it needs double checking. Other examples are anticoagulants (heparin, Clexane), opioids and concentrated potassium. Antacids (A), saline nasal spray (B) and multivitamins (C) are low-risk.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q60"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q14",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "The principle of drug administration being exercised when a HCA checks the patient's wristband before giving a drug is:",
+        "options": {
+          "A": "Right patient",
+          "B": "Right drug",
+          "C": "Right time",
+          "D": "Right dose"
+        },
+        "correctAnswer": "A",
+        "explanation": "Right patient (A) is correct because checking the wristband (and asking the patient to state their name) confirms identity so that the drug is given to the correct person. Right drug (B) is checked against the prescription and label, right time (C) against the schedule, and right dose (D) against the prescription.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q61"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q15",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "A drug preparation for administration through the rectum is:",
+        "options": {
+          "A": "Suppository",
+          "B": "Pessary",
+          "C": "Capsule",
+          "D": "Pills"
+        },
+        "correctAnswer": "A",
+        "explanation": "Suppository (A) is correct because a suppository is a solid cone-shaped drug inserted into the rectum, where it melts and is absorbed. A pessary (B) is inserted into the vagina, and capsules and pills (C, D) are taken by mouth.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q62"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q16",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Side effects of steroids include:",
+        "options": {
+          "A": "Low blood pressure",
+          "B": "Low blood sugar",
+          "C": "Reduced immunity",
+          "D": "Loss of hair"
+        },
+        "correctAnswer": "C",
+        "explanation": "Reduced immunity (C) is correct because steroids suppress the immune system and inflammation, so patients are more prone to infection. Other effects include high blood sugar, high blood pressure, fluid retention, weight gain, moon face, thinning of bones and stomach irritation. Steroids cause raised blood pressure (not low, so A is wrong) and raised blood sugar (not low, so B is wrong), and hair loss (D) is not a typical effect.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q63"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q17",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "Drugs used in management of a patient with fluid retention include:",
+        "options": {
+          "A": "Piriton",
+          "B": "Lasix",
+          "C": "Paracetamol",
+          "D": "Lorsatan"
+        },
+        "correctAnswer": "B",
+        "explanation": "Lasix (B) is correct because Lasix (furosemide) is a loop diuretic that removes excess fluid through the kidneys, used for oedema from heart failure, kidney or liver disease. Piriton (A) is an antihistamine, paracetamol (C) is a painkiller and fever reducer, and losartan (D) is a blood pressure drug (not a diuretic, though it may reduce fluid indirectly).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q64"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q18",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "HCA KK is making a phone call. This level of communication is:",
+        "options": {
+          "A": "Transpersonal",
+          "B": "Intrapersonal",
+          "C": "Interpersonal",
+          "D": "Impersonal"
+        },
+        "correctAnswer": "C",
+        "explanation": "Interpersonal (C) is correct because a phone call is communication between two people. Intrapersonal (B) is communication within yourself (self-talk), transpersonal (A) is communication involving a spiritual or higher power, and impersonal (D) is not a level of communication in this classification.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q65"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q19",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "The stage of group development where members assign meaning to what they have done is:",
+        "options": {
+          "A": "Storming",
+          "B": "Norming",
+          "C": "Performing",
+          "D": "Adjourning"
+        },
+        "correctAnswer": "D",
+        "explanation": "Adjourning (D) is correct because in the final stage the group completes its task and members reflect on what they have achieved and what it meant, before the group disbands. Storming (A) is conflict, norming (B) is developing rules and cooperation, and performing (C) is working effectively to reach the goal.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q66"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set3_q20",
+        "paperId": "hca-feb2026-college-final-exam-set3",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "The stage of therapeutic relationship where HCA and the client focus on solving problems and accomplishing goals is:",
+        "options": {
+          "A": "Preorientation",
+          "B": "Orientation",
+          "C": "Working",
+          "D": "Termination"
+        },
+        "correctAnswer": "C",
+        "explanation": "Working (C) is correct because in the working stage the HCA and client carry out the plan, solve problems and achieve goals. Preorientation (A) is the preparation before meeting the client, orientation (B) is meeting, building trust and setting goals, and termination (D) is ending the relationship.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q67"
+      }
+    ]
+  }
+]

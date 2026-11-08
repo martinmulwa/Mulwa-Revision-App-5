@@ -1,0 +1,293 @@
+[
+  {
+    "id": "krn-block1-september2022-blood-and-lymphatic-disorders",
+    "year": "2022",
+    "month": "September",
+    "examType": "Main",
+    "title": "September 2022 Class Block 1 Exam",
+    "block": "Block 1",
+    "unit": "Blood and Lymphatic Disorders",
+    "totalQuestions": 15,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2022 class Block 1 Exam paper (MHN 201: Blood and Lymphatic Disorders, sat 17 March 2023, Part A, Q1 to Q15).",
+        "questionCount": 15
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q1",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The first phase of hemostasis is:",
+        "options": {
+          "A": "Platelet phase",
+          "B": "Vascular phase",
+          "C": "Fibrinolytic phase",
+          "D": "Coagulation phase"
+        },
+        "correctAnswer": "B",
+        "explanation": "Vascular phase (B) is correct because the first response to an injured vessel is vasoconstriction, which reduces blood flow to the site and limits blood loss. The phases of hemostasis follow in this order: vascular (vasoconstriction), platelet (platelets adhere to the damaged vessel with the help of von Willebrand factor and aggregate to form an unstable plug), coagulation (the cascade ends in fibrin that reinforces the plug), and fibrinolytic (the clot is dissolved once repair begins). Platelet phase (A) is the second phase. Coagulation phase (D) is the third phase. Fibrinolytic phase (C) is the last phase, in which the clot is broken down because it is a rough surface.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q2",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "A coagulation study that measures the effectiveness of the intrinsic pathway is:",
+        "options": {
+          "A": "INR",
+          "B": "Bleeding time",
+          "C": "Prothrombin time",
+          "D": "Partial thromboplastin time"
+        },
+        "correctAnswer": "D",
+        "explanation": "Partial thromboplastin time (D) is correct because the PTT (also called aPTT, normal 25 to 40 seconds) measures how well the intrinsic pathway works, and it is also used to monitor heparin therapy. INR (A) is incorrect because it is a standardised form of the prothrombin time, used mainly to monitor warfarin (therapeutic range 2 to 3). Bleeding time (B) is incorrect because it measures platelet count and function (normal 2 to 8 minutes). Prothrombin time (C) is incorrect because it measures the extrinsic pathway (normal 10 to 15 seconds).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q3",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "The diagnostic test for Spherocytosis is:",
+        "options": {
+          "A": "Osmotic fragility test",
+          "B": "Peripheral blood film",
+          "C": "Erythrocyte sedimentation rate",
+          "D": "Hemoglobin electrophoresis test"
+        },
+        "correctAnswer": "A",
+        "explanation": "Osmotic fragility test (A) is correct because in hereditary spherocytosis the red cell membrane is defective, so the cells are round (spherical) and burst easily when placed in solutions of falling salt concentration; the increased osmotic fragility is the characteristic diagnostic finding, together with shortened red cell survival, a raised reticulocyte count and raised indirect bilirubin. Splenectomy is the treatment of choice (avoided in childhood). Peripheral blood film (B) can show spherocytes, but it is a follow-up test that shows cell shape and does not confirm the membrane defect. Erythrocyte sedimentation rate (C) is a non-specific test of infection or inflammation and is not diagnostic of any specific disease. Hemoglobin electrophoresis (D) identifies abnormal hemoglobin types such as HbS in sickle cell disease and is not used for spherocytosis, which is a membrane disorder and not a hemoglobinopathy.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q4",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "A type of anemia that is classified as hypoproliferative and microcytic is:",
+        "options": {
+          "A": "Sickle cell anemia",
+          "B": "Pernicious anemia",
+          "C": "Iron deficiency anemia",
+          "D": "Anemia due to kidney dysfunction"
+        },
+        "correctAnswer": "C",
+        "explanation": "Iron deficiency anemia (C) is correct because it is hypoproliferative (the marrow lacks iron, a factor needed to make hemoglobin, so it cannot produce adequate red cells and the reticulocyte count is inappropriately normal or low) and microcytic (the red cells are pale and small). Sickle cell anemia (A) is a hemolytic anemia, with premature destruction of red cells and a raised reticulocyte count. Pernicious anemia (B) is hypoproliferative but macrocytic, because of vitamin B12 deficiency. Anemia due to kidney dysfunction (D) is hypoproliferative (erythropoietin deficiency) but normocytic, with cells of normal size but low in number.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q5",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Patient K, 28 years old has a Hemoglobin concentration of 6g/dL. He complains of numbness and tingling in the feet. The nurse suspects:",
+        "options": {
+          "A": "Aplastic anemia",
+          "B": "Pernicious anemia",
+          "C": "Iron deficiency anemia",
+          "D": "Glucose - 6 - PD deficiency anemia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Pernicious anemia (B) is correct because a hemoglobin of 6 g/dL is severe anemia (below 8 g/dL), and the numbness and tingling (paresthesia) in the soles of the feet are the early neurological sign of vitamin B12 deficiency (megaloblastic anemia). If untreated, this progresses to reduced position and vibration sense, difficulty with balance and gait, and severe confusion or delirium, so the nurse performs a neurologic assessment. The Schilling test and serum B12 level help to confirm it. Aplastic anemia (A) presents with weakness, infection and bleeding from low counts in all cell lines, not with neuropathy. Iron deficiency anemia (C) causes pallor, fatigue, pica, glossitis and koilonychia, but not nerve damage. G6PD deficiency anemia (D) is an episodic hemolytic anemia triggered by drugs or infection, with jaundice and dark urine, and not tingling of the feet.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q6",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Juvenile leg ulceration as a complication of Thalassemia is caused by:",
+        "options": {
+          "A": "Autosplenectomy",
+          "B": "Recurrent bruising",
+          "C": "Decreased peripheral circulation",
+          "D": "Unstable formation of the fibrin clot"
+        },
+        "correctAnswer": "C",
+        "explanation": "Decreased peripheral circulation (C) is the best answer because in thalassemia major the chronic severe anemia and hypoxia, with rigid, fragile red cells, impair the blood supply to the skin of the lower legs, so the tissue breaks down easily and heals slowly (juvenile ulceration: slow to heal, tends to recur and may need multiple skin grafts). Autosplenectomy (A) is incorrect because it is a feature of sickle cell disease, where the spleen shrinks after repeated infarction; in thalassemia the spleen enlarges (splenomegaly). Recurrent bruising (B) is not the cause of ulcers. Unstable formation of the fibrin clot (D) describes hemophilia, which is a clotting factor deficiency and not a thalassemia mechanism. Note: the lecture notes list leg ulcers as a complication of thalassemia without stating the cause, and attribute chronic leg ulcers in sickle cell disease to reduced peripheral circulation, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q7",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Platelets in Idiopathic Thrombocytopenic Purpura:",
+        "options": {
+          "A": "Are deformed, are fragile",
+          "B": "Lack clotting factors, are unstable",
+          "C": "Agglutinate easily, are inadequate",
+          "D": "Are vulnerable to destruction, have short life span"
+        },
+        "correctAnswer": "D",
+        "explanation": "Are vulnerable to destruction, have short life span (D) is correct because in idiopathic (immune) thrombocytopenic purpura the body makes antibodies against its own platelets, so the platelets are destroyed after they have been produced (mainly in the spleen) and survive for a much shorter time than the normal 10 days, which reduces the platelet count. The acute form is mainly in children, often 1 to 6 weeks after a viral illness, and is self-limiting within 2 to 6 months, while the chronic form is mainly in adults and lasts more than 6 months. Are deformed, are fragile (A) is incorrect because the problem is immune destruction, not an abnormal shape. Lack clotting factors, are unstable (B) is incorrect because platelets do not carry the clotting factor deficiency (that describes hemophilia). Agglutinate easily, are inadequate (C) is incorrect because the platelets are not clumping, they are being destroyed.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q8",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "In Disseminated Intravascular Coagulation (DIC), increased fibrinolysis is indicated by:",
+        "options": {
+          "A": "High D dimers",
+          "B": "Reduced platelets",
+          "C": "High Fibrinogen levels",
+          "D": "Increased clotting time"
+        },
+        "correctAnswer": "A",
+        "explanation": "High D dimers (A) is correct because in DIC the excessive clotting triggers the fibrinolytic system, which breaks down the fibrin clots and releases fibrin degradation products (FDPs, including D-dimers) into the blood, so raised D-dimers and FDPs are the direct marker of increased fibrinolysis; the degraded fibrin also acts as a potent anticoagulant and worsens the bleeding. Reduced platelets (B) is incorrect because the platelets fall from consumption in forming micro-clots, which shows increased clotting activity, not fibrinolysis. High fibrinogen levels (C) is incorrect because fibrinogen is low in DIC, as it is used up in clot formation. Increased clotting time (D) is incorrect because prolonged PT, PTT and thrombin time result from consumption of clotting factors and not directly from fibrinolysis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q9",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "Vitamin K deficiency may occur in liver disease because:",
+        "options": {
+          "A": "Vitamin K is synthesized in the liver",
+          "B": "The liver converts Vitamin K to its active form",
+          "C": "Bile salts are needed for Vitamin K absorption",
+          "D": "Of reduced dietary intake in patients with liver disease"
+        },
+        "correctAnswer": "C",
+        "explanation": "Bile salts are needed for Vitamin K absorption (C) is correct because vitamin K is fat-soluble and is absorbed through the intestinal lining only if lipid absorption is normal, which depends on bile. In liver disease and biliary obstruction, bile production or flow is reduced, so fat and vitamin K are malabsorbed, and the liver cannot make prothrombin and factors VII, IX and X, which leads to bleeding and a prolonged PT. Vitamin K is synthesized in the liver (A) is incorrect because most vitamin K is made by bacteria in the colon; the liver only uses it to make clotting factors. The liver converts vitamin K to its active form (B) is not the reason given in the lecture content, and the deficiency here is one of absorption. Reduced dietary intake (D) is not the main mechanism, as the body gets most of its vitamin K from colonic bacteria.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q10",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Granulocyte colony stimulating factors are used to manage:",
+        "options": {
+          "A": "Anemia due to kidney disease",
+          "B": "Neutropenia secondary to chemotherapy",
+          "C": "Pancytopenia secondary to aplastic anemia",
+          "D": "Thrombocytopenia secondary to autoimmune reactions"
+        },
+        "correctAnswer": "B",
+        "explanation": "Neutropenia secondary to chemotherapy (B) is correct because G-CSF (for example filgrastim, Neupogen, given subcutaneously for about 3 to 5 days depending on severity) stimulates the bone marrow to produce neutrophils, and so it is used when neutropenia is due to decreased production, such as after chemotherapy or radiation. Anemia due to kidney disease (A) is managed with erythropoietin, which stimulates red cell production. Pancytopenia secondary to aplastic anemia (C) involves all three cell lines and is managed by removing the cause (drugs, toxins), transfusions, immunosuppression or marrow transplant, not by G-CSF alone. Thrombocytopenia secondary to autoimmune reactions (D) is managed with corticosteroids and immunosuppression, because the platelets are being destroyed by antibodies.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q11",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Bence Jones proteins are a diagnostic indicator for:",
+        "options": {
+          "A": "Multiple myeloma",
+          "B": "Hodgkin's lymphoma",
+          "C": "Non - Hodgkin's lymphoma",
+          "D": "Acute lymphocytic leukemia"
+        },
+        "correctAnswer": "A",
+        "explanation": "Multiple myeloma (A) is correct because in this malignancy of plasma cells the abnormal clone makes excess monoclonal immunoglobulin (M-protein) and free light chains, and the light chains are small enough to be filtered by the kidney and passed in the urine as Bence Jones protein; they can also damage the kidney tubules and cause renal failure. Hodgkin's lymphoma (B) is diagnosed by the Reed-Sternberg cell on lymph node biopsy. Non-Hodgkin's lymphoma (C) is diagnosed by lymph node and bone marrow biopsy with imaging and staging. Acute lymphocytic leukemia (D) is diagnosed by blood count and smear showing many blasts, with bone marrow examination and lumbar puncture. Note: multiple myeloma is in the unit objectives but no lecture deck on it was provided, so this explanation is based on standard references.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q11"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q12",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "A correct statement regarding the endemic type of Burkitt's lymphoma is:",
+        "options": {
+          "A": "Common site of involvement is the ileocecal region",
+          "B": "The diagnostic hallmark is the Reed Sternberg cell",
+          "C": "It is associated with the Epstein-Barr virus",
+          "D": "It affects adults more than children"
+        },
+        "correctAnswer": "C",
+        "explanation": "It is associated with the Epstein-Barr virus (C) is correct because the endemic (African) type of Burkitt's lymphoma, a highly aggressive B-cell non-Hodgkin's lymphoma, occurs in children in malaria-endemic regions and EBV is found in about 95% of cases; chronic malaria is believed to reduce resistance to EBV. Common site of involvement is the ileocecal region (A) is incorrect because that is the usual site of the sporadic (non-African) type, whereas the endemic type typically involves the jaw or other facial bones. The diagnostic hallmark is the Reed Sternberg cell (B) is incorrect because that is the hallmark of Hodgkin's lymphoma. It affects adults more than children (D) is incorrect because Burkitt's lymphoma mainly affects children, and it is about half of all childhood cancers in Africa. Treatment is with cyclophosphamide, and the outlook is good.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q12"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q13",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Patient L with Hodgkin's lymphoma presents with a single lymph node enlargement in the groin. The patient complains of fever, night sweats and has lost weight. His staging according to Ann Arbor classification is:",
+        "options": {
+          "A": "IA",
+          "B": "IB",
+          "C": "IIA",
+          "D": "IIB"
+        },
+        "correctAnswer": "B",
+        "explanation": "IB (B) is correct because in the Ann Arbor classification the Roman numeral shows how far the disease has spread, and a single lymph node region (here the groin) is stage I (stage II needs two or more node regions on the same side of the diaphragm). The letter shows whether systemic symptoms are present: A means none, and B means the B symptoms (unexplained fever, drenching night sweats and weight loss), which this patient has. Stage I with B symptoms is therefore IB. IA (A) is incorrect because the patient has B symptoms. IIA (C) and IIB (D) are incorrect because they would need two or more lymph node regions to be involved.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q13"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q14",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "A nursing intervention for a patient admitted following a diagnosis of Chronic Lymphocytic Leukemia (CLL) is:",
+        "options": {
+          "A": "Insertion of indwelling catheter to manage incontinence",
+          "B": "Educating the patient to increase fresh vegetables in their diet",
+          "C": "Educating the patient on the importance of regular dental visits",
+          "D": "Monitoring the patient's temperature using a rectal thermometer"
+        },
+        "correctAnswer": "C",
+        "explanation": "Educating the patient on the importance of regular dental visits (C) is correct because leukemia patients are at risk of infection and mouth problems (stomatitis, bleeding gums), so patient education includes oral hygiene, regular dental visits and gentle mouth care. Insertion of an indwelling catheter (A) is incorrect because invasive procedures and indwelling catheters are avoided in a patient with low immunity, as they introduce infection and trauma. Increasing fresh vegetables (B) is incorrect because a low-microbial diet is advised, which limits raw fresh foods, since they can carry organisms such as Pseudomonas, E. coli and Klebsiella. Monitoring temperature with a rectal thermometer (D) is incorrect because rectal precautions apply: no rectal thermometers, suppositories or enemas, to prevent mucosal trauma, bleeding and infection.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q14"
+      },
+      {
+        "id": "krn-block1-september2022-blood-and-lymphatic-disorders_q15",
+        "paperId": "krn-block1-september2022-blood-and-lymphatic-disorders",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "A clinical manifestation of Polycythemia Vera that is as a result of increased blood viscosity is:",
+        "options": {
+          "A": "Tinnitus",
+          "B": "Headache",
+          "C": "Paresthesia",
+          "D": "Thromboembolism"
+        },
+        "correctAnswer": "D",
+        "explanation": "Thromboembolism (D) is the best answer because in polycythemia vera the very high red cell mass makes the blood thick (hyperviscosity), so blood flows sluggishly and clots form in arteries and veins (stroke, myocardial infarction, deep vein thrombosis); this is the most serious complication, and the nurse teaches the signs of thrombosis, ambulation and DVT prevention, and phlebotomy is used to reduce viscosity. Tinnitus (A), headache (B) and paresthesia (C) are also seen in polycythemia vera, as symptoms of increased blood volume and reduced blood flow to the brain and extremities, but they are general symptoms, whereas thromboembolism is the direct result of hyperviscosity. Note: all four options can be linked to hyperviscosity in some textbooks, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q15"
+      }
+    ]
+  }
+]

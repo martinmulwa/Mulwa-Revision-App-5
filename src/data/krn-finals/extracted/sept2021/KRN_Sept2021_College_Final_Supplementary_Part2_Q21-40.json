@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-collegefinal-sept2021-supplementary-part2",
+    "year": "2021",
+    "month": "September",
+    "examType": "Supplementary",
+    "title": "September 2021 Class College Final Supplementary Exam (Part 2 of 6)",
+    "block": "College Final",
+    "unit": "Comprehensive Nursing (Pharmacology, Nursing Process, Medical-Surgical, Gastrointestinal, ENT, Gynaecology)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q21 to Q40).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q21",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 21,
+        "questionType": "mcq",
+        "text": "A potassium sparing diuretic is:",
+        "options": {
+          "A": "Furosemide",
+          "B": "Spironolactone",
+          "C": "Hydrochlorothiazide",
+          "D": "Mannitol"
+        },
+        "correctAnswer": "B",
+        "explanation": "Spironolactone (B) is correct because it is an aldosterone antagonist that acts on the distal tubule and collecting duct, where it blocks sodium reabsorption and potassium excretion, so potassium is retained (other potassium-sparing diuretics are amiloride and triamterene). The main risk is hyperkalaemia, so serum potassium is monitored and potassium supplements are avoided. Furosemide (A) is incorrect because it is a loop diuretic that causes potassium loss (hypokalaemia). Hydrochlorothiazide (C) is incorrect because it is a thiazide diuretic that also causes potassium loss. Mannitol (D) is incorrect because it is an osmotic diuretic, used to lower intracranial pressure, and it causes loss of sodium, water and potassium.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q21"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q22",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 22,
+        "questionType": "mcq",
+        "text": "A patient is receiving dexamethasone therapy. The nurse will monitor:",
+        "options": {
+          "A": "Oxygen saturation every eight hours",
+          "B": "Fasting blood glucose",
+          "C": "Neurological signs every two hours",
+          "D": "Urine output every four hours"
+        },
+        "correctAnswer": "B",
+        "explanation": "Fasting blood glucose (B) is correct because dexamethasone is a corticosteroid that raises blood glucose (it increases gluconeogenesis and causes insulin resistance), so steroid-induced hyperglycaemia is a key adverse effect to monitor, especially in diabetic patients. Other effects to monitor are fluid and sodium retention with hypertension, hypokalaemia, infection (immunosuppression with masked signs), gastric irritation, mood changes and, in the long term, osteoporosis, Cushingoid features and adrenal suppression (so the drug must not be stopped suddenly). Oxygen saturation every eight hours (A), neurological signs every two hours (C) and urine output every four hours (D) are incorrect because they are not the specific monitoring needed for the main metabolic effect of steroid therapy, although they may be part of care for the underlying illness.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q22"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q23",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 23,
+        "questionType": "mcq",
+        "text": "Carbimazole is used in management of:",
+        "options": {
+          "A": "Addison's disease",
+          "B": "Cushing's syndrome",
+          "C": "Hyperthyroidism",
+          "D": "Hypothyroidism"
+        },
+        "correctAnswer": "C",
+        "explanation": "Hyperthyroidism (C) is correct because carbimazole (converted to methimazole in the body) is an antithyroid drug that blocks thyroid peroxidase, so iodine is not incorporated into thyroid hormones and the synthesis of T3 and T4 falls. Patients are warned to report a sore throat, fever or mouth ulcers at once because of the risk of agranulocytosis. Addison's disease (A) is incorrect because it is adrenal insufficiency, treated with hydrocortisone and fludrocortisone. Cushing's syndrome (B) is incorrect because it is cortisol excess, treated by removing the cause (and with drugs such as metyrapone). Hypothyroidism (D) is incorrect because it is treated with levothyroxine, which replaces the missing hormone.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q23"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q24",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 24,
+        "questionType": "mcq",
+        "text": "An antibiotic that causes irreversible staining of the developing teeth is:",
+        "options": {
+          "A": "Gentamicin",
+          "B": "Ciprofloxacin",
+          "C": "Amoxicillin",
+          "D": "Tetracycline"
+        },
+        "correctAnswer": "D",
+        "explanation": "Tetracycline (D) is correct because it binds calcium and is deposited in developing teeth and bones, causing permanent yellow-grey-brown staining of the teeth and enamel hypoplasia, and it can slow bone growth, so it is avoided in pregnancy, in breastfeeding mothers and in children under 8 years. Gentamicin (A) is incorrect because its characteristic adverse effects are ototoxicity and nephrotoxicity. Ciprofloxacin (B) is incorrect because it is a fluoroquinolone, which carries a risk of tendon damage and cartilage toxicity in children, but it does not stain the teeth. Amoxicillin (C) is incorrect because it is a penicillin whose main adverse effects are hypersensitivity and diarrhoea.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q24"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q25",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 25,
+        "questionType": "mcq",
+        "text": "A side effect of Aspirin is:",
+        "options": {
+          "A": "Constipation",
+          "B": "Gastric irritation",
+          "C": "Drowsiness",
+          "D": "Oral thrush"
+        },
+        "correctAnswer": "B",
+        "explanation": "Gastric irritation (B) is correct because aspirin inhibits cyclooxygenase and so reduces the production of the prostaglandins that protect the gastric mucosa, and it is also directly irritant, so it can cause dyspepsia, gastric erosion and ulcers with bleeding; it is therefore taken with or after food. Other effects are bleeding tendency (antiplatelet action), tinnitus in overdose, bronchospasm in sensitive asthmatics, and Reye's syndrome in children with viral infections. Constipation (A) is incorrect because it is typical of opioids. Drowsiness (C) is incorrect because it is typical of sedating drugs such as antihistamines and opioids. Oral thrush (D) is incorrect because it is a side effect of inhaled corticosteroids and broad-spectrum antibiotics.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q25"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q26",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 26,
+        "questionType": "mcq",
+        "text": "A negotiation style that results to ‘I lose; you win’ outcome is:",
+        "options": {
+          "A": "Competition",
+          "B": "Avoidance",
+          "C": "Accommodation",
+          "D": "Collaboration"
+        },
+        "correctAnswer": "C",
+        "explanation": "Accommodation (C) is correct because in this style one party gives up his or her own needs to satisfy the other party and to keep the relationship, so the outcome is I lose, you win. Competition (A) is incorrect because it is the I win, you lose outcome, in which one party pursues his or her own goals at the expense of the other. Avoidance (B) is incorrect because it is a lose-lose outcome, in which the conflict is ignored or postponed and neither side's needs are met. Collaboration (D) is incorrect because it is the win-win outcome, in which both parties work together to find a solution that satisfies both. Compromise is the middle style, in which each side gives up something (a partial win, partial loss).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q26"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q27",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 27,
+        "questionType": "mcq",
+        "text": "The priority concern requiring urgent nurse’ attention for an adult patient is:",
+        "options": {
+          "A": "Blood pressure 90/60mmHg",
+          "B": "Temperature 0f 37.7 0C",
+          "C": "Respiratory rate 8 b/min",
+          "D": "Delayed meal"
+        },
+        "correctAnswer": "C",
+        "explanation": "Respiratory rate 8 b/min (C) is correct because a rate of 8 breaths per minute is bradypnoea (normal adult range is 12 to 20), which threatens the airway-breathing-circulation priority through hypoventilation, hypoxia and carbon dioxide retention (for example from opioid overdose or raised intracranial pressure), so it needs immediate action: stimulate the patient, check the airway, give oxygen, and call for help. Blood pressure 90/60 mmHg (A) is incorrect because it is low-normal and not an emergency unless the patient has symptoms or a falling trend. Temperature of 37.7 degrees C (B) is incorrect because it is a low-grade rise. A delayed meal (D) is incorrect because it is a low-priority comfort issue. Priorities are set using ABC (airway, breathing, circulation) before the other needs.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q27"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q28",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 28,
+        "questionType": "mcq",
+        "text": "The type of assessment that a nurse in the ward should conduct on Mrs. Dee admitted with uterine fibroids and booked for surgery is:",
+        "options": {
+          "A": "Comprehensive",
+          "B": "Time-lapsed",
+          "C": "Planned",
+          "D": "Focused"
+        },
+        "correctAnswer": "A",
+        "explanation": "Comprehensive (A) is correct because a newly admitted patient receives a comprehensive (initial, admission) assessment, which is a complete health history and head-to-toe physical examination that provides the baseline data for the care plan and for pre-operative preparation (allergies, medications, previous surgery, vital signs, consent and investigations). Time-lapsed (B) is incorrect because it is a reassessment done after an interval (for example at discharge or to compare with the baseline) to see changes over time. Planned (C) is incorrect because it is not a standard assessment type. Focused (D) is incorrect because it is an assessment of a specific problem or body system (for example pain or wound), and it is used when the baseline is already available, such as during ongoing care. Emergency assessment is the other type, in which only life-threatening problems are checked first.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q28"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q29",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 29,
+        "questionType": "mcq",
+        "text": "The nurse understands that a contraindication for MRI is:",
+        "options": {
+          "A": "Mr. Z with suspected torn Anterior Cruciate Ligament",
+          "B": "Master W with a metallic implant on the femur",
+          "C": "Ms. D who is pregnant complaining of lower back pain",
+          "D": "Mrs. V undergoing arthrography"
+        },
+        "correctAnswer": "B",
+        "explanation": "Master W with a metallic implant on the femur (B) is correct because the strong magnetic field of an MRI can move, heat or disturb ferromagnetic metal implants and distort the image, so metallic implants, pacemakers, cochlear implants, aneurysm clips and metal fragments in the eye are the classic contraindications (the nurse screens every patient with a checklist before the scan, and the implant type must be checked with the radiology team). Mr. Z with a suspected torn ACL (A) is incorrect because MRI is the investigation of choice for ligament injury. Ms. D who is pregnant with lower back pain (C) is incorrect because MRI uses no ionising radiation, and it is avoided in the first trimester only unless clearly needed, so it is not an absolute contraindication (it is safer than X-ray or CT). Mrs. V undergoing arthrography (D) is incorrect because MR arthrography, with contrast injected into the joint, is an accepted technique. Note: many modern orthopaedic implants are MRI-conditional, but of the options given B is the intended answer.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q29"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q30",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 30,
+        "questionType": "mcq",
+        "text": "Symes amputation involves disarticulation:",
+        "options": {
+          "A": "At the hip",
+          "B": "At the elbow",
+          "C": "At the ankle",
+          "D": "Above the knee"
+        },
+        "correctAnswer": "C",
+        "explanation": "At the ankle (C) is correct because Syme's amputation is a disarticulation at the ankle joint, in which the foot is removed but the heel pad skin is kept to cover the end of the stump, so that the person can bear weight on the end of the residual limb with a prosthesis. Amputation at the hip (A) is a hip disarticulation. At the elbow (B) is an elbow disarticulation. Above the knee (D) is a transfemoral amputation. Other lower-limb levels are transtibial (below knee), knee disarticulation, and partial foot amputations such as Chopart and Lisfranc.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q30"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q31",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 31,
+        "questionType": "mcq",
+        "text": "The type of hepatitis transmitted through faecal-oral route is:",
+        "options": {
+          "A": "Hepatitis A, E",
+          "B": "Hepatitis B, C",
+          "C": "Hepatitis C, A",
+          "D": "Hepatitis D, B"
+        },
+        "correctAnswer": "A",
+        "explanation": "Hepatitis A, E (A) is correct because both viruses are spread by the faecal-oral route through contaminated food and water and poor sanitation, they cause acute self-limiting disease and do not become chronic (except rare chronic hepatitis E in the immunosuppressed), and hepatitis E is dangerous in pregnancy. Hepatitis B, C (B), hepatitis C, A (C) and hepatitis D, B (D) are incorrect because hepatitis B, C and D are bloodborne (parenteral), spread through blood, sexual contact, sharing needles and from mother to child, and they can become chronic. Hepatitis A is the only faecal-oral virus in options C, and each of B, C and D contains at least one bloodborne virus. Prevention of A and E is hand hygiene, safe water and sanitation, and hepatitis A vaccine.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q31"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q32",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 32,
+        "questionType": "mcq",
+        "text": "A 52-year-old female with a palpable right upper quadrant mass developed weight loss and mild jaundice 2 months ago. She has:",
+        "options": {
+          "A": "Acute appendicitis",
+          "B": "Ulcerative colitis",
+          "C": "Crohn’s disease",
+          "D": "Acute cholecystitis"
+        },
+        "correctAnswer": "D",
+        "explanation": "Acute cholecystitis (D) is the best answer from the options because it is the only one that involves the right upper quadrant: inflammation of the gallbladder, usually from gallstones blocking the cystic duct, presents with right upper quadrant pain and a tender palpable mass (a distended gallbladder or an inflammatory mass), fever, nausea and mild jaundice if a stone or swelling obstructs the common bile duct. Acute appendicitis (A) is incorrect because the pain and tenderness localise to the right lower quadrant (McBurney's point). Ulcerative colitis (B) is incorrect because it causes bloody diarrhoea with colon involvement, not a right upper quadrant mass. Crohn's disease (C) is incorrect because it causes abdominal pain (often right lower quadrant), diarrhoea and weight loss, and a mass in the right iliac fossa rather than the upper quadrant. Note: the 2-month history of weight loss and jaundice also raises the possibility of gallbladder or biliary malignancy in real practice, but of the options given D is the intended answer.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q32"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q33",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 33,
+        "questionType": "mcq",
+        "text": "Portal hypertension:",
+        "options": {
+          "A": "Is associated with left sided heart failure",
+          "B": "Is associated with systemic hypertension",
+          "C": "Is characterised backflow of blood to the spleen",
+          "D": "Is characterised by decreased pressure through the portal system"
+        },
+        "correctAnswer": "C",
+        "explanation": "Is characterised backflow of blood to the spleen (C) is correct because in portal hypertension the resistance to flow through the liver (most often from cirrhosis) raises the pressure in the portal vein, so blood backs up into the splenic vein and the spleen, causing splenomegaly (with hypersplenism, low platelets) and diverting blood into collateral veins (oesophageal and gastric varices, caput medusae and haemorrhoids), and also ascites. Is associated with left sided heart failure (A) is incorrect because it is associated with liver disease, and right-sided heart failure can cause hepatic congestion. Is associated with systemic hypertension (B) is incorrect because portal hypertension is a rise in pressure in the portal venous system only, and it is not related to the systemic blood pressure. Is characterised by decreased pressure through the portal system (D) is incorrect because the portal pressure is raised (above 10 mmHg or a portal pressure gradient of 5 mmHg or more).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q33"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q34",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 34,
+        "questionType": "mcq",
+        "text": "A patient with chronic gastritis is at a risk of developing deficiency of:",
+        "options": {
+          "A": "Vitamin A",
+          "B": "Vitamin B6",
+          "C": "Vitamin B12",
+          "D": "Vitamin C"
+        },
+        "correctAnswer": "C",
+        "explanation": "Vitamin B12 (C) is correct because chronic atrophic gastritis (especially the autoimmune type) destroys the parietal cells, which secrete intrinsic factor, and the vitamin B12 cannot be absorbed in the terminal ileum without intrinsic factor, so the patient can develop pernicious (megaloblastic) anaemia; reduced gastric acid in chronic gastritis also lowers the release of B12 from food and reduces iron absorption. Vitamin A (A), vitamin B6 (B) and vitamin C (D) are incorrect because their absorption does not depend on gastric intrinsic factor, so they are not typically deficient in chronic gastritis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q34"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q35",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 35,
+        "questionType": "mcq",
+        "text": "A characteristic of second-degree haemorrhoid is that it:",
+        "options": {
+          "A": "Prolapses out of anus with defecation and can’t return to its anatomical position",
+          "B": "Prolapses out of the anus with defecation but spontaneously return",
+          "C": "Bulges into the lumen of anal canal but do not protrude through the anus",
+          "D": "Prolapses out of the anus with defecation and requires manual reduction"
+        },
+        "correctAnswer": "B",
+        "explanation": "Prolapses out of the anus with defecation but spontaneously return (B) is correct because in the Goligher classification a second-degree haemorrhoid prolapses on straining or defecation and then reduces by itself. Option A is incorrect because a pile that prolapses and cannot be returned is a fourth-degree haemorrhoid (irreducible, often strangulated). Option C is incorrect because a first-degree haemorrhoid bulges into the anal canal and bleeds but does not prolapse. Option D is incorrect because a pile that prolapses and must be pushed back manually is a third-degree haemorrhoid.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q35"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q36",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 36,
+        "questionType": "mcq",
+        "text": "In diverticulitis:",
+        "options": {
+          "A": "There is decreased intraluminal pressure",
+          "B": "There is inflammation of out pouched section",
+          "C": "There is increased muscle strength",
+          "D": "Consumption of high fibre diet is a risk factor"
+        },
+        "correctAnswer": "B",
+        "explanation": "There is inflammation of out pouched section (B) is correct because diverticula are small pouches of mucosa that herniate through weak points in the colon wall (most often in the sigmoid colon), and diverticulitis is the inflammation or infection of these pouches when faecal matter or bacteria are trapped in them, causing left lower quadrant pain, fever, change in bowel habit and raised white cell count, with risks of abscess, perforation and fistula. Decreased intraluminal pressure (A) is incorrect because diverticula form when the intraluminal pressure is raised (from straining on a low-fibre diet). Increased muscle strength (C) is incorrect because the colonic wall is weakened, and thickened muscle does not make it stronger. A high fibre diet (D) is incorrect because it is protective, and a low-fibre diet is the risk factor; other risk factors are age, obesity and a sedentary lifestyle.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q36"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q37",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 37,
+        "questionType": "mcq",
+        "text": "In rhinosinusitis, the paranasal sinuses that can be palpated for tenderness are:",
+        "options": {
+          "A": "Sphenoidal, Frontal",
+          "B": "Frontal, Maxillary",
+          "C": "Ethmoidal, Maxillary",
+          "D": "Sphenoidal, Ethmoidal"
+        },
+        "correctAnswer": "B",
+        "explanation": "Frontal, Maxillary (B) is correct because the frontal sinuses (above the eyebrows) and the maxillary sinuses (over the cheeks) lie close to the surface of the face, so the nurse can palpate or percuss them for tenderness, whereas the ethmoid and sphenoid sinuses lie deep behind the nose and the eyes and cannot be reached by palpation. Sphenoidal and frontal (A), ethmoidal and maxillary (C), and sphenoidal and ethmoidal (D) are incorrect because each pairs a sinus that cannot be palpated (sphenoid or ethmoid) with another or consists of two deep sinuses.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q37"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q38",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 38,
+        "questionType": "mcq",
+        "text": "A true statement about otitis externa is:",
+        "options": {
+          "A": "Painful swelling behind the ear",
+          "B": "Pinna of the ear is pushed forward",
+          "C": "Results to sensorineural hearing loss",
+          "D": "Redness & drainage of the auditory canal"
+        },
+        "correctAnswer": "D",
+        "explanation": "Redness & drainage of the auditory canal (D) is correct because otitis externa (swimmer's ear) is inflammation or infection of the external ear canal, with itching, pain that worsens when the pinna is pulled or the tragus is pressed, redness and swelling of the canal, and a discharge, and the hearing may be mildly muffled from canal swelling (conductive). Painful swelling behind the ear (A) is incorrect because it describes mastoiditis (a complication of otitis media). Pinna pushed forward (B) is also incorrect because it describes mastoiditis (a subperiosteal abscess pushes the pinna forward and down). Sensorineural hearing loss (C) is incorrect because otitis externa affects the outer ear and can cause only a conductive loss, whereas sensorineural loss results from inner ear or nerve damage.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q38"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q39",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 39,
+        "questionType": "mcq",
+        "text": "A cause of primary amenorrhea includes:",
+        "options": {
+          "A": "Hypothalamic pituitary",
+          "B": "Obesity",
+          "C": "Oral contraceptives",
+          "D": "Dilatation and curettage"
+        },
+        "correctAnswer": "A",
+        "explanation": "Hypothalamic pituitary (A) is correct because primary amenorrhoea (no menstruation by age 15 with normal secondary sexual characteristics, or by 13 with none) can result from hypothalamic-pituitary dysfunction (low GnRH, FSH and LH, for example from a tumour, Kallmann syndrome, extreme weight loss or delayed puberty), as well as from ovarian causes (Turner syndrome) and from structural causes (imperforate hymen, absent uterus). Obesity (B) is incorrect because it is more commonly linked to secondary amenorrhoea (for example through polycystic ovary syndrome). Oral contraceptives (C) is incorrect because stopping them can cause secondary amenorrhoea (post-pill amenorrhoea). Dilatation and curettage (D) is incorrect because it can cause secondary amenorrhoea through uterine adhesions (Asherman's syndrome).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q39"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part2_q40",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 40,
+        "questionType": "mcq",
+        "text": "Threatened abortion presents with:",
+        "options": {
+          "A": "Cervical dilatation and expulsion of some products of conception",
+          "B": "Cervix is closed and there is an empty gestational sac in utero",
+          "C": "Cervical bleeding occurs before 20 weeks gestation, cervical os closed",
+          "D": "Yellowish vaginal discharge at 20 weeks gestation, cervical os dilatation"
+        },
+        "correctAnswer": "C",
+        "explanation": "Cervical bleeding occurs before 20 weeks gestation, cervical os closed (C) is correct because in a threatened abortion there is vaginal bleeding (often light) with or without mild lower abdominal cramps before 20 weeks, the cervical os remains closed, the uterus is the size expected for the dates and the fetus is viable, so the pregnancy may continue (management is rest, reassurance, ultrasound, and avoiding intercourse). Cervical dilatation and expulsion of some products of conception (A) is incorrect because it describes an incomplete abortion. Cervix is closed and there is an empty gestational sac in utero (B) is incorrect because it describes a missed abortion or blighted ovum (anembryonic pregnancy), in which the pregnancy has died or failed to develop but is retained. Yellowish vaginal discharge at 20 weeks with cervical dilatation (D) is incorrect because it suggests an infected process or cervical incompetence (inevitable abortion or late miscarriage), and it is not the picture of a threatened abortion.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q40"
+      }
+    ]
+  }
+]

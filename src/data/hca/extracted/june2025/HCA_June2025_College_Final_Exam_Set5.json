@@ -1,0 +1,384 @@
+[
+  {
+    "id": "hca-june2025-college-final-exam-set5",
+    "year": "2025",
+    "month": "November",
+    "examType": "College Final Exam",
+    "title": "June 2025 Class College Final Exam (Part 5)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q81 to Q100.",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-june2025-college-final-exam-set5_q1",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "Reflection-in-action involves:",
+        "options": {
+          "A": "Waiting until the end of the shift to analyze a situation",
+          "B": "Ignoring mistakes and focusing on successes",
+          "C": "Adjusting care at the moment based on the patient's immediate response",
+          "D": "Asking the nurse for help with every task"
+        },
+        "correctAnswer": "C",
+        "explanation": "Adjusting care at the moment based on the patient's immediate response (C) is correct because reflection-in-action (Schön) is thinking and adapting while the care is happening, for example noticing that a patient is in pain during repositioning and changing the technique immediately. Waiting until the end of the shift to analyse (A) describes reflection-on-action. Ignoring mistakes (B) prevents learning, and asking for help with every task (D) shows lack of independent judgement within the HCA's scope.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q81"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q2",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "A supplement that is given in early pregnancy to prevent neural tube defects is:",
+        "options": {
+          "A": "Vitamin C",
+          "B": "Ferrous sulphates",
+          "C": "Folic acid",
+          "D": "Calcium"
+        },
+        "correctAnswer": "C",
+        "explanation": "Folic acid (C) is correct because folate is needed for the closure of the neural tube in the first weeks of pregnancy, so folic acid (usually 400 micrograms daily, a higher dose for women at high risk) is recommended before conception and in early pregnancy to prevent defects such as spina bifida and anencephaly. Vitamin C (A) helps iron absorption, ferrous sulphate (B) prevents or treats anaemia, and calcium (D) supports bone and teeth development and helps prevent pre-eclampsia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q82"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q3",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Mrs. X's LMP was on 15th September 2025. Calculate the Expected Date of Delivery (EDD) for Mrs. X using Naegele's formula:",
+        "options": {
+          "A": "June 15, 2026",
+          "B": "July 22, 2026",
+          "C": "June 22, 2026",
+          "D": "June 8, 2026"
+        },
+        "correctAnswer": "C",
+        "explanation": "June 22, 2026 (C) is correct. Naegele's rule is: first day of the last menstrual period + 7 days - 3 months + 1 year. For an LMP of 15 September 2025: 15 + 7 = 22 September; minus 3 months = 22 June; plus 1 year = 22 June 2026. June 15 (A) forgets to add the 7 days, July 22 (B) subtracts only 2 months, and June 8 (D) subtracts 7 days instead of adding them.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q83"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q4",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "In foetal distress, the recommended position for a woman is:",
+        "options": {
+          "A": "Supine with pillow under the lower back",
+          "B": "Left lateral position",
+          "C": "Right lateral position",
+          "D": "Knee chest position"
+        },
+        "correctAnswer": "B",
+        "explanation": "Left lateral position (B) is correct because lying on the left side takes the weight of the uterus off the inferior vena cava and aorta, which improves blood return to the heart, maternal circulation and blood flow to the placenta and baby. Oxygen and IV fluids are also given as ordered and the nurse or midwife is informed immediately. Supine (A) causes supine hypotension by compressing these vessels. The right lateral position (C) is less effective, and the knee-chest position (D) is used for cord prolapse, not routine foetal distress.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q84"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q5",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "The recommended number of contact antenatal visits for a low-risk pregnancy according to WHO 2016 is:",
+        "options": {
+          "A": "4",
+          "B": "6",
+          "C": "8",
+          "D": "10"
+        },
+        "correctAnswer": "C",
+        "explanation": "8 (C) is correct because the WHO 2016 recommendations on antenatal care for a positive pregnancy experience advise a minimum of eight contacts with a health care provider (the first contact in the first 12 weeks, then at 20, 26, 30, 34, 36, 38 and 40 weeks) to improve maternal and newborn outcomes. Four visits (A) was the older focused antenatal care model; six (B) and ten (D) are not the WHO recommended number.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q85"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q6",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Lochia rubra is characterized by:",
+        "options": {
+          "A": "White discharge",
+          "B": "Pink discharge",
+          "C": "Bright red discharge",
+          "D": "Brown discharge"
+        },
+        "correctAnswer": "C",
+        "explanation": "Bright red discharge (C) is correct because lochia rubra is the first vaginal discharge after childbirth, lasting about 1 to 3 days; it consists of blood, small clots and bits of decidua. Lochia serosa (days 4 to 10) is pink or brownish (B, D), and lochia alba (after about day 10 up to 6 weeks) is white or yellowish (A). Heavy bleeding, large clots or foul smell should be reported to the nurse at once.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q86"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q7",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "A sociocultural factor that can influence nutrition of a patient is:",
+        "options": {
+          "A": "Religion",
+          "B": "Age",
+          "C": "Illness",
+          "D": "Economic status"
+        },
+        "correctAnswer": "A",
+        "explanation": "Religion (A) is correct because sociocultural factors are beliefs, customs and practices of a group that influence what people eat, for example fasting during Ramadan or Lent, avoiding pork or beef, or vegetarianism. Age (B) and illness (C) are physiological or health factors. Economic status (D) is a socio-economic factor that affects food access and affordability, but it is not a cultural one, so religion is the best answer here.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q87"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q8",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "A patient you are taking care of is on a high residue diet. Your advice to them will be:",
+        "options": {
+          "A": "Avoid meat and meat products",
+          "B": "Avoid adding spices to the food",
+          "C": "Increase the water content as you prepare the food",
+          "D": "Increase vegetables to the diet"
+        },
+        "correctAnswer": "D",
+        "explanation": "Increase vegetables to the diet (D) is correct because a high residue (high fibre) diet includes foods that leave a lot of undigested material in the bowel, such as vegetables, fruits, whole grains, legumes and bran, which add bulk to the stool and prevent constipation. Patients should drink plenty of water with it. Avoiding meat (A) and spices (B) are not part of a high residue diet, though spices are limited in low residue diets. Increasing the water content of food (C) does not increase fibre.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q88"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q9",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "An example of a water soluble vitamin is:",
+        "options": {
+          "A": "A",
+          "B": "C",
+          "C": "D",
+          "D": "K"
+        },
+        "correctAnswer": "B",
+        "explanation": "C (B) is correct because vitamin C (ascorbic acid) and the B vitamins are water soluble, so they dissolve in water, are not stored in the body in large amounts and need regular intake. Vitamins A, D, E and K (A, C, D) are fat soluble, are stored in the liver and fat tissues and can build up to toxic levels.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q89"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q10",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Which drug is given to ease breathing in an asthmatic patient with wheezes?",
+        "options": {
+          "A": "Mucosolvan",
+          "B": "Codeine",
+          "C": "Salbutamol",
+          "D": "Amoxil"
+        },
+        "correctAnswer": "C",
+        "explanation": "Salbutamol (C) is correct because it is a short-acting beta-2 agonist bronchodilator that relaxes the smooth muscle of the airways within minutes, opening them and relieving wheeze and shortness of breath; it is given by inhaler or nebuliser. Mucosolvan (A) (ambroxol) is a mucolytic, codeine (B) is a cough suppressant, and Amoxil (D) (amoxicillin) is an antibiotic.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q90"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q11",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Which patients are prescribed for Clexane?",
+        "options": {
+          "A": "Patients with backpain, patients with severe headache",
+          "B": "Patients with blood clots in the legs, patients who have undergone surgery and is on bedrest for long",
+          "C": "Patients with uncontrolled blood pressure, patients with high serum cholesterol levels",
+          "D": "Patients with bloody urine, patients with abdominal pain"
+        },
+        "correctAnswer": "B",
+        "explanation": "Patients with blood clots in the legs, patients who have undergone surgery and is on bedrest for long (B) is correct because Clexane (enoxaparin) is a low-molecular-weight heparin, an anticoagulant given by subcutaneous injection to treat deep vein thrombosis and to prevent clots in patients with limited mobility after surgery. It is not a painkiller (A), a blood pressure or cholesterol drug (C), and since it increases bleeding risk it is not suitable for patients with bloody urine (D) without review.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q91"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q12",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "When caring for a patient who has difficulty passing stool, which prescribed medicine can a HCA give?",
+        "options": {
+          "A": "Omeprazole",
+          "B": "Enema",
+          "C": "Plasil",
+          "D": "Imodium"
+        },
+        "correctAnswer": "B",
+        "explanation": "Enema (B) is correct because difficulty passing stool is constipation, and an enema introduces fluid into the rectum to soften stool and stimulate its evacuation; the HCA gives it only when it has been prescribed and in line with facility policy, and the nurse supervises. Omeprazole (A) reduces stomach acid, Plasil (C) (metoclopramide) treats nausea and vomiting, and Imodium (D) (loperamide) treats diarrhoea and would make constipation worse.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q92"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q13",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Which action should the HCA take after giving Lasix (furosemide) tablets?",
+        "options": {
+          "A": "Monitor patient's blood sugar",
+          "B": "Monitor patient's heart rate",
+          "C": "Monitor patient for passing urine",
+          "D": "Monitor patient for passing stool"
+        },
+        "correctAnswer": "C",
+        "explanation": "Monitor patient for passing urine (C) is correct because Lasix is a loop diuretic that increases urine output within about an hour, so the HCA observes and records how much urine the patient passes, helps them to the toilet promptly and reports a lack of urine output, dizziness or signs of dehydration to the nurse. Lasix is not primarily monitored through blood sugar (A), heart rate (B) or stools (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q93"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q14",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "What side effect should a HCA look out for when caring for a patient at home on atenolol?",
+        "options": {
+          "A": "Dizziness, headache",
+          "B": "Excitement, irritability",
+          "C": "Loose stools, abdominal pains",
+          "D": "Excessive sweating, low blood sugar"
+        },
+        "correctAnswer": "A",
+        "explanation": "Dizziness, headache (A) is correct because atenolol is a beta blocker that slows the heart rate and lowers blood pressure, so common side effects are dizziness, tiredness, headache, cold hands and feet and slow pulse. The patient should rise slowly and the HCA reports dizziness, fainting or a very slow pulse. Excitement or irritability (B) is not typical, loose stools (C) are uncommon, and sweating with low blood sugar (D) is related to diabetes drugs; beta blockers may actually hide the warning signs of low blood sugar.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q94"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q15",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "What is the meaning of the prefix \"hyper-\" in medical field?",
+        "options": {
+          "A": "Under",
+          "B": "Over",
+          "C": "Within",
+          "D": "After"
+        },
+        "correctAnswer": "B",
+        "explanation": "Over (B) is correct because \"hyper-\" means above, over or excessive, for example hypertension (high blood pressure) and hyperglycaemia (high blood sugar). The prefix meaning under or below is \"hypo-\" (A), \"intra-\" means within (C), and \"post-\" means after (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q95"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q16",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "The suffix \"-ectomy\" means:",
+        "options": {
+          "A": "Inflammation",
+          "B": "Surgical removal",
+          "C": "Abnormal growth",
+          "D": "Disease"
+        },
+        "correctAnswer": "B",
+        "explanation": "Surgical removal (B) is correct because the suffix \"-ectomy\" means cutting out an organ or part of the body, for example appendicectomy and mastectomy. Inflammation (A) is \"-itis\", abnormal growth or tumour (C) is \"-oma\", and disease (D) is \"-pathy\".",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q96"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q17",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "Which of the following is a key principle of communicating with a person with an intellectual disability?",
+        "options": {
+          "A": "Use complex sentences to help them expand their vocabulary",
+          "B": "Speak quickly to keep them engaged",
+          "C": "Speak slowly using simple sentences to give time for processing",
+          "D": "Maintain prolonged eye contact even if it feels confrontational"
+        },
+        "correctAnswer": "C",
+        "explanation": "Speak slowly using simple sentences to give time for processing (C) is correct because people with intellectual disability may take longer to understand, so the HCA uses clear, short sentences, a calm tone, concrete words, one idea at a time, allows time to respond, and checks understanding. Complex sentences (A) and fast speech (B) are confusing, and prolonged eye contact that feels confrontational (D) can cause anxiety.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q97"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q18",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "The term \"gastroenterology\" refers to the study of:",
+        "options": {
+          "A": "The kidneys and urinary system",
+          "B": "The heart and blood vessels",
+          "C": "The digestive system",
+          "D": "The bones and muscles"
+        },
+        "correctAnswer": "C",
+        "explanation": "The digestive system (C) is correct because gastroenterology is the branch of medicine concerned with the stomach, intestines and the rest of the digestive tract, including the liver and pancreas. The kidneys and urinary system (A) are studied in nephrology and urology, the heart and blood vessels (B) in cardiology, and the bones and muscles (D) in orthopaedics.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q98"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q19",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "Adults with intellectual disability are at an increased risk of developing which type of health condition due to communication and coping challenges?",
+        "options": {
+          "A": "Mental health conditions",
+          "B": "Fragile X",
+          "C": "Cerebral palsy",
+          "D": "Down syndrome"
+        },
+        "correctAnswer": "A",
+        "explanation": "Mental health conditions (A) is correct because adults with intellectual disability have difficulty expressing feelings, understanding what is happening and coping with stress, change, loss and social exclusion, and this increases their risk of anxiety, depression and behavioural problems, which are often missed or wrongly put down to the disability. The HCA watches for changes in mood, sleep, appetite or behaviour and reports them to the nurse. Fragile X (B), cerebral palsy (C) and Down syndrome (D) are themselves conditions, often causes of intellectual disability, and are not conditions that develop because of communication and coping challenges.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q99"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set5_q20",
+        "paperId": "hca-june2025-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "A developmental disorder that affects communication and social interaction is:",
+        "options": {
+          "A": "Down syndrome",
+          "B": "Autism",
+          "C": "Delirium",
+          "D": "Dementia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Autism (B) is correct because autism spectrum disorder is a developmental condition that begins in early childhood and affects communication, social interaction and behaviour, with features such as difficulty with eye contact and conversation, repetitive behaviours and strong interests, and sensitivity to noise or change. Down syndrome (A) is a chromosomal condition causing intellectual disability and typical physical features. Delirium (C) is a sudden, usually temporary confusion caused by illness, infection or drugs. Dementia (D) is a progressive decline in memory and thinking in later life, not a developmental disorder.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q100"
+      }
+    ]
+  }
+]

@@ -1,0 +1,412 @@
+[
+  {
+    "id": "hca-feb2026-college-final-exam-set4",
+    "year": "2026",
+    "month": "August",
+    "examType": "College Final Exam",
+    "title": "February 2026 Class College Final Exam (Part 4)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 22,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q68 to Q87. Q1 to Q7 are not included because page 2 of the paper was not available. Q68 and Q78 each have two True/False statements, (a) and (b), each listed as its own question.",
+        "questionCount": 22
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q1",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "true_false",
+        "text": "True or False: Communication is a passive process.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "B",
+        "explanation": "FALSE. Communication is an active, two-way process in which a sender encodes a message, sends it through a channel, and a receiver decodes it and gives feedback; both people must take part for it to work.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q68 (a)"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q2",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "true_false",
+        "text": "True or False: Negative feedback confirms that the intended effect of the message was not achieved.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "TRUE. In communication, feedback shows how the message was received. Negative feedback shows that the receiver did not understand or respond as the sender intended, so the sender should clarify or repeat the message in another way.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q68 (b)"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q3",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "A non-communicable disease is characterized by:",
+        "options": {
+          "A": "Being easily spread from person to person",
+          "B": "Being caused by bacteria or viruses",
+          "C": "Long duration and slow progression",
+          "D": "Being easily cured with antibiotics"
+        },
+        "correctAnswer": "C",
+        "explanation": "Long duration and slow progression (C) is correct because non-communicable diseases (diabetes, hypertension, cancer, asthma) last a long time, progress slowly and are caused by lifestyle, genetic and environmental factors. They do not spread from person to person (A), are not caused by infection (B), and antibiotics do not cure them (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q69"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q4",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "A contributing factor to diabetes and cardiovascular diseases is:",
+        "options": {
+          "A": "Regular exercise",
+          "B": "High fibre diet",
+          "C": "Smoking",
+          "D": "Age below 40 years"
+        },
+        "correctAnswer": "C",
+        "explanation": "Smoking (C) is correct because it damages blood vessels, raises blood pressure and increases the risk of heart disease, stroke and type 2 diabetes. Regular exercise (A) and a high-fibre diet (B) are protective, and age below 40 (D) lowers the risk, which rises with age.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q70"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q5",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "A patient with diabetes should be regularly monitored for:",
+        "options": {
+          "A": "Blood pressure",
+          "B": "Cholesterol levels",
+          "C": "Blood glucose levels",
+          "D": "Pulse rate"
+        },
+        "correctAnswer": "C",
+        "explanation": "Blood glucose levels (C) is correct because diabetes is defined by high blood sugar, so regular glucose monitoring is the main way of checking control and adjusting treatment and diet. Blood pressure (A) and cholesterol (B) are also checked, but less frequently, and pulse rate (D) is a general vital sign.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q71"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q6",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Which of the following is a common symptom of asthma?",
+        "options": {
+          "A": "Sudden loss of vision",
+          "B": "Respiratory wheeze",
+          "C": "Severe headache and vomiting",
+          "D": "Frequent nosebleeds"
+        },
+        "correctAnswer": "B",
+        "explanation": "Respiratory wheeze (B) is correct because narrowed, inflamed airways make a whistling sound on breathing out, usually with cough, chest tightness and shortness of breath. Sudden loss of vision (A), severe headache and vomiting (C) and frequent nosebleeds (D) are not features of asthma.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q72"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q7",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Which type of diabetes develops in pregnancy?",
+        "options": {
+          "A": "Type I diabetes",
+          "B": "Type II diabetes",
+          "C": "Gestational diabetes",
+          "D": "Glucose intolerance"
+        },
+        "correctAnswer": "C",
+        "explanation": "Gestational diabetes (C) is correct because it is diabetes first detected during pregnancy, due to hormones from the placenta that make the body resistant to insulin. It usually goes away after delivery, but raises the mother's risk of type 2 diabetes later. Type I (A) is an autoimmune insulin deficiency, type II (B) is insulin resistance usually in adults, and glucose intolerance (D) is a general term, not the specific type linked to pregnancy.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q73"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q8",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "An example of oral hypoglycaemics used in the management of diabetes is:",
+        "options": {
+          "A": "Aldomet",
+          "B": "Glucophage",
+          "C": "Lasix",
+          "D": "Insulin"
+        },
+        "correctAnswer": "B",
+        "explanation": "Glucophage (B) is correct because Glucophage (metformin) is an oral drug that lowers blood sugar by reducing glucose production by the liver and improving insulin sensitivity. Aldomet (A) (methyldopa) is a blood pressure drug used in pregnancy, Lasix (C) is a diuretic, and insulin (D) is given by injection, not by mouth.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q74"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q9",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "Which of the following is a major risk of lung cancer?",
+        "options": {
+          "A": "Tobacco smoking",
+          "B": "Genetics",
+          "C": "Processed foods",
+          "D": "Alcohol consumption"
+        },
+        "correctAnswer": "A",
+        "explanation": "Tobacco smoking (A) is correct because it causes about 80 to 90% of lung cancers through the carcinogens in tobacco smoke. Genetics (B) plays a small part, and processed foods (C) and alcohol (D) are linked to other cancers but are not the major risk for lung cancer.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q75"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q10",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "A disease which is indirectly transmitted is:",
+        "options": {
+          "A": "Cholera",
+          "B": "Typhoid",
+          "C": "Malaria",
+          "D": "Brucellosis"
+        },
+        "correctAnswer": "C",
+        "explanation": "Malaria (C) is the best answer because it is transmitted indirectly through a vector, the female Anopheles mosquito, which carries the parasite between people without person-to-person contact. Cholera (A), typhoid (B) and brucellosis (D) are mainly spread through contaminated food, water or milk, which in some classifications is also indirect (vehicle-borne); if your notes classify these as the indirect route, follow your notes, but malaria is the classic example of vector-borne indirect transmission.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q76"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q11",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "The reddish spots in the mouth of a child with measles are called:",
+        "options": {
+          "A": "Koplik spots",
+          "B": "Mouth rash",
+          "C": "Oral sores",
+          "D": "Oral thrush"
+        },
+        "correctAnswer": "A",
+        "explanation": "Koplik spots (A) is correct because they are small white spots on a red base on the inside of the cheeks, which appear 1 to 2 days before the measles rash and are typical of measles. Mouth rash (B) and oral sores (C) are general terms, and oral thrush (D) is a fungal infection with white patches, caused by Candida.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q77"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q12",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "true_false",
+        "text": "True or False: Diphtheria infection causes oedema of the throat leading to airway obstruction.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "TRUE. Diphtheria produces a toxin that forms a thick grey membrane in the throat and tonsils, with swelling of the throat and neck (\"bull neck\"), which can block the airway and cause suffocation. It is prevented by immunisation (pentavalent vaccine).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q78 (a)"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q13",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "true_false",
+        "text": "True or False: Measles can be prevented by vaccination of children.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "TRUE. Measles is prevented by measles-containing vaccine (given at 9 and 18 months in the Kenyan immunisation schedule), which gives strong protection and, when coverage is high, protects the community.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q78 (b)"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q14",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "The initial phase of tuberculosis treatment is called:",
+        "options": {
+          "A": "Start phase",
+          "B": "Intensive phase",
+          "C": "Log phase",
+          "D": "Continuation phase"
+        },
+        "correctAnswer": "B",
+        "explanation": "Intensive phase (B) is correct because TB treatment begins with the intensive phase (usually 2 months of rifampicin, isoniazid, pyrazinamide and ethambutol) to kill most bacteria quickly. It is followed by the continuation phase (D, usually 4 months of rifampicin and isoniazid). Start phase (A) and log phase (C) are not TB treatment phases.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q79"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q15",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "What does the term \"hematuria\" mean?",
+        "options": {
+          "A": "Pus in urine",
+          "B": "Sugar in urine",
+          "C": "Blood in urine",
+          "D": "Protein in urine"
+        },
+        "correctAnswer": "C",
+        "explanation": "Blood in urine (C) is correct because \"hemat-\" refers to blood and \"-uria\" to urine. Pus in urine is pyuria (A), sugar in urine is glycosuria (B), and protein in urine is proteinuria (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q80"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q16",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Polyuria refers to:",
+        "options": {
+          "A": "No passing of urine at all",
+          "B": "Passing an abnormally small amount of urine",
+          "C": "Passing an abnormally large amount of urine",
+          "D": "Pain while urinating"
+        },
+        "correctAnswer": "C",
+        "explanation": "Passing an abnormally large amount of urine (C) is correct because \"poly-\" means many or much; polyuria is typical of diabetes mellitus and diabetes insipidus. Not passing urine is anuria (A), passing little urine is oliguria (B), and painful urination is dysuria (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q81"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q17",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "The term \"biopsy\" refers to:",
+        "options": {
+          "A": "Removal of a small sample of tissue for examination",
+          "B": "Removing fluid from the abdomen",
+          "C": "Administration of medication",
+          "D": "Surgical repair of tissue"
+        },
+        "correctAnswer": "A",
+        "explanation": "Removal of a small sample of tissue for examination (A) is correct because a biopsy takes a piece of tissue, which is examined under the microscope to diagnose disease such as cancer. Removing fluid from the abdomen (B) is paracentesis, and surgical repair (D) is a plasty or repair.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q82"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q18",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "The priority action when a first aider encounters an accident victim on the roadside is:",
+        "options": {
+          "A": "Stimulate the patient to elicit response",
+          "B": "Shout for help",
+          "C": "Check for self-safety and the safety of the victim",
+          "D": "Check for the pulse"
+        },
+        "correctAnswer": "C",
+        "explanation": "Check for self-safety and the safety of the victim (C) is correct because the first step in DRSABCD (Danger, Response, Send for help, Airway, Breathing, Circulation, Defibrillation) is to check for danger such as traffic, fire or fuel, so that the first aider does not become another casualty. Checking the response (A), shouting for help (B) and checking the pulse (D) come after the scene is safe.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q83"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q19",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "What is the appropriate action to take for an accident victim who is unconscious and is not breathing?",
+        "options": {
+          "A": "Turn the victim to the lateral position",
+          "B": "Open the airway using jaw thrust maneuver",
+          "C": "Position the airway using head-tilt chin-lift maneuver",
+          "D": "Help the victim to sit up"
+        },
+        "correctAnswer": "B",
+        "explanation": "Open the airway using jaw thrust maneuver (B) is the best answer because an accident victim may have a neck or spinal injury, and the jaw thrust opens the airway without moving the neck. A victim who is not breathing needs the airway opened before rescue breaths and compressions. The head-tilt chin-lift (C) is used when there is no suspected neck injury, or as a fallback when the jaw thrust does not open the airway. Turning the victim to the side (A) is for an unconscious victim who is breathing, and sitting the victim up (D) is unsafe. If your lecture notes list head-tilt chin-lift as the key, follow your notes.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q84"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q20",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "A first aider finds a 2-year-old child unconscious with no pulse. The appropriate action to take is:",
+        "options": {
+          "A": "Leave the child briefly and call for help",
+          "B": "Turn the child to recovery position",
+          "C": "Give two rescue breaths then call for help",
+          "D": "Perform CPR for two minutes then call for help"
+        },
+        "correctAnswer": "D",
+        "explanation": "Perform CPR for two minutes then call for help (D) is correct because a child with no pulse needs immediate chest compressions and breaths, and a lone first aider performs about two minutes (five cycles) of CPR first, since cardiac arrest in children is usually caused by lack of oxygen, then calls for help. Leaving the child (A) wastes vital time, the recovery position (B) is for breathing victims, and giving only two breaths (C) without compressions does not circulate blood.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q85"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q21",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 21,
+        "questionType": "mcq",
+        "text": "The appropriate action to take for a victim who is having convulsion is:",
+        "options": {
+          "A": "Turn the victim to a recovery position to prevent aspiration",
+          "B": "Restrain the patient to prevent injuries",
+          "C": "Insert a spoon in the mouth to prevent patient from biting the tongue",
+          "D": "Position the victim on a supine to open the airway"
+        },
+        "correctAnswer": "A",
+        "explanation": "Turn the victim to a recovery position to prevent aspiration (A) is correct because after the convulsion (or as soon as it is safe) the person is placed on their side so that saliva and vomit drain out and the airway stays clear, while the first aider moves hard objects away and protects the head. Restraining the victim (B) can cause injury, putting a spoon or any object in the mouth (C) can break teeth and block the airway, and the supine position (D) risks aspiration.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q86"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set4_q22",
+        "paperId": "hca-feb2026-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 22,
+        "questionType": "mcq",
+        "text": "The first aider is attending to a victim who has been bitten by a snake on the arm. The appropriate action to take is:",
+        "options": {
+          "A": "Put a tourniquet on the bitten hand",
+          "B": "Advise the victim to suck the poison out",
+          "C": "Immobilize the hand below the level of the heart",
+          "D": "Attempt to catch the snake for identification of treatment"
+        },
+        "correctAnswer": "C",
+        "explanation": "Immobilize the hand below the level of the heart (C) is correct because keeping the bitten limb still and at or below heart level slows the spread of venom, while the victim is kept calm and taken to hospital quickly. A tourniquet (A) can cause tissue damage, sucking out poison (B) does not work and may harm the rescuer, and trying to catch the snake (D) wastes time and risks another bite; a description or photo from a safe distance is enough.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q87"
+      }
+    ]
+  }
+]

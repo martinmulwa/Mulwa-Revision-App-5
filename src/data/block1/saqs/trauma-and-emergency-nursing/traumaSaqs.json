@@ -1,0 +1,1830 @@
+{
+  "id": "trauma-emergency-nursing-saqs",
+  "title": "Trauma and Emergency Nursing: SAQ Question Bank",
+  "subtitle": "Categorized by condition and ordered by historical exam frequency (5 Block One papers, September 2022 to April 2025 classes).",
+  "author": "MULWA <martinmulwa95@gmail.com>",
+  "version": "3.0.0",
+  "totalQuestions": 11,
+  "totalPastPaperSaqs": 12,
+  "rankingMethod": "Topics are ranked by the number of the 5 papers in which they were set as short answer questions; ties are broken by marks allocated, then by recency. Similar questions that differ only in wording are merged into one question with the higher frequency and every original wording is kept under askedIn.",
+  "papersAnalysed": [
+    {
+      "paperId": "krn-block1-sept2022-trauma-emergency-nursing",
+      "paper": "September 2022 Class, Block One Exam (sat 13 March 2023)"
+    },
+    {
+      "paperId": "krn-block1-sept2023-trauma-emergency-nursing",
+      "paper": "September 2023 Class, First Block Exam (sat 2 April 2024)"
+    },
+    {
+      "paperId": "krn-block1-april2024-trauma-emergency-nursing",
+      "paper": "April 2024 Class, First Block Exam (sat 16 November 2023)"
+    },
+    {
+      "paperId": "krn-block1-sept2024-trauma-emergency-nursing",
+      "paper": "September 2024 Class, First Block Exam (sat 10 March 2025)"
+    },
+    {
+      "paperId": "krn-block1-april2025-trauma-emergency-nursing",
+      "paper": "April 2025 Class, Block One (sat 14 October 2025)"
+    }
+  ],
+  "parts": [
+    {
+      "id": "triage",
+      "partNumber": 10,
+      "title": "Triage in the Emergency Department",
+      "shortTitle": "Triage",
+      "condition": "Triage",
+      "tier": "Tier 1",
+      "frequencyBadge": "Tested in 4 of 5 papers · Most Repeated",
+      "frequencyRank": 1,
+      "description": "Importance, roles and history-taking questions in rapid sorting of emergency patients, including motor vehicle collision triage.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-april2024-trauma-emergency-nursing_1",
+          "qNumber": "Q1",
+          "partId": "triage",
+          "partTitle": "Triage in the Emergency Department",
+          "tier": "Tier 1",
+          "topic": "Triage",
+          "text": "State the importance of triage in an emergency unit.",
+          "marks": 5,
+          "marksText": "3 to 5 marks, asked 2 times",
+          "frequencyText": "Tested in 4 of 5 papers · Asked 2 times (Apr 2024, Apr 2025)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-april2024-trauma-emergency-nursing",
+              "paper": "April 2024 Class, First Block Exam (sat 16 November 2023)",
+              "ref": "Section B, Q1",
+              "marks": 5,
+              "wording": "State five (5) importance of triage in an emergency unit"
+            },
+            {
+              "paperId": "krn-block1-april2025-trauma-emergency-nursing",
+              "paper": "April 2025 Class, Block One (sat 14 October 2025)",
+              "ref": "Section B, Q1",
+              "marks": 3,
+              "wording": "State three (3) importance of triage"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "Triage is the rapid sorting of patients arriving at the emergency department to decide who must be seen immediately and who can safely wait. Its importance is what it achieves for the patient, the staff and the unit. This question has been set as a 5-mark and a 3-mark version, so learn at least five points.",
+            "subsections": [
+              {
+                "heading": "A. Five importance points to write (1 mark each)",
+                "points": [
+                  "1. Ensures that the sickest patients are seen first: critically ill or injured patients are treated before less ill ones, which saves lives and prevents deterioration. It is not first come, first served.",
+                  "2. Establishes acuity using set guidelines: each patient is placed in a category (for example CTAS levels 1 to 5) against standard criteria, so decisions are objective and consistent.",
+                  "3. Informs the resources needed: acuity shows what the patient requires, for example the type of treatment room (resuscitation bay, cubicle or waiting area), staff and equipment.",
+                  "4. Keeps patient flow smooth: it reduces overcrowding and delays by giving each category a set time to be seen.",
+                  "5. Allows surveillance and infection control: contagious patients (for example suspected TB or measles) are identified early and isolated to protect other patients and staff."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable points (use for a different mix or a longer question)",
+                "points": [
+                  "6. Reassures the patient and carer that they have been seen and are in the system, which reduces anxiety and complaints.",
+                  "7. Sets the frequency of reassessment and monitors waiting times, so a waiting patient who deteriorates is picked up early.",
+                  "8. Allows life-saving treatment to start at once in the triage area when an airway, breathing or circulation problem is found.",
+                  "9. Provides records of patient numbers and acuity that support audit and planning of staff and supplies."
+                ]
+              }
+            ],
+            "conclusion": "For the 3-mark version write the first three points; for the 5-mark version write the first five. Keep each point to one short line that states an outcome (ensures, establishes, informs, keeps, allows).",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Triage: 'Why it matters', 'Principles', 'Requirements'); Canadian Triage and Acuity Scale (CTAS) guidelines."
+          },
+          "warningNotice": "Exam trap: the question asks for the IMPORTANCE of triage (why it matters), not the ROLES of the triage nurse (what she does), the principles, or the CTAS levels. The paper instructions state that marks are deducted for information not asked for. Do not list colour codes or waiting times as your points.",
+          "memoryTips": [
+            "Memory tip 1: Group the benefits by who gains: Patient (sickest seen first, reassured), Staff and unit (resources matched, flow smooth, reassessment scheduled) and Public (infection contained). Take points from at least two groups.",
+            "Memory tip 2: The golden phrase is 'not first come, first served'. Put it in your first point.",
+            "Memory tip 3: CTAS time-to-doctor doubles after the first levels: 0 (immediate), 15, 30, 60, 120 minutes. Say '0-15-30-60-120' to recall levels 1 to 5, a favourite MCQ on this paper.",
+            "Memory tip 4: The lecture lists seven 'why it matters' points. Learn them with the TRIAGE acrostic below and you can answer the 3-mark and 5-mark versions from the same memory."
+          ],
+          "mnemonics": [
+            {
+              "title": "TRIAGE acrostic (study aid for the importance points)",
+              "summary": "A home-made acrostic that maps the seven lecture points onto the six letters of TRIAGE. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture 'Why it matters' list",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Importance point",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "T",
+                    "Treats the sickest first",
+                    "Critically ill seen before less ill; not first come first served"
+                  ],
+                  [
+                    "R",
+                    "Resources matched to need",
+                    "Type of treatment room, staff, equipment"
+                  ],
+                  [
+                    "I",
+                    "Identifies acuity by set criteria",
+                    "Categories (CTAS), objective and consistent"
+                  ],
+                  [
+                    "A",
+                    "Assesses again: reassessment and waiting times",
+                    "Frequency of reassessment set; waiting times monitored"
+                  ],
+                  [
+                    "G",
+                    "Gets patient flow moving",
+                    "Smooth flow, less overcrowding"
+                  ],
+                  [
+                    "E",
+                    "Eases worry and Eliminates spread",
+                    "Reassures patient and carer; isolates contagious patients"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "CTAS levels, colours and time to doctor",
+              "summary": "The five CTAS levels from the lecture notes. Frequently tested in MCQs on the same papers.",
+              "source": "Lecture notes (CTAS table); Canadian Triage and Acuity Scale",
+              "table": {
+                "headers": [
+                  "Level",
+                  "Category (colour)",
+                  "Seen by doctor",
+                  "Examples to anchor it"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Resuscitation (blue)",
+                    "Immediate (0 min)",
+                    "Arrest, shock, BP below 90/60, SpO2 below 90%, severe respiratory distress"
+                  ],
+                  [
+                    "2",
+                    "Emergent (red)",
+                    "Under 15 min",
+                    "Overdose with stable vitals, severe pain 8 to 10/10, moderate asthma"
+                  ],
+                  [
+                    "3",
+                    "Urgent (yellow)",
+                    "Under 30 min",
+                    "Mild asthma, pain 4 to 7/10, vomiting with dehydration"
+                  ],
+                  [
+                    "4",
+                    "Less urgent (green)",
+                    "Within 1 hour",
+                    "Minor soft-tissue injury, headache, pain 0 to 3/10"
+                  ],
+                  [
+                    "5",
+                    "Non-urgent (white)",
+                    "Within 2 hours",
+                    "Sore throat without fever, diarrhoea without dehydration"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct point, so write exactly the number asked (3 or 5). Learn at least five because the mark allocation changes between papers.",
+              "Keywords the examiner looks for: sickest first or prioritise, acuity or categorise, resources, patient flow, isolate or infection control, reassure, reassessment.",
+              "Command word: 'State' means bare points. One short line each, no paragraphs, no explanations.",
+              "Common error: writing the roles of the triage nurse or the CTAS levels. If the question says 'importance', 'purpose' or 'aims', write WHY triage is done; if it says 'roles', write WHAT the nurse does.",
+              "Similar questions to expect: 'principles of triage' (not first come first served; acuity categorised against criteria; set timelines per acuity; treatment starts promptly; dynamic; multidisciplinary teamwork), 'requirements of a triage area' (trained triage worker, private room, desk with two chairs or a couch, monitor for BP, HR, RR, SpO2 and temperature, patient record chart, three identifiers: full names, date of birth, registration number) and 'high-risk patients' (under 5 years, over 65 years, comorbidities)."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        },
+        {
+          "id": "saq_krn-block1-sept2024-trauma-emergency-nursing_1",
+          "qNumber": "Q2",
+          "partId": "triage",
+          "partTitle": "Triage in the Emergency Department",
+          "tier": "Tier 1",
+          "topic": "Triage",
+          "text": "State five (5) triaging questions a nurse should ask when triaging a patient involved in a motor vehicle collision.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Tested in 4 of 5 papers · Asked once (Sept 2024)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2024-trauma-emergency-nursing",
+              "paper": "September 2024 Class, First Block Exam (sat 10 March 2025)",
+              "ref": "Section B, Q1",
+              "marks": 5,
+              "wording": "State five (5) triaging questions a nurse should ask when triaging a patient involve in motor vehicle collision"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "The triage interview is brief (the goal is an initial assessment within 5 minutes). The nurse records the chief complaint in the patient's own words and, in trauma, documents the mechanism and pattern of injury. In a road crash the history of the mechanism tells the nurse how much energy the body absorbed and which injuries to look for, even if the patient looks well.",
+            "subsections": [
+              {
+                "heading": "A. Five questions to write (1 mark each)",
+                "points": [
+                  "1. What happened? Ask for the mechanism: type of vehicle, estimated speed, what it hit (another vehicle, a fixed object or a pedestrian), direction of impact and whether it rolled over. High-speed, high-energy impacts predict serious internal injury.",
+                  "2. Were you wearing a seat belt or a helmet, and did the airbag go off? Restraint use and airbag deployment show the forces the body took (for example chest, abdominal and neck injuries).",
+                  "3. Were you thrown out or trapped, and where were you sitting? Ejection, entrapment and a long extrication time suggest major trauma. Also ask whether anyone else in the vehicle was seriously injured or died.",
+                  "4. Did you black out or hit your head, and do you remember what happened? A history of loss of consciousness suggests a significant head injury.",
+                  "5. What are you feeling now? Ask about pain using PQRST (Provokes, Quality, Region/radiation, Severity, Time), and about difficulty breathing, neck or back pain, numbness or weakness, abdominal pain and bleeding."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable questions",
+                "points": [
+                  "6. SAMPLE history: any allergies, medications (especially anticoagulants), past illnesses or pregnancy, and when did you last eat or drink?",
+                  "7. When did the crash happen and what was done at the scene (first aid, neck immobilisation, fluids)? How did you get here?",
+                  "8. Have you taken alcohol or drugs? Intoxication hides pain and alters the level of consciousness.",
+                  "9. For a pedestrian or motorcyclist: were you hit, thrown or run over, and were you wearing a helmet?"
+                ]
+              }
+            ],
+            "conclusion": "A high-energy mechanism, a loss of consciousness, or neck, chest or abdominal pain should raise the triage level and prompt a full trauma assessment (ABCDE) even if the vital signs look normal, because under-triage delays care and risks deterioration.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Triage process; PQRST and SAMPLE tools; trauma assessment); ATLS history-taking and mechanism-of-injury teaching; US field triage literature (ejection, intrusion, extrication time and death in the same compartment as high-risk mechanisms); Palanca et al., Emergency Medicine Australasia 2003."
+          },
+          "warningNotice": "Exam trap: the question asks for QUESTIONS to ask the patient, so phrase each point as a question (or as 'Ask about...'). Do not write the ABCDE examination, vital signs or treatment, as marks are deducted for information not asked for. Note also that the mechanism of injury supports the decision but does not replace vital signs and the patient's condition.",
+          "memoryTips": [
+            "Memory tip 1: Mechanism, Restraint, Entrapment, Head, Pain: those are the five high-yield question topics, so you never run out of points.",
+            "Memory tip 2: The questions you can always add to any trauma triage are the two tools in your notes: PQRST for pain and SAMPLE for history.",
+            "Memory tip 3: Ask what the EMS crew would tell you. The MIST handover (below) is exactly the information a paramedic gives on arrival, so it doubles as a question list.",
+            "Memory tip 4: Think in the order of the crash: Before (speed, seat position), During (restraint, airbag, ejection), After (consciousness, pain now, scene care)."
+          ],
+          "mnemonics": [
+            {
+              "title": "CRASH (study aid for five MVC triage questions)",
+              "summary": "A home-made acronym giving one question topic per letter. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture triage process and standard mechanism-of-injury history",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Question topic",
+                  "Example question"
+                ],
+                "rows": [
+                  [
+                    "C",
+                    "Collision details",
+                    "What happened? Speed? What did the vehicle hit? Rollover?"
+                  ],
+                  [
+                    "R",
+                    "Restraints",
+                    "Seat belt, helmet or airbag in use?"
+                  ],
+                  [
+                    "A",
+                    "Ejected or trapped",
+                    "Thrown out? Trapped? How long to get you out? Anyone else hurt or dead?"
+                  ],
+                  [
+                    "S",
+                    "Symptoms now",
+                    "Where does it hurt (PQRST)? Breathing, neck or back pain, numbness?"
+                  ],
+                  [
+                    "H",
+                    "History and Head injury",
+                    "Blackout? SAMPLE? Time of crash and first aid given?"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "MIST (prehospital handover mnemonic)",
+              "summary": "A widely used ambulance-to-hospital handover format. It lists the information the triage nurse needs from an MVC patient.",
+              "source": "Widely used prehospital and trauma-team handover mnemonic (UK and international ambulance services)",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Meaning",
+                  "Question for the crew or patient"
+                ],
+                "rows": [
+                  [
+                    "M",
+                    "Mechanism of injury",
+                    "What was the crash? Speed, impact, restraint, ejection?"
+                  ],
+                  [
+                    "I",
+                    "Injuries found or suspected",
+                    "What injuries have you found? Head, chest, abdomen, limbs?"
+                  ],
+                  [
+                    "S",
+                    "Signs",
+                    "What were the vital signs and GCS on scene, and how are they trending?"
+                  ],
+                  [
+                    "T",
+                    "Treatment given",
+                    "What was done: airway, oxygen, bleeding control, collar, IV fluids, analgesia?"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "SAMPLE (history tool from the lecture notes)",
+              "summary": "The history tool used at triage. Every MVC patient should have one.",
+              "source": "Lecture notes (assessment tools); Emergency Nurses Association standard tool",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Meaning",
+                  "Example for an MVC patient"
+                ],
+                "rows": [
+                  [
+                    "S",
+                    "Signs and symptoms",
+                    "Pain, breathlessness, dizziness, bleeding"
+                  ],
+                  [
+                    "A",
+                    "Allergies",
+                    "Drugs, latex, tetanus reaction"
+                  ],
+                  [
+                    "M",
+                    "Medications",
+                    "Anticoagulants, insulin, beta-blockers"
+                  ],
+                  [
+                    "P",
+                    "Pertinent past history",
+                    "Heart, lung, diabetes, pregnancy"
+                  ],
+                  [
+                    "L",
+                    "Last oral intake",
+                    "Matters if surgery or sedation is needed"
+                  ],
+                  [
+                    "E",
+                    "Events leading to the injury",
+                    "The crash sequence and mechanism"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct question topic. Write exactly five, each phrased as a question or 'Ask about...'. Do not repeat the same topic twice (for example 'speed of the vehicle' and 'type of impact' are one mechanism point).",
+              "Keywords the examiner looks for: mechanism of injury, speed, seat belt, airbag, ejection, extrication or entrapment, loss of consciousness, pain, allergies, medications, last meal, time of injury.",
+              "Strategy for any 'triage questions for patient with X' item: Mechanism (what happened and when), Symptoms (PQRST), SAMPLE, and the risk factors specific to X. For chest pain: onset, radiation, associated sweating, cardiac history. For a burn: agent, duration, enclosed space, first aid given. For a child: possibility of abuse.",
+              "Do not spend marks on vital signs or ABC checks. Those are triage assessments, not questions.",
+              "Link to other papers: Sept 2022 and Apr 2025 MCQs also tested triage categories (CTAS), PQRST and the trauma primary survey, so this question connects to a topic that is tested in almost every paper."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        },
+        {
+          "id": "saq_krn-block1-sept2022-trauma-emergency-nursing_1",
+          "qNumber": "Q3",
+          "partId": "triage",
+          "partTitle": "Triage in the Emergency Department",
+          "tier": "Tier 1",
+          "topic": "Triage",
+          "text": "State five (5) roles of a nurse during triage.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Tested in 4 of 5 papers · Asked once (Sept 2022)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2022-trauma-emergency-nursing",
+              "paper": "September 2022 Class, Block One Exam (sat 13 March 2023)",
+              "ref": "Short Answer Questions, Q1",
+              "marks": 5,
+              "wording": "State five (5) roles of a nurse during triage"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "Triage is the rapid, structured assessment of patients on arrival to sort them by urgency so that those with life-threatening conditions are treated first. The triage nurse is usually the first clinician the patient meets.",
+            "subsections": [
+              {
+                "heading": "A. Five roles to write (1 mark each)",
+                "points": [
+                  "1. Performs a rapid initial assessment: an across-the-room look at general appearance, airway, breathing, circulation and level of consciousness, followed by a brief history and vital signs, to identify life-threatening problems at once.",
+                  "2. Prioritises patients and assigns a triage category (for example CTAS or ESI levels, or colour codes) according to severity, so that the sickest are seen first and the time to physician is appropriate.",
+                  "3. Initiates immediate life-saving interventions within the nurse's scope while waiting for the doctor, for example opening the airway, giving oxygen, controlling external bleeding, immobilising the neck and starting IV access.",
+                  "4. Directs the patient to the appropriate treatment area (resuscitation, emergent, urgent or waiting area) and communicates findings to the doctor and emergency team, alerting them to critical patients.",
+                  "5. Documents accurately the chief complaint, assessment findings, vital signs, triage category, time of arrival and interventions given, to ensure continuity of care and legal accountability."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable roles (use only if needed to make up five)",
+                "points": [
+                  "6. Reassesses waiting patients regularly and re-triages them if their condition changes or deteriorates.",
+                  "7. Reassures and educates the patient and relatives about the process and expected waiting time, and offers emotional support.",
+                  "8. Maintains safety and infection control at the entry point, for example isolating patients with suspected infectious disease."
+                ]
+              }
+            ],
+            "conclusion": "Triage is a dynamic process: the category given on arrival is not final and is revised whenever the patient's condition changes.",
+            "contentSupport": "Canadian Triage and Acuity Scale (CTAS) guidelines; Emergency Severity Index (ESI); Brunner and Suddarth's Medical-Surgical Nursing (emergency nursing chapter)."
+          },
+          "warningNotice": "Exam trap: the question asks for ROLES (what the triage nurse does), not the IMPORTANCE of triage (why it is done) and not the triage categories or levels. Marks can be deducted for information not asked for, as the paper instructions state. Do not list colour codes or time targets as your five points.",
+          "memoryTips": [
+            "Memory tip 1: The triage nurse does ARCDR: Assess, Rank (prioritise), Care (start interventions), Direct and communicate, Record. Then Reassess.",
+            "Memory tip 2: Triage is never one-off. The category given at the door is re-checked whenever the patient changes.",
+            "Memory tip 3: Triage sorts by urgency, not by order of arrival or by who is most worried."
+          ],
+          "mnemonics": [
+            {
+              "title": "ARCDR (study aid for the five roles)",
+              "summary": "A home-made acronym to recall the five core roles in order. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from standard triage nurse role descriptions",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Role",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "A",
+                    "Assess rapidly",
+                    "Across-the-room look, ABCDE, brief history, vital signs"
+                  ],
+                  [
+                    "R",
+                    "Rank / prioritise",
+                    "Assign triage category by severity"
+                  ],
+                  [
+                    "C",
+                    "Care started",
+                    "Oxygen, airway, bleeding control, IV access, immobilisation"
+                  ],
+                  [
+                    "D",
+                    "Direct and communicate",
+                    "Right treatment area, alert doctor and team"
+                  ],
+                  [
+                    "R",
+                    "Record",
+                    "Chief complaint, findings, category, time, interventions"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "ABCDE (across-the-room assessment)",
+              "summary": "The quick visual and auditory check that starts every triage encounter.",
+              "source": "Standard emergency and trauma assessment teaching",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "What the nurse observes",
+                  "Example finding"
+                ],
+                "rows": [
+                  [
+                    "A",
+                    "Airway",
+                    "Stridor, gurgling, unable to speak"
+                  ],
+                  [
+                    "B",
+                    "Breathing",
+                    "Wheeze, grunting, laboured or rapid breathing"
+                  ],
+                  [
+                    "C",
+                    "Circulation",
+                    "Pale, cyanosed or sweaty skin, visible bleeding"
+                  ],
+                  [
+                    "D",
+                    "Disability",
+                    "Drowsy, confused, convulsing"
+                  ],
+                  [
+                    "E",
+                    "Exposure",
+                    "Obvious injuries, deformity, burns"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark for each distinct role, so write exactly five short, numbered points. Extra points earn nothing and risk deductions.",
+              "Keywords the examiner looks for: rapid assessment, prioritise or categorise, initiate emergency interventions, communicate or refer, document, reassess.",
+              "Start each point with a verb (assesses, prioritises, initiates, directs, documents) so it reads as a role.",
+              "Common error: describing the triage levels or colours instead of what the nurse does."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 3,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "trauma-assessment-nurse-role",
+      "partNumber": 11,
+      "title": "Trauma Assessment and the Emergency Nurse's Role",
+      "shortTitle": "Trauma Assessment & Nurse Role",
+      "condition": "Trauma Assessment / Emergency Nursing",
+      "tier": "Tier 2",
+      "frequencyBadge": "Tested in 2 of 5 papers · Tier 2",
+      "frequencyRank": 2,
+      "description": "Roles of the nurse in trauma and emergency response, and the history component of the secondary survey (SAMPLE).",
+      "questions": [
+        {
+          "id": "saq_krn-block1-sept2023-trauma-emergency-nursing_1",
+          "qNumber": "Q4",
+          "partId": "trauma-assessment-nurse-role",
+          "partTitle": "Trauma Assessment and the Emergency Nurse's Role",
+          "tier": "Tier 2",
+          "topic": "Role of the Emergency Nurse",
+          "text": "State five (5) roles of the nurse in trauma and emergency response.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Tested in 2 of 5 papers · Asked once (Sept 2023)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2023-trauma-emergency-nursing",
+              "paper": "September 2023 Class, First Block Exam (sat 2 April 2024)",
+              "ref": "Part B, Q1",
+              "marks": 5,
+              "wording": "State five (5) roles of the nurse in trauma and emergency response"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "A medical emergency is a sudden injury or serious illness that could cause death or serious harm if not treated right away. The emergency nurse is one member of a multidisciplinary team, a group of professionals from different specialties working toward a common goal. The nurse's roles run from the scene or the door, through resuscitation, to handover.",
+            "subsections": [
+              {
+                "heading": "A. Five roles to write (1 mark each)",
+                "points": [
+                  "1. Ensures safety: assesses the scene for hazards, applies standard precautions (gloves, mask, other PPE, safe sharps handling) to protect herself, the team, bystanders and the patient, and prepares equipment such as oxygen, suction, a bag-valve mask, a cervical collar and a trauma bag.",
+                  "2. Triages: rapidly sorts and categorises patients by acuity so that life-threatening cases are treated first, and starts interventions at once if an airway, breathing or circulation problem is found.",
+                  "3. Performs rapid assessment and life-saving interventions: does the primary survey (ABCDE) with cervical spine protection, opens the airway, gives oxygen, controls bleeding, starts CPR (BLS) and establishes IV access.",
+                  "4. Works as a member of the multidisciplinary team: assists the doctor with procedures (for example intubation, needle decompression and chest drain insertion), gives prescribed fluids, blood and drugs, monitors the patient and communicates findings clearly to the team.",
+                  "5. Documents and hands over: records the history (SAMPLE), findings, interventions and responses accurately and on time, and arranges referral, admission or transfer."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable roles",
+                "points": [
+                  "6. Gives psychological support to the patient and family: explains what is happening, allows family presence where possible and provides comfort.",
+                  "7. Carries out the secondary survey and re-evaluates regularly for deterioration and missed injuries, including pain and urine output.",
+                  "8. Prevents complications: keeps the patient warm to prevent hypothermia, splints fractures, gives tetanus prophylaxis, and inserts a gastric tube and urinary catheter when ordered.",
+                  "9. Acts as patient advocate and protects legal and ethical rights: consent, confidentiality, preserving evidence in assault cases, and health education for injury prevention."
+                ]
+              }
+            ],
+            "conclusion": "Write the roles as 'does what, for whom' sentences that begin with a verb. The five above cover safety, triage, clinical care, teamwork and records, which is the core of the lecture notes.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Emergency and trauma fundamentals; safety precautions; scene safety; triage; primary and secondary survey; re-evaluation); Emergency Nurses Association role descriptions; trauma team role guidelines."
+          },
+          "warningNotice": "Exam trap: this is the role of the nurse in TRAUMA AND EMERGENCY RESPONSE, which is broader than the role during TRIAGE (Sept 2022). Do not answer with triage-only points, and do not write the steps of the primary survey in full, as marks are deducted for information not asked for.",
+          "memoryTips": [
+            "Memory tip 1: Put safety first. A hurt rescuer cannot help anyone, and the lecture says 'do not risk your life'.",
+            "Memory tip 2: Think of the nurse's day in the order of the patient: Door (safety, triage), Bay (ABCDE and resuscitation), Team (procedures, drugs, communication), Record (documentation and handover).",
+            "Memory tip 3: Any 'roles of the nurse' question can be answered by walking through six domains: safety, clinical care, records, people (psychosocial), professional teamwork and teaching. The SCRIPT acrostic below turns this into one word."
+          ],
+          "mnemonics": [
+            {
+              "title": "TRAUMA (study aid for roles in trauma and emergency response)",
+              "summary": "A home-made acrostic with one role per letter. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture notes",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Role",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "T",
+                    "Triage",
+                    "Sort by acuity, start interventions for ABC problems"
+                  ],
+                  [
+                    "R",
+                    "Rapid assessment and resuscitation",
+                    "Primary survey ABCDE, oxygen, bleeding control, CPR, IV access"
+                  ],
+                  [
+                    "A",
+                    "Assist the team",
+                    "Procedures, prescribed drugs and fluids, communication"
+                  ],
+                  [
+                    "U",
+                    "Understand and support",
+                    "Reassure patient and family, family presence, advocacy"
+                  ],
+                  [
+                    "M",
+                    "Make the scene safe",
+                    "Scene safety, standard precautions, PPE, equipment ready"
+                  ],
+                  [
+                    "A",
+                    "Accurate records and handover",
+                    "Document, refer, transfer"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "SCRIPT (generic frame for any 'roles of the nurse' question)",
+              "summary": "A home-made acrostic to produce five or more roles on any topic. It is a memory aid, not a published standard.",
+              "source": "Original study aid",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Domain",
+                  "Example in emergency care"
+                ],
+                "rows": [
+                  [
+                    "S",
+                    "Safety",
+                    "Scene safety, PPE, infection control"
+                  ],
+                  [
+                    "C",
+                    "Clinical care",
+                    "ABCDE, resuscitation, monitoring, drugs"
+                  ],
+                  [
+                    "R",
+                    "Records",
+                    "Documentation, handover, legal evidence"
+                  ],
+                  [
+                    "I",
+                    "Interpersonal support",
+                    "Psychological support to patient and family"
+                  ],
+                  [
+                    "P",
+                    "Professional teamwork",
+                    "Communication, referral, working with the multidisciplinary team"
+                  ],
+                  [
+                    "T",
+                    "Teaching",
+                    "Health education, injury prevention"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct role. Write exactly five, each starting with a verb (ensures, triages, performs, assists, documents).",
+              "Keywords the examiner looks for: safety or standard precautions, triage, primary survey or ABCDE, resuscitation, assist or collaborate with the team, communication, documentation, psychological support.",
+              "Do not mix up the different 'roles' questions: roles during triage (assess, prioritise, initiate interventions, direct, document), roles in trauma and emergency response (this one) and roles in disaster response (triage tags, evacuation, coordination).",
+              "Related questions that use the same content: 'state five principles of triage', 'outline scene safety steps' (number of patients, equipment for extrication, oxygen and airway kit, trauma bag) and 'explain the care of a trauma patient', so make sure you can write the scene safety steps as well."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        },
+        {
+          "id": "saq_krn-block1-april2024-trauma-emergency-nursing_2",
+          "qNumber": "Q5",
+          "partId": "trauma-assessment-nurse-role",
+          "partTitle": "Trauma Assessment and the Emergency Nurse's Role",
+          "tier": "Tier 2",
+          "topic": "Secondary Survey",
+          "text": "State five (5) components of the secondary survey in history taking.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Tested in 2 of 5 papers · Asked once (Apr 2024)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-april2024-trauma-emergency-nursing",
+              "paper": "April 2024 Class, First Block Exam (sat 16 November 2023)",
+              "ref": "Section B, Q2",
+              "marks": 5,
+              "wording": "State five (5) components of secondary survey in history taking"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "The secondary survey is a systematic head-to-toe examination done after the primary survey and life-saving interventions. Its first part is the history, taken from the patient, bystanders or the EMS crew. The history is remembered with the SAMPLE tool, which includes the mechanism of injury in the 'Events' component.",
+            "subsections": [
+              {
+                "heading": "A. Five components to write (1 mark each)",
+                "points": [
+                  "1. Signs and symptoms: the chief complaint, pain (onset, site, severity) and any other symptoms such as breathlessness or dizziness.",
+                  "2. Allergies: to drugs (for example penicillin), latex, food and iodine contrast, and tetanus immunisation status.",
+                  "3. Medications: current prescribed and over-the-counter drugs (for example anticoagulants, insulin, beta-blockers) and alcohol or recreational drug use.",
+                  "4. Pertinent past medical history: chronic illness, previous surgery and, in women of reproductive age, pregnancy.",
+                  "5. Last oral intake: when the patient last ate or drank, which matters for aspiration risk if sedation or surgery is needed."
+                ]
+              },
+              {
+                "heading": "B. Sixth component and other acceptable points",
+                "points": [
+                  "6. Events leading to the injury or illness: the mechanism of injury (blunt, penetrating or thermal), the time it happened and the environment (for example a road crash, a fall from a height or a fire in an enclosed space).",
+                  "7. Source of history: the patient, bystanders and EMS crew.",
+                  "8. Time since injury and treatment given before arrival."
+                ]
+              }
+            ],
+            "conclusion": "SAMPLE has six letters; the question asks for five, so choose the five you can explain best. ATLS uses AMPLE (the same list without 'S'), so if your lecturer teaches AMPLE the answer is the same five: Allergies, Medications, Past illness or pregnancy, Last meal, Events or environment.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Trauma assessment: secondary survey, SAMPLE and mechanism of injury); ATLS (American College of Surgeons) AMPLE history; standard emergency nursing texts."
+          },
+          "warningNotice": "Exam trap: the question asks for the components of the HISTORY part of the secondary survey, not the head-to-toe physical examination, the investigations (labs, imaging) or the primary survey (ABCDE). Check that your five points are SAMPLE or AMPLE items only.",
+          "memoryTips": [
+            "Memory tip 1: SAMPLE and AMPLE are the same list. SAMPLE adds 'Signs and symptoms' at the start; AMPLE is the ATLS version. Learn SAMPLE and drop the S if your scheme says AMPLE.",
+            "Memory tip 2: The sentence 'AMPLE time' reminds you that the history is taken in the secondary survey, when the patient is stable and there is time, unlike the primary survey which is done in seconds.",
+            "Memory tip 3: Mechanism of injury has only three families (ATLS): Blunt, Penetrating, Thermal. Remember 'BPT'.",
+            "Memory tip 4: The 'E' is the one students forget. Say 'Events and Environment' and you remember the mechanism, the time and the place."
+          ],
+          "mnemonics": [
+            {
+              "title": "SAMPLE (lecture version)",
+              "summary": "The history tool in the lecture notes. Use all six for a longer question; choose five for this one.",
+              "source": "Lecture notes; Emergency Nurses Association standard tool",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Component",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "S",
+                    "Signs and symptoms",
+                    "Chief complaint, pain, breathlessness, dizziness"
+                  ],
+                  [
+                    "A",
+                    "Allergies",
+                    "Drugs, latex, food, contrast, tetanus status"
+                  ],
+                  [
+                    "M",
+                    "Medications",
+                    "Anticoagulants, insulin, beta-blockers, alcohol and drugs"
+                  ],
+                  [
+                    "P",
+                    "Pertinent past history",
+                    "Chronic illness, surgery, pregnancy"
+                  ],
+                  [
+                    "L",
+                    "Last oral intake",
+                    "Aspiration risk before sedation or surgery"
+                  ],
+                  [
+                    "E",
+                    "Events leading to injury",
+                    "Mechanism (blunt, penetrating, thermal), time, environment"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "AMPLE (ATLS version)",
+              "summary": "The same list as used in Advanced Trauma Life Support teaching.",
+              "source": "ATLS, American College of Surgeons",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Component"
+                ],
+                "rows": [
+                  [
+                    "A",
+                    "Allergies"
+                  ],
+                  [
+                    "M",
+                    "Medications currently used"
+                  ],
+                  [
+                    "P",
+                    "Past illnesses and pregnancy"
+                  ],
+                  [
+                    "L",
+                    "Last meal"
+                  ],
+                  [
+                    "E",
+                    "Events and environment related to the injury"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "DCAP-BTLS (head-to-toe examination, the next likely question)",
+              "summary": "If the examiner asks about the PHYSICAL part of the secondary survey, DCAP-BTLS lists what to look and feel for in each body region. Do not use it for the history question.",
+              "source": "Widely used EMS trauma assessment mnemonic",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Finding",
+                  "Letter",
+                  "Finding"
+                ],
+                "rows": [
+                  [
+                    "D",
+                    "Deformities",
+                    "B",
+                    "Burns"
+                  ],
+                  [
+                    "C",
+                    "Contusions",
+                    "T",
+                    "Tenderness"
+                  ],
+                  [
+                    "A",
+                    "Abrasions",
+                    "L",
+                    "Lacerations"
+                  ],
+                  [
+                    "P",
+                    "Punctures or penetrations",
+                    "S",
+                    "Swelling"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per component; write exactly five. Give the component name and two or three key words only.",
+              "Keywords the examiner looks for: signs and symptoms, allergies, medications, past medical history, last meal or oral intake, events or mechanism of injury.",
+              "If the question changes to 'components of the secondary survey' (without 'history'), answer in the lecture order: 1 History (SAMPLE and mechanism of injury), 2 Head-to-toe examination, 3 Full vital signs as baseline (both arms in chest trauma), 4 Laboratory tests, 5 Imaging (chest X-ray, CT, pelvic X-ray, FAST), 6 Other interventions (NG tube, urinary catheter, splints, tetanus, analgesia), then re-evaluation.",
+              "Always say when the secondary survey starts: only after the primary survey and life-saving interventions are complete."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 2,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "snake-bite",
+      "partNumber": 12,
+      "title": "Snake Bite",
+      "shortTitle": "Snake Bite",
+      "condition": "Snake Bite",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance · Latest paper (Sept 2024)",
+      "frequencyRank": 3,
+      "description": "First aid and hospital management of envenomation, antivenom indications and what to avoid.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-sept2024-trauma-emergency-nursing_2",
+          "qNumber": "Q6",
+          "partId": "snake-bite",
+          "partTitle": "Snake Bite",
+          "tier": "Tier 3",
+          "topic": "Snake Bite",
+          "text": "State five (5) management of a patient following a snake bite.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Single appearance (Sept 2024) · High-yield envenomation emergency",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2024-trauma-emergency-nursing",
+              "paper": "September 2024 Class, First Block Exam (sat 10 March 2025)",
+              "ref": "Section B, Q2",
+              "marks": 5,
+              "wording": "State five (5) management of a patient following a snake bite"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "A snake bite is a wound from a snake's fangs: either a simple puncture or laceration (non-venomous) or an envenomation. The aims of management are to slow the spread of venom, get the patient to a facility with antivenom quickly, support the airway, breathing and circulation, and monitor for progression. Write a mixture of first aid and hospital care.",
+            "subsections": [
+              {
+                "heading": "A. Five management points to write (1 mark each)",
+                "points": [
+                  "1. Reassure and keep the patient calm and still: panic raises the heart rate and spreads the venom faster. Stay with the patient and monitor.",
+                  "2. Move the patient away from the snake and call for help: arrange urgent transport to the nearest hospital. Do not delay for traditional remedies.",
+                  "3. Clean the wound under running water and remove rings, jewellery and tight clothing before swelling develops.",
+                  "4. Immobilise the bitten limb with a splint and keep it at or below heart level to limit venom movement.",
+                  "5. At hospital: maintain ABCs, give oxygen and set up IV access with crystalloids; send bloods (FBC, group and cross-match, electrolytes, clotting studies); give analgesics and tetanus prophylaxis; observe for at least 6 hours and give antivenom if there is progressive pain, swelling or bruising (ecchymosis)."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable points and what not to do",
+                "points": [
+                  "6. Do a 20-minute whole blood clotting test (20WBCT) at the bedside: blood that fails to clot after 20 minutes in a clean dry glass tube shows a clotting defect and is an indication for antivenom.",
+                  "7. Mark the edge of the swelling with the time, and check neurovascular status, vital signs and neurological signs (for example drooping eyelids or difficulty swallowing) regularly.",
+                  "8. Give antivenom with adrenaline and resuscitation equipment ready, because antivenin is made from animal serum and can cause life-threatening allergic reactions. It is not used for mild or resolving symptoms.",
+                  "9. Avoid: tight tourniquets, cutting the wound, ice and sucking the wound."
+                ]
+              }
+            ],
+            "conclusion": "The patient is kept under observation for at least 6 hours before deciding whether antivenom is needed, since symptoms may appear late.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Snake bites: severity factors, immediate first aid, hospital management, things to avoid); WHO snakebite envenoming guidance (20-minute whole blood clotting test; never use a tight arterial tourniquet); WHO Guidelines for the Prevention and Clinical Management of Snakebite in Africa."
+          },
+          "warningNotice": "Where guidelines differ: some Australian first aid teaching uses a pressure immobilisation bandage for neurotoxic bites, and some protocols say to keep the limb level with the heart. Your lecture notes say splint the limb below heart level and avoid tourniquets, and WHO warns against tight arterial tourniquets. Write what your lecture notes say. Do not write the 'Do nots' as your main points: they earn marks only if the question asks what to avoid.",
+          "memoryTips": [
+            "Memory tip 1: Keep it SIMPLE for the first aid half: Calm, Clean, Cast (splint), Carry (to hospital). Four C words.",
+            "Memory tip 2: The things never to do spell TICS: Tourniquet, Ice, Cutting, Sucking. 'Snake bite, no TICS.'",
+            "Memory tip 3: Hospital half in one breath: ABC, Oxygen, IV, Bloods, Analgesia, Tetanus, Observe 6 hours, Antivenom if progressing.",
+            "Memory tip 4: Severity depends on species, venom amount, bite site (head or trunk worse), patient size and age, and time to antivenom. 'Snake, Site, Size, Time' is a quick set of four."
+          ],
+          "mnemonics": [
+            {
+              "title": "RIGHT (snake bite first aid mnemonic)",
+              "summary": "A popular snake bite first aid mnemonic used in national protocols (for example in India). It matches your lecture points.",
+              "source": "Snake bite treatment protocols (RIGHT mnemonic); WHO first aid principles",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Action",
+                  "Link to lecture notes"
+                ],
+                "rows": [
+                  [
+                    "R",
+                    "Reassure the patient",
+                    "Keep calm; panic spreads venom faster"
+                  ],
+                  [
+                    "I",
+                    "Immobilise the limb",
+                    "Splint, remove jewellery before swelling"
+                  ],
+                  [
+                    "G",
+                    "Get to hospital",
+                    "Call for help, transport to the nearest facility"
+                  ],
+                  [
+                    "H",
+                    "Hospital immediately",
+                    "No delay for traditional methods"
+                  ],
+                  [
+                    "T",
+                    "Tell the doctor of symptoms",
+                    "Time of bite, swelling, bleeding, weakness, breathing"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "TICS (study aid for what to avoid)",
+              "summary": "A home-made acronym for the four 'do nots' in the lecture notes. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture notes",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Do not",
+                  "Why"
+                ],
+                "rows": [
+                  [
+                    "T",
+                    "Tourniquet",
+                    "Cuts off circulation and worsens tissue damage; WHO says never use a tight arterial tourniquet"
+                  ],
+                  [
+                    "I",
+                    "Ice",
+                    "Damages tissue and does not stop venom"
+                  ],
+                  [
+                    "C",
+                    "Cutting the wound",
+                    "Causes bleeding and infection and does not remove venom"
+                  ],
+                  [
+                    "S",
+                    "Sucking the wound",
+                    "Does not remove venom and risks infection"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct management point. Mix first aid and hospital care so that your five points show both stages.",
+              "Keywords the examiner looks for: reassure or keep calm, immobilise or splint, remove jewellery, clean the wound, transport to hospital, oxygen and IV access, bloods or clotting, tetanus, observe for 6 hours, antivenom.",
+              "Do not write 'do not apply a tourniquet' as one of five management points unless you have run out. It is a negative and some markers do not credit it. Better: spend the mark on 'immobilise the limb'.",
+              "Similar questions: 'first aid for a snake bite' (use RIGHT), 'hospital management of snake bite' (use the ABC then bloods then 6 hours then antivenom frame), 'factors affecting severity' (species, amount of venom, location and depth, patient age and health, time to treatment, individual susceptibility).",
+              "Same approach works for other envenomation or poisoning questions: first aid at the scene, then ABCs and supportive care, then the specific antidote."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "tension-pneumothorax",
+      "partNumber": 13,
+      "title": "Tension Pneumothorax",
+      "shortTitle": "Tension Pneumothorax",
+      "condition": "Tension Pneumothorax",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance (Sept 2022) · High-yield thoracic emergency",
+      "frequencyRank": 4,
+      "description": "Life-threatening thoracic trauma emergency caused by air trapped under pressure in the pleural space.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-sept2022-trauma-emergency-nursing_2",
+          "qNumber": "Q7",
+          "partId": "tension-pneumothorax",
+          "partTitle": "Tension Pneumothorax",
+          "tier": "Tier 3",
+          "topic": "Tension Pneumothorax",
+          "text": "Outline five (5) clinical manifestations of tension pneumothorax.",
+          "marks": 5,
+          "marksText": "5 marks, asked once",
+          "frequencyText": "Single appearance (Sept 2022) · Life-threatening thoracic emergency also tested in MCQs",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2022-trauma-emergency-nursing",
+              "paper": "September 2022 Class, Block One Exam (sat 13 March 2023)",
+              "ref": "Short Answer Questions, Q2",
+              "marks": 5,
+              "wording": "Outline five (5) clinical manifestations of tension pneumothorax"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "Tension pneumothorax is a life-threatening condition in which air enters the pleural space through a one-way valve and cannot escape. Rising pressure collapses the lung, pushes the mediastinum to the opposite side and reduces venous return to the heart.",
+            "subsections": [
+              {
+                "heading": "A. Five clinical manifestations to write (1 mark each)",
+                "points": [
+                  "1. Severe respiratory distress: sudden shortness of breath (air hunger), tachypnoea and sometimes cyanosis, because the lung on the affected side is compressed.",
+                  "2. Absent or markedly reduced breath sounds on the affected side, because air in the pleural space prevents lung expansion.",
+                  "3. Hyperresonant percussion note on the affected side, and the chest may look distended and move poorly with breathing.",
+                  "4. Hypotension with tachycardia (and cold, clammy skin), from reduced venous return and low cardiac output; these are the earliest and most sensitive circulatory signs.",
+                  "5. Distended neck veins (raised jugular venous pressure) from impaired venous return to the heart, and tracheal deviation away from the affected side as the mediastinum shifts (a late sign)."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable manifestations",
+                "points": [
+                  "6. Sudden, sharp chest pain on the affected side, often pleuritic.",
+                  "7. Anxiety, restlessness and a feeling of impending doom, then reduced level of consciousness as hypoxia worsens.",
+                  "8. Subcutaneous emphysema (crackling under the skin) and use of accessory muscles of respiration."
+                ]
+              }
+            ],
+            "conclusion": "Tension pneumothorax is diagnosed clinically and treated at once with needle decompression followed by chest tube insertion; treatment must not wait for a chest X-ray.",
+            "contentSupport": "ATLS (American College of Surgeons) thoracic trauma guidance; StatPearls: Tension Pneumothorax; Merck Manual Professional: Pneumothorax (Tension); Brunner and Suddarth's Medical-Surgical Nursing.; Lecture notes (shock types: obstructive shock; trauma assessment: breathing); MSD Manual Professional: Tension Pneumothorax; WikEM."
+          },
+          "warningNotice": "Exam trap: tracheal deviation and distended neck veins are classic textbook signs but often appear late, and neck veins may be flat if the patient is also bleeding. The earliest signs are respiratory distress, tachycardia and hypotension. Also, the question asks only for manifestations, so do not write management for marks.",
+          "memoryTips": [
+            "Memory tip 1: One side silent, one side drum: absent breath sounds with a hyperresonant (drum-like) percussion note on the same side.",
+            "Memory tip 2: The trachea runs away from the trouble. The mediastinum is pushed to the opposite side.",
+            "Memory tip 3: Think 'obstructive shock': low BP with raised neck veins and one silent side of the chest points to tension pneumothorax (cardiac tamponade also has low BP and raised neck veins, but breath sounds stay present on both sides)."
+          ],
+          "mnemonics": [
+            {
+              "title": "TENSION (study aid for the signs)",
+              "summary": "A home-made acronym to recall the main signs at the bedside. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from standard textbook clinical features",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Clinical meaning",
+                  "Why it happens"
+                ],
+                "rows": [
+                  [
+                    "T",
+                    "Tracheal deviation away from the affected side (late)",
+                    "Mediastinum is pushed across by the rising pressure"
+                  ],
+                  [
+                    "E",
+                    "Engorged (distended) neck veins",
+                    "Blood cannot return easily to the heart"
+                  ],
+                  [
+                    "N",
+                    "No breath sounds on the affected side",
+                    "Collapsed lung with air around it"
+                  ],
+                  [
+                    "S",
+                    "Shock: hypotension and tachycardia",
+                    "Reduced venous return and cardiac output"
+                  ],
+                  [
+                    "I",
+                    "Increased work of breathing, cyanosis",
+                    "Hypoxia from a compressed lung"
+                  ],
+                  [
+                    "O",
+                    "One-sided hyperresonance on percussion",
+                    "Trapped air under pressure"
+                  ],
+                  [
+                    "N",
+                    "Needs urgent needle decompression",
+                    "Clinical diagnosis, do not wait for X-ray"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct manifestation; writing five clear points is enough.",
+              "Keywords the examiner looks for: respiratory distress or dyspnoea, absent breath sounds, hyperresonance, hypotension or tachycardia, tracheal deviation, distended neck veins.",
+              "Specify the side: 'absent breath sounds on the affected side' scores better than 'absent breath sounds'.",
+              "Common error: using one mark twice, for example listing 'dyspnoea' and 'tachypnoea' as two separate manifestations. Choose five different findings.",
+              "Link to other papers: the Sept 2023 and Apr 2024 MCQs tested a deviated trachea as the most serious sign, and the vented dressing sealed on three sides for an open chest wound. Learn the signs together with the immediate treatment: needle decompression, then a chest tube."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "burns",
+      "partNumber": 14,
+      "title": "Burns: Emergent Phase",
+      "shortTitle": "Burns",
+      "condition": "Burns",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance (Apr 2025) · Also in MCQs",
+      "frequencyRank": 5,
+      "description": "Nursing interventions in the emergent (resuscitative) phase of a burn, including fluid resuscitation with the Parkland formula.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-april2025-trauma-emergency-nursing_2",
+          "qNumber": "Q8",
+          "partId": "burns",
+          "partTitle": "Burns: Emergent Phase",
+          "tier": "Tier 3",
+          "topic": "Burns",
+          "text": "Outline four (4) specific nursing interventions in the management of a burn during the emergent phase.",
+          "marks": 4,
+          "marksText": "4 marks, asked once",
+          "frequencyText": "Single appearance (Apr 2025) · Burns also tested in MCQs (Parkland, Curling's ulcer, depth)",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-april2025-trauma-emergency-nursing",
+              "paper": "April 2025 Class, Block One (sat 14 October 2025)",
+              "ref": "Section B, Q2",
+              "marks": 4,
+              "wording": "Outline four (4) specific nursing interventions in management of a burn during the emergent phase"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "The emergent (resuscitative) phase runs from the time of injury until fluid resuscitation is complete (about 24 to 48 hours). Its aims are first aid and the primary survey, fluid resuscitation, preventing respiratory distress, pain control and prevention of complications such as shock, electrolyte imbalance and hypothermia.",
+            "subsections": [
+              {
+                "heading": "A. Four specific interventions to write (1 mark each)",
+                "points": [
+                  "1. Maintain a patent airway and give oxygen: assess for inhalation injury (facial burns, singed nasal hair, hoarseness, stridor), give humidified 100% oxygen, position semi-Fowler's and prepare for early intubation if the airway is swelling.",
+                  "2. Start fluid resuscitation: insert at least one large-bore (16 to 18G) IV line, give Ringer's lactate by the Parkland formula (4 mL x % TBSA x weight in kg over 24 hours, half in the first 8 hours from the time of the burn and half over the next 16 hours), and insert a urinary catheter to keep urine output at 30 mL/hour or more in adults.",
+                  "3. Relieve pain: give IV opioids such as morphine or fentanyl as prescribed, assess the pain score regularly, and reassure the patient.",
+                  "4. Prevent hypothermia and protect the wound: cover the burn with a clean, dry, loose dressing, use a space blanket or heat lamp, keep the room at 28 to 32 degrees Celsius and work quickly when wounds are exposed."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable interventions",
+                "points": [
+                  "5. Stop the burning process and cool the burn: extinguish flames (stop, drop and roll), remove smouldering clothing and jewellery, and soak in cool running water for 10 to 15 minutes (not longer, because of hypothermia risk). Do not apply ice, butter or greasy substances and do not break blisters.",
+                  "6. Estimate the burned area (TBSA) by the Rule of Nines, Lund and Browder chart (best for children) or palmar method, and revise within 72 hours.",
+                  "7. Protect the stomach: give an H2 blocker or proton pump inhibitor and sucralfate, start early enteral feeding, and use an NG tube for paralytic ileus, to prevent Curling's ulcer.",
+                  "8. Monitor: vital signs, perfusion, electrolytes (hyperkalaemia and hyponatraemia), ABGs, haematocrit and chest X-ray; give tetanus prophylaxis."
+                ]
+              }
+            ],
+            "conclusion": "Example from your Apr 2025 MCQs: a 50 kg patient with 27% burns needs 4 x 50 x 27 = 5,400 mL in 24 hours, so 2,700 mL in the first 8 hours (337.5 mL/hour) and 2,700 mL over the next 16 hours (about 169 mL/hour).",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Burns: pathophysiology, classification, Phase 1 emergent management, fluid resuscitation, pain, GI management); nursing guidance on priority burn interventions (airway, fluids, pain control, warmth)."
+          },
+          "warningNotice": "Exam trap: write only EMERGENT phase interventions. Skin grafting, topical antibacterials, splinting to prevent contractures and pressure garments belong to the acute and rehabilitation phases and earn no marks here. Also note that ranitidine, named in some lecture slides, has been withdrawn in many countries, so write 'an H2 blocker or PPI' to be safe.",
+          "memoryTips": [
+            "Memory tip 1: Emergent phase in four words: Airway, Access (fluids), Analgesia, Avoid cold. The first A is 'Airway and oxygen', the second is 'Access for Parkland fluids'.",
+            "Memory tip 2: Parkland says 'four times weight times percent, half now, half later': 4 x kg x %TBSA, half in the first 8 hours, half over the next 16 hours.",
+            "Memory tip 3: Rule of Nines for an adult adds up to 100: head 9, each arm 9, each leg 18, front of trunk 18, back of trunk 18, genitalia 1. Say '9-18-18-1'.",
+            "Memory tip 4: The three phases are Resuscitate, Heal, Rehabilitate. Emergent is the first R: if you find yourself writing grafts or scars, you are in the wrong phase."
+          ],
+          "mnemonics": [
+            {
+              "title": "BURNS (study aid for emergent phase interventions)",
+              "summary": "A home-made acronym with one intervention per letter. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture notes (Phase 1: Emergent)",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Intervention",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "B",
+                    "Breathing: airway and oxygen",
+                    "Check for inhalation injury, humidified 100% O2, early intubation"
+                  ],
+                  [
+                    "U",
+                    "Urine and fluids",
+                    "Large-bore IV, Parkland formula, catheter, urine at least 30 mL/h"
+                  ],
+                  [
+                    "R",
+                    "Relieve pain",
+                    "IV morphine or fentanyl as prescribed, reassess pain"
+                  ],
+                  [
+                    "N",
+                    "No cold: prevent hypothermia",
+                    "Cover wound, space blanket, room 28 to 32 degrees Celsius"
+                  ],
+                  [
+                    "S",
+                    "Stop the burning and Stomach protection",
+                    "Cool 10 to 15 min; H2 blocker or PPI, early feeding"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "Rule of Nines (adults)",
+              "summary": "The quick method for estimating the burned area of an adult. Use Lund and Browder for children.",
+              "source": "Lecture notes (classification by extent)",
+              "table": {
+                "headers": [
+                  "Body part",
+                  "% TBSA"
+                ],
+                "rows": [
+                  [
+                    "Head and neck",
+                    "9%"
+                  ],
+                  [
+                    "Each arm",
+                    "9%"
+                  ],
+                  [
+                    "Each leg",
+                    "18%"
+                  ],
+                  [
+                    "Anterior trunk",
+                    "18%"
+                  ],
+                  [
+                    "Posterior trunk",
+                    "18%"
+                  ],
+                  [
+                    "Genitalia",
+                    "1%"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "Parkland worked examples from the lecture and Apr 2025 MCQ",
+              "summary": "Practice these until the steps are automatic: weight x % x 4, divide by 2, divide by 8 for the hourly rate.",
+              "source": "Lecture notes (worked examples); Apr 2025 MCQ",
+              "table": {
+                "headers": [
+                  "Patient",
+                  "24-hour total",
+                  "First 8 hours",
+                  "Hourly rate (first 8 h)"
+                ],
+                "rows": [
+                  [
+                    "70 kg, 50% TBSA",
+                    "14,000 mL",
+                    "7,000 mL",
+                    "875 mL/h"
+                  ],
+                  [
+                    "50 kg, 27% TBSA",
+                    "5,400 mL",
+                    "2,700 mL",
+                    "337.5 mL/h"
+                  ],
+                  [
+                    "21 kg child, 25% TBSA",
+                    "2,100 mL",
+                    "1,050 mL",
+                    "131.25 mL/h"
+                  ],
+                  [
+                    "80 kg, 40% TBSA (modified Parkland, 3 mL)",
+                    "9,600 mL",
+                    "4,800 mL",
+                    "600 mL/h"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per intervention. Name the intervention and give one key detail (the how or the number). Write exactly four.",
+              "Keywords the examiner looks for: airway or oxygen, IV fluids or Parkland, pain relief or analgesia, prevent hypothermia, cover the wound, urinary catheter or urine output.",
+              "If the question says 'specific nursing interventions', do not write general nursing statements such as 'monitor vital signs' as your only point. Give the burn-specific action (for example the Parkland formula).",
+              "Phase questions: always state the phase mentally first. Emergent = resuscitate (24 to 48 h). Acute = prevent infection, wound care, nutrition, prevent contractures (48 to 72 h onward). Rehabilitation = pressure garments, scar management, psychosocial recovery.",
+              "Calculation questions (frequent in MCQs): write the formula, substitute, then answer with units. Check that you are asked for the first 8 hours, the next 16 hours or the whole 24 hours."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "seizures",
+      "partNumber": 15,
+      "title": "Seizures: First Aid",
+      "shortTitle": "Seizures",
+      "condition": "Seizures",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance (Apr 2025) · Core first aid",
+      "frequencyRank": 6,
+      "description": "First aid for a person having a seizure, and when to call for help.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-april2025-trauma-emergency-nursing_3",
+          "qNumber": "Q9",
+          "partId": "seizures",
+          "partTitle": "Seizures: First Aid",
+          "tier": "Tier 3",
+          "topic": "Seizures",
+          "text": "Outline the first aid management of a patient with seizures.",
+          "marks": 3,
+          "marksText": "3 marks, asked once",
+          "frequencyText": "Single appearance (Apr 2025) · Core first aid skill",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-april2025-trauma-emergency-nursing",
+              "paper": "April 2025 Class, Block One (sat 14 October 2025)",
+              "ref": "Section B, Q3",
+              "marks": 3,
+              "wording": "Outline the first aid management of a patient with seizures"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "A seizure is an episode of abnormal motor, sensory, autonomic or psychic activity caused by a sudden excessive neuronal discharge. First aid aims to keep the person safe during the seizure, protect the airway afterwards and know when to call for medical help. Most seizures stop on their own.",
+            "subsections": [
+              {
+                "heading": "A. Three first aid points to write (1 mark each)",
+                "points": [
+                  "1. Keep the person safe: stay with them, clear nearby hard or sharp objects, cushion the head and loosen tight neckwear. Note the time the seizure started.",
+                  "2. Do not restrain the person and do not put anything in the mouth: restraining can cause injury and objects can cause choking or broken teeth. (It is a myth that a person can swallow the tongue.)",
+                  "3. After the convulsion stops, roll the person onto the side (recovery position) to keep the airway clear, check breathing, reassure, and stay until fully recovered."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable points",
+                "points": [
+                  "4. Call for emergency help if the seizure lasts longer than 5 minutes, repeats without recovery, is the person's first seizure, happens in water, causes injury or leaves the person with breathing difficulty.",
+                  "5. Give nothing by mouth until the person is fully awake and alert.",
+                  "6. In hospital: suction if needed, give oxygen, place the bed low with padded side rails, and give IV diazepam 10 mg only if convulsions are continuous or recur."
+                ]
+              }
+            ],
+            "conclusion": "Remember that first aid is about safety and airway, not about stopping the seizure. The drug treatment belongs to hospital care.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (First aid: seizures; hospital care); Epilepsy Foundation seizure first aid guidance ('Stay, Safe, Side')."
+          },
+          "warningNotice": "Exam trap: the question asks for FIRST AID, so do not write drugs such as IV diazepam, investigations (EEG, CT) or long-term anti-epileptic therapy as your main points. Never write 'insert a spoon or an object between the teeth' or 'hold the person down': these are marked as unsafe.",
+          "memoryTips": [
+            "Memory tip 1: The Epilepsy Foundation uses three S words: STAY, SAFE, SIDE. Stay with the person, make them Safe, turn them on their Side.",
+            "Memory tip 2: Two 'nothings': nothing in the mouth, no holding down.",
+            "Memory tip 3: The 5-minute rule: call for help if a seizure lasts more than 5 minutes, or if it is a first seizure, in water, or after an injury.",
+            "Memory tip 4: Seizure first aid is the same pattern as fainting first aid (Safe, Side, Stay) except you do not lay the person flat during the convulsion."
+          ],
+          "mnemonics": [
+            {
+              "title": "Stay, Safe, Side (seizure first aid)",
+              "summary": "The three-word approach used by the Epilepsy Foundation. It matches the three marks of this question.",
+              "source": "Epilepsy Foundation seizure first aid; lecture notes (first aid: seizures)",
+              "table": {
+                "headers": [
+                  "Word",
+                  "What to do",
+                  "Key words to write"
+                ],
+                "rows": [
+                  [
+                    "Stay",
+                    "Stay with the person until awake and alert",
+                    "Time the seizure, stay calm, reassure afterwards"
+                  ],
+                  [
+                    "Safe",
+                    "Keep the person safe",
+                    "Clear objects, cushion the head, loosen neckwear, do not restrain, nothing in the mouth"
+                  ],
+                  [
+                    "Side",
+                    "Turn onto the side if not awake and aware",
+                    "Recovery position, keep the airway clear, check breathing"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "When to call for help (the 5-minute rule)",
+              "summary": "Common indications for emergency help during a seizure.",
+              "source": "Epilepsy Foundation guidance",
+              "table": {
+                "headers": [
+                  "Situation",
+                  "Action"
+                ],
+                "rows": [
+                  [
+                    "Seizure longer than 5 minutes",
+                    "Call emergency help"
+                  ],
+                  [
+                    "Repeated seizures without recovery",
+                    "Call emergency help"
+                  ],
+                  [
+                    "First-ever seizure",
+                    "Call emergency help"
+                  ],
+                  [
+                    "Seizure in water, or injury, or breathing difficulty afterwards",
+                    "Call emergency help"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 1 mark per distinct point, so write three clear points. Write Do and Do not in the same line if it helps.",
+              "Keywords the examiner looks for: stay with the person, clear objects or protect from injury, cushion the head, loosen clothing, do not restrain, nothing in the mouth, recovery position or turn on side, observe and time.",
+              "For any first aid question use the frame Do, Do not, Call for help. Examples from your notes: bleeding (firm direct pressure, elevate, add dressings on top), nosebleed (lean forward, pinch the soft part, do not tilt the head back), fractures (PRICE: Protect, Rest, Ice, Comfortable support, Elevate), stroke (FAST: Face, Arm, Speech, Time), hypoglycaemia (sugar if alert, do not feed if not fully alert), head injury (do not move, control scalp bleeding).",
+              "Do not confuse seizure first aid with the hospital management of status epilepticus. Unless the question says 'in hospital', stay with the first aid steps."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "near-drowning",
+      "partNumber": 16,
+      "title": "Near Drowning / Submersion Injury",
+      "shortTitle": "Near Drowning",
+      "condition": "Near Drowning",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance (Sept 2023) · Environmental emergency",
+      "frequencyRank": 7,
+      "description": "Resuscitation, support and observation of a drowning victim.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-sept2023-trauma-emergency-nursing_3",
+          "qNumber": "Q10",
+          "partId": "near-drowning",
+          "partTitle": "Near Drowning / Submersion Injury",
+          "tier": "Tier 3",
+          "topic": "Near Drowning",
+          "text": "Explain the steps a nurse would take for a near drowning victim.",
+          "marks": 3,
+          "marksText": "3 marks, asked once",
+          "frequencyText": "Single appearance (Sept 2023) · Environmental emergency",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2023-trauma-emergency-nursing",
+              "paper": "September 2023 Class, First Block Exam (sat 2 April 2024)",
+              "ref": "Part B, Q3",
+              "marks": 3,
+              "wording": "Explain the steps a nurse would take for a near drowning victim"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "Drowning (WHO definition) is the process of experiencing respiratory impairment from submersion or immersion in liquid. The main problem is hypoxia, and the outcome depends on how long the victim was without oxygen, so the faster the resuscitation the better the survival. Because the question says 'explain', give each step with its reason.",
+            "subsections": [
+              {
+                "heading": "A. Three steps to write (about 1 mark each, with the reason)",
+                "points": [
+                  "1. Resuscitate at once: ensure scene safety, open the airway and start basic life support (and advanced life support including intubation if needed). Give rescue breaths early because hypoxia is the cause of the arrest, and keep the neck and spine protected if a diving or fall injury is possible.",
+                  "2. Support and stabilise: give oxygen, establish IV access, and monitor SpO2, ABGs and the ECG; check the core temperature and warm the patient (remove wet clothes); correct the acid-base imbalance; and insert a gastric tube to decompress the stomach and prevent vomiting and aspiration.",
+                  "3. Observe for complications: admit for at least 24 hours of observation because the lungs may worsen over hours and ARDS (acute respiratory distress syndrome) is a serious complication; give antibiotics only as ordered (prophylactic antibiotics may be considered in contaminated water)."
+                ]
+              },
+              {
+                "heading": "B. Useful extra detail",
+                "points": [
+                  "4. Signs to monitor: dyspnoea that worsens over hours, cyanosis, crackles and wheeze, pink frothy sputum, tachycardia, confusion or coma.",
+                  "5. Even 1 to 3 mL/kg of aspirated water can wash out surfactant and impair gas exchange, and contaminants such as mud, algae or chlorine worsen the damage.",
+                  "6. Give emotional support to the patient and relatives, and document the time submerged and the interventions."
+                ]
+              }
+            ],
+            "conclusion": "The sequence is Rescue and resuscitate, Support and warm, then Observe for 24 hours.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Near drowning / submersion injury); ERC and ILCOR drowning resuscitation guidance (five initial rescue breaths because hypoxia is the main problem); StatPearls: Drowning."
+          },
+          "warningNotice": "Where sources differ: the lecture notes say to consider prophylactic antibiotics and to admit for at least 24 hours. Current international guidance does not recommend routine prophylactic antibiotics, advises neck immobilisation only when injury to the spine is suspected, observes well-looking patients for several hours, and discourages the term 'near drowning' in favour of 'non-fatal drowning'. For exam marks follow your lecture notes, but know the update.",
+          "memoryTips": [
+            "Memory tip 1: Hypoxia is the villain. Everything in the answer (breaths first, oxygen, gastric tube, observation) is a way to correct or watch for hypoxia.",
+            "Memory tip 2: Five initial rescue breaths before compressions in drowning (instead of the usual two) because the heart stops from lack of oxygen, not from a primary heart problem.",
+            "Memory tip 3: Think 'Warm, then watch': always check the core temperature and rewarm, then watch the chest for 24 hours."
+          ],
+          "mnemonics": [
+            {
+              "title": "DROWN (study aid for the three marks)",
+              "summary": "A home-made acronym that groups the lecture steps into five letters. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from the lecture notes",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Step",
+                  "Reason"
+                ],
+                "rows": [
+                  [
+                    "D",
+                    "Danger check and Drag out safely",
+                    "Protect rescuer; protect the neck if diving or fall injury"
+                  ],
+                  [
+                    "R",
+                    "Resuscitate: airway, breaths, CPR, intubate if needed",
+                    "Hypoxia caused the arrest"
+                  ],
+                  [
+                    "O",
+                    "Oxygen and monitoring: IV access, SpO2, ABGs, ECG",
+                    "Correct hypoxia and acid-base imbalance"
+                  ],
+                  [
+                    "W",
+                    "Warm: remove wet clothes, check core temperature, rewarm",
+                    "Hypothermia is common"
+                  ],
+                  [
+                    "N",
+                    "Now observe for 24 hours (and gastric tube)",
+                    "ARDS and pulmonary oedema can develop late; stomach distension risks aspiration"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "Drowning Chain of Survival",
+              "summary": "The international prevention and rescue chain, useful for a longer question on drowning.",
+              "source": "Szpilman et al. and the International Life Saving Federation; ILCOR",
+              "table": {
+                "headers": [
+                  "Link",
+                  "Action"
+                ],
+                "rows": [
+                  [
+                    "1",
+                    "Prevent drowning"
+                  ],
+                  [
+                    "2",
+                    "Recognise distress"
+                  ],
+                  [
+                    "3",
+                    "Provide flotation"
+                  ],
+                  [
+                    "4",
+                    "Remove from the water"
+                  ],
+                  [
+                    "5",
+                    "Provide care as needed"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 3 marks, so write three clear steps and explain each with 'because' or 'to'. Do not write a long essay.",
+              "Keywords the examiner looks for: open the airway, rescue breaths or CPR, oxygen, intubation, IV access, monitor SpO2 or ABGs, core temperature or warming, gastric tube, admit for 24 hours or observe for ARDS.",
+              "Command word 'Explain' needs the reason: 'give oxygen because hypoxia is the main problem'. If the command word were 'List' you could drop the reasons.",
+              "The same frame (Scene safety, ABCDE, specific treatment, observation) answers questions on electrocution, hypothermia, heat stroke and choking."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    },
+    {
+      "id": "organophosphate-poisoning",
+      "partNumber": 17,
+      "title": "Organophosphate Poisoning: Atropinisation",
+      "shortTitle": "Organophosphate Poisoning",
+      "condition": "Poisoning",
+      "tier": "Tier 3",
+      "frequencyBadge": "Single appearance (Sept 2023) · Antidotes also in MCQs",
+      "frequencyRank": 8,
+      "description": "Atropine therapy and signs of atropinisation in organophosphate poisoning.",
+      "questions": [
+        {
+          "id": "saq_krn-block1-sept2023-trauma-emergency-nursing_2",
+          "qNumber": "Q11",
+          "partId": "organophosphate-poisoning",
+          "partTitle": "Organophosphate Poisoning: Atropinisation",
+          "tier": "Tier 3",
+          "topic": "Organophosphate Poisoning",
+          "text": "List four (4) signs of atropinisation in the management of organophosphate poisoning.",
+          "marks": 2,
+          "marksText": "2 marks, asked once",
+          "frequencyText": "Single appearance (Sept 2023) · Poisoning antidotes also tested in MCQs",
+          "askedIn": [
+            {
+              "paperId": "krn-block1-sept2023-trauma-emergency-nursing",
+              "paper": "September 2023 Class, First Block Exam (sat 2 April 2024)",
+              "ref": "Part B, Q2",
+              "marks": 2,
+              "wording": "List (4) signs of atropinisation in the management of organophosphate poisoning"
+            }
+          ],
+          "modelAnswer": {
+            "intro": "Organophosphates inhibit cholinesterase, so acetylcholine builds up and causes a cholinergic crisis (small pupils, excess saliva and bronchial secretions, slow heart rate, sweating). Atropine is the antidote. It blocks the muscarinic effects and is given in repeated doses until the signs of atropinisation appear, which show that enough drug has been given.",
+            "subsections": [
+              {
+                "heading": "A. Four signs to write (half a mark each)",
+                "points": [
+                  "1. Dry mouth and dry skin (secretions dry up, including a dry chest and dry armpits).",
+                  "2. Dilated pupils (they are no longer pinpoint).",
+                  "3. Tachycardia (heart rate above about 80 to 100 beats per minute).",
+                  "4. Flushed, warm skin with a mild rise in temperature."
+                ]
+              },
+              {
+                "heading": "B. Other acceptable signs and the warning signs of too much atropine",
+                "points": [
+                  "5. A clear chest on auscultation, with no wheeze or crackles from bronchial secretions.",
+                  "6. Systolic blood pressure above about 80 mmHg.",
+                  "7. Too much atropine (atropine toxicity) shows as restlessness, agitation, delirium, high fever, urinary retention and a very fast heart rate (120 to 140 per minute). The nurse reports these and the dose is reduced or paused."
+                ]
+              }
+            ],
+            "conclusion": "Atropinisation is the desired end-point, not a side effect to be stopped. The dose is repeated every few minutes until the secretions dry and the chest is clear, then it is kept up with an infusion if needed.",
+            "contentSupport": "Trauma, Emergency Nursing and First Aid consolidated summary (drawing on Sheehy's Emergency Nursing Principles and Practice, 7th ed., and AHA material) (Poisoning: antidote table, organophosphates: atropine); atropine end-point criteria from poisoning treatment protocols (clear chest, heart rate above 80, pupils no longer pinpoint, dry axillae, systolic BP above 80); Queensland Ambulance Service and clinical toxicology guidelines."
+          },
+          "warningNotice": "Exam trap: do not list the signs of ORGANOPHOSPHATE POISONING (pinpoint pupils, salivation, sweating, diarrhoea, bradycardia, bronchorrhoea). Those are what atropine REVERSES. The question asks for the signs that show the atropine has worked, which are the opposite: dry, dilated, fast, flushed. Writing the poisoning signs earns no marks.",
+          "memoryTips": [
+            "Memory tip 1: Atropinisation is the mirror image of poisoning: wet and slow becomes dry and fast; pinpoint pupils become wide pupils.",
+            "Memory tip 2: The classic anticholinergic rhyme is 'dry as a bone, red as a beet, hot as a hare, blind as a bat, mad as a hatter, full as a flask'. The first four lines match the four signs here; the last two (confusion and urinary retention) warn of too much atropine.",
+            "Memory tip 3: For poisoning signs, use DUMBELS (Diarrhoea, Urination, Miosis, Bronchorrhoea/Bronchospasm, Emesis, Lacrimation, Salivation) and then flip each one.",
+            "Memory tip 4: The only cholinergic sign that atropine does not fix is the muscle weakness, because that is a nicotinic effect. It is treated with pralidoxime and supportive care, so do not use weakness as an atropinisation sign."
+          ],
+          "mnemonics": [
+            {
+              "title": "DRY-RED-WIDE-FAST (study aid for four signs)",
+              "summary": "A home-made four-word set that matches the four marks. It is a memory aid, not a published standard.",
+              "source": "Original study aid built from atropinisation end-point teaching",
+              "table": {
+                "headers": [
+                  "Letter",
+                  "Sign",
+                  "Opposite of poisoning sign"
+                ],
+                "rows": [
+                  [
+                    "DRY",
+                    "Dry mouth and dry skin, clear chest",
+                    "Salivation, sweating, bronchorrhoea"
+                  ],
+                  [
+                    "RED",
+                    "Flushed, warm skin (mild fever)",
+                    "Cool, sweaty skin"
+                  ],
+                  [
+                    "WIDE",
+                    "Dilated pupils",
+                    "Pinpoint pupils (miosis)"
+                  ],
+                  [
+                    "FAST",
+                    "Tachycardia",
+                    "Bradycardia"
+                  ]
+                ]
+              }
+            },
+            {
+              "title": "Anticholinergic rhyme (classic toxidrome mnemonic)",
+              "summary": "A well-known rhyme for the effects of atropine-like drugs. In organophosphate poisoning, you aim for the milder effects and stop before the delirium and retention.",
+              "source": "Classic toxicology teaching; atropine overdose descriptions",
+              "table": {
+                "headers": [
+                  "Phrase",
+                  "Meaning",
+                  "Use in this answer"
+                ],
+                "rows": [
+                  [
+                    "Dry as a bone",
+                    "Dry mouth, dry skin, dry secretions",
+                    "Sign of atropinisation"
+                  ],
+                  [
+                    "Red as a beet",
+                    "Flushed skin",
+                    "Sign of atropinisation"
+                  ],
+                  [
+                    "Hot as a hare",
+                    "Raised temperature",
+                    "Sign of atropinisation (watch for fever)"
+                  ],
+                  [
+                    "Blind as a bat",
+                    "Dilated pupils, blurred vision",
+                    "Sign of atropinisation"
+                  ],
+                  [
+                    "Mad as a hatter",
+                    "Agitation, delirium",
+                    "Atropine toxicity: report and reduce dose"
+                  ],
+                  [
+                    "Full as a flask",
+                    "Urinary retention",
+                    "Atropine toxicity: report and reduce dose"
+                  ]
+                ]
+              }
+            }
+          ],
+          "aceItTip": {
+            "title": "Examiner Scoring Key & Common Pitfalls",
+            "tips": [
+              "Marking rule: 2 marks for four signs, so give four one-line signs and stop. The first line should always be 'dry mouth and skin' or 'dilated pupils'.",
+              "Keywords the examiner looks for: dry mouth or dry skin, dilated pupils, tachycardia, flushing. A clear chest is accepted as an extra.",
+              "Learn the antidote table in your notes in pairs: poison, antidote and the sign that shows it is working (for example opioids: naloxone and improved breathing; organophosphates: atropine and atropinisation; paracetamol: acetylcysteine; iron: deferoxamine; warfarin: vitamin K; heparin: protamine; beta-blockers: glucagon).",
+              "Related question types: 'outline the management of organophosphate poisoning' (remove contaminated clothes and wash, ABCs, atropine to atropinisation, pralidoxime, benzodiazepines for seizures, monitor) and 'general management of poisoning' (identify the substance, do not induce vomiting, charcoal within about 1 hour, antidotes)."
+            ]
+          },
+          "block": "Block 1",
+          "category": "Trauma and Emergency Nursing"
+        }
+      ],
+      "questionCount": 1,
+      "block": "Block 1",
+      "category": "Trauma and Emergency Nursing"
+    }
+  ],
+  "block": "Block 1",
+  "category": "Trauma and Emergency Nursing"
+}

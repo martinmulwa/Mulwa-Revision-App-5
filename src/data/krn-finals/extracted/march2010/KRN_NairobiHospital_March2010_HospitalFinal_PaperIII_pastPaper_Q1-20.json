@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+    "year": "2010",
+    "month": "March",
+    "examType": "Main",
+    "title": "March 2010 Class Hospital Final Examination, Paper III (The Nairobi Hospital School of Nursing)",
+    "block": "Hospital Final",
+    "unit": "Comprehensive Nursing (Research, Medical-Surgical, Paediatrics, Community Health, Mental Health, Pharmacology, Sociology and Nursing Education)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the March 2010 class Hospital Final Examination Paper III of The Nairobi Hospital School of Nursing (sat 10 October 2012, Part A Multiple Choice Questions, Q1 to Q20).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q1",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "Vulnerable groups in research are persons:",
+        "options": {
+          "A": "Who cannot give credible data",
+          "B": "Who cannot be involved in research",
+          "C": "To whom research findings cannot be generalized",
+          "D": "Who are incapable of giving fully informed consent"
+        },
+        "correctAnswer": "D",
+        "explanation": "Who are incapable of giving fully informed consent (D) is correct because vulnerable groups are persons whose capacity, freedom or power to protect their own interests is limited, so they cannot fully understand the research or voluntarily agree to take part. Examples are children, the mentally ill or cognitively impaired, unconscious patients, prisoners, pregnant women and fetuses, and the very poor or dependent. They are not excluded from research, but extra protection is required, such as consent from a parent or legal guardian, assent from the child, and ethical committee approval. Who cannot give credible data (A) is incorrect because vulnerability is about protection and consent, not the quality of the data. Who cannot be involved in research (B) is incorrect because vulnerable persons can take part when additional safeguards are in place. To whom research findings cannot be generalized (C) is incorrect because generalizability is a sampling issue and has nothing to do with vulnerability.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q2",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "Clinical manifestations of sickle cells crisis include:",
+        "options": {
+          "A": "Pulmonary infarction",
+          "B": "Painful haematuria",
+          "C": "Spontaneous fracture",
+          "D": "Decreased blood viscosity"
+        },
+        "correctAnswer": "A",
+        "explanation": "Pulmonary infarction (A) is correct because in a sickle cell crisis the sickled red cells are rigid and sticky, so they block small vessels and cause tissue ischaemia and infarction (a vaso-occlusive crisis). In the lungs this produces the acute chest syndrome, with chest pain, cough, fever, hypoxia and pulmonary infiltrates. Other vaso-occlusive features are severe pain in the bones, joints, chest and abdomen, dactylitis (hand-foot syndrome), priapism, stroke and splenic infarction. Painful haematuria (B) is incorrect because the haematuria of sickle cell disease (from renal papillary necrosis) is typically painless. Spontaneous fracture (C) is incorrect because it is not a characteristic manifestation of a crisis, although bone infarcts and avascular necrosis of the femoral head can occur. Decreased blood viscosity (D) is incorrect because sickling increases the blood viscosity, which slows the circulation and worsens the sickling.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q3",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Complications of pneumonia include:",
+        "options": {
+          "A": "Bronchiectasis",
+          "B": "Glumerulonephritis",
+          "C": "Acute circulatory failure",
+          "D": "Pulmonar infarction"
+        },
+        "correctAnswer": "A",
+        "explanation": "Bronchiectasis (A) is correct because repeated or severe pneumonia (especially after measles or whooping cough in children) damages the bronchial walls and leaves permanently dilated airways with chronic productive cough. The other classical complications of pneumonia are pleural effusion, empyema, lung abscess, atelectasis, respiratory failure, septicaemia and meningitis. Glomerulonephritis (B) is incorrect because it follows a streptococcal skin or throat infection, not pneumonia. Acute circulatory failure (C) is incorrect as the best answer because, although septic shock or heart failure can occur in very severe pneumonia, it is not the classical listed complication. Pulmonary infarction (D) is incorrect because it results from a pulmonary embolus that blocks the pulmonary artery, not from pneumonia. Note: option C can be argued in severe cases, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q4",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Nursing interventions following orchidopexy include:",
+        "options": {
+          "A": "Warm saline sitz bath",
+          "B": "Scrotal support",
+          "C": "Restricting fluid intake",
+          "D": "Monitoring urine output"
+        },
+        "correctAnswer": "B",
+        "explanation": "Scrotal support (B) is correct because after orchidopexy (surgical fixation of an undescended or torsed testis in the scrotum) the scrotum swells and is tender, so it is supported with snug underwear or a scrotal support and cold packs are applied to reduce oedema and pain. The nurse also gives analgesia, observes the wound for bleeding and infection, and advises against straddle activities (bicycles, riding toys) and heavy exercise for about 2 to 4 weeks. Warm saline sitz bath (A) is incorrect because heat increases swelling and bleeding in the early post-operative period, and the wound is kept clean and dry. Restricting fluid intake (C) is incorrect because the child is encouraged to take fluids once awake and the bladder function is normal. Monitoring urine output (D) is incorrect because the urinary tract is not operated on, so it is not a specific intervention for this procedure.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q5",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Volvulus mainly refers to:",
+        "options": {
+          "A": "A bowel telescoping into another",
+          "B": "Twisting of a section of bowel",
+          "C": "Firmly wedged feces in a bowel",
+          "D": "Protrusion of a bowel through an aperture in the surrounding structures"
+        },
+        "correctAnswer": "B",
+        "explanation": "Twisting of a section of bowel (B) is correct because volvulus is the twisting of a loop of bowel around its mesenteric base, which causes obstruction and cuts off the blood supply (strangulation), leading to gangrene and perforation if it is not corrected. It commonly affects the sigmoid colon in adults and the small bowel (malrotation, midgut volvulus) in neonates, and presents with colicky abdominal pain, distension, vomiting and absolute constipation. A bowel telescoping into another (A) is incorrect because it describes intussusception. Firmly wedged feces in a bowel (C) is incorrect because it describes faecal impaction. Protrusion of a bowel through an aperture in the surrounding structures (D) is incorrect because it describes a hernia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q6",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "National Leprosy and Tuberculosis control programme was established in 1980 with an aim of implementing which element of PHC:",
+        "options": {
+          "A": "Immunization against major infectious diseases",
+          "B": "Prevention and control of locally endemic diseases",
+          "C": "Appropriate treatment of common diseases",
+          "D": "Provision of essential drugs"
+        },
+        "correctAnswer": "B",
+        "explanation": "Prevention and control of locally endemic diseases (B) is correct because the National Leprosy and Tuberculosis Programme (NLTP) was launched by the Government of Kenya in 1980, combining the Kenya Tuberculosis Programme (in existence since 1956) and several leprosy control projects, to control two diseases that are endemic in the country. This corresponds to the element of primary health care (Alma-Ata, 1978) on the prevention and control of locally endemic diseases. Immunization against major infectious diseases (A) is incorrect because it is the role of the Expanded Programme on Immunization (KEPI). Appropriate treatment of common diseases and injuries (C) is incorrect because it is a separate PHC element covering general curative care. Provision of essential drugs (D) is incorrect because it is a separate PHC element. Note: the programme also provides treatment, so option C can be argued, but the programme's purpose as a disease control programme matches B best; check against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q7",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "The side effects of measles vaccine that a nurse should observe include:",
+        "options": {
+          "A": "Abscess, convulsions",
+          "B": "Limb weakness, fever",
+          "C": "Rash, running eyes",
+          "D": "Bleeding, painful arm"
+        },
+        "correctAnswer": "C",
+        "explanation": "Rash, running eyes (C) is correct because measles vaccine is a live attenuated vaccine, so in some children it produces a mild form of measles 5 to 12 days after the injection, with a low-grade fever, a mild rash, and conjunctivitis or runny nose (running eyes). The mother is reassured that this is mild and short-lived and is advised to give paracetamol and fluids. Abscess, convulsions (A) is incorrect because an abscess is a complication of an unsterile technique or of BCG, and febrile convulsions are rare. Limb weakness, fever (B) is incorrect because limb weakness is associated with the oral polio vaccine (vaccine-associated paralysis) and not with measles vaccine. Bleeding, painful arm (D) is incorrect because it is not a characteristic effect, although mild pain at the injection site can occur.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q8",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "The aim of the exploration phase of community diagnosis is to:",
+        "options": {
+          "A": "Plan for survey",
+          "B": "Train the guides and interpreters",
+          "C": "Pre-test the tools for data collection",
+          "D": "Recognize the need for the diagnosis"
+        },
+        "correctAnswer": "D",
+        "explanation": "Recognize the need for the diagnosis (D) is correct because the exploration (preliminary) phase is when the team becomes familiar with the community, meets the leaders, gets permission and acceptance, and identifies the problems and the need for a community diagnosis, before the detailed work starts. Plan for survey (A) is incorrect because it is done in the planning phase that follows. Train the guides and interpreters (B) is incorrect because training of the data collectors, guides and interpreters is done in the preparatory phase, before the survey. Pre-test the tools for data collection (C) is incorrect because the pilot study or pre-testing of questionnaires and other tools takes place in the preparation phase, before the actual data collection.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q9",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "According to maternal and child health booklet, children who require home visiting and follow-up include:",
+        "options": {
+          "A": "Born to an elderly primigravida",
+          "B": "With weight loss for 3 consecutive months",
+          "C": "Who is starting school",
+          "D": "With one parent absent"
+        },
+        "correctAnswer": "B",
+        "explanation": "With weight loss for 3 consecutive months (B) is correct because the growth monitoring chart in the child health booklet is used to identify children at risk, and a child who is losing weight or not gaining weight over consecutive months is malnourished or ill and needs a home visit to find the cause (feeding, infections, home conditions) and follow-up. Other children who need home visits are those with low birth weight, malnutrition, chronic illness such as HIV or TB, those who default from immunization or clinic visits, orphans and children from very poor homes. Born to an elderly primigravida (A) is incorrect because the age of the mother alone is not a criterion for visiting the child. Who is starting school (C) is incorrect because starting school is a normal developmental step and is handled in the school health programme. With one parent absent (D) is incorrect because it is not by itself a criterion, although the social circumstances are considered. Note: the booklet itself could not be checked online, so this is based on standard growth monitoring and home-visit criteria; check against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q10",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "When weaning at 6 months:",
+        "options": {
+          "A": "Iron rich foods are introduced as soon as possible",
+          "B": "One new food item is given every day",
+          "C": "Honey is used as an alternative sweetener",
+          "D": "Eggs are introduced as an alternative protein"
+        },
+        "correctAnswer": "A",
+        "explanation": "Iron rich foods are introduced as soon as possible (A) is correct because the iron stores that the baby is born with are used up by about 6 months and breast milk contains little iron, so complementary feeding starts with iron-rich foods such as well-cooked and pureed meat, liver, fish, eggs, legumes and iron-fortified porridge, to prevent iron deficiency anaemia. One new food item is given every day (B) is incorrect because a new food is introduced one at a time with a gap of a few days (usually 3 to 5) so that any reaction can be recognised. Honey is used as an alternative sweetener (C) is incorrect because honey is avoided before 12 months, as it may contain Clostridium botulinum spores and cause infant botulism. Eggs are introduced as an alternative protein (D) is incorrect as the best answer because, although cooked eggs can be given, the key principle at 6 months is early introduction of iron-rich foods, and the question asks for the statement that applies to weaning generally.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q11",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Foods that are contraindicated in a patient with congestive cardiac failure include:",
+        "options": {
+          "A": "Canned beans, sausages",
+          "B": "Pawpaws, boiled maize",
+          "C": "Grilled fish, cabbage",
+          "D": "Mashed potatoes, githeri"
+        },
+        "correctAnswer": "A",
+        "explanation": "Canned beans, sausages (A) is correct because a patient with congestive cardiac failure is put on a low-sodium diet to reduce fluid retention, oedema and the workload of the heart, and canned and processed foods (canned beans, sausages, bacon, smoked and salted fish, stock cubes, salted snacks) contain a large amount of added salt. Pawpaws and boiled maize (B) are incorrect because they are fresh foods that are naturally low in sodium. Grilled fish and cabbage (C) are incorrect because fresh fish and vegetables, cooked without salt, are allowed. Mashed potatoes and githeri (D) are incorrect because they are low in sodium when prepared without added salt. Foods rich in potassium are encouraged when the patient is on loop diuretics, and fluid intake may be restricted.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q11"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q12",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "For the following statements, indicate whether True or False: (a) One of the presentations of autism is resistance to change of routine. (b) Talipes is appropriately managed by use of skeletal traction.",
+        "options": {
+          "A": "(a) True, (b) True",
+          "B": "(a) True, (b) False",
+          "C": "(a) False, (b) True",
+          "D": "(a) False, (b) False"
+        },
+        "correctAnswer": "B",
+        "explanation": "(a) True, (b) False (B) is correct. Statement (a) is true because autism spectrum disorder is marked by impaired social interaction and communication together with restricted, repetitive behaviours, and an insistence on sameness, with distress at any change in routine or environment, is a characteristic feature (others are poor eye contact, delayed speech, echolalia and stereotyped movements such as hand flapping). Statement (b) is false because talipes (clubfoot) is managed by serial manipulation and casting (the Ponseti method), usually followed by a percutaneous Achilles tenotomy and then foot abduction braces, with surgery for resistant cases, and skeletal traction is not used. Options A, C and D are incorrect because each of them marks at least one of the two statements wrongly. Note: in the original paper this item is two separate True or False statements, which has been converted to a four-option format here.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q12 (True/False converted to combined options)"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q13",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "According to IMCI guidelines, a 3 month old child with severe dehydration will present with:",
+        "options": {
+          "A": "Sunken eyes, lethargy, drinking fluid poorly",
+          "B": "Sunken eyes, irritability, pinch skin goes back slowly",
+          "C": "Sunken eyes, thirsty, pinch skin goes back slowly",
+          "D": "Sunken eyes, restless, drink water eagerly"
+        },
+        "correctAnswer": "A",
+        "explanation": "Sunken eyes, lethargy, drinking fluid poorly (A) is correct because in the IMCI classification of a child aged 2 months to 5 years with diarrhoea, severe dehydration is diagnosed when two or more of these signs are present: lethargic or unconscious, sunken eyes, not able to drink or drinking poorly, and skin pinch going back very slowly (more than 2 seconds). Option A has three of them. The treatment is Plan C (intravenous fluids, Ringer's lactate, with urgent referral if IV therapy is not available). Sunken eyes, irritability, pinch skin goes back slowly (B) is incorrect because restlessness and irritability, together with sunken eyes, thirst or skin pinch going back slowly (not very slowly), are the signs of some dehydration (Plan B, ORS). Option C (thirsty, skin pinch slowly) and option D (restless, drinks eagerly) are incorrect for the same reason: they describe some dehydration, not severe dehydration.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q13"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q14",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "According to WHO analgesic ladder, a patient who is in step 3 may be receiving the following drugs:",
+        "options": {
+          "A": "Paracetamol and Morphine",
+          "B": "DF 118 and pethidine",
+          "C": "Diclofenac and Paracetamol",
+          "D": "Brufen and Tramadol"
+        },
+        "correctAnswer": "A",
+        "explanation": "Paracetamol and Morphine (A) is correct because step 3 of the WHO analgesic ladder (moderate to severe pain) uses a strong opioid such as morphine, with or without a non-opioid (paracetamol or an NSAID) and adjuvant drugs, given regularly by mouth, by the clock, and titrated to the patient. DF 118 and pethidine (B) is incorrect because DF 118 (dihydrocodeine) is a weak opioid of step 2, and pethidine is a short-acting strong opioid that is not recommended for chronic or cancer pain because its metabolite accumulates and causes seizures. Diclofenac and paracetamol (C) is incorrect because they are the non-opioids of step 1 (mild pain). Brufen (ibuprofen) and tramadol (D) is incorrect because ibuprofen is a step 1 drug and tramadol is a weak opioid of step 2.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q14"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q15",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "Vertical transmission of Human immunodeficiency virus in children may occur due to:",
+        "options": {
+          "A": "Breastfeeding",
+          "B": "Use of unsafe needles",
+          "C": "Blood transfusion with unscreened blood",
+          "D": "Sexual assault"
+        },
+        "correctAnswer": "A",
+        "explanation": "Breastfeeding (A) is correct because vertical (mother-to-child) transmission of HIV is the passing of the virus from an infected mother to her baby during pregnancy (across the placenta), during labour and delivery (contact with blood and secretions), and after birth through breast milk. Use of unsafe needles (B) is incorrect because it is a parenteral (horizontal) route. Blood transfusion with unscreened blood (C) is incorrect because it is also a horizontal route through infected blood. Sexual assault (D) is incorrect because it is a horizontal, sexual route. Prevention of mother-to-child transmission (PMTCT) in Kenya is by lifelong ART for the mother, safe delivery practices, infant ARV prophylaxis, and safe infant feeding with exclusive breastfeeding for 6 months while the mother is on ART.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q15"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q16",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Maria is admitted in the ward after an attempted suicide. She had attempted suicide because her mother refused her to attend her friend’s birthday party; this type of suicide is classified as:",
+        "options": {
+          "A": "Altruistic",
+          "B": "Egoistic",
+          "C": "Fatalistic",
+          "D": "Anomic"
+        },
+        "correctAnswer": "C",
+        "explanation": "Fatalistic (C) is correct because in Durkheim's classification fatalistic suicide results from excessive social regulation, where a person feels that their future is blocked and their wishes are choked by oppressive discipline and control; here Maria's mother has strictly controlled her by refusing permission to go to a party. Altruistic (A) is incorrect because it results from too much integration, when the person sacrifices his or her life for the group (for example a suicide bomber or a soldier). Egoistic (B) is incorrect because it results from too little integration, when the person feels isolated and not part of any group. Anomic (D) is incorrect because it results from too little regulation or sudden social upheaval, such as a financial crash or the loss of a spouse, which leaves the person without norms to guide them. Note: the question is a loose application of Durkheim's types, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q16"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q17",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "Warfarin is contraindicated in:",
+        "options": {
+          "A": "Patients on heparin preparation",
+          "B": "Pregnancy",
+          "C": "Mitral stenosis",
+          "D": "Inherited thromphophilia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Pregnancy (B) is correct because warfarin crosses the placenta and is teratogenic: in the first trimester (particularly weeks 6 to 12) it causes warfarin embryopathy (nasal hypoplasia, stippled epiphyses, limb defects), and later in pregnancy it can cause fetal and neonatal haemorrhage and intracranial bleeding. Pregnant women who need anticoagulation are given heparin (low molecular weight heparin), which does not cross the placenta. Patients on heparin preparation (A) is incorrect because warfarin and heparin are overlapped for at least 5 days when starting warfarin, until the INR is therapeutic. Mitral stenosis (C) is incorrect because it is an indication for warfarin when there is atrial fibrillation or a prosthetic valve, in order to prevent emboli. Inherited thrombophilia (D) is incorrect because it is an indication for anticoagulation and not a contraindication.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q17"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q18",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "In nursing, demonstration of skills is very important for students’ acquisition of skills. This learning is based on a theory by:",
+        "options": {
+          "A": "Albert Bandura",
+          "B": "Ivan Pavlov",
+          "C": "BF Skinner",
+          "D": "Jean Piaget"
+        },
+        "correctAnswer": "A",
+        "explanation": "Albert Bandura (A) is correct because his social learning (observational learning, or modelling) theory states that people learn by watching and imitating a model, through the processes of attention, retention, reproduction and motivation. A demonstration of a nursing procedure lets the student observe, remember and then reproduce the skill. Ivan Pavlov (B) is incorrect because he described classical conditioning, learning by association between stimuli (the dog and the bell). BF Skinner (C) is incorrect because he described operant conditioning, in which behaviour is shaped by reinforcement and punishment. Jean Piaget (D) is incorrect because he described the stages of cognitive development in children (sensorimotor, preoperational, concrete operational and formal operational).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q18"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q19",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "Folkways are accepted ways of behaving, non conformity may call for:",
+        "options": {
+          "A": "Ridicule, gossip, glances",
+          "B": "Expulsion from the group, ridicule gossip",
+          "C": "Glances, punishment, gossip",
+          "D": "Expulsion from the group, punishment, gossip"
+        },
+        "correctAnswer": "A",
+        "explanation": "Ridicule, gossip, glances (A) is correct because folkways are the customary, everyday norms of a society, such as table manners, dress and greetings, that are not considered morally important, so breaking them is met only with mild informal sanctions: ridicule, gossip, disapproving glances and teasing. Options B, C and D are incorrect because they include expulsion from the group or punishment, which are severe sanctions that are linked to mores (norms with moral weight, such as taboos against murder or incest) and to laws, whose violation is dealt with by formal punishment or by banishment from the group.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q19"
+      },
+      {
+        "id": "krn-nairobihospital-march2010-hospitalfinal-paper3_q20",
+        "paperId": "krn-nairobihospital-march2010-hospitalfinal-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "Anatomical structures that may be involved as aetiological causes of depression include:",
+        "options": {
+          "A": "Planum temporale, cingulate gyrus",
+          "B": "Cingulate gyrus, temporal lobe",
+          "C": "Amygdala, planum temporale",
+          "D": "Amygdala, cingulate gyrus"
+        },
+        "correctAnswer": "D",
+        "explanation": "Amygdala, cingulate gyrus (D) is correct because both structures are part of the limbic circuit that regulates mood and emotion, and neuroimaging studies of major depression consistently show abnormal volume and activity in the amygdala (which is overactive to negative stimuli) and in the anterior and subgenual cingulate gyrus (which usually has reduced grey matter and altered activity), together with the prefrontal cortex and hippocampus. Options A and C are incorrect because they include the planum temporale, a part of the superior temporal gyrus linked to language processing and auditory function, which is not a recognised structure in the aetiology of depression. Cingulate gyrus, temporal lobe (B) is incorrect as the best answer because the temporal lobe is a very broad region (the specific temporal structures involved are the amygdala and hippocampus), so D is more precise.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q20"
+      }
+    ]
+  }
+]

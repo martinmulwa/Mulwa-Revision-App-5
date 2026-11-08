@@ -1,0 +1,229 @@
+/**
+ * Mulwa Clinical Exam Portal
+ * September 2013 Class GIT CAT I
+ *
+ * Block: Block 1
+ * Unit: GIT Disorders
+ *
+ * @author MULWA <martinmulwa95@gmail.com>
+ * @version 1.0.0
+ */
+
+import { PastPaper } from "../../../../types";
+
+export const KRN_BLOCK1_SEPT2013_GIT_CAT1: PastPaper = {
+  "id": "nairobi-hospital-sept2013-block1-git-cat-i",
+  "year": "2013",
+  "month": "September",
+  "examType": "Main",
+  "title": "September 2013 CAT 1",
+  "category": "GIT Disorders",
+  "block": "Block 1",
+  "unit": "GIT Disorders",
+  "totalQuestions": 11,
+  "totalSets": 1,
+  "sets": [
+    {
+      "setNumber": 1,
+      "title": "Set 1: Original Exam Questions",
+      "description": "The original MCQs and True/False statements from TNH September 2013 Class GIT CAT I paper (GIT Disorders, sat 17 May 2014, Part A, Q1 to Q10).",
+      "questionCount": 11
+    }
+  ],
+  "questions": [
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q1",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 1,
+      "questionType": "mcq",
+      "text": "One of the factors that protect the stomach lining from its acidic environment is:",
+      "options": {
+        "A": "Ability of its mucus layer to regenerate",
+        "B": "Stomach wall lined with stratified epithelium",
+        "C": "Absence of chief cells on the stomach lining",
+        "D": "Lack of protein digesting enzymes in the stomach"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ability of its mucus layer to regenerate (A) is correct because the stomach is protected by a thick layer of alkaline mucus and bicarbonate that coats the mucosa, and the surface cells and mucus are replaced very quickly (the epithelium renews every few days), so any damage is repaired; this is part of the gastric mucosal barrier, together with the tight junctions between cells and good mucosal blood flow. Stomach wall lined with stratified epithelium (B) is incorrect because the stomach is lined with simple columnar epithelium (the esophagus has stratified squamous epithelium). Absence of chief cells on the stomach lining (C) is incorrect because the gastric glands contain chief cells that secrete pepsinogen. Lack of protein digesting enzymes in the stomach (D) is incorrect because pepsin is a protein-digesting enzyme in the stomach, and it is kept inactive (as pepsinogen) until it meets the acid.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q1"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q2",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 2,
+      "questionType": "mcq",
+      "text": "Clay coloured stool indicates:",
+      "options": {
+        "A": "Bleeding in upper alimentary canal",
+        "B": "Bleeding in the lower alimentary canal",
+        "C": "Ingestion of iron sulfate medication",
+        "D": "Absence of bile"
+      },
+      "correctAnswer": "D",
+      "explanation": "Absence of bile (D) is correct because the brown colour of stool comes from the bile pigments (stercobilin), so when bile cannot reach the intestine (obstruction of the bile duct by gallstones or a tumour, or severe liver disease) the stool is pale or clay-coloured, and is often greasy from fat malabsorption. Bleeding in upper alimentary canal (A) is incorrect because it gives black, tarry stool (melena). Bleeding in the lower alimentary canal (B) is incorrect because it gives bright red blood in the stool. Ingestion of iron sulfate medication (C) is incorrect because iron makes the stool dark green or black.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q2"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q3",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 3,
+      "questionType": "mcq",
+      "text": "The main reason for positioning patient in left lateral during colonoscopy is to:",
+      "options": {
+        "A": "Prevent prolonged pressure on the liver",
+        "B": "Allow easy access for endoscope",
+        "C": "Prevent patient discomfort",
+        "D": "Reduce chances of causing perforation on the colon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Allow easy access for endoscope (B) is correct because in the left lateral (Sims') position with the knees drawn up the rectum and sigmoid colon follow their natural curve, so the colonoscope can be passed through the anus and advanced along the colon more easily. Prevent prolonged pressure on the liver (A) is incorrect because the procedure is short and the position has nothing to do with the liver. Prevent patient discomfort (C) is incorrect because comfort is a secondary benefit and not the main reason. Reduce chances of causing perforation on the colon (D) is incorrect because perforation is prevented by gentle technique and good bowel preparation, and not by the position (although the position helps the scope to advance).",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q3"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q4",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 4,
+      "questionType": "mcq",
+      "text": "Barrett's esophagus refers to:",
+      "options": {
+        "A": "An area of persistent bleeding on the esophagus",
+        "B": "Ulceration on the upper esophagus",
+        "C": "Abnormal transformation of cells lining esophagus",
+        "D": "Presence of distended veins on the walls of esophagus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Abnormal transformation of cells lining esophagus (C) is correct because in Barrett's esophagus the normal squamous lining of the lower esophagus is replaced by columnar (intestinal-type) epithelium as a result of long-standing gastroesophageal reflux; it is a premalignant condition that raises the risk of esophageal adenocarcinoma, so these patients need regular endoscopic surveillance. An area of persistent bleeding (A) is incorrect because bleeding is not what defines it. Ulceration on the upper esophagus (B) is incorrect because the change is in the lower esophagus and is not an ulcer (peptic ulcers can complicate it). Presence of distended veins on the walls of esophagus (D) is incorrect because it describes esophageal varices.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q4"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q5",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 5,
+      "questionType": "mcq",
+      "text": "The organism associated with chronic gastritis is:",
+      "options": {
+        "A": "Salmonella typhi",
+        "B": "Escherichia coli",
+        "C": "Entamoeba histolytica",
+        "D": "Helicobacter pylori"
+      },
+      "correctAnswer": "D",
+      "explanation": "Helicobacter pylori (D) is correct because this spiral, urease-producing bacterium colonises the gastric mucosa, damages it and causes chronic (type B) gastritis, and it is also the main cause of peptic ulcer disease and a risk factor for gastric cancer. Salmonella typhi (A) is incorrect because it causes typhoid fever. Escherichia coli (B) is incorrect because it causes gastroenteritis and urinary tract infections. Entamoeba histolytica (C) is incorrect because it causes amoebic dysentery and amoebic liver abscess.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q5"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q6",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 6,
+      "questionType": "mcq",
+      "text": "In Achalasia:",
+      "options": {
+        "A": "There is loss of peristaltic movement in the esophagus",
+        "B": "Patient experience pain during swallowing",
+        "C": "There is absence of sphincter on the lower portion of the esophagus",
+        "D": "Patient presents with abdominal gaseous distension"
+      },
+      "correctAnswer": "A",
+      "explanation": "There is loss of peristaltic movement in the esophagus (A) is correct because achalasia is a motility disorder in which the esophageal body loses its peristalsis and the lower esophageal sphincter fails to relax, so food and fluid are held up in the esophagus, which dilates; the patient has dysphagia for solids and liquids, regurgitation of undigested food and weight loss. Patient experience pain during swallowing (B) is incorrect because the problem is difficulty swallowing (dysphagia) and not pain on swallowing (odynophagia), although there may be chest pain. There is absence of sphincter on the lower portion of the esophagus (C) is incorrect because the sphincter is present but fails to relax. Patient presents with abdominal gaseous distension (D) is incorrect because the problem is above the stomach, and food stays in the esophagus. Note: the options in the paper were labelled (e) to (h) for this question and have been relabelled A to D.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q6"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q7",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 7,
+      "questionType": "mcq",
+      "text": "Patient diagnosed with gastric ulcer may present with:",
+      "options": {
+        "A": "Abdominal pain relieved by feeding",
+        "B": "Weight loss",
+        "C": "Black tarry stool",
+        "D": "Constipation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Weight loss (B) is correct because in a gastric ulcer the pain occurs soon after eating (30 to 60 minutes), so the patient fears eating and loses weight, whereas in a duodenal ulcer food relieves the pain and the weight is often maintained or increased. Abdominal pain relieved by feeding (A) is incorrect because this is the pattern of a duodenal ulcer. Black tarry stool (C) is incorrect because it occurs only when the ulcer bleeds (a complication), although it is a possible presentation. Constipation (D) is incorrect because it is not a feature of gastric ulcer. Note: option C is also plausible, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q7"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q8",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 8,
+      "questionType": "mcq",
+      "text": "Patient with gastroesophageal reflux disease is advised to avoid fatty food because it:",
+      "options": {
+        "A": "Slows down gastric emptying",
+        "B": "Increases gastric acidity",
+        "C": "Increases pressure in the stomach",
+        "D": "Relaxes lower esophageal sphicter"
+      },
+      "correctAnswer": "D",
+      "explanation": "Relaxes lower esophageal sphicter (D) is correct because fatty foods lower the pressure of the lower esophageal sphincter (through the release of cholecystokinin), so the sphincter opens more easily and gastric contents reflux into the esophagus; the patient is also advised to avoid chocolate, caffeine, alcohol, peppermint and smoking, which have the same effect. Slows down gastric emptying (A) is incorrect as the main reason, although fat does slow gastric emptying and this prolongs the time that the stomach is full. Increases gastric acidity (B) is incorrect because fat does not raise the acid secretion. Increases pressure in the stomach (C) is incorrect because it is not the recognised mechanism. Note: option A is also a recognised effect, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q8"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q9",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 9,
+      "questionType": "mcq",
+      "text": "In food poisoning, treatment is directed towards:",
+      "options": {
+        "A": "Providing diet low in fibre",
+        "B": "Monitoring signs of complications",
+        "C": "Eliminating the causative agent",
+        "D": "Providing patients comfort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Eliminating the causative agent (C) is correct because the treatment of food poisoning is aimed at removing the toxin or organism from the body (and the contaminated food), together with replacing fluid and electrolytes; the vomiting and diarrhoea that remove the agent are not stopped with antiemetics or antidiarrhoeals unless severe, and antibiotics are given only for specific organisms. Providing diet low in fibre (A), monitoring signs of complications (B) and providing patients comfort (D) are incorrect because they are supportive measures and do not remove the cause of the illness. Note: this item is open to interpretation, so check it against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q9"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q10",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 10,
+      "questionType": "true_false",
+      "text": "Adequate nutrition is ensured in patients with cancer of stomach through nasogastric tube feeding.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctAnswer": "B",
+      "explanation": "False (B) is correct because in cancer of the stomach the tumour (and the gastrectomy that follows) often blocks or removes the stomach, so a nasogastric tube is not a reliable or comfortable route for long-term feeding; nutrition is ensured through a feeding jejunostomy or gastrostomy, or by total parenteral nutrition, together with small frequent high-calorie, high-protein meals and supplements when the patient can eat. Note: a nasogastric tube is used in some patients for short-term feeding, so check this item against the marking scheme.",
+      "sourceType": "original_true_false",
+      "sourceRef": "Part A, Q10(a)"
+    },
+    {
+      "id": "nairobi-hospital-sept2013-block1-git-cat-i_q11",
+      "paperId": "nairobi-hospital-sept2013-block1-git-cat-i",
+      "setNumber": 1,
+      "questionNumberInSet": 11,
+      "questionType": "true_false",
+      "text": "Esomeprazole is given to patients with peptic ulcer disease to neutralize gastric acid.",
+      "options": {
+        "A": "True",
+        "B": "False"
+      },
+      "correctAnswer": "B",
+      "explanation": "False (B) is correct because esomeprazole is a proton pump inhibitor that reduces the production of gastric acid by blocking the H+/K+ ATPase (proton pump) of the parietal cells, and it does not neutralise acid that is already in the stomach. It is the antacids (such as aluminium hydroxide and magnesium hydroxide) that neutralise gastric acid.",
+      "sourceType": "original_true_false",
+      "sourceRef": "Part A, Q10(b)"
+    }
+  ]
+};

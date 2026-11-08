@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+    "year": "2012",
+    "month": "September",
+    "examType": "Supplementary",
+    "title": "September 2012 Class Hospital Final Supplementary Examination, Paper III (The Nairobi Hospital School of Nursing)",
+    "block": "Hospital Final",
+    "unit": "Comprehensive Nursing (Endocrine, Pharmacology, Sociology, Mental Health, Community Health, Paediatrics, Nutrition, Research and Nursing Education)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2012 class Hospital Final Supplementary Examination Paper III of The Nairobi Hospital School of Nursing (sat 21 May 2015, Part A Multiple Choice Questions, Q1 to Q20).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q1",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The main function of parathyroid hormone is to:",
+        "options": {
+          "A": "Increase blood calcium levels when low",
+          "B": "Decrease calcium absorption in the gut",
+          "C": "Maintain the body’s metabolic rate",
+          "D": "Regulating metabolic of proteins and carbohydrates"
+        },
+        "correctAnswer": "A",
+        "explanation": "Increase blood calcium levels when low (A) is correct because parathyroid hormone (PTH) is released when the blood calcium falls, and it raises it by stimulating osteoclasts to release calcium from bone, increasing calcium reabsorption (and phosphate excretion) in the renal tubules, and activating vitamin D, which increases calcium absorption from the gut. Decrease calcium absorption in the gut (B) is incorrect because PTH increases it, indirectly through vitamin D. Maintain the body's metabolic rate (C) is incorrect because it is the function of the thyroid hormones (thyroxine and tri-iodothyronine). Regulating metabolism of proteins and carbohydrates (D) is incorrect because it is the role of hormones such as insulin, glucagon, cortisol and growth hormone.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q2",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "The antituberclar drug associated with peripheral neuropathy is:",
+        "options": {
+          "A": "Rifampicin",
+          "B": "Isoniazid",
+          "C": "Ethambutol",
+          "D": "Pyrazinamide"
+        },
+        "correctAnswer": "B",
+        "explanation": "Isoniazid (B) is correct because it interferes with the metabolism of pyridoxine (vitamin B6), which causes numbness, tingling and burning of the hands and feet (peripheral neuropathy); it is prevented by giving pyridoxine with isoniazid, especially to children, pregnant women, people living with HIV and malnourished or alcoholic patients. Isoniazid also causes hepatitis. Rifampicin (A) is incorrect because it causes orange discoloration of urine, tears and sweat, hepatitis and drug interactions (it is an enzyme inducer). Ethambutol (C) is incorrect because it causes optic neuritis (loss of visual acuity and red-green colour discrimination). Pyrazinamide (D) is incorrect because it causes hyperuricaemia (gout and joint pain) and hepatitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q3",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "The following is more likely to cause tribal conflict:",
+        "options": {
+          "A": "Xenocentrism",
+          "B": "Tempocentrius",
+          "C": "Acculturation",
+          "D": "Ethinocentricism"
+        },
+        "correctAnswer": "D",
+        "explanation": "Ethnocentrism (D) is correct because it is the belief that one's own ethnic group or culture is superior and is the standard by which others are judged, which leads to prejudice, stereotyping, discrimination and hostility between groups, and so it is a common root of tribal conflict. Xenocentrism (A) is incorrect because it is a preference for foreign cultures over one's own, and does not breed conflict between groups. Tempocentrism (B) is incorrect because it is the tendency to view the present time as superior to other times (or to judge the past by today's standards). Acculturation (C) is incorrect because it is the process in which a group takes on the traits of another culture through contact, and it is not a cause of conflict.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q4",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Rehabilitation from substance abuse is most successful when:",
+        "options": {
+          "A": "Family cooperates with the care providers",
+          "B": "Patient is admitted in hospital",
+          "C": "Patient owns the process",
+          "D": "Only one substance is abused"
+        },
+        "correctAnswer": "C",
+        "explanation": "Patient owns the process (C) is correct because lasting recovery depends on the person's own motivation, acceptance of the problem and commitment to change, and treatment that the patient takes part in and takes responsibility for (setting goals, taking part in decisions) gives the best outcomes, whereas coerced treatment often fails once supervision ends. Family cooperates with the care providers (A) is incorrect as the best answer because family support is a valuable help, but it cannot replace the patient's own motivation. Patient is admitted in hospital (B) is incorrect because admission is needed for detoxification or severe cases, and does not by itself determine success, as outpatient and community programmes can work well. Only one substance is abused (D) is incorrect because it may make the treatment simpler, but it is not the main determinant of success.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q5",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "One of the following negative symptoms of psychosis refers to impervishment of speech:",
+        "options": {
+          "A": "Alogia",
+          "B": "Asocial",
+          "C": "Anhedonia",
+          "D": "Avolition"
+        },
+        "correctAnswer": "A",
+        "explanation": "Alogia (A) is correct because it is poverty of speech: the patient gives brief, empty replies, speaks little and spontaneously says very little (poverty of content of speech is also included). Asociality (B) is incorrect because it is a lack of interest in social contact and withdrawal from others. Anhedonia (C) is incorrect because it is an inability to feel pleasure from activities that were enjoyed before. Avolition (D) is incorrect because it is a lack of motivation and drive to start and carry on goal-directed activities, including self-care. The other negative symptom is affective flattening (blunted emotional expression).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q6",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "According to Erick Erickson the stage associated with identity or role conflict is:",
+        "options": {
+          "A": "3 – 6 years",
+          "B": "6 – 12 years",
+          "C": "12 – 18 years",
+          "D": "18 – 35 years"
+        },
+        "correctAnswer": "C",
+        "explanation": "12 – 18 years (C) is correct because in Erikson's psychosocial theory adolescence (about 12 to 18 years) is the stage of identity versus role confusion, in which the young person explores values, beliefs, career and sexual identity to form a sense of who he or she is; failure leads to role confusion. 3 – 6 years (A) is incorrect because it is the stage of initiative versus guilt. 6 – 12 years (B) is incorrect because it is the stage of industry versus inferiority. 18 – 35 years (D) is incorrect because it is the stage of intimacy versus isolation (young adulthood).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q7",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Components of comprehensive school health include:",
+        "options": {
+          "A": "Health services, career services",
+          "B": "Nutritional services, rehabilitation services",
+          "C": "Physical education, health education",
+          "D": "Health promotion, mentoring services"
+        },
+        "correctAnswer": "C",
+        "explanation": "Physical education, health education (C) is correct because both are recognised components of a comprehensive (coordinated) school health programme, which also includes health services, nutrition services, counselling and psychosocial services, a healthy and safe school environment, health promotion for staff, and family and community involvement. Health services, career services (A) is incorrect because health services is a component, but career services is not. Nutritional services, rehabilitation services (B) is incorrect because nutrition services is a component, but rehabilitation services is not. Health promotion, mentoring services (D) is incorrect because only staff health promotion is a component, and mentoring is not listed as such. Note: the exact list of components differs between textbooks, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q8",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "A lesson plan includes:",
+        "options": {
+          "A": "Objectives of the lesson, learner’s background information",
+          "B": "Teaching aids, content to be taught",
+          "C": "Time to be spent, strategies for motivating the learner",
+          "D": "Evaluation of the lesson, ice breaking questions"
+        },
+        "correctAnswer": "B",
+        "explanation": "Teaching aids, content to be taught (B) is correct because both are standard components of a lesson plan, which also includes the topic, the date, time and duration, the target group, the general and specific objectives, the introduction, the teaching and learning activities or methods, the summary or conclusion, evaluation and references. Objectives of the lesson, learner's background information (A) is incorrect as the best answer because the objectives are a component, but the background of the learner is only part of the learner analysis, not a named component of the plan. Time to be spent, strategies for motivating the learner (C) is incorrect as the best answer because time is a component, but motivation strategies are part of the teaching methods and are not listed separately. Evaluation of the lesson, ice breaking questions (D) is incorrect as the best answer because evaluation is a component, but ice-breaking is part of the introduction. Note: all options contain one valid component, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q9",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "The clinical manifestations suggestive of severe pneumonia in a child are:",
+        "options": {
+          "A": "Low grade fever, productive cough",
+          "B": "Stridor, nasal flaring",
+          "C": "Fast breathing, low-grade fever",
+          "D": "Chest indrawing, fast-breathing"
+        },
+        "correctAnswer": "D",
+        "explanation": "Chest indrawing, fast-breathing (D) is correct because in the IMCI classification of a child with cough or difficulty in breathing, lower chest wall indrawing (with or without fast breathing) means severe pneumonia, which requires an urgent first dose of an antibiotic and referral to hospital (in the older Kenya IMCI guidelines the child also had fast breathing: 50 breaths per minute or more at 2 to 12 months and 40 or more at 1 to 5 years). Low grade fever, productive cough (A) is incorrect because these are non-specific signs of a chest infection or a cold. Stridor, nasal flaring (B) is incorrect because stridor in a calm child is a sign of very severe disease, and nasal flaring is a sign of respiratory distress, but they are not the defining signs of severe pneumonia. Fast breathing, low-grade fever (C) is incorrect because fast breathing alone, without chest indrawing, is classified as pneumonia (not severe), and is treated at home with oral amoxicillin.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q10",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "A condition in which there is retraction and construction of the foreskin behind the glans penis is:",
+        "options": {
+          "A": "Phimosis",
+          "B": "Paraphimosis",
+          "C": "Balanitis",
+          "D": "Posthitis"
+        },
+        "correctAnswer": "B",
+        "explanation": "Paraphimosis (B) is correct because the foreskin is retracted behind the glans and then cannot be brought forward again; the tight band of foreskin constricts the penis, which causes swelling of the glans, pain and venous obstruction, and it is a urological emergency because it can lead to gangrene. Phimosis (A) is incorrect because it is the inability to retract the foreskin back over the glans, due to a narrow preputial opening. Balanitis (C) is incorrect because it is inflammation of the glans penis. Posthitis (D) is incorrect because it is inflammation of the foreskin (prepuce); when both are inflamed it is called balanoposthitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q11",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Use of fascia to strengthen the muscle wall in management of hernia is referred to as:",
+        "options": {
+          "A": "Herniotomy",
+          "B": "Herniophaphy",
+          "C": "Hernioplasty",
+          "D": "Fundoplication"
+        },
+        "correctAnswer": "C",
+        "explanation": "Hernioplasty (C) is correct because it is the repair of a hernia in which the weakened muscle wall of the abdomen is reinforced, using a piece of fascia, or a synthetic mesh, to close or support the defect. Herniotomy (A) is incorrect because it is the opening of the hernial sac, reduction of its contents and ligation of the sac at the neck, which is the operation done in children. Herniorrhaphy (B, written as herniophaphy) is incorrect because it is the repair of the weakened wall by suturing the muscle and fascia layers together, without added material. Fundoplication (D) is incorrect because it is an operation in which the fundus of the stomach is wrapped around the lower oesophagus, to treat reflux or a hiatus hernia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q11"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q12",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "A child with a body weight of 60 – 80% of expected for age and no edema is classified as:",
+        "options": {
+          "A": "Marasmic",
+          "B": "Underweight",
+          "C": "Kwashiorkor",
+          "D": "Marasmic-kwashiorkor"
+        },
+        "correctAnswer": "B",
+        "explanation": "Underweight (B) is correct because in the Wellcome classification of malnutrition, a child with a weight of 60 to 80% of the expected weight for age without oedema is underweight (moderate malnutrition). Marasmic (A) is incorrect because it is a weight below 60% of expected, without oedema. Kwashiorkor (C) is incorrect because it is a weight of 60 to 80% of expected, with oedema. Marasmic-kwashiorkor (D) is incorrect because it is a weight below 60% of expected, with oedema.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q12"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q13",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "The main purpose of home visiting is to:",
+        "options": {
+          "A": "Mentor client to better health",
+          "B": "Identify others with similar condition",
+          "C": "Offer counseling in child rearing",
+          "D": "Understand client’s socioeconomic status"
+        },
+        "correctAnswer": "D",
+        "explanation": "Understand client's socioeconomic status (D) is correct as the best answer because the main purpose of a home visit is to see the client in his or her own environment, so as to assess the home, the family and the social and economic conditions that affect the health problem, and then to plan care and education that fit those conditions. Mentor client to better health (A) is incorrect because it is a method of health education, rather than the main purpose. Identify others with similar condition (B) is incorrect because case finding is a secondary benefit of a visit (for example contact tracing). Offer counseling in child rearing (C) is incorrect because it is only one of many possible purposes, and it applies to a specific group of clients. Note: the other options are also activities done during a home visit, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q13"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q14",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "The constituent that is abundant in breast milk is:",
+        "options": {
+          "A": "Iron",
+          "B": "Sodium",
+          "C": "Linoleic acid",
+          "D": "Riboflavin"
+        },
+        "correctAnswer": "C",
+        "explanation": "Linoleic acid (C) is correct because human milk is rich in fat, and a large share of it is polyunsaturated essential fatty acids (linoleic acid and the long-chain fatty acids DHA and ARA) that are needed for growth of the brain and the retina; it contains more of them than cow's milk. Iron (A) is incorrect because breast milk contains only a small amount of iron, although it is very well absorbed (about 50%), and the baby's iron stores last for about 6 months. Sodium (B) is incorrect because the sodium content of breast milk is low (much lower than that of cow's milk), which protects the baby's immature kidneys. Riboflavin (D) is incorrect as the best answer because it is present in modest amounts, and it is not abundant. Note: the main carbohydrate in breast milk is lactose, which is not among the options.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q14"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q15",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "Consequences of malnutrition in hospitalized patients include:",
+        "options": {
+          "A": "Susceptibility to infections, longer hospital stay",
+          "B": "Higher costs, poor pain control",
+          "C": "Impaired wound healing, family conflict",
+          "D": "Frequent surgical interventions, blood transfusion"
+        },
+        "correctAnswer": "A",
+        "explanation": "Susceptibility to infections, longer hospital stay (A) is correct because malnutrition weakens the immune system (so infections and sepsis are more frequent), delays recovery and increases complications, which lengthens the hospital stay; it also causes muscle wasting, pressure ulcers, higher mortality and readmission. Higher costs, poor pain control (B) is incorrect because costs do rise, but poor pain control is not a recognised consequence of malnutrition. Impaired wound healing, family conflict (C) is incorrect because impaired wound healing is a true consequence, but family conflict is not a clinical consequence. Frequent surgical interventions, blood transfusion (D) is incorrect because malnutrition does not by itself require frequent surgery or transfusion.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q15"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q16",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "The success of Primary Health care programmes depends on:",
+        "options": {
+          "A": "Government resources, level of education of the community",
+          "B": "Number of health care facilities, immunization coverage",
+          "C": "Community participation, use of locally available resources",
+          "D": "Number of health care workers, duration of the programme"
+        },
+        "correctAnswer": "C",
+        "explanation": "Community participation, use of locally available resources (C) is correct because the Alma-Ata declaration (1978) bases primary health care on community participation and self-reliance, on the use of appropriate technology and locally available resources, and on intersectoral collaboration and equitable distribution, so that the programme is accepted, owned and sustained by the people. Government resources, level of education of the community (A) is incorrect because the programme relies on affordable local resources and not mainly on government funds, and education of the community is an outcome as well as a factor. Number of health care facilities, immunization coverage (B) is incorrect because they are measures of the programme's reach and results, not what makes it succeed. Number of health care workers, duration of the programme (D) is incorrect because the number of workers and the length of a programme do not determine success.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q16"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q17",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "According to IMCI protocol, a patient with the following conditions requires urgent referral:",
+        "options": {
+          "A": "Pneumonia with acute ear infection",
+          "B": "Mastoiditis with malaria",
+          "C": "Anaemia with some dehydration",
+          "D": "Chronic ear infection with malaria"
+        },
+        "correctAnswer": "B",
+        "explanation": "Mastoiditis with malaria (B) is correct because mastoiditis (tender swelling behind the ear) is classified in IMCI as a severe condition that needs a first dose of an antibiotic and urgent referral to hospital, and so the child with it is referred, whatever the other classification. Pneumonia with acute ear infection (A) is incorrect because both are classified for treatment with oral antibiotics at home (pneumonia without chest indrawing, and acute ear infection), with follow-up. Anaemia with some dehydration (C) is incorrect because only severe anaemia (severe palmar pallor) needs referral, while anaemia and some dehydration are treated with iron and ORS (Plan B) at the clinic or at home. Chronic ear infection with malaria (D) is incorrect because chronic ear infection is treated by dry wicking of the ear, and uncomplicated malaria is treated with an antimalarial, without referral.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q17"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q18",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "The following is true about hospice care:",
+        "options": {
+          "A": "Given in the last day of life",
+          "B": "There are long term in patient services",
+          "C": "Given to delay the progression of the disease",
+          "D": "Given to patients with moderate need for care"
+        },
+        "correctAnswer": "B",
+        "explanation": "There are long term in-patient services (B) is correct as the best answer because hospice care is a form of palliative care for people with a life-limiting illness, provided in the home, in day care and in an in-patient hospice unit, where patients may stay for long periods for symptom control, nursing care, and psychosocial and spiritual support. Given in the last day of life (A) is incorrect because hospice care is provided over weeks to months before death (usually the last 6 months), and not only on the last day. Given to delay the progression of the disease (C) is incorrect because hospice care does not aim to cure or delay the disease, but to relieve symptoms and improve the quality of life. Given to patients with moderate need for care (D) is incorrect because hospice care is for patients with advanced disease, who have a high need for care. Note: the options are loosely worded, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q18"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q19",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "The mental retardation condition caused by deficiency of thyroid hormone is:",
+        "options": {
+          "A": "Down syndrome",
+          "B": "Phenylketonuria",
+          "C": "Hydrocephalus",
+          "D": "Cretinism"
+        },
+        "correctAnswer": "D",
+        "explanation": "Cretinism (D) is correct because it is congenital hypothyroidism: when the baby has a lack of thyroid hormone (from an absent or underdeveloped thyroid, or from severe iodine deficiency in pregnancy), the brain does not develop normally, causing intellectual disability, stunted growth, a coarse face, a large protruding tongue, an umbilical hernia, constipation and jaundice; early detection and thyroxine replacement prevent the damage. Down syndrome (A) is incorrect because it is a chromosomal disorder (trisomy 21). Phenylketonuria (B) is incorrect because it is an inherited deficiency of the enzyme phenylalanine hydroxylase, which causes a build-up of phenylalanine. Hydrocephalus (C) is incorrect because it is an excess of cerebrospinal fluid in the ventricles, caused by an obstruction or by an imbalance between its production and absorption.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q19"
+      },
+      {
+        "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3_q20",
+        "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "The following is a directional hypothesis:",
+        "options": {
+          "A": "Age is related to the development of cancer",
+          "B": "Lecture method enhances students performance",
+          "C": "Diet does not influence body weight",
+          "D": "Anxiety correlates with ones academic performance"
+        },
+        "correctAnswer": "B",
+        "explanation": "Lecture method enhances students performance (B) is correct because a directional hypothesis states the expected direction of the relationship or difference between the variables (here the lecture method improves performance, rather than just changing it). Age is related to the development of cancer (A) is incorrect because it states that a relationship exists but not its direction (a non-directional hypothesis). Diet does not influence body weight (C) is incorrect because it states that there is no relationship, which is a null hypothesis. Anxiety correlates with one's academic performance (D) is incorrect because it states a correlation without saying whether it is positive or negative (a non-directional hypothesis).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q20"
+      }
+    ]
+  }
+]

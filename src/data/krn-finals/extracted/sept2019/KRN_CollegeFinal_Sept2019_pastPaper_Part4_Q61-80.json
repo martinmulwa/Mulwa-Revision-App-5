@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-collegefinal-sept2019-part4",
+    "year": "2019",
+    "month": "September",
+    "examType": "Main",
+    "title": "September 2019 Class College Final Exam (Part 4 of 6)",
+    "block": "College Final",
+    "unit": "Comprehensive Nursing (Medical-Surgical, Paediatrics, Midwifery, Community Health, Mental Health, Pharmacology, Research, Leadership and Management)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q61 to Q80).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-collegefinal-sept2019-part4_q1",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The newly qualified nurse expects to increase the following type of power in the first few months of their job:",
+        "options": {
+          "A": "Legitimate",
+          "B": "Expert",
+          "C": "Referent",
+          "D": "Reward"
+        },
+        "correctAnswer": "B",
+        "explanation": "Expert (B) is correct because expert power comes from knowledge, skills and competence, and a newly qualified nurse gains it as clinical experience, confidence and credibility grow in the first months of practice. Legitimate (A) is incorrect because it comes from the formal position or title, which the nurse already has on appointment. Referent (C) is incorrect because it is based on being admired and liked by others and develops through personal relationships rather than from clinical growth. Reward (D) is incorrect because it is the ability to give rewards such as promotions or incentives, which belongs to managers.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q61"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q2",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "Baby GEE, a male infant is born through spontaneous vaginal delivery. He weighs 3.0 kgs, APGAR score is 9/10 at 5 minutes. The type of assessment that the nurse is required to conduct immediately for baby GEE is:",
+        "options": {
+          "A": "Emergency",
+          "B": "Focused",
+          "C": "Time lapsed",
+          "D": "Comprehensive"
+        },
+        "correctAnswer": "D",
+        "explanation": "Comprehensive (D) is correct because a newborn who is stable (Apgar 9 out of 10) needs a complete head-to-toe assessment with history to set a baseline, covering weight, vital signs, gestational age, reflexes and checks for congenital abnormalities. Emergency (A) is incorrect because it is for life-threatening problems, and this baby is well. Focused (B) is incorrect because it looks at one specific problem or body system. Time lapsed (C) is incorrect because it is a reassessment done later to compare with the baseline.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q62"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q3",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "The planning component of nursing process involves:",
+        "options": {
+          "A": "Assigning priorities, formulation of nursing diagnosis",
+          "B": "Developing expected outcomes, outlining nursing activities",
+          "C": "Developing nursing diagnosis, analysis of collected data",
+          "D": "Processing data, developing expected outcome"
+        },
+        "correctAnswer": "B",
+        "explanation": "Developing expected outcomes, outlining nursing activities (B) is correct because planning sets priorities, writes measurable goals or expected outcomes, chooses nursing interventions and documents them in the care plan. Assigning priorities, formulation of nursing diagnosis (A) is incorrect because formulating the nursing diagnosis belongs to the diagnosis step, even though setting priorities is part of planning. Developing nursing diagnosis, analysis of collected data (C) is incorrect because both belong to the diagnosis step. Processing data, developing expected outcome (D) is incorrect because processing data is part of assessment and diagnosis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q63"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q4",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "The most appropriate diagnostic label for a patient with a respiratory rate of 28br/min, who has shortness of breath and uses accessory muscles is:",
+        "options": {
+          "A": "Ineffective breathing pattern",
+          "B": "Ineffective airway clearance",
+          "C": "Impaired gaseous exchange",
+          "D": "Altered oxygenation"
+        },
+        "correctAnswer": "A",
+        "explanation": "Ineffective breathing pattern (A) is correct because its defining characteristics are tachypnoea, dyspnoea (shortness of breath) and use of accessory muscles, meaning that inspiration or expiration does not give adequate ventilation. Ineffective airway clearance (B) is incorrect because it is shown by cough, retained secretions and abnormal breath sounds. Impaired gaseous exchange (C) is incorrect because it needs evidence of abnormal gas levels, such as hypoxia, cyanosis, confusion or abnormal blood gases. Altered oxygenation (D) is incorrect because it is a general term and not a specific nursing diagnosis label.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q64"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q5",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Nurse P performs change of wound dressing on a patient. At the end of the shift the nurse realizes that she forgot to document their findings. The appropriate action to take is:",
+        "options": {
+          "A": "Complete an occurrence report before leaving",
+          "B": "Tell the next nurse to document on her behalf",
+          "C": "Write a note of the dressing change into an earlier note",
+          "D": "Make a late entry as an addition to the narrative notes"
+        },
+        "correctAnswer": "D",
+        "explanation": "Make a late entry as an addition to the narrative notes (D) is correct because missed documentation is recorded as a clearly labelled late entry, with the current date and time and a reference to the date and time of the actual event, signed by the nurse who did the care. Complete an occurrence report before leaving (A) is incorrect because forgetting to chart is not an incident that replaces the entry itself. Tell the next nurse to document on her behalf (B) is incorrect because a nurse must document only the care she personally gave. Write a note of the dressing change into an earlier note (C) is incorrect because altering or inserting into earlier entries falsifies the record.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q65"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q6",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "The nursing intervention for Mrs. Z diagnosed with hypothyroidism involves:",
+        "options": {
+          "A": "Administration of propranolol 10mg PO 8 hourly",
+          "B": "Preparing the patient for thyroidectomy",
+          "C": "Administration of levothyroxine 50mcg PO once a daily",
+          "D": "Promoting active exercises three times a day"
+        },
+        "correctAnswer": "C",
+        "explanation": "Administration of levothyroxine 50mcg PO once a daily (C) is correct because hypothyroidism is treated with lifelong thyroid hormone replacement, given once daily on an empty stomach, with TSH monitored and the dose adjusted. Administration of propranolol 10mg PO 8 hourly (A) is incorrect because propranolol controls the tachycardia and tremor of hyperthyroidism. Preparing the patient for thyroidectomy (B) is incorrect because surgery is for hyperthyroidism, goitre or thyroid cancer. Promoting active exercises three times a day (D) is incorrect because hypothyroid patients have fatigue and a slow metabolism, so activity is balanced with rest, and exercise is not the key intervention.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q66"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q7",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Assessment findings for a 7-month old baby with a 5 day onset of diarrhea are: restlessness, sunken eyes, skin pinch goes back immediately and cool hands. The appropriate classification is:",
+        "options": {
+          "A": "Severe persistent diarrhea with severe dehydration",
+          "B": "Persistent diarrhea with no dehydration",
+          "C": "Some dehydration",
+          "D": "Hypovolemic shock"
+        },
+        "correctAnswer": "C",
+        "explanation": "Some dehydration (C) is correct because in IMCI, two or more of restlessness or irritability, sunken eyes, drinking eagerly and a skin pinch that goes back slowly classify some dehydration. Here the child has restlessness and sunken eyes (two signs), and the immediate skin pinch is a normal finding. Treatment is ORS (Plan B) with zinc, followed by reassessment. Severe persistent diarrhea with severe dehydration (A) is incorrect because diarrhoea of 5 days is acute, not persistent (14 days or more), and severe dehydration needs lethargy or an inability to drink with a very slow skin pinch. Persistent diarrhea with no dehydration (B) is incorrect for the same reason and because dehydration is present. Hypovolemic shock (D) is incorrect because it needs a weak, fast pulse, delayed capillary refill and altered consciousness, and cool hands alone are not enough.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q67"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q8",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "A nurse noted that a 7-week old infant did not receive vaccination at birth. Appropriate action to take is:",
+        "options": {
+          "A": "Give BCG, OPV-0 now and infant to get other due vaccines the following day",
+          "B": "Give BCG, OPV-1 now together with other vaccines that are due",
+          "C": "Give OPV-1 Pentavalent -1, Rota -1 and PCV 10-1 and omit the missed vaccines",
+          "D": "Give OPV-1, Pentavalent -1, Rota -1 and PCV 10-1 and return for missed vaccines after 4 weeks"
+        },
+        "correctAnswer": "B",
+        "explanation": "Give BCG, OPV-1 now together with other vaccines that are due (B) is correct because in Kenya the birth dose of OPV (OPV-0) is given only within the first 14 days of life, so at 7 weeks the infant starts with OPV-1, and BCG can still be given late; all the vaccines due at 6 weeks (Pentavalent 1, PCV10-1, Rota-1 and OPV-1) are given on the same visit since vaccines can be given together. Give BCG, OPV-0 now and infant to get other due vaccines the following day (A) is incorrect because OPV-0 is no longer given after 14 days and delaying due vaccines is unnecessary. Give OPV-1 Pentavalent -1, Rota -1 and PCV 10-1 and omit the missed vaccines (C) is incorrect because BCG must not be omitted. Give OPV-1, Pentavalent -1, Rota -1 and PCV 10-1 and return for missed vaccines after 4 weeks (D) is incorrect because it delays BCG and leaves the infant unprotected against TB.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q68"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q9",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "Manifestations of patient diagnosed with syndrome of inappropriate antidiuretic hormone (SIADH) secretion include:",
+        "options": {
+          "A": "Hypernatremia and water loss",
+          "B": "Hyperkalemia and water loss",
+          "C": "Dilutional hyponatremia and water retention",
+          "D": "Dilutional hypokalemia and water retention"
+        },
+        "correctAnswer": "C",
+        "explanation": "Dilutional hyponatremia and water retention (C) is correct because excess ADH makes the kidneys reabsorb water, so the blood is diluted (low serum sodium and osmolality), urine is concentrated, and there is weight gain without oedema. Management is fluid restriction, with hypertonic saline only for severe symptoms. Hypernatremia and water loss (A) is incorrect because it describes diabetes insipidus. Hyperkalemia and water loss (B) is incorrect because SIADH does not cause water loss, and potassium is not the main disturbance. Dilutional hypokalemia and water retention (D) is incorrect because the dilutional change in SIADH is in sodium, not potassium.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q69"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q10",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Regarding pathophysiology of Diabetes mellitus, polyuria occurs as a result of:",
+        "options": {
+          "A": "Elevation in serum glucose",
+          "B": "Increase in antidiuretic hormone",
+          "C": "Excess of serum ketones",
+          "D": "Chronic insulin resistance"
+        },
+        "correctAnswer": "A",
+        "explanation": "Elevation in serum glucose (A) is correct because when blood glucose goes above the renal threshold (about 10 mmol/L or 180 mg/dL), glucose spills into the urine and pulls water with it (osmotic diuresis), causing polyuria, then polydipsia and dehydration. Increase in antidiuretic hormone (B) is incorrect because more ADH would reduce urine output. Excess of serum ketones (C) is incorrect because ketones add to the osmotic loss in DKA but are not the main cause. Chronic insulin resistance (D) is incorrect because it leads to hyperglycaemia but is not the direct cause of the polyuria.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q70"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q11",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Toddlers are at a risk of developing Anemia because of:",
+        "options": {
+          "A": "Picky eating",
+          "B": "Depletion of mineral stores",
+          "C": "Increased nutritional requirements",
+          "D": "Overdependence of milk in diet"
+        },
+        "correctAnswer": "D",
+        "explanation": "Overdependence of milk in diet (D) is correct because toddlers who take large amounts of cow's milk fill up on a food that is low in iron, eat fewer iron-rich foods, and milk can also cause small gut blood losses, leading to iron deficiency anaemia; the advice is to limit milk and add iron-rich foods. Picky eating (A) is incorrect as the best answer because it is a minor contributor. Depletion of mineral stores (B) is incorrect because the iron stores from birth run out in infancy at about 4 to 6 months. Increased nutritional requirements (C) is incorrect because growth raises needs, but the question looks for the specific preventable dietary cause, which is milk dependence.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q71"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q12",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "To aid in retrieval of memory for patients with dissociative amnesia, the patient should be:",
+        "options": {
+          "A": "Given diazepam",
+          "B": "Given sodium amobarbital",
+          "C": "Taken for electroconvulsive therapy",
+          "D": "Guided through systemic desensitization"
+        },
+        "correctAnswer": "B",
+        "explanation": "Given sodium amobarbital (B) is correct because in narcosynthesis (an amobarbital interview), a short-acting barbiturate given IV lowers anxiety and defences so that repressed memories can come back to consciousness; hypnosis is another aid. Given diazepam (A) is incorrect because it is an anxiolytic that treats anxiety and does not specifically help recall. Taken for electroconvulsive therapy (C) is incorrect because ECT is used for severe depression and catatonia and can itself cause memory loss. Guided through systemic desensitization (D) is incorrect because it is a behaviour therapy used to treat phobias.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q72"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q13",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Negative symptoms of schizophrenia include:",
+        "options": {
+          "A": "Indecisiveness, alogia",
+          "B": "Asociality, mannerisms",
+          "C": "Stereotypy, negativism",
+          "D": "Ambitendency, social withdrawal"
+        },
+        "correctAnswer": "A",
+        "explanation": "Indecisiveness, alogia (A) is the marked answer because alogia (poverty of speech) is a core negative symptom, and indecisiveness reflects the loss of drive and will (avolition and ambivalence). The other core negative symptoms are flat affect, anhedonia, asociality and attention problems. Asociality, mannerisms (B) is incorrect because mannerisms are a catatonic or disorganised motor feature. Stereotypy, negativism (C) is incorrect because both are catatonic features. Ambitendency, social withdrawal (D) is incorrect because ambitendency is a catatonic behaviour, although social withdrawal is a negative symptom.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q73"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q14",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "A correct statement regarding selective serotonin reuptake inhibitors (SSRI's) is they:",
+        "options": {
+          "A": "Cause drowsiness",
+          "B": "Have anticholinergic effects",
+          "C": "Should be taken in the morning",
+          "D": "Should be taken on an empty stomach"
+        },
+        "correctAnswer": "C",
+        "explanation": "Should be taken in the morning (C) is correct because SSRIs such as fluoxetine, sertraline and citalopram are activating and can cause insomnia and restlessness if taken at night. Cause drowsiness (A) is incorrect because sedation is more typical of tricyclics and mirtazapine, and SSRIs are generally not sedating. Have anticholinergic effects (B) is incorrect because dry mouth, constipation and urinary retention are typical of tricyclic antidepressants; SSRIs have little anticholinergic action. Should be taken on an empty stomach (D) is incorrect because they can be taken with food to reduce nausea, their commonest early side effect.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q74"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q15",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "The MOH form filled by a medical doctor during an involuntary admission of a psychiatry patient is:",
+        "options": {
+          "A": "613",
+          "B": "614",
+          "C": "615",
+          "D": "637"
+        },
+        "correctAnswer": "C",
+        "explanation": "615 (C) is correct because under Kenya's Mental Health Act, for involuntary admission the relative, friend or spouse completes the application on form MOH 614, and the medical practitioner who examines the patient completes the recommendation on form MOH 615, stating the grounds clearly; the recommendation is valid for 14 days. 613 (A) is incorrect because it is an application form for admission of an adult aged 16 years and above. 614 (B) is incorrect because it is the application filled by the relative or friend, not the doctor. 637 (D) is incorrect because it is the application form for a person under 16 years.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q75"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q16",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "According to Freud's psychosexual personality development theory, an indicator of fixation at the latency stage is:",
+        "options": {
+          "A": "Smoking",
+          "B": "Gender identity disorder",
+          "C": "Passive aggressive personality",
+          "D": "Excessive unwillingness to spend"
+        },
+        "correctAnswer": "B",
+        "explanation": "Gender identity disorder (B) is the marked answer because the latency stage (about 6 years to puberty) is the time when sexual energy is channelled into school, play and same-sex friendships, so fixation here is linked to problems of identification with same-sex peers and of gender identity. Smoking (A) is incorrect because it is an oral-stage fixation. Passive aggressive personality (C) is incorrect because it is linked to earlier stage conflicts, not latency. Excessive unwillingness to spend (D) is incorrect because it is a trait of the anal-retentive personality from the anal stage.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q76"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q17",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "During the orientation phase of therapeutic relationship, the nurse:",
+        "options": {
+          "A": "Reevaluates the goals set to identify new information",
+          "B": "Becomes acquainted with the patient and establishes trust",
+          "C": "Supports realistic problems solving activities of the client",
+          "D": "Gathers data about the patient in preparation for the first interaction"
+        },
+        "correctAnswer": "B",
+        "explanation": "Becomes acquainted with the patient and establishes trust (B) is correct because in the orientation (introductory) phase the nurse and patient meet, build rapport and trust, agree on a contract (roles, time, confidentiality, goals) and gather initial data. Reevaluates the goals set to identify new information (A) is incorrect because reviewing goals happens in the working and termination phases. Supports realistic problems solving activities of the client (C) is incorrect because problem solving takes place in the working phase. Gathers data about the patient in preparation for the first interaction (D) is incorrect because it belongs to the pre-interaction phase.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q77"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q18",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "A risk factor for osteoporosis is an increase in hormone:",
+        "options": {
+          "A": "Calcitonin",
+          "B": "Estrogen",
+          "C": "Vitamin D",
+          "D": "Parathyroid"
+        },
+        "correctAnswer": "D",
+        "explanation": "Parathyroid (D) is correct because raised parathyroid hormone (hyperparathyroidism) pulls calcium out of the bones to raise blood calcium, so bone density falls and osteoporosis follows. Calcitonin (A) is incorrect because it lowers blood calcium by reducing bone breakdown and is protective. Estrogen (B) is incorrect because it protects bone, and it is the fall in estrogen after menopause that raises the risk. Vitamin D (C) is incorrect because it increases calcium absorption from the gut, and deficiency, not an increase, is the risk.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q78"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q19",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "A positive Galeazzi sign is seen in:",
+        "options": {
+          "A": "Osteogenesis imperfecta",
+          "B": "Congenital hip dysplasia",
+          "C": "Osteoporosis",
+          "D": "Rheumatoid arthritis"
+        },
+        "correctAnswer": "B",
+        "explanation": "Congenital hip dysplasia (B) is correct because in the Galeazzi (Allis) test, with the baby supine and the hips and knees flexed with the feet flat, one knee looks lower than the other because of a shortened femur from a dislocated hip. Ortolani and Barlow tests and asymmetrical skin folds also suggest developmental dysplasia of the hip. Osteogenesis imperfecta (A) is incorrect because it is a brittle bone disease with fractures, blue sclera and bone deformities. Osteoporosis (C) is incorrect because it is low bone density with fragility fractures. Rheumatoid arthritis (D) is incorrect because it is an autoimmune joint inflammation with morning stiffness and symmetrical joint swelling.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q79"
+      },
+      {
+        "id": "krn-collegefinal-sept2019-part4_q20",
+        "paperId": "krn-collegefinal-sept2019-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "The most common form of abuse that affects the geriatric population is:",
+        "options": {
+          "A": "Psychological",
+          "B": "Financial",
+          "C": "Physical",
+          "D": "Neglect"
+        },
+        "correctAnswer": "A",
+        "explanation": "Psychological (A) is correct because verbal and emotional abuse (insults, threats, humiliation, isolation) is the most commonly reported form of elder abuse; in WHO figures, about 1 in 9 older people in the community report psychological abuse in the past year. Financial (B) is incorrect because it is the next commonest, together with neglect, in many reports. Physical (C) is incorrect because it is less frequently reported, but it carries the most visible injuries. Neglect (D) is incorrect because it is common, especially among dependent elderly and in institutions, but it is reported less often than psychological abuse.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q80"
+      }
+    ]
+  }
+]

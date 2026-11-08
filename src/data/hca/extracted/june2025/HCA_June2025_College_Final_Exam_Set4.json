@@ -1,0 +1,398 @@
+[
+  {
+    "id": "hca-june2025-college-final-exam-set4",
+    "year": "2025",
+    "month": "November",
+    "examType": "College Final Exam",
+    "title": "June 2025 Class College Final Exam (Part 4)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 21,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q61 to Q80. Q62 has two True/False statements, (a) and (b), each listed as its own question.",
+        "questionCount": 21
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-june2025-college-final-exam-set4_q1",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "A true statement regarding the trachea is:",
+        "options": {
+          "A": "It is located posterior to the esophagus",
+          "B": "Gaseous exchange takes place in the trachea",
+          "C": "It is held open by incomplete rings of cartilage posteriorly",
+          "D": "It is also known as the voice box"
+        },
+        "correctAnswer": "C",
+        "explanation": "It is held open by incomplete rings of cartilage posteriorly (C) is correct because the trachea has 16 to 20 C-shaped rings of hyaline cartilage whose open part faces backwards towards the oesophagus; the rings keep the airway open, and the gap allows the oesophagus to expand when food is swallowed. The trachea lies in front of (anterior to) the oesophagus, so (A) is wrong. Gaseous exchange (B) takes place in the alveoli, not the trachea. The voice box (D) is the larynx.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q61"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q2",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "true_false",
+        "text": "True or False: Motor nerves carry information from the brain to the effector organs like muscles.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "TRUE. Motor (efferent) nerves carry impulses away from the brain and spinal cord to effectors such as muscles and glands, causing movement or secretion. Sensory (afferent) nerves do the opposite and carry information from receptors, such as the skin and sense organs, to the brain and spinal cord.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q62 (a)"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q3",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "true_false",
+        "text": "True or False: The cerebellum controls and coordinates body movement.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "TRUE. The cerebellum, at the back of the brain below the cerebrum, coordinates voluntary movement, balance, posture and muscle tone, making movements smooth and precise. Damage causes unsteady gait (ataxia), tremor and poor coordination. Note that it coordinates movement, while the motor cortex of the cerebrum starts voluntary movement.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q62 (b)"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q4",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Which hormone is produced by the ovaries?",
+        "options": {
+          "A": "Testosterone",
+          "B": "Adrenaline",
+          "C": "Insulin",
+          "D": "Estrogen"
+        },
+        "correctAnswer": "D",
+        "explanation": "Estrogen (D) is correct because the ovaries produce oestrogen and progesterone, which control the menstrual cycle, develop female secondary sexual characteristics and support pregnancy. Testosterone (A) is mainly produced by the testes, adrenaline (B) by the adrenal medulla, and insulin (C) by the beta cells of the pancreas.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q63"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q5",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "What is the function of leukocytes?",
+        "options": {
+          "A": "Clotting blood",
+          "B": "Fighting infection",
+          "C": "Carrying oxygen",
+          "D": "Transporting nutrients"
+        },
+        "correctAnswer": "B",
+        "explanation": "Fighting infection (B) is correct because leukocytes are the white blood cells; they defend the body against micro-organisms and foreign substances through phagocytosis (neutrophils, monocytes) and antibody and cell-mediated immunity (lymphocytes). Clotting (A) is done by platelets (thrombocytes), carrying oxygen (C) by red blood cells (erythrocytes) using haemoglobin, and transporting nutrients (D) is mainly done by plasma.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q64"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q6",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "What is the middle layer of the skin?",
+        "options": {
+          "A": "Dermis",
+          "B": "Subcutaneous",
+          "C": "Hypodermis",
+          "D": "Epidermis"
+        },
+        "correctAnswer": "A",
+        "explanation": "Dermis (A) is correct because the skin has three layers: the epidermis (outer), the dermis (middle) and the hypodermis or subcutaneous layer (deepest). The dermis contains blood vessels, nerves, hair follicles, sweat and sebaceous glands, and collagen and elastin fibres. The epidermis (D) is the outer protective layer, while the subcutaneous layer (B) and hypodermis (C) are the same deep layer of fat and connective tissue.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q65"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q7",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Which part of the male reproductive system stores sperms?",
+        "options": {
+          "A": "Prostate",
+          "B": "Vas deferens",
+          "C": "Epididymis",
+          "D": "Testes"
+        },
+        "correctAnswer": "C",
+        "explanation": "Epididymis (C) is correct because sperm made in the testes pass into the epididymis, a coiled tube on the back of each testis, where they mature and are stored until ejaculation. The testes (D) produce sperm, the vas deferens (B) carries sperm from the epididymis towards the urethra, and the prostate (A) produces fluid that forms part of the semen.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q66"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q8",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Which gland regulates blood sugar?",
+        "options": {
+          "A": "Pituitary",
+          "B": "Adrenal",
+          "C": "Thyroid",
+          "D": "Pancreas"
+        },
+        "correctAnswer": "D",
+        "explanation": "Pancreas (D) is correct because its islets of Langerhans produce insulin, which lowers blood glucose, and glucagon, which raises it. The pituitary gland (A) controls other endocrine glands, the adrenal glands (B) produce cortisol and adrenaline, which can raise blood sugar but do not regulate it, and the thyroid (C) controls metabolism.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q67"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q9",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "Which structure filters blood to produce urine?",
+        "options": {
+          "A": "Liver",
+          "B": "Nephrons",
+          "C": "Bladder",
+          "D": "Ureter"
+        },
+        "correctAnswer": "B",
+        "explanation": "Nephrons (B) are correct because they are the functional units of the kidney: the glomerulus filters blood, and the tubules reabsorb needed substances and secrete wastes to form urine. The liver (A) processes nutrients and detoxifies the blood, the bladder (C) stores urine, and the ureter (D) carries urine from the kidney to the bladder.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q68"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q10",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Digestion of carbohydrates starts at the:",
+        "options": {
+          "A": "Mouth",
+          "B": "Stomach",
+          "C": "Small intestine",
+          "D": "Large intestine"
+        },
+        "correctAnswer": "A",
+        "explanation": "Mouth (A) is correct because chewing breaks the food up and the salivary amylase in saliva begins to break starch down into smaller sugars. Digestion of proteins begins in the stomach (B). Most chemical digestion and absorption occurs in the small intestine (C), and the large intestine (D) absorbs water and forms faeces.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q69"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q11",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Bones of the upper limb include:",
+        "options": {
+          "A": "Humerus, ulna",
+          "B": "Radius, tibia",
+          "C": "Fibula, carpals",
+          "D": "Ulna, tarsals"
+        },
+        "correctAnswer": "A",
+        "explanation": "Humerus, ulna (A) is correct because both are bones of the upper limb: the humerus in the upper arm, and the radius and ulna in the forearm, followed by the carpals, metacarpals and phalanges. The tibia and fibula (B, C) are bones of the lower leg, and the tarsals (D) are the ankle bones of the lower limb.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q70"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q12",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "The first step in giving first aid for a burn injury is to:",
+        "options": {
+          "A": "Apply butter analgesic ointment",
+          "B": "Cool the burn with running water",
+          "C": "Cover it tightly with a bandage",
+          "D": "Pop any blisters"
+        },
+        "correctAnswer": "B",
+        "explanation": "Cool the burn with running water (B) is correct because cooling the burn under cool (not ice-cold) running water for at least 10 to 20 minutes stops the burning process, reduces pain and limits tissue damage. Butter or ointment (A) traps heat and can cause infection, tight bandaging (C) can restrict swelling and stick to the wound (burns are covered loosely with a clean non-fluffy dressing after cooling), and blisters (D) must not be popped because they protect against infection.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q71"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q13",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "A sign of a third-degree burn is:",
+        "options": {
+          "A": "Red and painful skin",
+          "B": "Blisters and swelling",
+          "C": "White skin with little pain",
+          "D": "Darkened patch very painful"
+        },
+        "correctAnswer": "C",
+        "explanation": "White skin with little pain (C) is correct because a third-degree (full-thickness) burn destroys the whole skin, including the nerve endings, so the skin looks white, leathery, waxy or charred and the burn is usually painless, though the surrounding area may be painful. Red and painful skin (A) is a first-degree (superficial) burn. Blisters and swelling (B) indicate a second-degree (partial-thickness) burn. A darkened patch that is very painful (D) does not fit a full-thickness burn, because nerve endings are destroyed.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q72"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q14",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "The first thing to do when someone is bleeding heavily is to:",
+        "options": {
+          "A": "Stitch the bleeding area",
+          "B": "Remove any objects stuck in the wound",
+          "C": "Apply direct pressure on the wound",
+          "D": "Clean with antiseptic"
+        },
+        "correctAnswer": "C",
+        "explanation": "Apply direct pressure on the wound (C) is correct because firm pressure with a clean cloth or dressing slows and stops blood loss and is the first-line control of bleeding; the limb can then be raised and the patient helped to get medical care. Stitching (A) is done by a clinician. Objects stuck in the wound (B) must be left in place and padded around, because removing them can increase bleeding. Cleaning with antiseptic (D) comes after the bleeding has been controlled.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q73"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q15",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "The purpose of elevating an injured limb is to:",
+        "options": {
+          "A": "Decrease venous return",
+          "B": "Reduce blood flow to the injured limb",
+          "C": "Reduce pain to the injured area",
+          "D": "Keep the patient calm"
+        },
+        "correctAnswer": "B",
+        "explanation": "Reduce blood flow to the injured limb (B) is the best answer because raising the injured part above the level of the heart lowers the pressure of blood reaching the injured area, which helps to slow bleeding and limit swelling. Decreasing venous return (A) is wrong because elevation actually helps blood drain back from the limb by gravity. Pain relief (C) may follow because swelling is reduced, but it is a secondary benefit. Keeping the patient calm (D) is done through reassurance. If your lecture notes list \"reduce swelling\" or another answer as the key, follow your notes.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q74"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q16",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "The ratio of chest compressions to rescue breaths in adult basic life support is:",
+        "options": {
+          "A": "15:1",
+          "B": "15:2",
+          "C": "30:2",
+          "D": "30:3"
+        },
+        "correctAnswer": "C",
+        "explanation": "30:2 (C) is correct because in adult basic life support, 30 chest compressions are followed by 2 rescue breaths, repeated in cycles, with compressions at a rate of 100 to 120 per minute and a depth of about 5 to 6 cm. The ratios 15:1 (A), 15:2 (B) and 30:3 (D) are not used for adult basic life support. A 15:2 ratio is used for children by two rescuers.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q75"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q17",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "If a drowning victim starts breathing again after initial resuscitation, the next step is to:",
+        "options": {
+          "A": "Take more history",
+          "B": "Place them in the recovery position",
+          "C": "Continue CPR",
+          "D": "Give them water to drink"
+        },
+        "correctAnswer": "B",
+        "explanation": "Place them in the recovery position (B) is correct because once breathing has returned, lying the victim on their side keeps the airway open and lets water or vomit drain out, which prevents aspiration. The victim is then watched closely until medical help arrives, as problems can develop later. Taking more history (A) is not a priority, CPR (C) is stopped once the person is breathing normally, and giving water (D) risks choking and aspiration.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q76"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q18",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "The initial action a HCA should perform when responding to an emergency is:",
+        "options": {
+          "A": "Ensuring the safety of self and that of the victim",
+          "B": "Open the airway",
+          "C": "Check the responsiveness of the victim",
+          "D": "Give rescue breaths"
+        },
+        "correctAnswer": "A",
+        "explanation": "Ensuring the safety of self and that of the victim (A) is correct because the first step in any emergency response is to check for danger so that the rescuer does not become another casualty, and to make the scene safe for the victim. The next steps follow the DRSABCD approach: check response (C), call for help, open the airway (B), check breathing, and then give compressions and rescue breaths (D) if needed.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q77"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q19",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "A closed ended question is appropriate when:",
+        "options": {
+          "A": "Exploring the depth of patient's feelings",
+          "B": "Discussing patient care goals",
+          "C": "Checking for pain presence",
+          "D": "Encouraging detailed life stories"
+        },
+        "correctAnswer": "C",
+        "explanation": "Checking for pain presence (C) is correct because closed-ended questions have short, specific answers (yes, no or a fact), for example \"Do you have pain now?\", and are suited to getting quick, specific information. Exploring feelings (A), discussing care goals (B) and encouraging detailed life stories (D) need open-ended questions that allow the patient to explain in their own words.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q78"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q20",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "A patient says, \"I'm so worried about going home next week.\" A therapeutic response by the HCA would be:",
+        "options": {
+          "A": "\"Don't worry, you'll be fine once you are home.\"",
+          "B": "\"Why are you worried about going home, it is the place for you this time when you are discharged\"",
+          "C": "\"Tell me more about what specifically is making you feel worried about going home?\"",
+          "D": "\"Everyone gets worried about discharge.\""
+        },
+        "correctAnswer": "C",
+        "explanation": "\"Tell me more about what specifically is making you feel worried about going home?\" (C) is correct because it is an open-ended, non-judgemental response that invites the patient to explain their fears, shows that the HCA is listening and lets the concern be identified and passed to the nurse. False reassurance (A) dismisses the feelings. A \"why\" question (B) sounds defensive and judgemental. Generalising (D) belittles the patient's individual concern. These are all non-therapeutic communication techniques.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q79"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set4_q21",
+        "paperId": "hca-june2025-college-final-exam-set4",
+        "setNumber": 1,
+        "questionNumberInSet": 21,
+        "questionType": "mcq",
+        "text": "Prioritization is a critical thinking skill that allows the Health care assistant to decide:",
+        "options": {
+          "A": "Which tasks are the easiest to complete",
+          "B": "Which tasks can be postponed until the next shift",
+          "C": "Which patient needs immediate attention",
+          "D": "Which team member to assign a task to"
+        },
+        "correctAnswer": "C",
+        "explanation": "Which patient needs immediate attention (C) is correct because prioritisation means ranking tasks and patients by urgency and risk, so that life-threatening or time-critical needs (for example breathing difficulty, bleeding, a patient who has fallen) are dealt with first, using airway, breathing and circulation as a guide. Choosing the easiest tasks (A) is not prioritising by need, postponing tasks to the next shift (B) may be unsafe, and assigning tasks to team members (D) is delegation, which is the nurse's role.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q80"
+      }
+    ]
+  }
+]

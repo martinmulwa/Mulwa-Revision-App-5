@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-block3-sept2019-supplementary-collegefinal-part6",
+    "year": "2019",
+    "month": "September",
+    "examType": "Supplementary",
+    "title": "September 2019 Class Block 3 Supplementary College Final Exam (Part 6 of 6)",
+    "block": "College Final",
+    "unit": "Comprehensive Nursing (Paediatric Surgery, Burns, HIV and IMNCI, Mental Health, Research, Midwifery and Obstetrics, Family Planning)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q101 to Q120).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q1",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "A feature of an emotionally abused child is:",
+        "options": {
+          "A": "Inappropriate clothing",
+          "B": "Indulgence in criminal activities",
+          "C": "Withdrawal from friends",
+          "D": "Bed wetting in a 10-year-old"
+        },
+        "correctAnswer": "D",
+        "explanation": "Bed wetting in a 10-year-old (D) is correct because regression in behaviour such as bed wetting (enuresis) after the age of toilet training is a typical sign of emotional abuse, together with thumb sucking, anxiety and low self-esteem. Inappropriate clothing (A) is incorrect because it is a sign of neglect. Indulgence in criminal activities (B) is incorrect because it is seen in older, delinquent children and may have many causes. Withdrawal from friends (C) is incorrect as the best answer because it is a possible sign but is non-specific. Note: this item is open to debate, so check it against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q101"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q2",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "A sexually transmitted infection that presents with genital ulcers is:",
+        "options": {
+          "A": "Chancroid",
+          "B": "Herpes simplex",
+          "C": "Gonorrhea",
+          "D": "Candidiasis"
+        },
+        "correctAnswer": "A",
+        "explanation": "Chancroid (A) is correct as marked on the paper, because it is caused by Haemophilus ducreyi and causes a painful, soft, ragged genital ulcer with tender inguinal lymph nodes (buboes). Herpes simplex (B) is incorrect as the best answer in this list, although it also causes genital ulcers, which are small, painful vesicles that then break down. Gonorrhoea (C) is incorrect because it causes urethral or vaginal discharge. Candidiasis (D) is incorrect because it causes a white vaginal discharge and itching, and it is not a true STI. Note: both chancroid and herpes simplex cause genital ulcers, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q102"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q3",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "To prevent HIV positive patient from malaria and toxoplasmosis infection the patient take a prophylaxis of:",
+        "options": {
+          "A": "Acyclovir",
+          "B": "Isoniazid therapy",
+          "C": "Sulphadoxine pyrimethamine",
+          "D": "Cotrimoxazole"
+        },
+        "correctAnswer": "D",
+        "explanation": "Cotrimoxazole (D) is correct because daily cotrimoxazole prophylaxis protects people living with HIV against Pneumocystis pneumonia, toxoplasmosis, malaria, and some bacterial and diarrhoeal infections. Acyclovir (A) is incorrect because it is used for herpes viruses. Isoniazid therapy (B) is incorrect because it is for the prevention of tuberculosis. Sulphadoxine pyrimethamine (C) is incorrect because it is used for intermittent preventive treatment of malaria in pregnancy, and it should not be given with cotrimoxazole.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q103"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q4",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "The ideal temperature ranges to store vaccines in a health center is:",
+        "options": {
+          "A": "+2 to +8 degrees Celsius",
+          "B": "-4 to +4 degree Celsius",
+          "C": "0 to -4 degree Celsius",
+          "D": "-10 to -25 degree Celsius"
+        },
+        "correctAnswer": "A",
+        "explanation": "+2 to +8 degrees Celsius (A) is correct because the vaccines in the refrigerator at a health facility are kept between +2 and +8 degrees C, to maintain potency. -4 to +4 (B) and 0 to -4 (C) are incorrect because freezing damages freeze-sensitive vaccines (DPT, hepatitis B, pentavalent and PCV). -10 to -25 degrees C (D) is incorrect because it is the freezer range used for some stores, such as oral polio vaccine at the national level and for ice packs.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q104"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q5",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "The additional element of primary health care in Kenya include:",
+        "options": {
+          "A": "Local disease control and DVI",
+          "B": "Nutrition and Essential drug supply",
+          "C": "Malaria and STI prevention and control",
+          "D": "Safe water supply and dental health"
+        },
+        "correctAnswer": "C",
+        "explanation": "Malaria and STI prevention and control (C) is correct as marked on the paper, because the Alma-Ata elements are extended in Kenya with additional elements such as the prevention and control of malaria, STIs and HIV/AIDS, and others such as the control of non-communicable diseases, oral health and mental health. Local disease control and DVI (A), nutrition and essential drug supply (B) and safe water supply and dental health (D) are incorrect because local disease control, immunization, nutrition, drug supply and water are among the original Alma-Ata elements. Note: the list of additional elements varies between textbooks, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q105"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q6",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "The correct order of steps in community diagnosis is:",
+        "options": {
+          "A": "Exploration, analyzing findings, carry out survey",
+          "B": "Planning, exploration, dissemination of findings",
+          "C": "Exploration, planning, carrying out survey",
+          "D": "Planning, disseminating findings, evaluations"
+        },
+        "correctAnswer": "C",
+        "explanation": "Exploration, planning, carrying out survey (C) is correct because the community diagnosis begins with exploration (getting to know the community and the need), then planning and preparation, and then the survey (data collection), followed by analysis, presentation, dissemination of the findings and planning of action. Exploration, analyzing findings, carry out survey (A) is incorrect because the analysis comes after the survey. Planning, exploration, dissemination of findings (B) is incorrect because exploration comes before planning. Planning, disseminating findings, evaluations (D) is incorrect because it leaves out the survey and has the wrong order.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q106"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q7",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "Examples of projected teaching aids include:",
+        "options": {
+          "A": "Pod cast, Television",
+          "B": "Posters, Flip chart",
+          "C": "Power point slides, Overhead transparencies",
+          "D": "White board, LCD"
+        },
+        "correctAnswer": "C",
+        "explanation": "Power point slides, overhead transparencies (C) is correct because projected aids are those that are shown on a screen with a projector (slides, overhead projector transparencies, films). Pod cast, television (A) is incorrect because they are audio and electronic (audio-visual) aids and not projected ones. Posters, flip chart (B) are incorrect because they are non-projected, displayed aids. White board, LCD (D) is incorrect because the whiteboard is a non-projected aid.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q107"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q8",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "The nurse learns about the physiological changes in old age; the nurse is more empathetic to the elderly patients. The domain of learning that is concerned with the change is:",
+        "options": {
+          "A": "Cognitive",
+          "B": "Affective",
+          "C": "Psychomotor",
+          "D": "Mental"
+        },
+        "correctAnswer": "B",
+        "explanation": "Affective (B) is correct because the domain of learning that deals with attitudes, feelings, values and empathy is the affective domain, and the change described is that the nurse becomes more empathetic. Cognitive (A) is incorrect because it is the domain of knowledge, which is learning the physiological changes of old age (the cause of the change, not the change itself). Psychomotor (C) is incorrect because it is the domain of physical skills. Mental (D) is incorrect because it is not one of Bloom's domains. Note: the handwritten mark on the paper is on option C, but empathy belongs to the affective domain, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q108"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q9",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "During a teaching session, closure includes:",
+        "options": {
+          "A": "Introduction",
+          "B": "Statement of learning objectives",
+          "C": "Delivery of content",
+          "D": "Summary"
+        },
+        "correctAnswer": "D",
+        "explanation": "Summary (D) is correct because the closure of a lesson is the part in which the teacher summarises the main points, checks understanding, evaluates and ends the session. Introduction (A) and statement of learning objectives (B) are incorrect because they belong to the beginning of the lesson. Delivery of content (C) is incorrect because it is the body of the lesson.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q109"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q10",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Autoinfection is associated with:",
+        "options": {
+          "A": "Ascariasis, Taeniasis",
+          "B": "Trichuriasis, Ascariasis",
+          "C": "Ankylostomiasis, Ascariasis",
+          "D": "Enterobiasis, Strongyloidiasis"
+        },
+        "correctAnswer": "D",
+        "explanation": "Enterobiasis, Strongyloidiasis (D) is correct because in pinworm infection the eggs are transferred from the perianal skin to the mouth by scratching and fingers (and may also hatch on the skin), and in strongyloidiasis the larvae become infective inside the gut and penetrate the bowel wall or perianal skin to start a new cycle in the same host, so the person re-infects himself. Ascariasis, taeniasis (A), trichuriasis, ascariasis (B) and ankylostomiasis, ascariasis (C) are incorrect because Ascaris, Trichuris and hookworm eggs or larvae need a period in the soil to become infective, so direct autoinfection does not take place (Taenia solium cysticercosis can occur, but not with Taenia saginata).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q110"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q11",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Optic neuritis in TB management is a complication associated with:",
+        "options": {
+          "A": "Pyrazinamide",
+          "B": "Ethambutol",
+          "C": "Rifampicin",
+          "D": "Isoniazid"
+        },
+        "correctAnswer": "B",
+        "explanation": "Ethambutol (B) is correct because it can cause optic neuritis, with loss of visual acuity and loss of red-green colour discrimination, which is dose-related; visual acuity is checked before and during treatment. Pyrazinamide (A) is incorrect because it causes hyperuricaemia and hepatitis. Rifampicin (C) is incorrect because it causes orange discolouration of urine and hepatitis. Isoniazid (D) is incorrect because it causes peripheral neuropathy and hepatitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q111"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q12",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "Leopard skin is a feature of:",
+        "options": {
+          "A": "Dracunculiasis",
+          "B": "Onchocerciasis",
+          "C": "Trypanosomiasis",
+          "D": "Loiasis"
+        },
+        "correctAnswer": "B",
+        "explanation": "Onchocerciasis (B) is correct because chronic infection with Onchocerca volvulus (river blindness) causes depigmented patches of skin on the shins, with surrounding normal pigmented skin, called 'leopard skin', together with itching and nodules. Dracunculiasis (A) is incorrect because it causes a painful blister with the emerging guinea worm. Trypanosomiasis (C) is incorrect because it causes a trypanosomal chancre, fever and sleeping sickness. Loiasis (D) is incorrect because it causes Calabar swellings and worm migration across the eye.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q112"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q13",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Indicate whether the following statements are TRUE or FALSE: (a) A drug of choice for malaria treatment in the second trimester of pregnancy is Oral quinine. (b) Mefloquine is used as a prophylaxis for persons living with sickle cell disease.",
+        "options": {
+          "A": "(a) True, (b) True",
+          "B": "(a) True, (b) False",
+          "C": "(a) False, (b) True",
+          "D": "(a) False, (b) False"
+        },
+        "correctAnswer": "D",
+        "explanation": "(a) False, (b) False (D) is correct. Statement (a) is false because oral quinine is the treatment of choice for uncomplicated malaria in the first trimester, while in the second and third trimesters artemether-lumefantrine is the drug of choice. Statement (b) is false because the malaria prophylaxis recommended for persons with sickle cell disease is proguanil (or other agents), and mefloquine is not the drug used for this group. Options A, B and C are incorrect because each of them marks at least one statement wrongly. Note: in the original paper this item is two separate True or False statements, which has been converted to a four-option format here; the paper has the handwritten answer F for both.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q113"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q14",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "The hospitals' strategic plan falls under the category of:",
+        "options": {
+          "A": "Operational planning",
+          "B": "Short term planning",
+          "C": "Medium range planning",
+          "D": "Long range planning"
+        },
+        "correctAnswer": "D",
+        "explanation": "Long range planning (D) is correct because the strategic plan sets the mission, vision, goals and direction of the whole organisation over a long period, usually 3 to 5 years or more. Operational planning (A) is incorrect because it is the day-to-day plan of a unit (for example a ward duty roster). Short term planning (B) is incorrect because it covers a period of up to a year. Medium range planning (C) is incorrect because it covers 1 to 3 years.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q114"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q15",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "The difference between decision making and problem solving is that the:",
+        "options": {
+          "A": "Last step of problem solving is selection of a course of action",
+          "B": "First step of problem solving is identification of the problem",
+          "C": "Last step in problem solving is evaluation",
+          "D": "Decision making takes longer than problem solving"
+        },
+        "correctAnswer": "C",
+        "explanation": "Last step in problem solving is evaluation (C) is correct because problem solving is a longer process that ends with the evaluation of the results of the solution, while decision making is only one step within it, the selection of a course of action from the alternatives. Last step of problem solving is selection of a course of action (A) is incorrect because that is the last step of decision making. First step of problem solving is identification of the problem (B) is incorrect as an answer to the difference because decision making also begins by identifying the problem. Decision making takes longer than problem solving (D) is incorrect because problem solving is the longer process, which includes decision making.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q115"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q16",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Task assignment at the start of the shift by the shift in charge falls under the management function of:",
+        "options": {
+          "A": "Staffing",
+          "B": "Planning",
+          "C": "Directing",
+          "D": "Organizing"
+        },
+        "correctAnswer": "C",
+        "explanation": "Directing (C) is correct as marked on the paper, because directing (leading) is the management function of guiding, assigning tasks, supervising and motivating the staff to carry out the work. Staffing (A) is incorrect because it is the recruitment, selection and scheduling of the staff. Planning (B) is incorrect because it is setting objectives and deciding the course of action. Organizing (D) is incorrect because it is arranging the structure and resources, although some texts consider task allocation to be organising. Note: the allocation of tasks can be classed under directing or organizing, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q116"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q17",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "Locum and stock taking were proposed by:",
+        "options": {
+          "A": "Henri Fayol",
+          "B": "Fredrick Taylor",
+          "C": "Douglas McGregor",
+          "D": "Elton Mayo"
+        },
+        "correctAnswer": "B",
+        "explanation": "Frederick Taylor (B) is correct as marked on the paper, because the father of scientific management introduced the scientific approach to work, with time and motion studies, standardisation of tasks and selection and training of workers. Henri Fayol (A) is incorrect because he described the 14 principles and the functions of management. Douglas McGregor (C) is incorrect because he proposed Theory X and Theory Y. Elton Mayo (D) is incorrect because he led the Hawthorne studies of the human relations movement. Note: the question wording is unclear, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q117"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q18",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "When a leader influences their collaborators by appealing to their hearts to change their mind about an issue, the leader uses:",
+        "options": {
+          "A": "Forcing",
+          "B": "Manipulation",
+          "C": "Persuasion",
+          "D": "Motivation"
+        },
+        "correctAnswer": "C",
+        "explanation": "Persuasion (C) is correct because persuasion is influencing people to change their opinions or actions through reasoning, appeals to their emotions and values, and their free choice. Forcing (A) is incorrect because it uses power or authority and leaves no choice. Manipulation (B) is incorrect because it is a hidden, unfair influence for the leader's benefit. Motivation (D) is incorrect because it is the drive that moves people to act and is not a method of changing their mind.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q118"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q19",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "During the budget process, fixed expenses for payments include:",
+        "options": {
+          "A": "Surgical supplies",
+          "B": "Staff salaries",
+          "C": "Equipment repairs",
+          "D": "Purchasing new equipment"
+        },
+        "correctAnswer": "B",
+        "explanation": "Staff salaries (B) is correct because fixed costs do not change with the amount of work done, and the salaries are paid regularly at the same level whatever the number of patients. Surgical supplies (A) is incorrect because it is a variable cost that depends on the number of procedures. Equipment repairs (C) is incorrect because it varies with breakdowns. Purchasing new equipment (D) is incorrect because it is a capital expense, not a recurrent fixed one.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q119"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part6_q20",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part6",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "The nurse manager introduces changes to ward procedures. These changes must:",
+        "options": {
+          "A": "Be aligned with the hospitals' strategy",
+          "B": "Reflect competitor activities",
+          "C": "Be supported by staff requests",
+          "D": "Reflect trends in the healthcare industry"
+        },
+        "correctAnswer": "A",
+        "explanation": "Be aligned with the hospital's strategy (A) is correct because any change in a unit should help to achieve the goals, mission and strategic plan of the organisation, so that the whole institution moves in the same direction. Reflect competitor activities (B), be supported by staff requests (C) and reflect trends in the healthcare industry (D) are incorrect because they may be considered but are not the requirement that all changes must meet.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q120"
+      }
+    ]
+  }
+]

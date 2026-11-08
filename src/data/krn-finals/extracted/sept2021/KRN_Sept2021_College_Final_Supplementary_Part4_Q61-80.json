@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-collegefinal-sept2021-supplementary-part4",
+    "year": "2021",
+    "month": "September",
+    "examType": "Supplementary",
+    "title": "September 2021 Class College Final Supplementary Exam (Part 4 of 6)",
+    "block": "College Final",
+    "unit": "Comprehensive Nursing (Pain and Palliative Care, Endocrine, Eye, Haematology, Theatre, Paediatrics, Mental Health)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q61 to Q80).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q61",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 61,
+        "questionType": "mcq",
+        "text": "Neuropathic pain is:",
+        "options": {
+          "A": "Treated with anti-inflammatory agents",
+          "B": "A result of disordered nerve function",
+          "C": "Due to direct stimulation of intact nociceptors",
+          "D": "Rarely responsive to opioid analgesics"
+        },
+        "correctAnswer": "B",
+        "explanation": "A result of disordered nerve function (B) is correct because neuropathic pain arises from damage or dysfunction of the peripheral or central nervous system itself (for example nerve compression by a tumour, diabetic neuropathy, post-herpetic neuralgia), and it is described as burning, shooting or electric pain with allodynia. Treated with anti-inflammatory agents (A) is incorrect because it responds poorly to NSAIDs and is treated with adjuvants such as amitriptyline, gabapentin, pregabalin and carbamazepine. Due to direct stimulation of intact nociceptors (C) is incorrect because that describes nociceptive pain (somatic or visceral). Rarely responsive to opioid analgesics (D) is incorrect as the best answer because, although neuropathic pain is less opioid-responsive, it is partly responsive and the defining feature is the disordered nerve function. Note: option D is partly true, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q61"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q62",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 62,
+        "questionType": "mcq",
+        "text": "The aim of pain management in palliative care is:",
+        "options": {
+          "A": "Reduce emotional reactions to impending death",
+          "B": "Reduce side effects of some interventions",
+          "C": "Prevent suffering",
+          "D": "Enhance recovery"
+        },
+        "correctAnswer": "C",
+        "explanation": "Prevent suffering (C) is correct because palliative care aims to relieve pain and prevent and relieve suffering (physical, psychosocial and spiritual) so that the patient has the best possible quality of life, and the WHO describes it as improving quality of life by early identification and treatment of pain and other problems. Reduce emotional reactions to impending death (A) is incorrect because emotional support is one part of total care but is not the aim of pain management. Reduce side effects of some interventions (B) is incorrect because it is a goal of good prescribing, not the overall aim. Enhance recovery (D) is incorrect because palliative care is for life-limiting illness, where cure or recovery is not the aim. Note: this item is open to interpretation, so check it against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q62"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q63",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 63,
+        "questionType": "mcq",
+        "text": "An adjuvant for a palliative care patient whose cancer tumor is compressing on a nerve is:",
+        "options": {
+          "A": "Amitriptyline",
+          "B": "Atropine",
+          "C": "Hyoscine",
+          "D": "Fluoxetine"
+        },
+        "correctAnswer": "A",
+        "explanation": "Amitriptyline (A) is correct because tumour compression of a nerve causes neuropathic pain, and the tricyclic antidepressant amitriptyline is an adjuvant analgesic that is effective for it (the other adjuvants are anticonvulsants such as carbamazepine, gabapentin and pregabalin, and corticosteroids such as dexamethasone to reduce the swelling around the nerve). Atropine (B) and hyoscine (C) are incorrect because they are anticholinergics used to dry secretions (for example the death rattle) and to relieve colic and bowel obstruction. Fluoxetine (D) is incorrect because it is an SSRI antidepressant with no useful effect on neuropathic pain.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q63"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q64",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 64,
+        "questionType": "mcq",
+        "text": "Low levels of antidiuretic hormone in blood causes:",
+        "options": {
+          "A": "Reduced glomerular filtration rate",
+          "B": "Increased reabsorption from the collecting duct",
+          "C": "Enhancing peripheral vasoconstriction",
+          "D": "Increased urine production"
+        },
+        "correctAnswer": "D",
+        "explanation": "Increased urine production (D) is correct because ADH (vasopressin) makes the collecting duct permeable to water by inserting aquaporin channels, so water is reabsorbed, and when ADH is low (as in diabetes insipidus) the water is not reabsorbed and a large volume of dilute urine is passed (polyuria), with thirst and risk of dehydration and hypernatraemia. Reduced glomerular filtration rate (A) is incorrect because ADH acts on the tubules and not on the filtration rate. Increased reabsorption from the collecting duct (B) is incorrect because it is the effect of high ADH. Enhancing peripheral vasoconstriction (C) is incorrect because vasoconstriction is an effect of high ADH levels (hence the name vasopressin).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q64"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q65",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 65,
+        "questionType": "mcq",
+        "text": "The main function of the hypothalamus is to:",
+        "options": {
+          "A": "Release endocrine hormones directly to the blood circulation",
+          "B": "Control blood pressure and heart rate",
+          "C": "Link the nervous system and the endocrine system",
+          "D": "Relay impulses to the skeletal muscles"
+        },
+        "correctAnswer": "C",
+        "explanation": "Link the nervous system and the endocrine system (C) is correct because the hypothalamus receives nervous input and controls the pituitary gland through releasing and inhibiting hormones (via the hypophyseal portal system) and through nerve fibres to the posterior pituitary, which stores ADH and oxytocin made in the hypothalamus; it also regulates temperature, thirst, hunger, sleep and emotions. Release endocrine hormones directly to the blood circulation (A) is incorrect because most of its hormones act on the pituitary (only ADH and oxytocin are released into the blood, through the posterior pituitary). Control blood pressure and heart rate (B) is incorrect because that is the main role of the medulla oblongata. Relay impulses to the skeletal muscles (D) is incorrect because that is the role of the motor pathways and the spinal cord.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q65"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q66",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 66,
+        "questionType": "mcq",
+        "text": "Master G 10 years old who is newly diagnosed with DM type one presents with polyuria, polyphagia and weight loss. The nurse understands that this is due to:",
+        "options": {
+          "A": "Electrolyte imbalance",
+          "B": "Low serum insulin levels",
+          "C": "Increased metabolism",
+          "D": "Intense cell damage"
+        },
+        "correctAnswer": "B",
+        "explanation": "Low serum insulin levels (B) is correct because in type 1 diabetes the beta cells of the pancreas are destroyed by an autoimmune process, so insulin is deficient, glucose cannot enter the cells and the blood glucose rises; glucose in the urine pulls water with it (polyuria and then polydipsia), the cells are starved so the child is hungry (polyphagia), and fat and protein are broken down for energy, causing weight loss. Electrolyte imbalance (A) is incorrect because it is a consequence (from the osmotic diuresis), and not the cause. Increased metabolism (C) is incorrect because the metabolic problem is the inability to use glucose, not hypermetabolism as in hyperthyroidism. Intense cell damage (D) is incorrect because the cell damage (of the beta cells) is the underlying disease process, but the symptoms are directly due to the lack of insulin.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q66"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q67",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 67,
+        "questionType": "mcq",
+        "text": "The loss of vision in glaucoma is as a result of:",
+        "options": {
+          "A": "Opacification of the lens",
+          "B": "Degeneration of the ciliary body",
+          "C": "Collection of blood in the vitreous chamber",
+          "D": "Ischemia of the retina"
+        },
+        "correctAnswer": "D",
+        "explanation": "Ischemia of the retina (D) is the best answer because in glaucoma the raised intraocular pressure compresses the blood supply to the optic nerve head and retina, so the retinal ganglion cells and the optic nerve fibres die from ischaemia, causing progressive loss of the peripheral field (tunnel vision) and then central vision, which is irreversible. Opacification of the lens (A) is incorrect because it describes cataract. Degeneration of the ciliary body (B) is incorrect because the ciliary body produces aqueous humour, and the problem in glaucoma is poor drainage of the aqueous through the trabecular meshwork (or overproduction). Collection of blood in the vitreous chamber (C) is incorrect because it describes vitreous haemorrhage (for example in diabetic retinopathy). Note: the damage is more precisely to the optic nerve, so ischaemia of the retina is the closest option.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q67"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q68",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 68,
+        "questionType": "mcq",
+        "text": "The type of eye test the nurse will use to asses for peripheral vision is:",
+        "options": {
+          "A": "Confrontation test",
+          "B": "Color vision test",
+          "C": "Visual acuity test",
+          "D": "Diopter test"
+        },
+        "correctAnswer": "A",
+        "explanation": "Confrontation test (A) is correct because the nurse sits facing the patient at about 60 cm, each covers the opposite eye, and the nurse brings a moving finger in from the periphery to compare the patient's field with her own, which is a quick screen for peripheral visual field loss (formal testing is by perimetry). Colour vision test (B) is incorrect because it uses Ishihara plates to detect colour blindness. Visual acuity test (C) is incorrect because it measures central vision using the Snellen chart. Diopter test (D) is incorrect because the diopter is the unit of lens power used in refraction, and not a test of peripheral vision.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q68"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q69",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 69,
+        "questionType": "mcq",
+        "text": "A patient diagnosed with Neutropenia should be isolated under:",
+        "options": {
+          "A": "Protective",
+          "B": "Airborne",
+          "C": "Droplet",
+          "D": "Contact"
+        },
+        "correctAnswer": "A",
+        "explanation": "Protective (A) is correct because neutropenic patients have a very low neutrophil count and cannot fight infection, so they are placed in protective (reverse) isolation in a single room, which keeps pathogens away from the patient, with strict hand hygiene, masks for the staff and visitors, no fresh flowers or plants, cooked food only, and exclusion of staff or visitors who have infections. Airborne (B), droplet (C) and contact (D) are incorrect because these are source isolation types that protect other people from an infected patient (for example tuberculosis, meningococcal disease and MRSA).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q69"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q70",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 70,
+        "questionType": "mcq",
+        "text": "The virus implicated as a potential co-factor in development of Hodgkin’s lymphoma is:",
+        "options": {
+          "A": "Human papilloma virus",
+          "B": "Human herpes virus 8",
+          "C": "Human Immunodeficiency virus",
+          "D": "Epstein Barr Virus"
+        },
+        "correctAnswer": "D",
+        "explanation": "Epstein Barr Virus (D) is correct because EBV is found in the Reed-Sternberg cells of about 40% of cases of classical Hodgkin's lymphoma, and a past history of infectious mononucleosis raises the risk. Human papilloma virus (A) is incorrect because it is linked to cervical, anal and oropharyngeal cancers. Human herpes virus 8 (B) is incorrect because it causes Kaposi sarcoma and some lymphomas (primary effusion lymphoma). Human immunodeficiency virus (C) is incorrect as the best answer because HIV raises the risk of lymphomas, including Hodgkin's, through immunosuppression, but EBV is the classic implicated virus.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q70"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q71",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 71,
+        "questionType": "mcq",
+        "text": "According to the WHO Surgical safety checklist:",
+        "options": {
+          "A": "Patient drug allergies are raised during sign out",
+          "B": "Correct patient identification is confirmed at time out",
+          "C": "Final instrument count is verified at sign in",
+          "D": "Any equipment malfunction is reported during time out"
+        },
+        "correctAnswer": "B",
+        "explanation": "Correct patient identification is confirmed at time out (B) is correct because the time out is the pause before the skin incision, in which the whole team introduces themselves and confirms the patient's identity, the procedure and the site, and reviews the anticipated critical events, antibiotic prophylaxis and imaging. Patient drug allergies (A) are incorrect because they are checked at sign in (before induction of anaesthesia), together with identity, site, consent, the anaesthesia safety check, the pulse oximeter and the airway and blood loss risks. Final instrument count (C) is incorrect because it is verified at sign out (before the patient leaves the theatre), together with the labelling of specimens. Equipment malfunction (D) is incorrect because it is reported at sign out as problems to be addressed.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q71"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q72",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 72,
+        "questionType": "mcq",
+        "text": "Priority nursing intervention for neonate diagnosed with proximal tracheoesophageal fistula include:",
+        "options": {
+          "A": "Stopping oral feeds, positioning the child upright",
+          "B": "Commence liquid feeds only, put the child in prone",
+          "C": "Decompress the stomach, suspend all feeds",
+          "D": "Perform gastric lavage, position child in supine"
+        },
+        "correctAnswer": "A",
+        "explanation": "Stopping oral feeds, positioning the child upright (A) is correct because in oesophageal atresia with tracheo-oesophageal fistula the baby must be kept nil by mouth immediately, since any feed or saliva pooled in the blind upper pouch can be aspirated into the lungs, and the head-up position reduces reflux of gastric juice and aspiration, together with continuous low suction of the upper pouch (Replogle tube), oxygen as needed, IV fluids and preparation for surgery. Commence liquid feeds in prone (B) is incorrect because any oral feed leads to aspiration. Decompress the stomach, suspend all feeds (C) is incorrect as the best answer because, although feeds are suspended, decompressing the stomach (with a gastrostomy tube) is a later surgical step and can increase reflux through a distal fistula, and the upright position is the priority nursing step. Gastric lavage in supine (D) is incorrect because it risks aspiration. Note: this item is open to interpretation, so check it against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q72"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q73",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 73,
+        "questionType": "mcq",
+        "text": "A 3-year-old is received from theatre post repair of pyloric stenosis and creation of jejunostomy. Appropriate nursing care will include:",
+        "options": {
+          "A": "Empty the stoma bag when it is ¾ full",
+          "B": "Feeding patient with pre-digested feeds",
+          "C": "Irrigating the stoma in case of impaction",
+          "D": "Maintaining parenteral feeding till the stoma is reversed"
+        },
+        "correctAnswer": "B",
+        "explanation": "Feeding patient with pre-digested feeds (B) is correct because a jejunostomy bypasses the stomach and the duodenum, so the length of absorbing bowel is reduced and the feeds are given in a form that is easy to absorb (elemental or pre-digested, given slowly and continuously via the tube), starting after the return of bowel function and advancing as tolerated, while monitoring the output, the fluids and electrolytes, and the skin around the stoma. Emptying the bag when it is three-quarters full (A) is incorrect because the pouch is emptied when it is one-third to one-half full so that the weight does not pull the seal off. Irrigating the stoma in impaction (C) is incorrect because a small bowel stoma is not routinely irrigated, and a blockage needs medical review. Maintaining parenteral feeding until the stoma is reversed (D) is incorrect because enteral feeding is started as soon as possible, and parenteral nutrition is only a bridge. Note: this item is open to interpretation, so check it against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q73"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q74",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 74,
+        "questionType": "mcq",
+        "text": "Epispadias is recognized by presence of:",
+        "options": {
+          "A": "Urethral orifice on the ventral surface of penile shaft",
+          "B": "Urethral orifice on the dorsal surface of penile shaft",
+          "C": "Narrowing of the preputial opening of the foreskin",
+          "D": "An empty scrotum"
+        },
+        "correctAnswer": "B",
+        "explanation": "Urethral orifice on the dorsal surface of penile shaft (B) is correct because in epispadias the urethra opens on the upper (dorsal) surface of the penis, and it is often linked with bladder exstrophy and incontinence. Urethral orifice on the ventral surface (A) is incorrect because it describes hypospadias, which is far more common. Narrowing of the preputial opening (C) is incorrect because it describes phimosis. An empty scrotum (D) is incorrect because it describes cryptorchidism (undescended testes).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q74"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q75",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 75,
+        "questionType": "mcq",
+        "text": "A paediatric patient admitted with complaints of history of seasonal flu, low grade fever and a wheeze may be suffering from:",
+        "options": {
+          "A": "Bacterial pneumonia",
+          "B": "Laryngotracheobronchitis",
+          "C": "Asthma",
+          "D": "Bronchiolitis"
+        },
+        "correctAnswer": "D",
+        "explanation": "Bronchiolitis (D) is correct because it is a viral infection (most commonly respiratory syncytial virus) of the small airways in infants and young children, which follows a cold-like illness (runny nose, cough) with low-grade fever and then wheeze, fast breathing, chest indrawing and difficulty feeding. Bacterial pneumonia (A) is incorrect because it usually has a high fever, fast breathing and crackles, with less wheeze. Laryngotracheobronchitis (B) is incorrect because it is croup, which presents with a barking cough and inspiratory stridor. Asthma (C) is incorrect as the best answer because it also causes wheeze, but it is a recurrent, episodic disease with a family history of atopy and no preceding fever, and a first wheeze with flu and fever points to bronchiolitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q75"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q76",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 76,
+        "questionType": "mcq",
+        "text": "A six-year-old weighing 20kg sustained 25% burn surface. Estimated intravenous fluid volume to be administered in the first 8hrs is:",
+        "options": {
+          "A": "0.5L",
+          "B": "1L",
+          "C": "2L",
+          "D": "2.5L"
+        },
+        "correctAnswer": "B",
+        "explanation": "1L (B) is correct because by the Parkland formula the fluid for the first 24 hours is 4 mL x body weight (kg) x percentage of burned surface area, which is 4 x 20 x 25 = 2000 mL, and half of this volume (1000 mL, or 1 L) is given in the first 8 hours from the time of the burn, and the other half in the following 16 hours (using Ringer's lactate). 0.5 L (A) is incorrect because it is too little. 2 L (C) is incorrect because it is the total volume for the full 24 hours. 2.5 L (D) is incorrect because it is more than the 24-hour requirement. The fluids are adjusted by monitoring urine output (aim for 1 mL/kg/hour in a child). Note: in a child, maintenance fluids may be added to this volume in some protocols.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q76"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q77",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 77,
+        "questionType": "mcq",
+        "text": "Clinical manifestations of Croup include:",
+        "options": {
+          "A": "High grade fever, dry cough",
+          "B": "Wheeze, chest pain",
+          "C": "Sore throat, crepitation",
+          "D": "Stridor, altered breathing"
+        },
+        "correctAnswer": "D",
+        "explanation": "Stridor, altered breathing (D) is correct because croup (laryngotracheobronchitis, usually viral from parainfluenza) causes swelling of the larynx and subglottic area, so the child has a barking (seal-like) cough, hoarse voice, inspiratory stridor and difficulty in breathing with chest indrawing, worse at night, and mild fever. High grade fever and dry cough (A) is incorrect because a high fever suggests bacterial tracheitis or epiglottitis. Wheeze and chest pain (B) is incorrect because wheeze suggests lower airway disease (asthma or bronchiolitis). Sore throat and crepitation (C) is incorrect because crepitations suggest pneumonia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q77"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q78",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 78,
+        "questionType": "mcq",
+        "text": "Hernias are a potential complication of:",
+        "options": {
+          "A": "Measles",
+          "B": "Chickenpox",
+          "C": "Pertussis",
+          "D": "Mumps"
+        },
+        "correctAnswer": "C",
+        "explanation": "Pertussis (C) is correct because the violent paroxysms of coughing raise the intra-abdominal pressure, which can cause inguinal and umbilical hernias, rectal prolapse, subconjunctival haemorrhage and rib fractures. Measles (A) is incorrect because its complications are pneumonia, otitis media, diarrhoea, malnutrition, corneal damage and encephalitis. Chickenpox (B) is incorrect because its complications are secondary skin infection, pneumonia and encephalitis. Mumps (D) is incorrect because its complications are orchitis, oophoritis, meningitis and pancreatitis.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q78"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q79",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 79,
+        "questionType": "mcq",
+        "text": "On assessment of a 7-months old with a 5 days’ onset diarrhoea with lethargy, sunken eyes, skin pinch goes back slowly, and cool hands. The appropriate action in the triage is to:",
+        "options": {
+          "A": "Take the child’s sample for laboratory investigations",
+          "B": "Allow the mother and child to queue with the rest of patients",
+          "C": "Take the child to the emergency room",
+          "D": "Administer ORS to the child as they queue in the line"
+        },
+        "correctAnswer": "C",
+        "explanation": "Take the child to the emergency room (C) is correct because lethargy and cool extremities are emergency signs in ETAT, together with the signs of severe dehydration (sunken eyes and a very slow skin pinch), so the child is a priority case who must not wait, and is taken to the emergency area for immediate assessment, IV access and fluid resuscitation (Ringer's lactate) and glucose check. Taking samples for laboratory investigations (A) is incorrect because it delays treatment, as laboratory tests are not needed first. Queuing with other patients (B) and giving ORS while queuing (D) are incorrect because a child with emergency signs needs treatment at once, and cannot be treated in the queue.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q79"
+      },
+      {
+        "id": "krn-collegefinal-sept2021-supplementary-part4_q80",
+        "paperId": "krn-collegefinal-sept2021-supplementary-part4",
+        "setNumber": 1,
+        "questionNumberInSet": 80,
+        "questionType": "mcq",
+        "text": "Baby Jola, 36 months has history of diarrhea for 4 days, has sunken eyes, drinks eagerly, and the skin pinch goes back slowly. The management of baby Jola includes:",
+        "options": {
+          "A": "Admit the child for at least 24 hours for rehydration with Resomal 10ml/kg/hour",
+          "B": "Give 20ml/kg bolus of ringer lactate for 4 hours then reassess",
+          "C": "Give 75ml/kg oral rehydration solution (ORS) for 4 hours in the clinic",
+          "D": "Discharge the child home with ORS to be administered 100ml with each loose stool"
+        },
+        "correctAnswer": "C",
+        "explanation": "Give 75 mL/kg oral rehydration solution (ORS) for 4 hours in the clinic (C) is correct because baby Jola has two signs of some dehydration (sunken eyes, drinks eagerly and a skin pinch that goes back slowly), so Plan B applies: 75 mL/kg of ORS over 4 hours in the clinic, with the mother helping, then reassessment and classification, zinc for 10 days, and continued feeding or breastfeeding. Admission with Resomal (A) is incorrect because Resomal is for rehydrating severely malnourished children. A 20 mL/kg bolus of Ringer's lactate (B) is incorrect because IV fluids are for severe dehydration (Plan C) or shock. Discharging with ORS after each loose stool (D) is incorrect because it is Plan A for children with no dehydration (and the amount for a child of this age would be 100 to 200 mL).",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q80"
+      }
+    ]
+  }
+]

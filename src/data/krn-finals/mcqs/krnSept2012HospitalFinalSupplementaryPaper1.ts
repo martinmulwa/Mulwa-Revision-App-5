@@ -1,0 +1,398 @@
+/**
+ * Mulwa Clinical Exam Portal
+ * TNH September 2012 Class Hospital Final Supplementary Examination, Paper I
+ * TNH
+ *
+ * Course: Kenya Registered Nursing (KRN / KRCHN)
+ * Block: College Final Exam (finals)
+ * Unit: College Final Exams (Comprehensive Nursing Practice)
+ * Total Questions: 20 across 1 Revision Set
+ *
+ * @author MULWA <martinmulwa95@gmail.com>
+ * @version 1.0.0
+ */
+
+import { PastPaper } from "../../../types";
+
+export const KRN_SEPT2012_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER1: PastPaper = {
+  "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+  "year": "2012",
+  "month": "September",
+  "examType": "Supplementary",
+  "title": "September 2012 Supp Exam Paper 1",
+  "category": "College Final Exam",
+  "block": "finals",
+  "unit": "College Final Exams",
+  "totalQuestions": 20,
+  "totalSets": 1,
+  "sets": [
+    {
+      "setNumber": 1,
+      "title": "Set 1: Anatomy & Physiology, Med-Surg, Endocrine, Eye & Epidemiology (Q1–Q20)",
+      "description": "The original MCQs from the September 2012 class Hospital Final Supplementary Examination Paper I of TNH (sat 7 May 2015, Multiple Choice Questions, Q1 to Q20) covering Cardiovascular Endothelium, Anatomy and Physiology, Medical-Surgical, Endocrine, Eye Disorders, Community Health, Epidemiology and Midwifery.",
+      "questionCount": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q1",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 1,
+      "questionType": "mcq",
+      "text": "The endothelium:",
+      "options": {
+        "A": "Is made of simple squamous epithelium",
+        "B": "Controls the blood vessels diameter",
+        "C": "Is innervated by sympathetic nerve fibres from vasomotor centre",
+        "D": "Is the largest layer in small arteries and absent in capillaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Is made of simple squamous epithelium (A) is correct because the endothelium is the tunica intima, the innermost lining of blood vessels and the heart, made of a single layer of flat (simple squamous) cells that gives a smooth surface for blood flow. Controls the blood vessels diameter (B) is incorrect as the best answer because the diameter is controlled by the smooth muscle of the tunica media, although the endothelium releases substances such as nitric oxide that influence it. Is innervated by sympathetic nerve fibres from vasomotor centre (C) is incorrect because it is the smooth muscle of the tunica media that is innervated by sympathetic fibres. Is the largest layer in small arteries and absent in capillaries (D) is incorrect because the tunica media is the thickest layer in arteries, and the capillary wall consists of endothelium alone. Note: option B is partly true, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q1"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q2",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 2,
+      "questionType": "mcq",
+      "text": "An organism that commonly causes nosocomial urinary tract infection is:",
+      "options": {
+        "A": "Streptococcal fecalis",
+        "B": "Escherichia coli",
+        "C": "Staphylococcus aureus",
+        "D": "Proteus mirabilis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Escherichia coli (B) is correct because it is the commonest cause of both community-acquired and hospital-acquired (nosocomial) urinary tract infection, usually from the patient's own bowel flora entering the urethra, and the risk rises with an indwelling urinary catheter. Streptococcus faecalis (A) (Enterococcus faecalis) is incorrect as the best answer because it is a less frequent cause. Staphylococcus aureus (C) is incorrect because it rarely causes UTI, mostly after bloodstream spread. Proteus mirabilis (D) is incorrect as the best answer because it is a recognised cause, particularly in catheterised patients and with struvite stones, but it is less common than E. coli.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q2"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q3",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 3,
+      "questionType": "mcq",
+      "text": "When conducting urinalysis:",
+      "options": {
+        "A": "A specific gravity of 1.015 indicates that the patient is dehydrated",
+        "B": "Presence of ketones indicates an infection",
+        "C": "A PH of 5.4 is considered normal",
+        "D": "Presence of nitrites indicates excessive protein intake"
+      },
+      "correctAnswer": "C",
+      "explanation": "A PH of 5.4 is considered normal (C) is correct because the normal urine pH ranges from about 4.5 to 8, with an average of about 6. A specific gravity of 1.015 indicates that the patient is dehydrated (A) is incorrect because the normal range is 1.003 to 1.030, so 1.015 is normal, and dehydration gives a high value (above 1.030). Presence of ketones indicates an infection (B) is incorrect because ketones appear in uncontrolled diabetes mellitus (ketoacidosis), starvation and prolonged vomiting. Presence of nitrites indicates excessive protein intake (D) is incorrect because nitrites are made by bacteria that convert nitrate, so they point to a urinary tract infection.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q3"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q4",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 4,
+      "questionType": "mcq",
+      "text": "Secondary osteoporosis is associated with:",
+      "options": {
+        "A": "Diabetes, alcohol abuse",
+        "B": "Cushing’s syndrome, liver failure",
+        "C": "Hypothyroidism, Crohn’s disease",
+        "D": "Peptic ulcer disease, hypoparathyroidism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cushing's syndrome, liver failure (B) is correct because secondary osteoporosis is bone loss caused by another disease or a drug, and excess cortisol (Cushing's syndrome or prolonged corticosteroid use) and chronic liver disease are both well-known causes. Diabetes, alcohol abuse (A) is incorrect as the best answer because type 1 diabetes and heavy alcohol use are also recognised risk factors, so this option is partly true. Hypothyroidism, Crohn's disease (C) is incorrect because the thyroid cause is hyperthyroidism (or over-replacement with thyroxine), not hypothyroidism, although Crohn's disease (malabsorption) is a true cause. Peptic ulcer disease, hypoparathyroidism (D) is incorrect because the parathyroid cause is hyperparathyroidism, not hypoparathyroidism. Note: options A and B both contain accepted causes, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q4"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q5",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 5,
+      "questionType": "mcq",
+      "text": "The following adverse effect is associated with levothyroxine therapy:",
+      "options": {
+        "A": "Tachycardia",
+        "B": "Bradycardia",
+        "C": "Hypotension",
+        "D": "Constipation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tachycardia (A) is correct because levothyroxine (synthetic T4) given in excess produces the effects of hyperthyroidism, including tachycardia, palpitations, angina, tremor, sweating, heat intolerance, weight loss and diarrhoea, so the pulse is checked before each dose and the patient is taught to report chest pain and palpitations. Bradycardia (B), hypotension (C) and constipation (D) are incorrect because they are features of hypothyroidism, which the drug is given to correct.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q5"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q6",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 6,
+      "questionType": "mcq",
+      "text": "The following is an example of an environmental factor (etiology) that may contribute to health problem:",
+      "options": {
+        "A": "Excessive noise, fear of death",
+        "B": "Noxious odour, bright light",
+        "C": "Language barrier, sensory deficit",
+        "D": "Feeling of loneliness, lack of support system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noxious odour, bright light (B) is correct because both are physical features of the surroundings (the environment) that can affect a patient's comfort, sleep and health. Excessive noise, fear of death (A) is incorrect because noise is environmental but fear of death is a psychological factor. Language barrier, sensory deficit (C) is incorrect because they are communication and physical (sensory) factors in the person. Feeling of loneliness, lack of support system (D) is incorrect because they are psychosocial factors.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q6"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q7",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 7,
+      "questionType": "mcq",
+      "text": "A patient suffering from botulinum food poisoning will present with:",
+      "options": {
+        "A": "Rice water stools",
+        "B": "Pharyngeal paralysis",
+        "C": "Bloody watery diarrhoea",
+        "D": "Intestinal obstruction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pharyngeal paralysis (B) is correct because the toxin of Clostridium botulinum blocks the release of acetylcholine at the neuromuscular junction, causing a descending flaccid paralysis that begins with the cranial nerves (blurred or double vision, ptosis, dysphagia, dysarthria), then affects the respiratory muscles, and the patient is alert with no fever. Rice water stools (A) is incorrect because it describes cholera. Bloody watery diarrhoea (C) is incorrect because it is a feature of dysentery and enterohaemorrhagic E. coli. Intestinal obstruction (D) is incorrect because botulism may cause constipation and an ileus from smooth muscle paralysis, but the characteristic presentation is neurological.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q7"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q8",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 8,
+      "questionType": "mcq",
+      "text": "The most appropriate statement for patient education on thalassemia major is:",
+      "options": {
+        "A": "Eat a diet rich in iron",
+        "B": "Avoid crowded areas to prevent infections",
+        "C": "They will require regular transfusions",
+        "D": "Perform regular exercises to prevent deep venous thrombosis"
+      },
+      "correctAnswer": "C",
+      "explanation": "They will require regular transfusions (C) is correct because in thalassemia major the red cells are made in too small amounts and are destroyed early, so the child depends on regular blood transfusions (every 3 to 4 weeks) to keep the haemoglobin up, together with iron chelation (desferrioxamine) to remove the iron that builds up. Eat a diet rich in iron (A) is incorrect because the patient already has iron overload from transfusions, so iron-rich foods and iron supplements are avoided. Avoid crowded areas to prevent infections (B) is incorrect as the best answer because infection prevention is advised in patients after splenectomy, but it is not the most important message. Perform regular exercises to prevent deep venous thrombosis (D) is incorrect because DVT is not a main concern in this disease.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q8"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q9",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 9,
+      "questionType": "mcq",
+      "text": "Anterior uveitis may be managed by:",
+      "options": {
+        "A": "Miotics",
+        "B": "Mydriatics",
+        "C": "Normal saline eye drops",
+        "D": "Warm compressions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mydriatics (B) is correct because in anterior uveitis (iritis or iridocyclitis) the pupil is dilated and the ciliary muscle is paralysed with mydriatic-cycloplegic drops (atropine, cyclopentolate), which relieves the pain of ciliary spasm and stops the iris from sticking to the lens (posterior synechiae); topical corticosteroids reduce the inflammation. Miotics (A) is incorrect because constricting the pupil would encourage synechiae. Normal saline eye drops (C) is incorrect because they do not treat the inflammation. Warm compressions (D) is incorrect because they are used for a stye or blepharitis.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q9"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q10",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 10,
+      "questionType": "mcq",
+      "text": "Oedema in nephrotic syndrome is due to:",
+      "options": {
+        "A": "Osmotic diuresis",
+        "B": "Fall in plasma colloid osmotic pressure",
+        "C": "Increased serum oncotic pressure",
+        "D": "Decreased glomerular filtration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fall in plasma colloid osmotic pressure (B) is correct because in nephrotic syndrome the glomeruli leak large amounts of protein (proteinuria), so the plasma albumin falls (hypoalbuminaemia), and the plasma colloid osmotic (oncotic) pressure falls, so fluid leaves the capillaries into the tissues, causing generalised oedema (periorbital, ankle, ascites). Osmotic diuresis (A) is incorrect because it would cause loss of water, not oedema. Increased serum oncotic pressure (C) is incorrect because it would hold fluid in the vessels. Decreased glomerular filtration (D) is incorrect as the best answer because it is the main mechanism of oedema in nephritic syndrome (acute glomerulonephritis).",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q10"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q11",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 11,
+      "questionType": "mcq",
+      "text": "Clinical features of Addisons disease include:",
+      "options": {
+        "A": "Hyperkalemia, hyponatremia",
+        "B": "Hypokalemia, hypertension",
+        "C": "Hypotension, hyperglycemia",
+        "D": "Hyperglycemia, hypernetremia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hyperkalemia, hyponatremia (A) is correct because in Addison's disease (adrenocortical insufficiency) the lack of aldosterone causes sodium and water loss and potassium retention, giving hyponatraemia, hyperkalaemia, dehydration and hypotension, while the lack of cortisol causes weakness, weight loss, hypoglycaemia and skin pigmentation. Hypokalemia, hypertension (B) is incorrect because it is the picture of aldosterone excess (Conn's syndrome). Hypotension, hyperglycemia (C) is incorrect because the blood sugar is low (hypoglycaemia), not high, although hypotension is present. Hyperglycemia, hypernatremia (D) is incorrect because they are features of Cushing's syndrome.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q11"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q12",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 12,
+      "questionType": "mcq",
+      "text": "Clinical manifestations of multiple sclerosis include:",
+      "options": {
+        "A": "Intention tremor, dysphagia, weakness of lower extremities",
+        "B": "Ptosis, tremors at rest, paralysis",
+        "C": "Rigidity, respiratory failure, voice impairment",
+        "D": "Akinesia, numbness, blindness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intention tremor, dysphagia, weakness of lower extremities (A) is correct because demyelination of the central nervous system in multiple sclerosis causes cerebellar signs (intention tremor, ataxia, nystagmus), bulbar signs (dysphagia, dysarthria), weakness and spasticity of the legs, visual disturbances (optic neuritis), numbness and tingling, fatigue and bladder dysfunction. Ptosis, tremors at rest, paralysis (B) is incorrect because ptosis points to myasthenia gravis and resting tremor to Parkinson's disease. Rigidity, respiratory failure, voice impairment (C) is incorrect because rigidity and voice change suggest Parkinson's disease, and respiratory failure suggests motor neurone disease or Guillain-Barre syndrome. Akinesia, numbness, blindness (D) is incorrect because akinesia is a feature of Parkinson's disease.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q12"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q13",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 13,
+      "questionType": "mcq",
+      "text": "A temperature reading of 35.8°C in a 94 year old should be interpreted as a:",
+      "options": {
+        "A": "Sign of hypothermia",
+        "B": "Normal value",
+        "C": "Inaccurate reading",
+        "D": "Sign of anaemia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Normal value (B) is correct because the basal body temperature of elderly people is lower than in younger adults (often about 35.6 to 36.0 degrees Celsius), because of a lower metabolic rate, less subcutaneous fat and a reduced ability to generate heat, so 35.8 degrees Celsius is within the normal range for a 94-year-old. Sign of hypothermia (A) is incorrect because hypothermia is a core temperature below 35 degrees Celsius, although the elderly are at high risk of it. Inaccurate reading (C) is incorrect because there is no reason to doubt the reading. Sign of anaemia (D) is incorrect because temperature is not a sign of anaemia.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q13"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q14",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 14,
+      "questionType": "mcq",
+      "text": "A disease that spreads to many countries is called:",
+      "options": {
+        "A": "Endemic",
+        "B": "Sporadic",
+        "C": "Pandemic",
+        "D": "Holoendemic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pandemic (C) is correct because a pandemic is an epidemic that spreads across several countries or continents and affects a large number of people (for example COVID-19 and influenza pandemics). Endemic (A) is incorrect because it is the constant presence of a disease in a particular area. Sporadic (B) is incorrect because it describes cases that occur irregularly and occasionally. Holoendemic (D) is incorrect because it is a disease with a high level of infection in all age groups in an area, such as malaria in some regions.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q14"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q15",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 15,
+      "questionType": "mcq",
+      "text": "Most cancers associated with HIV occur in stage:",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "correctAnswer": "D",
+      "explanation": "IV (D) is correct because in the WHO clinical staging of HIV, the AIDS-defining malignancies, such as Kaposi's sarcoma, non-Hodgkin's lymphoma, invasive cervical cancer and cerebral lymphoma, are stage 4 conditions, which show severe immunosuppression (a CD4 count usually below 200). Stage I (A) is incorrect because it is asymptomatic disease or persistent generalised lymphadenopathy. Stage II (B) is incorrect because it is mild disease, with weight loss under 10%, minor skin and mouth lesions and recurrent upper respiratory infections. Stage III (C) is incorrect because it is advanced disease, such as weight loss over 10%, chronic diarrhoea, oral candidiasis and pulmonary tuberculosis.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q15"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q16",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 16,
+      "questionType": "mcq",
+      "text": "The moment in pregnancy when the mother starts to feel fetal movements is:",
+      "options": {
+        "A": "Quickening",
+        "B": "Braxton Hick’s contraction",
+        "C": "Lightening",
+        "D": "Hegar’s sign"
+      },
+      "correctAnswer": "A",
+      "explanation": "Quickening (A) is correct because it is the first time the mother feels the baby move, at about 16 to 20 weeks (earlier, around 16 to 18 weeks, in a woman who has had a baby before). Braxton Hicks contractions (B) is incorrect because they are painless, irregular uterine contractions that begin from about the second trimester. Lightening (C) is incorrect because it is the descent of the fetal head into the pelvis, at about 36 weeks in a first pregnancy, which relieves pressure under the diaphragm. Hegar's sign (D) is incorrect because it is the softening of the lower uterine segment, a probable sign of early pregnancy at about 6 to 8 weeks.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q16"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q17",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 17,
+      "questionType": "mcq",
+      "text": "The temporary internal fetal structures include:",
+      "options": {
+        "A": "Ductus venosus and arteriosus, foramen ovale",
+        "B": "Umblical vessels, ductus venosus, ligamentum teres",
+        "C": "Foramen ovale, umbilical vessels, ductus arteriosus",
+        "D": "Inferior vena cava, ductus arteriosus and venosus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ductus venosus and arteriosus, foramen ovale (A) is correct because these are the three temporary internal (intra-body) structures of the fetal circulation: the ductus venosus carries blood from the umbilical vein past the liver to the inferior vena cava, the foramen ovale is the opening between the atria, and the ductus arteriosus joins the pulmonary artery to the aorta; all three close after birth. Umbilical vessels, ductus venosus, ligamentum teres (B) is incorrect because the ligamentum teres is the remnant of the umbilical vein that remains after birth, and the umbilical vessels are external. Foramen ovale, umbilical vessels, ductus arteriosus (C) is incorrect as the best answer because the umbilical vessels are external to the body of the fetus and are not an internal structure. Inferior vena cava, ductus arteriosus and venosus (D) is incorrect because the inferior vena cava is a permanent vessel. Note: option C is also commonly listed as the temporary fetal structures, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q17"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q18",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 18,
+      "questionType": "mcq",
+      "text": "The most appropriate position for a mother in labour diagnosed with cord prolapse is",
+      "options": {
+        "A": "Knee chest",
+        "B": "Sim’s",
+        "C": "Exaggerated lithotomy",
+        "D": "Trendelenberg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Knee chest (A) is correct because in a cord prolapse the aim is to take the weight of the presenting part off the cord, so that blood flow through it is not blocked, and the mother is placed in the knee-chest (face-down, bottom-up) position, or in an exaggerated Sims position, while the nurse pushes the presenting part up with a gloved hand, keeps the cord moist and warm, and prepares for an emergency caesarean section. Sim's (B) is incorrect as the best answer because the plain left lateral Sims position does not raise the buttocks enough to relieve the pressure. Exaggerated lithotomy (C) is incorrect because it is used for delivery manoeuvres (for example in shoulder dystocia), and it does not relieve cord compression. Trendelenburg (D) is incorrect as the best answer because the head-down position is an alternative on a bed when the knee-chest position is not possible, but the knee-chest is preferred. Note: the exaggerated Sims position is also an accepted option in some guidelines, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q18"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q19",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 19,
+      "questionType": "mcq",
+      "text": "ABO incompatibility in a newborn occurs when:",
+      "options": {
+        "A": "The mother has blood group A or B and the baby has blood group O",
+        "B": "The father has blood group O and the baby has blood group A or B",
+        "C": "The father has blood group A or B and the baby has blood group O",
+        "D": "The mother has blood group O and the baby has blood group A or B"
+      },
+      "correctAnswer": "D",
+      "explanation": "The mother has blood group O and the baby has blood group A or B (D) is correct because a group O mother has naturally occurring anti-A and anti-B antibodies of the IgG type, which cross the placenta and attack the baby's A or B red cells, causing haemolysis and neonatal jaundice (usually in the first 24 hours), and so it is the mother's group that matters. The mother has blood group A or B and the baby has blood group O (A) is incorrect because the baby's O cells carry no A or B antigens for the antibodies to attack. The father has blood group O and the baby has blood group A or B (B) is incorrect because a father of group O cannot give the baby an A or B gene, and the father's group does not cause the incompatibility. The father has blood group A or B and the baby has blood group O (C) is incorrect because the father's blood group is not what causes the problem.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q19"
+    },
+    {
+      "id": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1_q20",
+      "paperId": "krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 20,
+      "questionType": "mcq",
+      "text": "Caput succedaneum:",
+      "options": {
+        "A": "Increase in size",
+        "B": "Is caused by instrumental delivery",
+        "C": "Crosses suture line",
+        "D": "Resolves after four weeks"
+      },
+      "correctAnswer": "C",
+      "explanation": "Crosses suture line (C) is correct because caput succedaneum is a diffuse, soft, pitting swelling of the scalp tissues above the periosteum, caused by pressure of the cervix on the presenting part during labour, and because it lies outside the periosteum it is not limited by the suture lines and may cross them, unlike a cephalhaematoma. Increase in size (A) is incorrect because the caput is present at birth and does not enlarge; a swelling that grows after birth suggests a cephalhaematoma. Is caused by instrumental delivery (B) is incorrect because it is caused by pressure in a prolonged labour, even in a normal delivery, while a ventouse can cause a chignon. Resolves after four weeks (D) is incorrect because the caput resolves within a few days (usually 1 to 3 days), but a cephalhaematoma takes weeks to months.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q20"
+    }
+  ]
+};

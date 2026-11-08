@@ -1,0 +1,258 @@
+[
+  {
+    "id": "hca-feb2026-college-final-exam-set5",
+    "year": "2026",
+    "month": "August",
+    "examType": "College Final Exam",
+    "title": "February 2026 Class College Final Exam (Part 5)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 13,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q88 to Q100. Q1 to Q7 are not included because page 2 of the paper was not available.",
+        "questionCount": 13
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q1",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The appropriate action the first aider should take for a victim who has sustained a burn on the lower limb is:",
+        "options": {
+          "A": "Apply analgesic ointment",
+          "B": "Cool the area with cold water",
+          "C": "Cover the burnt area with a tight dressing",
+          "D": "Pop the blisters and dry the area"
+        },
+        "correctAnswer": "B",
+        "explanation": "Cool the area with cold water (B) is correct because cooling under cool running water for at least 10 to 20 minutes stops the burning and reduces pain and damage. Ointments (A) trap heat, a tight dressing (C) can restrict swelling, and popping blisters (D) opens the way to infection.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q88"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q2",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "The first aider is attending to a victim who is nose bleeding. The appropriate advice the first aider should give is:",
+        "options": {
+          "A": "Tilt the head backward to slow the bleeding",
+          "B": "Blow the nose to clear the blood",
+          "C": "Lean forward and pinch the soft part of the nose to stop the bleed",
+          "D": "Pick the nose to check whether the bleeding has stopped"
+        },
+        "correctAnswer": "C",
+        "explanation": "Lean forward and pinch the soft part of the nose to stop the bleed (C) is correct because leaning forward prevents blood from running down the throat, and pinching the soft part of the nose for about 10 minutes allows a clot to form. Tilting the head back (A) causes swallowing of blood and vomiting, blowing the nose (B) removes clots, and picking the nose (D) restarts the bleeding.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q89"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q3",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "The health education on family planning and sexual health given to a woman who has just given birth is:",
+        "options": {
+          "A": "To use combined oral contraceptive",
+          "B": "To start family planning after 6 months",
+          "C": "To space children at least two years between pregnancies",
+          "D": "Sexual intercourse can be commenced two-weeks post delivery"
+        },
+        "correctAnswer": "C",
+        "explanation": "To space children at least two years between pregnancies (C) is correct because the WHO recommends waiting at least 24 months after a birth before the next pregnancy, to protect the mother's and baby's health, and family planning counselling is started early. Combined oral contraceptives (A) are not advised for breastfeeding mothers in the first 6 months because they can reduce milk supply. Family planning should start before 6 months (B) because ovulation may return earlier, and sex is usually advised to resume when the woman feels ready and the perineal wound has healed, commonly after about 6 weeks (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q90"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q4",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "At what gestational age is the uterine fundus typically felt at the level of the umbilicus?",
+        "options": {
+          "A": "20 weeks",
+          "B": "24 weeks",
+          "C": "28 weeks",
+          "D": "40 weeks"
+        },
+        "correctAnswer": "A",
+        "explanation": "20 weeks (A) is correct because the fundus is at the level of the umbilicus at about 20 to 22 weeks of pregnancy, and after that the height in centimetres roughly equals the weeks of pregnancy. At 12 weeks it is just above the symphysis pubis, at 28 weeks it is about three finger-breadths above the umbilicus, and at 36 to 40 weeks it reaches the xiphisternum.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q91"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q5",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "What is the color of lochia serosa?",
+        "options": {
+          "A": "Red",
+          "B": "Pink",
+          "C": "Pale white",
+          "D": "Yellow"
+        },
+        "correctAnswer": "B",
+        "explanation": "Pink (B) is correct because lochia serosa is pinkish or brownish and watery, appears about day 4 to 10 after delivery, and contains blood, mucus and white cells. Lochia rubra is red (A, days 1 to 3), and lochia alba (C, D) is pale white or yellowish-white and lasts until about 6 weeks.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q92"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q6",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "What is a characteristic of a healthy term newborn?",
+        "options": {
+          "A": "Bluish extremities",
+          "B": "Heart rate of 90-160b/min",
+          "C": "Weight of 2.5-3.5 kg",
+          "D": "Respirations of 20-30b/min"
+        },
+        "correctAnswer": "C",
+        "explanation": "Weight of 2.5-3.5 kg (C) is the best answer because a healthy term newborn usually weighs 2.5 kg or more (average about 3 to 3.5 kg). Bluish extremities (A) can be normal in the first hours (acrocyanosis) but persistent blueness is abnormal. The normal newborn heart rate is about 110 to 160 beats per minute, and 90 as a lower limit (B) is too low. The normal respiratory rate is 30 to 60 breaths per minute, so 20 to 30 (D) is too low.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q93"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q7",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "What is the breastfeeding position for a woman who is nursing a preterm newborn?",
+        "options": {
+          "A": "Cross-cradle hold",
+          "B": "Football hold",
+          "C": "Side lying position",
+          "D": "Laid back position"
+        },
+        "correctAnswer": "B",
+        "explanation": "Football hold (B) is correct because holding the baby under the arm gives good control of the small baby's head and neck, allows a clear view of the baby's face and latch, and keeps weight off the mother's abdomen. The cross-cradle hold (A) is also used for small babies, and the side-lying (C) and laid-back (D) positions give less head control for a preterm baby. If your notes name the cross-cradle hold, follow your notes.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q94"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q8",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Which application is mainly used to create spreadsheets?",
+        "options": {
+          "A": "Microsoft Excel",
+          "B": "Microsoft Word",
+          "C": "Microsoft Outlook",
+          "D": "Microsoft Publisher"
+        },
+        "correctAnswer": "A",
+        "explanation": "Microsoft Excel (A) is correct because Excel organises data in rows and columns and calculates with formulas and charts. Word (B) is for documents, Outlook (C) is for email and calendar, and Publisher (D) is for desktop publishing such as flyers.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q95"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q9",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "What should you do before clicking on a link received in an unexpected email?",
+        "options": {
+          "A": "Open it immediately",
+          "B": "Verify whether the link is legitimate",
+          "C": "Share the link in your network",
+          "D": "Delete your browser"
+        },
+        "correctAnswer": "B",
+        "explanation": "Verify whether the link is legitimate (B) is correct because unexpected links may be phishing, which can steal passwords or install malware. Check the sender and hover over the link to see its address. Opening it immediately (A) and sharing it (C) are risky, and deleting the browser (D) is not necessary.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q96"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q10",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "Which job search method is often considered most effective?",
+        "options": {
+          "A": "Waiting for job ads only",
+          "B": "Applying to one job at a time",
+          "C": "Sending the same resume everywhere",
+          "D": "Networking with professionals and contact"
+        },
+        "correctAnswer": "D",
+        "explanation": "Networking with professionals and contacts (D) is correct because many jobs are filled through referrals and personal contacts before they are advertised. Waiting for ads only (A), applying to one job at a time (B) and sending the same CV everywhere (C) reduce the chances of success.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q97"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q11",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "Which of the following nutrients is primarily responsible for the growth and repair of body tissues in a patient who is recovering from a major surgery?",
+        "options": {
+          "A": "Carbohydrates",
+          "B": "Fats",
+          "C": "Proteins",
+          "D": "Vitamins"
+        },
+        "correctAnswer": "C",
+        "explanation": "Proteins (C) are correct because proteins supply amino acids for building and repairing tissue, forming new cells and collagen for wound healing, and for immune function. Carbohydrates (A) and fats (B) mainly provide energy, and vitamins (D) support the process but are not the main building material.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q98"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q12",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "A patient with diabetes mellitus is on a diabetic diet plan. The primary aim of this diet is to:",
+        "options": {
+          "A": "Increase fat intake",
+          "B": "Maintain stable blood glucose levels",
+          "C": "Restrict protein intake",
+          "D": "Promote rapid weight gain"
+        },
+        "correctAnswer": "B",
+        "explanation": "Maintain stable blood glucose levels (B) is correct because the diabetic diet balances carbohydrates, protein and fat, with regular meals and limited sugar, to avoid very high or low blood glucose and to prevent complications. It does not aim to increase fat (A), restrict protein (C) or cause rapid weight gain (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q99"
+      },
+      {
+        "id": "hca-feb2026-college-final-exam-set5_q13",
+        "paperId": "hca-feb2026-college-final-exam-set5",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "A high fibre diet is recommended primarily for patients with:",
+        "options": {
+          "A": "Constipation",
+          "B": "Peptic ulcer disease",
+          "C": "Diarrhoea",
+          "D": "Vomiting"
+        },
+        "correctAnswer": "A",
+        "explanation": "Constipation (A) is correct because fibre adds bulk and holds water in the stool, making it softer and easier to pass. Peptic ulcer disease (B), diarrhoea (C) and vomiting (D) generally need a bland or low-residue diet, small frequent meals and fluids rather than a high-fibre diet.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q100"
+      }
+    ]
+  }
+]

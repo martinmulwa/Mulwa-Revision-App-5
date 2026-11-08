@@ -1,0 +1,384 @@
+[
+  {
+    "id": "hca-june2025-college-final-exam-set2",
+    "year": "2025",
+    "month": "November",
+    "examType": "College Final Exam",
+    "title": "June 2025 Class College Final Exam (Part 2)",
+    "course": "HCA",
+    "block": "College Final Exam",
+    "unit": "Health Care Support Assistant (All Units)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q21 to Q40.",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "hca-june2025-college-final-exam-set2_q1",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "Constipation in older adults is due to:",
+        "options": {
+          "A": "Increased activity",
+          "B": "Decreased fluid intake",
+          "C": "High-fiber diet",
+          "D": "Enema administration"
+        },
+        "correctAnswer": "B",
+        "explanation": "Decreased fluid intake (B) is correct because older adults often drink less (reduced thirst sensation, fear of incontinence or frequent toilet trips), which makes stool hard and dry. Other contributors are low dietary fibre, reduced mobility, weakened abdominal muscles, slower bowel movement, and drugs such as opioids, iron and some antihypertensives. The HCA encourages fluids (unless restricted), fibre-rich foods, regular toileting and gentle activity, and reports persistent constipation to the nurse. Increased activity (A) and a high-fibre diet (C) prevent constipation, and an enema (D) is a treatment for it, not a cause.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q21"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q2",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "What should you do when you are typing in a word document and you have an important word that you need to emphasize?",
+        "options": {
+          "A": "Bold the word",
+          "B": "Write the word repeatedly",
+          "C": "Highlight each letter with several colors",
+          "D": "Write each letter with a different color"
+        },
+        "correctAnswer": "A",
+        "explanation": "Bold the word (A) is correct because bolding is the standard, professional way to draw attention to a key word in a document: it is clear, quick and keeps the text readable. Italics or underlining can also be used sparingly. Repeating the word (B), highlighting each letter in several colours (C) or using a different colour for each letter (D) make the document cluttered, unprofessional and hard to read.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q22"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q3",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "What is the font size for academic writing?",
+        "options": {
+          "A": "12",
+          "B": "13",
+          "C": "14",
+          "D": "15"
+        },
+        "correctAnswer": "A",
+        "explanation": "12 (A) is correct because academic documents (assignments, reports, essays) are normally typed in size 12 font, usually Times New Roman or Arial, with 1.5 or double line spacing, so that the text is readable and consistent. Sizes 13, 14 and 15 (B to D) are too large for body text; larger sizes are used only for headings and titles.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q23"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q4",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "How should the subject line of an email be?",
+        "options": {
+          "A": "Long and descriptive",
+          "B": "Short and precise",
+          "C": "A greeting",
+          "D": "Include an attachment"
+        },
+        "correctAnswer": "B",
+        "explanation": "Short and precise (B) is correct because the subject line tells the reader at a glance what the email is about, helps them prioritise and find it later, and should be clear and to the point (for example, \"Leave request: 3 to 5 March\"). A long, descriptive subject (A) is cut off on many screens. A greeting (C) belongs in the body of the email. An attachment (D) is added to the email, not placed in the subject line.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q24"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q5",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "A picture of what and where you want to be in your career is called:",
+        "options": {
+          "A": "Personal goal",
+          "B": "Personal vision",
+          "C": "Personal mission",
+          "D": "Personal objective"
+        },
+        "correctAnswer": "B",
+        "explanation": "Personal vision (B) is correct because a vision is a mental picture of the future, of who and where you want to be in your career, and it gives long-term direction. A personal mission (C) states your purpose and what you do now and why. A personal goal (A) is a broader target you work towards, and a personal objective (D) is a specific, measurable step that helps you achieve a goal. The usual order is vision, mission, goals, then objectives.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q25"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q6",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Which of the components of emotional intelligence means that a health care assistant can understand and share the feelings of others?",
+        "options": {
+          "A": "Self-awareness",
+          "B": "Self-regulation",
+          "C": "Motivation",
+          "D": "Empathy"
+        },
+        "correctAnswer": "D",
+        "explanation": "Empathy (D) is correct because it is the ability to understand and share another person's feelings and see things from their point of view, which is essential when caring for anxious, sick or grieving patients. Self-awareness (A) is recognising your own emotions and their effect on others. Self-regulation (B) is controlling your emotions and reactions. Motivation (C) is the inner drive to achieve and keep going. The fifth component is social skills.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q26"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q7",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "In financial literacy, what is an example of an expenditure that is represented by 50 in the 50-30-20 rule?",
+        "options": {
+          "A": "Emergency fund",
+          "B": "Grocery",
+          "C": "Supply for hobbies",
+          "D": "Vacation"
+        },
+        "correctAnswer": "B",
+        "explanation": "Grocery (B) is correct because in the 50-30-20 budgeting rule, 50% of income goes to needs (essentials such as food, rent, utilities, transport and school fees), 30% to wants (hobbies, entertainment, vacations) and 20% to savings and debt repayment (including an emergency fund). Emergency fund (A) falls under the 20% savings, while supplies for hobbies (C) and vacation (D) fall under the 30% wants.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q27"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q8",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Why is it important to show empathy when a customer has a complaint?",
+        "options": {
+          "A": "To prove the customer is wrong",
+          "B": "To minimize the importance of the complaint",
+          "C": "To strengthen the customer relationship and show you care",
+          "D": "To finish the conversation quickly and attend to other activities"
+        },
+        "correctAnswer": "C",
+        "explanation": "To strengthen the customer relationship and show you care (C) is correct because empathy makes the customer feel heard and respected, calms emotions, builds trust and makes it easier to find a solution. Proving the customer wrong (A) makes them defensive, minimising the complaint (B) makes them feel ignored, and hurrying the conversation (D) shows a lack of care. In health care the patient or relative is the customer, so the HCA listens, apologises where appropriate and reports the concern to the nurse in charge.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q28"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q9",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "What should you do after you have proposed a solution to a customer's concern?",
+        "options": {
+          "A": "Assume the problem is solved and move on",
+          "B": "Verify that the solution was effective and the customer is satisfied",
+          "C": "Wait for the customer to contact you again if the problem persists",
+          "D": "Send the customer a complaint form to fill out"
+        },
+        "correctAnswer": "B",
+        "explanation": "Verify that the solution was effective and the customer is satisfied (B) is correct because follow-up closes the service loop: it confirms the problem is truly solved, shows you care and gives a chance to correct anything that failed. Assuming it is solved (A) or waiting for the customer to come back (C) leaves problems unresolved and can damage trust. Sending a complaint form (D) does not follow up on the solution and invites more dissatisfaction.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q29"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q10",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "What precautions can be taken to prevent HIV transmission?",
+        "options": {
+          "A": "Using different pens for different people",
+          "B": "Avoiding shaking hands with colleagues who have HIV",
+          "C": "Wearing gloves during procedures that may involve contact with blood",
+          "D": "Have specific blood pressure machine for patients who have HIV"
+        },
+        "correctAnswer": "C",
+        "explanation": "Wearing gloves during procedures that may involve contact with blood (C) is correct because HIV spreads through blood and body fluids, so standard precautions include gloves, hand hygiene, safe handling and disposal of sharps, and protective equipment when blood or body fluids may be touched. Using different pens (A), avoiding handshakes (B) and having a separate BP machine for HIV patients (D) are unnecessary: HIV is not spread by casual contact or shared pens or equipment, and singling out patients is discriminatory. Standard precautions apply to all patients, whatever their HIV status.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q30"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q11",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "In the problem-solving process, what is the next step after identifying the problem?",
+        "options": {
+          "A": "Generating potential solutions",
+          "B": "Implementing the solution",
+          "C": "Evaluating the results",
+          "D": "Choosing one solution"
+        },
+        "correctAnswer": "A",
+        "explanation": "Generating potential solutions (A) is correct because the problem-solving process follows the order: identify the problem, generate possible solutions, evaluate the options and choose the best one, implement it, and then evaluate the results. Choosing a solution (D) can only be done after options have been generated, implementing (B) comes after choosing, and evaluating the results (C) is the last step.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q31"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q12",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "What is a strategic way to present a weakness in an interview?",
+        "options": {
+          "A": "Deny having any weaknesses at all",
+          "B": "Blame a past employer for your weaknesses",
+          "C": "Choose a weakness that is completely irrelevant to the job",
+          "D": "Frame it as a negative habit you are actively working to overcome"
+        },
+        "correctAnswer": "D",
+        "explanation": "Frame it as a negative habit you are actively working to overcome (D) is correct because it shows honesty, self-awareness and a willingness to improve, which employers value. For example: being shy about speaking up, and attending a communication course to improve. Denying any weakness (A) seems dishonest or lacking insight, blaming a past employer (B) shows poor accountability and professionalism, and choosing a completely irrelevant weakness (C) sounds evasive.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q32"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q13",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "Which of the following is an objective of home-based care?",
+        "options": {
+          "A": "Shift the care of all patients from the hospital to the community",
+          "B": "Refer for advanced care",
+          "C": "Facilitate the continuity of the client's care",
+          "D": "Treat the chronic illness"
+        },
+        "correctAnswer": "C",
+        "explanation": "Facilitate the continuity of the client's care (C) is correct because home-based care links hospital and community, so that patients who are chronically ill, recovering or being palliated continue to receive care at home with family involvement, reducing hospital stays and costs. Shifting the care of all patients to the community (A) is not realistic because some patients need hospital care. Referral for advanced care (B) is done when needed, but is not an objective. Treating the chronic illness (D) is the clinician's role; home-based care focuses on supportive care, monitoring and continuity.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q33"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q14",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "What are the characteristics of a good home based care provider?",
+        "options": {
+          "A": "Having knowledge of complex medical terms",
+          "B": "Being empathetic during patient's care",
+          "C": "Honoring patient's requests in a sympathetic manner",
+          "D": "Always use close ended questions"
+        },
+        "correctAnswer": "B",
+        "explanation": "Being empathetic during patient's care (B) is correct because a good home-based care provider shows empathy, respect, patience, good communication, confidentiality and reliability, and understands the patient's feelings and circumstances. Knowledge of complex medical terms (A) is not a core quality, and simple language is better for families. Honouring all requests (C) is not always possible or safe, since some requests may conflict with the care plan. Always using closed questions (D) limits communication; a mix of open and closed questions is better.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q34"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q15",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "An HCA is assisting in administration of ibuprofen 800mg per oral 8 hourly. The drug was lastly administered at 9 A.M. Determine the next hour the drug will be due for administration:",
+        "options": {
+          "A": "4 P.M",
+          "B": "5 P.M.",
+          "C": "6 P.M",
+          "D": "9 P.M"
+        },
+        "correctAnswer": "B",
+        "explanation": "5 P.M. (B) is correct because 8 hourly means one dose every 8 hours, so 9 A.M. + 8 hours = 5 P.M. (9 A.M. to 12 noon is 3 hours, plus 5 more hours gives 5 P.M.). The other times are wrong: 4 P.M. is 7 hours later, 6 P.M. is 9 hours later and 9 P.M. is 12 hours later (12 hourly). Ibuprofen is given with or after food to reduce stomach irritation.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q35"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q16",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "Which of the following forms of drug administration is administered per vagina?",
+        "options": {
+          "A": "Enema",
+          "B": "Pessaries",
+          "C": "Suppository",
+          "D": "Lozenges"
+        },
+        "correctAnswer": "B",
+        "explanation": "Pessaries (B) are correct because a pessary is a solid, usually egg-shaped medicine inserted into the vagina, where it melts and releases the drug (for example clotrimazole for vaginal candidiasis). An enema (A) is a liquid given into the rectum. A suppository (C) is a solid cone inserted into the rectum (for example diclofenac or paracetamol). Lozenges (D) are dissolved in the mouth, for example for sore throat.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q36"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q17",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "When emptying a urinary drainage bag, an HCA should first:",
+        "options": {
+          "A": "Remove the catheter and wear gloves",
+          "B": "Wash hands and wear gloves",
+          "C": "Check the urine for glucose and disconnect the tubing",
+          "D": "Disconnect the tubing and wash hands"
+        },
+        "correctAnswer": "B",
+        "explanation": "Wash hands and wear gloves (B) is correct because hand hygiene and gloves come first to protect both the HCA and the patient from catheter-associated urinary tract infection and contact with body fluids. The HCA then opens the drain tap over a clean measuring container without letting the tap touch it, drains the urine, closes the tap, records the amount and colour, discards the urine and washes hands again. Removing the catheter (A) is not part of emptying the bag, and the catheter and tubing must stay connected as a closed system, so disconnecting the tubing (C, D) is wrong and introduces infection. Testing urine (C) is not done by the HCA unless instructed.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q37"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q18",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "The urinary drainage bag should be emptied when:",
+        "options": {
+          "A": "It is completely full",
+          "B": "It is half to two-thirds full",
+          "C": "Only in the morning",
+          "D": "At the end of the shift"
+        },
+        "correctAnswer": "B",
+        "explanation": "It is half to two-thirds full (B) is correct because the bag should be emptied before it becomes heavy and full, as a full bag pulls on the catheter, causes discomfort and trauma to the urethra, and allows urine to flow back and cause infection. It should also be kept below bladder level. Waiting until the bag is completely full (A), emptying only in the morning (C) or at the end of the shift (D) allows overfilling.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q38"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q19",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "Which of the following action should a health care assistant take when assisting a patient with feeding?",
+        "options": {
+          "A": "Keep the head of bed elevated during eating",
+          "B": "Avoid rituals and traditions the patient may have during mealtimes",
+          "C": "Ensure visitors or relatives are not present at meal time",
+          "D": "Allow patient to rest if not feeding well"
+        },
+        "correctAnswer": "A",
+        "explanation": "Keep the head of bed elevated during eating (A) is correct because sitting upright (at least 45 to 90 degrees) helps swallowing and prevents choking and aspiration; the patient should stay upright for 30 minutes after the meal. The HCA should respect patients' rituals and traditions at mealtimes (B is wrong), as family may be welcomed and can encourage eating (C is wrong), and a patient who is not feeding well should be encouraged and reported to the nurse rather than simply left to rest (D).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q39"
+      },
+      {
+        "id": "hca-june2025-college-final-exam-set2_q20",
+        "paperId": "hca-june2025-college-final-exam-set2",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "What is the main purpose of bathing a patient?",
+        "options": {
+          "A": "Offer an excellent opportunity for the HCA to know patient body structure",
+          "B": "To enhance patient independence",
+          "C": "Eliminate body odor",
+          "D": "To promote health care assistant hands on skills"
+        },
+        "correctAnswer": "C",
+        "explanation": "Eliminate body odor (C) is correct because the main purpose of bathing is to clean the skin: removing sweat, dirt, dead cells, micro-organisms and body odour, which keeps the patient clean, comfortable and free from skin infection. Bathing also stimulates circulation, allows skin inspection and promotes comfort and self-esteem. Observing body structure (A), encouraging independence (B) and practising skills (D) are secondary benefits and not the main purpose.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Multiple Choice Questions, Q40"
+      }
+    ]
+  }
+]

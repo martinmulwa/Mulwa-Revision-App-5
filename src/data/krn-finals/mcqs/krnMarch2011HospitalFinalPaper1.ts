@@ -1,0 +1,398 @@
+/**
+ * Mulwa Clinical Exam Portal
+ * TNH March 2011 Class Hospital Final Examination, Paper I
+ * TNH
+ *
+ * Course: Kenya Registered Nursing (KRN / KRCHN)
+ * Block: College Final Exam (finals)
+ * Unit: College Final Exams (Comprehensive Nursing Practice)
+ * Total Questions: 20 across 1 Revision Set
+ *
+ * @author MULWA <martinmulwa95@gmail.com>
+ * @version 1.0.0
+ */
+
+import { PastPaper } from "../../../types";
+
+export const KRN_MARCH2011_HOSPITAL_FINAL_PAPER1: PastPaper = {
+  "id": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+  "year": "2011",
+  "month": "March",
+  "examType": "Main",
+  "title": "March 2011 Final Exam Paper 1",
+  "category": "College Final Exam",
+  "block": "finals",
+  "unit": "College Final Exams",
+  "totalQuestions": 20,
+  "totalSets": 1,
+  "sets": [
+    {
+      "setNumber": 1,
+      "title": "Set 1: Physiology, Med-Surg, Pharmacology, Nursing Process & Gerontology (Q1–Q20)",
+      "description": "The original MCQs from the March 2011 class Hospital Final Examination Paper I of TNH (sat 8 October 2013, Multiple Choice Questions, Q1 to Q20) covering Pulmonary Physiology, Medical-Surgical Nursing, Pharmacology, Nursing Process, Gerontology, Infection Control, and Midwifery.",
+      "questionCount": 20
+    }
+  ],
+  "questions": [
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q1",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 1,
+      "questionType": "mcq",
+      "text": "Vital capacity:",
+      "options": {
+        "A": "Is the volume of air moved in and out of the lungs during a respiratory cycle",
+        "B": "Is the total volume of air that the lungs can hold",
+        "C": "Is the volume of air that remains in the lungs at all times",
+        "D": "Is the maximum air that can be exhaled after taking the deepest breath possible"
+      },
+      "correctAnswer": "D",
+      "explanation": "Is the maximum air that can be exhaled after taking the deepest breath possible (D) is correct because vital capacity (about 4.5 to 5 litres in an adult) is the largest volume that can be breathed out after a maximal inspiration; it is the sum of the tidal volume, the inspiratory reserve volume and the expiratory reserve volume. Is the volume of air moved in and out during a respiratory cycle (A) is incorrect because it is the tidal volume (about 500 ml). Is the total volume of air that the lungs can hold (B) is incorrect because it is the total lung capacity. Is the volume of air that remains in the lungs at all times (C) is incorrect because it is the residual volume.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q1"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q2",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 2,
+      "questionType": "mcq",
+      "text": "A common causative organism of acute pyelonephritis is:",
+      "options": {
+        "A": "Pseudomonas aurugenosa",
+        "B": "Escherichia coli",
+        "C": "Haemophillus influenza",
+        "D": "Staphylococcus aureus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Escherichia coli (B) is correct because this gut bacterium causes about 80% of urinary tract infections, including acute pyelonephritis, by ascending from the urethra and bladder to the kidney; the short female urethra makes women more prone. Pseudomonas aeruginosa (A) is incorrect because it is mostly a hospital-acquired cause in catheterised patients. Haemophilus influenzae (C) is incorrect because it is a cause of respiratory infections, otitis media and meningitis. Staphylococcus aureus (D) is incorrect because it reaches the kidney by the blood stream (renal abscess) and is an uncommon cause.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q2"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q3",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 3,
+      "questionType": "mcq",
+      "text": "An appropriate bathing/hygiene measure for a patient with 20% burns is:",
+      "options": {
+        "A": "Assisted bath",
+        "B": "Partial bath",
+        "C": "Shower",
+        "D": "Tub bath"
+      },
+      "correctAnswer": "A",
+      "explanation": "Assisted bath (A) is correct because a patient with 20% burns is in pain, weak and at risk of infection and fluid loss, so the nurse bathes the patient with assistance (a gentle bed bath or hydrotherapy, using aseptic technique, warm water and mild cleansing agents) and cares for the burn wounds at the same time. Partial bath (B) is incorrect because it cleans only the face, hands, axillae and perineum and does not meet the hygiene needs of a patient who cannot bathe independently or who has extensive wounds. Shower (C) is incorrect as the best answer because the patient is not able to stand independently and a shower risks cross-infection and pain. Tub bath (D) is incorrect because soaking in a common tub spreads infection to the open burn wounds. Note: the choice depends on the unit's burn protocol (some units use a shower with supervision), so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q3"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q4",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 4,
+      "questionType": "mcq",
+      "text": "The antitubercular drug associated with vitamin B6 deficiency is:",
+      "options": {
+        "A": "Rifampicin",
+        "B": "Pyrazinamide",
+        "C": "Isoniazid",
+        "D": "Ethambutol"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isoniazid (C) is correct because it interferes with the metabolism of pyridoxine (vitamin B6) and increases its excretion, which can cause peripheral neuropathy (numbness and tingling of the hands and feet); it is prevented by giving pyridoxine 10 to 25 mg daily with the isoniazid. Rifampicin (A) is incorrect because it causes orange discolouration of body fluids and hepatitis. Pyrazinamide (B) is incorrect because it causes hyperuricaemia and hepatitis. Ethambutol (D) is incorrect because it causes optic neuritis.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q4"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q5",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 5,
+      "questionType": "mcq",
+      "text": "An objective should be time bound so as to:",
+      "options": {
+        "A": "Determine when the intervention is to be carried out",
+        "B": "Define at what time/extent the client can be engaged in self-care",
+        "C": "Ensure that the expected outcome is timely and not delayed",
+        "D": "Suggest the time-frame for evaluating the achievement of an outcome"
+      },
+      "correctAnswer": "D",
+      "explanation": "Suggest the time-frame for evaluating the achievement of an outcome (D) is correct because a well-written objective (expected outcome) is SMART, and the time limit (for example 'within 48 hours') tells the nurse when to evaluate whether the goal has been met and when to revise the care plan. Determine when the intervention is to be carried out (A) is incorrect because the time of the intervention is stated in the nursing orders and not in the outcome. Define at what time/extent the client can be engaged in self-care (B) is incorrect because it describes the client's level of independence, not the purpose of a time limit. Ensure that the expected outcome is timely and not delayed (C) is incorrect because the time frame does not ensure that the outcome occurs on time, it only sets the point for evaluation.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q5"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q6",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 6,
+      "questionType": "mcq",
+      "text": "Management of Hepatitis B infection includes:",
+      "options": {
+        "A": "Interferon administration",
+        "B": "Hepatitis B vaccination",
+        "C": "Antiviral drug administration",
+        "D": "Broad spectrum antibiotic administration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Antiviral drug administration (C) is correct because chronic hepatitis B is treated with antiviral drugs (tenofovir, entecavir and lamivudine), which suppress viral replication, while acute infection is managed supportively with rest, fluids and a nutritious diet. Interferon administration (A) is incorrect as the best answer because pegylated interferon is used in a small group of patients with chronic infection, and it is itself a type of antiviral agent. Hepatitis B vaccination (B) is incorrect because it is a method of prevention (and of post-exposure prophylaxis together with immunoglobulin) and not a treatment of the infection. Broad spectrum antibiotic administration (D) is incorrect because the cause is a virus, so antibiotics are not effective. Note: options A and C are both used in treatment, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q6"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q7",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 7,
+      "questionType": "mcq",
+      "text": "Haemochromatosis can result in:",
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Hypercalcaemia",
+        "C": "Bone hyperplasia",
+        "D": "Heart failure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heart failure (D) is correct because in haemochromatosis excess iron is deposited in the heart muscle and causes a restrictive or dilated cardiomyopathy, arrhythmias and congestive heart failure; iron is also deposited in the liver (cirrhosis and liver cancer), pancreas (diabetes, 'bronze diabetes'), skin (bronze pigmentation) and joints. Osteoporosis (A) is incorrect as the best answer because it can occur in iron overload, but it is not the classical life-threatening complication. Hypercalcaemia (B) is incorrect because it is not a feature of the disease. Bone hyperplasia (C) is incorrect because it is not a recognised result, although an arthropathy of the joints occurs. Note: osteoporosis is also reported, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q7"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q8",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 8,
+      "questionType": "mcq",
+      "text": "A diagnostic test that evaluates renal blood flow is:",
+      "options": {
+        "A": "Renal angiography",
+        "B": "IV pyelography",
+        "C": "Cystoscopy",
+        "D": "Kidney X-ray"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renal angiography (A) is correct because a contrast medium is injected into the renal artery (through a catheter placed from the femoral artery) and X-rays show the renal arteries and the blood flow in the kidney, so it can detect renal artery stenosis, aneurysm, tumour and perfusion defects. IV pyelography (B) is incorrect because it shows the structure of the kidney, ureters and bladder and the excretion of the dye, but not the blood flow. Cystoscopy (C) is incorrect because it is a direct view of the bladder and urethra using a scope. Kidney X-ray (D) is incorrect because a plain film (KUB) shows only the size, shape and position of the kidneys and radio-opaque stones.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q8"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q9",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 9,
+      "questionType": "mcq",
+      "text": "A patient suffering from cushing’s syndrome presents with:",
+      "options": {
+        "A": "Hypovolaemia, hypotension, osteoporosis",
+        "B": "Premature menopause, osteoporosis, hypokalaemia",
+        "C": "Hypertension, hyperglycemia, osteoporosis",
+        "D": "Hyperkalemia, hypotension, immune-suppression"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hypertension, hyperglycemia, osteoporosis (C) is correct because the excess cortisol of Cushing's syndrome causes sodium and water retention (hypertension), increased gluconeogenesis and insulin resistance (hyperglycaemia), and protein breakdown with calcium loss from bone (osteoporosis); other features are a moon face, buffalo hump, truncal obesity, striae, easy bruising, muscle weakness, hirsutism and infections. Hypovolaemia, hypotension, osteoporosis (A) is incorrect because the patient is hypervolaemic and hypertensive (hypotension is a feature of Addison's disease). Premature menopause, osteoporosis, hypokalaemia (B) is incorrect as the best answer because menstrual irregularity or amenorrhoea occurs, but not a premature menopause, although hypokalaemia and osteoporosis are true. Hyperkalaemia, hypotension, immune-suppression (D) is incorrect because Cushing's causes hypokalaemia and hypertension; immune suppression is true but the other two features are wrong.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q9"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q10",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 10,
+      "questionType": "mcq",
+      "text": "Functional capacity theory of aging attributes aging to:",
+      "options": {
+        "A": "Withdrawal of older people from the roles characteristics of middle age",
+        "B": "Failure to adopt to environmental demands",
+        "C": "Reduced independence in activities of daily living",
+        "D": "Diminished system functioning in the body"
+      },
+      "correctAnswer": "D",
+      "explanation": "Diminished system functioning in the body (D) is correct as the best answer because the functional (biological) theories explain ageing as a progressive decline in the functional capacity of the body systems (heart, lungs, kidneys, nervous and immune systems), which reduces the reserve and the ability to respond to stress. Withdrawal of older people from the roles characteristic of middle age (A) is incorrect because it describes the disengagement theory (a sociological theory). Failure to adapt to environmental demands (B) is incorrect because it describes the adaptation or stress theories. Reduced independence in activities of daily living (C) is incorrect because it is a consequence (the functional status) and not the cause that the theory gives. Note: the name of the theory is not standard, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q10"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q11",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 11,
+      "questionType": "mcq",
+      "text": "In myasthenia gravis there is:",
+      "options": {
+        "A": "Demyelination in the central nervous system",
+        "B": "Demyelination in the peripheral nervous system",
+        "C": "Destruction of acetylcholine receptors at the neuromuscular junction",
+        "D": "Destruction of doparminergic neurons at the substantia niagra"
+      },
+      "correctAnswer": "C",
+      "explanation": "Destruction of acetylcholine receptors at the neuromuscular junction (C) is correct because myasthenia gravis is an autoimmune disease in which antibodies block and destroy the acetylcholine receptors on the muscle, so that nerve impulses cannot trigger muscle contraction, leading to muscle weakness that is worse with activity and improves with rest (ptosis, diplopia, dysphagia, respiratory weakness). Demyelination in the central nervous system (A) is incorrect because it describes multiple sclerosis. Demyelination in the peripheral nervous system (B) is incorrect because it describes Guillain-Barre syndrome. Destruction of dopaminergic neurons at the substantia nigra (D) is incorrect because it describes Parkinson's disease.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q11"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q12",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 12,
+      "questionType": "mcq",
+      "text": "Microorganisms are transmitted to a client when a stethoscope touches his skin. The stethoscope is a:",
+      "options": {
+        "A": "Formite",
+        "B": "Portal of entry",
+        "C": "Reservoir",
+        "D": "Agent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fomite (A, written 'Formite') is correct because a fomite is an inanimate object (stethoscope, thermometer, bed linen, door handle) that carries infectious organisms from one person to another by indirect contact. Portal of entry (B) is incorrect because it is the way the organism enters the host (for example a break in the skin or the respiratory tract). Reservoir (C) is incorrect because it is the place where the organism lives and multiplies (a person, animal, soil or water). Agent (D) is incorrect because it is the micro-organism itself that causes the disease.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q12"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q13",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 13,
+      "questionType": "mcq",
+      "text": "Severe weight loss greater than 10% of body weight with unexplained diarrhea for more than a month in HIV infection is seen in clinical stage:",
+      "options": {
+        "A": "I",
+        "B": "II",
+        "C": "III",
+        "D": "IV"
+      },
+      "correctAnswer": "C",
+      "explanation": "III (C) is correct because in the WHO clinical staging of HIV, stage 3 (advanced disease) includes severe weight loss of more than 10% of body weight, unexplained chronic diarrhoea for more than one month, unexplained persistent fever, oral candidiasis, pulmonary tuberculosis and severe bacterial infections. Stage I (A) is incorrect because it is asymptomatic disease or persistent generalised lymphadenopathy. Stage II (B) is incorrect because it is mild disease with weight loss of less than 10%, recurrent upper respiratory infections, herpes zoster and mouth ulcers. Stage IV (D) is incorrect because it is severe (AIDS-defining) disease, such as HIV wasting syndrome, Pneumocystis pneumonia, extrapulmonary TB, oesophageal candidiasis and Kaposi's sarcoma.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q13"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q14",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 14,
+      "questionType": "mcq",
+      "text": "The main causative agent for Blephalitis includes:",
+      "options": {
+        "A": "Smoke",
+        "B": "Dandruffs",
+        "C": "Haemophilus influenza",
+        "D": "Pollen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dandruff (B) is correct as the best answer because blepharitis (inflammation of the eyelid margins) is commonly associated with seborrhoeic dermatitis of the scalp and eyebrows (dandruff), and with staphylococcal infection of the lid margins; scales on the lashes cause redness, itching and crusting. Smoke (A) is incorrect because it can irritate the eyes and cause conjunctivitis but is not a main cause of blepharitis. Haemophilus influenzae (C) is incorrect because it is a cause of conjunctivitis in children rather than of blepharitis. Pollen (D) is incorrect because it causes allergic conjunctivitis. Note: the commonest infective cause is Staphylococcus, which is not among the options, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q14"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q15",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 15,
+      "questionType": "mcq",
+      "text": "Presumptive signs of pregnancy include:",
+      "options": {
+        "A": "Blueing of vagina, quickening",
+        "B": "Uterine growth, fetal movements",
+        "C": "Breast changes, bladder irritability",
+        "D": "Morning sickness, presence of HCG in urine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Breast changes, bladder irritability (C) is correct because presumptive (subjective) signs are the changes that the woman notices and that could have other causes: amenorrhoea, nausea and vomiting (morning sickness), breast tenderness and enlargement, urinary frequency (bladder irritability), fatigue and quickening. Blueing of vagina, quickening (A) is incorrect because the blue colour of the vagina (Chadwick's sign) is a probable sign, even though quickening is presumptive. Uterine growth, fetal movements (B) is incorrect because uterine enlargement is a probable sign, and fetal movements felt by the examiner are a positive sign. Morning sickness, presence of HCG in urine (D) is incorrect because morning sickness is presumptive, but a positive pregnancy test is a probable sign.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q15"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q16",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 16,
+      "questionType": "mcq",
+      "text": "Factors that contribute to uterine atony include:",
+      "options": {
+        "A": "Prolonged labour, uterine fibroids",
+        "B": "Placenta praevia, antibiotics",
+        "C": "Full bladder prematurity",
+        "D": "Anaemia, diabetes mellitus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prolonged labour, uterine fibroids (A) is correct because a prolonged labour exhausts the uterine muscle, and fibroids prevent the uterus from contracting evenly, so both are recognised causes of uterine atony (failure of the uterus to contract after delivery), together with overdistension (twins, polyhydramnios, macrosomia), grand multiparity, a full bladder, retained placental tissue and the use of anaesthetics. Placenta praevia, antibiotics (B) is incorrect because placenta praevia is a cause of bleeding from the lower segment, and antibiotics do not cause atony. Full bladder, prematurity (C) is incorrect because a full bladder does contribute to atony, but prematurity (a small uterus) does not. Anaemia, diabetes mellitus (D) is incorrect as the best answer because they worsen the effect of blood loss and diabetes may lead to a large baby, but they are not direct causes. Note: option C is garbled in the paper (full bladder, prematurity), so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q16"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q17",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 17,
+      "questionType": "mcq",
+      "text": "The fetal attitude that results in favourable outcome of labour is:",
+      "options": {
+        "A": "Flexion",
+        "B": "Deflexion",
+        "C": "Extension",
+        "D": "Hyperextension"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flexion (A) is correct because the attitude is the relation of the fetal head and limbs to the trunk, and in good flexion the chin is on the chest, so that the smallest diameter of the head (the suboccipitobregmatic, 9.5 cm) presents to the pelvis, giving the easiest and most favourable labour. Deflexion (B) is incorrect because the head is partly extended, so a larger diameter presents, which slows labour. Extension (C) is incorrect because a brow or face presentation gives a larger presenting diameter and obstructed labour. Hyperextension (D) is incorrect because it is the extreme extension of the neck (as in the star-gazing fetus), which can prevent vaginal delivery.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q17"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q18",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 18,
+      "questionType": "mcq",
+      "text": "The head circumference of a normal newborn at term:",
+      "options": {
+        "A": "28 – 30 cm",
+        "B": "30 – 32 cm",
+        "C": "33 – 37 cm",
+        "D": "38 – 40 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "33 – 37 cm (C) is correct because the occipitofrontal head circumference of a normal full-term newborn is about 33 to 37 cm (average 35 cm), and it is about 2 cm larger than the chest circumference at birth. 28 – 30 cm (A) and 30 – 32 cm (B) are incorrect because these values are seen in preterm babies or are a sign of microcephaly. 38 – 40 cm (D) is incorrect because it suggests macrocephaly or hydrocephalus in a newborn.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q18"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q19",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 19,
+      "questionType": "mcq",
+      "text": "The following complications can develop during puerperium:",
+      "options": {
+        "A": "Post partum haemorrhage, vasa praevia",
+        "B": "Puerperal pyrexia, perineal tear",
+        "C": "Rectovaginal fistula, puerperal psychosis",
+        "D": "Puerperal sepsis, subinvolution of the uterus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Puerperal sepsis, subinvolution of the uterus (D) is correct because both are complications of the puerperium (the six weeks after delivery): puerperal sepsis is genital tract infection after delivery and subinvolution is failure of the uterus to return to its non-pregnant size, usually from retained products or infection. Post partum haemorrhage, vasa praevia (A) is incorrect because vasa praevia is an antenatal and intrapartum condition (fetal vessels over the cervix). Puerperal pyrexia, perineal tear (B) is incorrect because a perineal tear happens during the delivery (second stage), although puerperal pyrexia is a puerperal problem. Rectovaginal fistula, puerperal psychosis (C) is incorrect as the best answer because puerperal psychosis does occur, but rectovaginal fistula is a complication of obstructed labour or a tear. Note: the options mix puerperal and intrapartum conditions, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q19"
+    },
+    {
+      "id": "krn-nairobihospital-march2011-hospitalfinal-paper1_q20",
+      "paperId": "krn-nairobihospital-march2011-hospitalfinal-paper1",
+      "setNumber": 1,
+      "questionNumberInSet": 20,
+      "questionType": "mcq",
+      "text": "The best position to ease low back pain is:",
+      "options": {
+        "A": "High folwers",
+        "B": "Prone",
+        "C": "Dorsal recumbent",
+        "D": "Supine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dorsal recumbent (C) is correct because lying on the back with the knees bent and the feet flat on the bed flattens the lumbar curve and relaxes the back and abdominal muscles, which relieves the strain on the lower back. High Fowler's (A) is incorrect because sitting upright at about 90 degrees increases the pressure on the lumbar spine. Prone (B) is incorrect because lying on the stomach increases the lumbar curve (lordosis) and the strain on the back. Supine (D) is incorrect because lying flat with the legs straight keeps the lumbar curve and can aggravate pain; it helps only when a pillow is put under the knees, which is the dorsal recumbent position. Note: semi-Fowler's with the knees flexed is also used in practice, so check this item against the marking scheme.",
+      "sourceType": "original_mcq",
+      "sourceRef": "Part A, Q20"
+    }
+  ]
+};

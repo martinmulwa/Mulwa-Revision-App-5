@@ -1,0 +1,383 @@
+[
+  {
+    "id": "krn-block3-sept2019-supplementary-collegefinal-part2",
+    "year": "2019",
+    "month": "September",
+    "examType": "Supplementary",
+    "title": "September 2019 Class Block 3 Supplementary College Final Exam (Part 2 of 6)",
+    "block": "College Final",
+    "unit": "Comprehensive Nursing (Anatomy and Physiology, Microbiology, Immunology, Parasitology, Communication, Psychology, Sociology)",
+    "totalQuestions": 20,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q21 to Q40).",
+        "questionCount": 20
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q1",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The brain stem includes: -",
+        "options": {
+          "A": "Cerebrum",
+          "B": "Medulla oblongata",
+          "C": "Thalamus",
+          "D": "Cerebellum"
+        },
+        "correctAnswer": "B",
+        "explanation": "Medulla oblongata (B) is correct because the brain stem is made of the midbrain, the pons and the medulla oblongata, which control vital functions such as breathing, heart rate and blood pressure. Cerebrum (A) is incorrect because it is the largest part of the forebrain, responsible for higher functions. Thalamus (C) is incorrect because it is part of the diencephalon, which relays sensory information to the cortex. Cerebellum (D) is incorrect because it lies behind the brain stem and coordinates movement and balance.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q21"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q2",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "A digestive enzyme contained in pancreatic juice is: -",
+        "options": {
+          "A": "Trypsinogen",
+          "B": "Cholecystokinin",
+          "C": "Pepsinogen",
+          "D": "Intrinsic factor"
+        },
+        "correctAnswer": "A",
+        "explanation": "Trypsinogen (A) is correct because pancreatic juice contains digestive enzymes, including trypsinogen (the inactive precursor of trypsin, activated in the duodenum by enterokinase), together with amylase, lipase, chymotrypsinogen and nucleases. Cholecystokinin (B) is incorrect because it is a hormone from the duodenum that stimulates the release of pancreatic enzymes and the contraction of the gallbladder. Pepsinogen (C) is incorrect because it is secreted by the chief cells of the stomach. Intrinsic factor (D) is incorrect because it is secreted by the parietal cells of the stomach and is needed to absorb vitamin B12.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q22"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q3",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "The most common cation in extracellular fluid is: -",
+        "options": {
+          "A": "Potassium",
+          "B": "Calcium",
+          "C": "Sodium",
+          "D": "Phosphorus"
+        },
+        "correctAnswer": "C",
+        "explanation": "Sodium (C) is correct because it is the main extracellular cation (normal serum level 135 to 145 mmol/L), and it determines the osmolarity of the extracellular fluid and the movement of water. Potassium (A) is incorrect because it is the main intracellular cation. Calcium (B) is incorrect because it is present in much smaller amounts in the extracellular fluid, and most of it is in the bones. Phosphorus (D) is incorrect because phosphate is the main intracellular anion, and is not a cation.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q23"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q4",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "The main ligaments that support the uterus in the pelvis is: -",
+        "options": {
+          "A": "Uterosacral",
+          "B": "Round",
+          "C": "Broad",
+          "D": "Transverse cervical"
+        },
+        "correctAnswer": "D",
+        "explanation": "Transverse cervical (D) is correct because the transverse cervical (cardinal or Mackenrodt's) ligaments run from the cervix and the upper vagina to the lateral pelvic walls, and they are the main support of the uterus, preventing it from descending (prolapse). Uterosacral (A) is incorrect as the best answer because the uterosacral ligaments also give support and hold the cervix back toward the sacrum, but they are secondary to the cardinal ligaments. Round (B) is incorrect because the round ligaments keep the uterus anteverted and give little support. Broad (C) is incorrect because the broad ligament is a fold of peritoneum that covers the uterus and tubes, and gives little support. Note: the uterosacral ligaments are also listed as a main support in some texts, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q24"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q5",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Gonadotrophin releasing hormone (GnRH) stimulates the release of: -",
+        "options": {
+          "A": "Thyroid stimulating hormone",
+          "B": "Growth hormone",
+          "C": "Luteinizing hormone",
+          "D": "Adrenocorticotrophic hormone"
+        },
+        "correctAnswer": "C",
+        "explanation": "Luteinizing hormone (C) is correct because GnRH from the hypothalamus acts on the anterior pituitary to release the gonadotrophins, luteinizing hormone (LH) and follicle stimulating hormone (FSH). Thyroid stimulating hormone (A) is incorrect because it is released in response to thyrotropin-releasing hormone. Growth hormone (B) is incorrect because it is released in response to growth hormone releasing hormone. Adrenocorticotrophic hormone (D) is incorrect because it is released in response to corticotropin-releasing hormone.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q25"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q6",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "The initial step for viral infection is: -",
+        "options": {
+          "A": "Attachment",
+          "B": "Penetration",
+          "C": "Uncoating",
+          "D": "Polymeration"
+        },
+        "correctAnswer": "A",
+        "explanation": "Attachment (A) is correct because the first step of viral replication is the attachment (adsorption) of the virus to specific receptors on the surface of the host cell. This is followed by penetration, uncoating, replication and synthesis, assembly, and release. Penetration (B) is incorrect because it is the second step, in which the virus enters the cell. Uncoating (C) is incorrect because it is the third step, in which the capsid is removed to release the genome. Polymerization (D) is incorrect because it is part of the later synthesis and assembly steps.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q26"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q7",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "The opportunistic bacteria that may cause hospital acquired infections in patients with severe burns include: -",
+        "options": {
+          "A": "Escherichia coli, Proteus mirabilis",
+          "B": "Acinetobacter baumani, Pseudomonas aeruginosa",
+          "C": "Klebsiella pneumoniae, Haemophilus influenzae",
+          "D": "Staphylococcus aureus, Streptococcus pyogenes"
+        },
+        "correctAnswer": "B",
+        "explanation": "Acinetobacter baumannii, Pseudomonas aeruginosa (B) is correct because they are opportunistic, moisture-loving, multidrug-resistant organisms that colonise burn wounds and the hospital environment, and Pseudomonas in particular is the classic cause of burn wound sepsis (blue-green pus with a sweet smell). Escherichia coli, Proteus mirabilis (A) is incorrect because they are mainly causes of urinary tract infection. Klebsiella pneumoniae, Haemophilus influenzae (C) is incorrect because they are mainly causes of respiratory infection. Staphylococcus aureus, Streptococcus pyogenes (D) is incorrect as the best answer because they are the early colonisers of burns, but they are not typically opportunistic hospital pathogens of severe burns in the way Pseudomonas and Acinetobacter are. Note: S. aureus is also a major burn pathogen, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q27"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q8",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "An example of anaerobic bacteria is: -",
+        "options": {
+          "A": "Clostridium tetani",
+          "B": "Staphylococcus aureus",
+          "C": "Escherichia coli",
+          "D": "Streptococci faecalis"
+        },
+        "correctAnswer": "A",
+        "explanation": "Clostridium tetani (A) is correct because it is a spore-forming, strictly anaerobic bacillus that grows in deep wounds with low oxygen and causes tetanus (other examples are C. perfringens, C. botulinum and Bacteroides). Staphylococcus aureus (B) is incorrect because it is a facultative anaerobe that grows with or without oxygen. Escherichia coli (C) is incorrect because it is also a facultative anaerobe. Streptococci faecalis (D) is incorrect because Enterococcus faecalis is a facultative anaerobe.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q28"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q9",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "The virus replicates itself using: -",
+        "options": {
+          "A": "Capsid",
+          "B": "Genome",
+          "C": "Nucleus",
+          "D": "Capsomers"
+        },
+        "correctAnswer": "B",
+        "explanation": "Genome (B) is correct because a virus has no cell machinery of its own, and replicates by using its genome (DNA or RNA), which carries the instructions that direct the host cell to make new viral components and copies of the genome. Capsid (A) is incorrect because it is the protein coat that protects the genome. Nucleus (C) is incorrect because viruses have no nucleus (the host cell's nucleus is used by some DNA viruses). Capsomers (D) is incorrect because they are the protein subunits that make up the capsid. Note: replication also depends on the host cell's machinery, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q29"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q10",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "The chemical mediators secreted by T helper cells to activate B cells or macrophages is: -",
+        "options": {
+          "A": "Cytokines",
+          "B": "Thromboxanes",
+          "C": "Complements",
+          "D": "Histamines"
+        },
+        "correctAnswer": "A",
+        "explanation": "Cytokines (A) is correct because T helper (CD4) cells release cytokines (such as interleukin-2, interleukin-4 and interferon gamma), which are chemical messengers that activate B cells to make antibodies and activate macrophages and cytotoxic T cells. Thromboxanes (B) is incorrect because they are lipid mediators made by platelets that cause platelet aggregation and vasoconstriction. Complements (C) is incorrect because they are plasma proteins made mainly by the liver, and are not secreted by T cells. Histamines (D) is incorrect because it is released by mast cells and basophils in allergy and inflammation.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q30"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q11",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "mcq",
+        "text": "The type of antibody found in mucous membranes is: -",
+        "options": {
+          "A": "Ig A",
+          "B": "IgG",
+          "C": "IgM",
+          "D": "IgE"
+        },
+        "correctAnswer": "A",
+        "explanation": "IgA (A) is correct because secretory IgA is the main antibody in mucosal secretions (saliva, tears, breast milk, and the respiratory, gastrointestinal and genitourinary tracts), where it prevents pathogens from attaching to the mucous membrane. IgG (B) is incorrect because it is the most abundant antibody in the blood, and it crosses the placenta. IgM (C) is incorrect because it is the first antibody produced in a primary response, and it is found in the blood. IgE (D) is incorrect because it is bound to mast cells and is involved in allergic reactions and parasitic infections.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q31"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q12",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 12,
+        "questionType": "mcq",
+        "text": "The larval stage of schistosome that infect aquatic snail is: -",
+        "options": {
+          "A": "Redia",
+          "B": "Miracidium",
+          "C": "Cercariae",
+          "D": "Rhabditiform"
+        },
+        "correctAnswer": "B",
+        "explanation": "Miracidium (B) is correct because the eggs of the schistosome hatch in fresh water to release the free-swimming miracidia, which penetrate the aquatic snail (the intermediate host); inside the snail they develop into sporocysts and then cercariae. Redia (A) is incorrect because it is a stage in the snail of other flukes (such as Fasciola), not of schistosomes. Cercariae (C) is incorrect because they are released from the snail and penetrate human skin. Rhabditiform (D) is incorrect because it is a larval stage of nematodes, such as hookworm and Strongyloides.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q32"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q13",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 13,
+        "questionType": "mcq",
+        "text": "The protozoa that causes Dysentery is: -",
+        "options": {
+          "A": "Trichomonas vaginalis",
+          "B": "Isospora belli",
+          "C": "Entamoeba histolytica",
+          "D": "Giardia lamblia"
+        },
+        "correctAnswer": "C",
+        "explanation": "Entamoeba histolytica (C) is correct because it invades the wall of the colon and causes amoebic dysentery (bloody, mucoid diarrhoea with abdominal cramps), and can spread to the liver to cause an abscess. Trichomonas vaginalis (A) is incorrect because it causes a sexually transmitted vaginitis. Isospora belli (B) is incorrect because it causes watery diarrhoea, mainly in immunosuppressed patients. Giardia lamblia (D) is incorrect because it causes fatty, foul-smelling diarrhoea with malabsorption (giardiasis), not bloody dysentery.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q33"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q14",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 14,
+        "questionType": "mcq",
+        "text": "Dynamic features of non – verbal communication include: -",
+        "options": {
+          "A": "Jewelry, timing",
+          "B": "Posture, eye contact",
+          "C": "Facial expression, environment",
+          "D": "Physical contact, environment"
+        },
+        "correctAnswer": "B",
+        "explanation": "Posture, eye contact (B) is correct because dynamic (changing) features of non-verbal communication are the ones that move and change during the interaction, such as posture, gestures, eye contact, facial expression and touch. Jewelry, timing (A) is incorrect because jewellery is a static (fixed) feature. Facial expression, environment (C) is incorrect because the environment is a static feature, even though facial expression is dynamic. Physical contact, environment (D) is incorrect for the same reason, since the environment is a static feature. Note: some texts classify touch and timing differently, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q34"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q15",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 15,
+        "questionType": "mcq",
+        "text": "During history taking, nurses repeat the entire patient’s statement in different words to ensure that they have obtained the correct information. This is: -",
+        "options": {
+          "A": "Restating",
+          "B": "Reflecting",
+          "C": "Questioning",
+          "D": "Paraphrasing"
+        },
+        "correctAnswer": "D",
+        "explanation": "Paraphrasing (D) is correct because it is restating the patient's whole message in the nurse's own words, to check that the meaning has been understood correctly. Restating (A) is incorrect because it repeats the main thought of the patient in almost the same words. Reflecting (B) is incorrect because it directs the patient's own feelings, questions or ideas back to the patient, to encourage him or her to explore them. Questioning (C) is incorrect because it is a request for information, and does not repeat the patient's message.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q35"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q16",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 16,
+        "questionType": "mcq",
+        "text": "During orientation phase of therapeutic relationship, the nurse: -",
+        "options": {
+          "A": "Reevaluates the goals set to identify new information",
+          "B": "Becomes acquainted with the patient to establish trust",
+          "C": "Supports realistic problem – solving activities of the client",
+          "D": "Gathers data about the patient in preparation for first interaction"
+        },
+        "correctAnswer": "B",
+        "explanation": "Becomes acquainted with the patient to establish trust (B) is correct because in the orientation phase the nurse and the patient meet, build trust and rapport, set the contract and clarify roles and goals. Reevaluates the goals set to identify new information (A) is incorrect because it belongs to the working phase. Supports realistic problem-solving activities of the client (C) is incorrect because it belongs to the working phase. Gathers data about the patient in preparation for first interaction (D) is incorrect because it belongs to the pre-interaction (preparation) phase, before the first meeting.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q36"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q17",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 17,
+        "questionType": "mcq",
+        "text": "An assertive nurse will utilize the following statement: -",
+        "options": {
+          "A": "“You delayed me”",
+          "B": "“It was only my opinion”",
+          "C": "“I believe this is important”",
+          "D": "“You must take your medicine”"
+        },
+        "correctAnswer": "C",
+        "explanation": "“I believe this is important” (C) is correct because assertive communication states one's own view, feelings and needs clearly and respectfully using 'I' statements, without blaming or violating the rights of others. “You delayed me” (A) is incorrect because it is an accusing 'you' statement, which is aggressive. “It was only my opinion” (B) is incorrect because it belittles one's own view, which is passive. “You must take your medicine” (D) is incorrect because it is a command that does not respect the patient's autonomy, which is aggressive.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q37"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q18",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 18,
+        "questionType": "mcq",
+        "text": "During distributive negotiation: -",
+        "options": {
+          "A": "One party claims the most value",
+          "B": "A win – win outcome is achieved",
+          "C": "There are opportunities for creativity",
+          "D": "Interests are different but not opposite"
+        },
+        "correctAnswer": "A",
+        "explanation": "One party claims the most value (A) is correct because distributive (competitive) negotiation treats the resources as fixed, so what one party gains the other loses (win-lose), and each party tries to claim the largest share. A win-win outcome is achieved (B) is incorrect because it describes integrative negotiation. There are opportunities for creativity (C) is incorrect because creative problem solving and trading of different interests belong to integrative negotiation. Interests are different but not opposite (D) is incorrect because it also describes integrative negotiation, in which the parties look for solutions that meet both sets of interests.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q38"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q19",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 19,
+        "questionType": "mcq",
+        "text": "The phase of critical thinking that entails reframing the problem as an opportunity for improvement is: -",
+        "options": {
+          "A": "Exploring",
+          "B": "Integrating",
+          "C": "Trigger event",
+          "D": "Situation appraisal"
+        },
+        "correctAnswer": "C",
+        "explanation": "Trigger event (C) is correct as the best answer because in the phase model of critical thinking (Brookfield) the trigger event is the first phase, in which an event or problem causes discomfort and the person sees it as a chance to examine and improve, rather than as a threat. Exploring (A) is incorrect because it is the phase in which ways to explain the discrepancy are explored. Integrating (B) is incorrect because it is the last phase, in which the new perspective is incorporated into the person's thinking and practice. Situation appraisal (D) is incorrect because it is the phase in which the problem is identified and described. Note: the source model for this item could not be confirmed, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q39"
+      },
+      {
+        "id": "krn-block3-sept2019-supplementary-collegefinal-part2_q20",
+        "paperId": "krn-block3-sept2019-supplementary-collegefinal-part2",
+        "setNumber": 1,
+        "questionNumberInSet": 20,
+        "questionType": "mcq",
+        "text": "In Erick Erickson’s theory of personality development, identity crisis and role confusion mark the period of: -",
+        "options": {
+          "A": "Middle adulthood",
+          "B": "Adolescence",
+          "C": "Early childhood",
+          "D": "Old age"
+        },
+        "correctAnswer": "B",
+        "explanation": "Adolescence (B) is correct because the stage of identity versus role confusion occurs between about 12 and 18 years, when young people explore their roles, values and beliefs in order to form a sense of self. Middle adulthood (A) is incorrect because it is the stage of generativity versus stagnation. Early childhood (C) is incorrect because it is the stage of autonomy versus shame and doubt (and initiative versus guilt). Old age (D) is incorrect because it is the stage of ego integrity versus despair.",
+        "sourceType": "original_mcq",
+        "sourceRef": "MCQ Section, Q40"
+      }
+    ]
+  }
+]

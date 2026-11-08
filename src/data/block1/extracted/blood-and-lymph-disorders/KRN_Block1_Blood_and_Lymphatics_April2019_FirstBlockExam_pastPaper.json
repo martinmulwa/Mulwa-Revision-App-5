@@ -1,0 +1,203 @@
+[
+  {
+    "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+    "year": "2019",
+    "month": "April",
+    "examType": "Main",
+    "title": "April 2019 Class 1st Block Exam",
+    "block": "Block 1",
+    "unit": "Blood and Lymphatics",
+    "totalQuestions": 10,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs from the April 2019 class 1st Block Exam paper (Blood and Lymphatics, sat 8 November 2019, Part A, Q1 to Q10).",
+        "questionCount": 10
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q1",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "A bone marrow biopsy is commonly taken from the following site in adults:",
+        "options": {
+          "A": "Sternum, lower third",
+          "B": "Tibia, upper third",
+          "C": "Posterior superior iliac crest",
+          "D": "Anterior superior iliac crest"
+        },
+        "correctAnswer": "C",
+        "explanation": "Posterior superior iliac crest (C) is correct because in adults the active (red) marrow is found in the axial skeleton and the proximal ends of the long bones, and the iliac crest is the preferred site for aspiration and biopsy: the bone is thick, rich in marrow, far from vital organs and easy to reach with the patient lying on the side or prone. The posterior superior iliac spine is the safest and most commonly used part, and the procedure gives a sample for diagnosing blood disorders, monitoring the response to treatment, detecting metastatic tumours and culturing organisms. Sternum, lower third (A) is incorrect because the lecture notes name the sternum as an alternative aspiration site, but it is a second choice (the bone is thin, and a slip of the needle can injure the heart and great vessels), and the sample is taken from the upper sternum (manubrium and body) and not the lower third. Tibia, upper third (B) is incorrect because the proximal tibia is used for marrow aspiration only in infants and young children, whose long bones still contain active marrow, and not in adults, whose tibial marrow has turned to fat. Anterior superior iliac crest (D) is incorrect because this is the less preferred part of the iliac crest: it is used mainly when the patient cannot lie in a position that exposes the posterior part (for example when obese or after back surgery), and it has a thinner marrow cavity. Note: the lecture notes list 'iliac crest or sternum' without naming the part, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q2",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "Normal platelet count ranges are:",
+        "options": {
+          "A": "150,000-450,000/mm³",
+          "B": "25,000 - 75,000/mm³",
+          "C": "150,000 - 550,000/mm³",
+          "D": "50,000-150,000/mm³"
+        },
+        "correctAnswer": "A",
+        "explanation": "150,000-450,000/mm³ (A) is correct because this is the normal platelet (thrombocyte) count given in the lecture notes, and it is included in the complete blood count. Platelets are small non-nucleated fragments budded from megakaryocytes in the bone marrow (stimulated by thrombopoietin from the liver), they live about 10 days and their main function is to control bleeding through haemostasis. A count below 150,000/mm³ is thrombocytopenia (spontaneous bleeding becomes a risk at much lower values), and a count above 450,000/mm³ is thrombocytosis (primary or essential thrombocythaemia is above 600,000/mm³). 25,000 - 75,000/mm³ (B) is incorrect because it is a severely low range at which bleeding is likely. 150,000 - 550,000/mm³ (C) is incorrect because the upper limit of normal is 450,000, and not 550,000. 50,000-150,000/mm³ (D) is incorrect because it is the range of thrombocytopenia (below the normal lower limit of 150,000).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q3",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Regarding hemolytic anemia:",
+        "options": {
+          "A": "The reticulocyte count is low",
+          "B": "There is reduced production of erythropoietin",
+          "C": "Glucose-6 phosphate dehydrogenase deficiency is a cause",
+          "D": "Patient has accompanying clay coloured stools"
+        },
+        "correctAnswer": "C",
+        "explanation": "Glucose-6 phosphate dehydrogenase deficiency is a cause (C) is correct because haemolytic anaemia results from premature destruction of red blood cells, and the hereditary causes include RBC membrane disorders (hereditary spherocytosis and elliptocytosis) and RBC metabolism disorders such as G6PD deficiency and pyruvate kinase deficiency. In G6PD deficiency the red cells cannot withstand oxidant stress (certain drugs, infections, fava beans), so they haemolyse; the treatment is to stop the offending drug and keep the urine output high. The reticulocyte count is low (A) is incorrect because the hypoxia stimulates erythropoietin, the marrow responds, and the reticulocyte count rises (a low count points to a hypoproliferative anaemia or an aplastic crisis). There is reduced production of erythropoietin (B) is incorrect because erythropoietin rises in haemolytic anaemia, and reduced production is a feature of anaemia of renal disease. The patient has accompanying clay coloured stools (D) is incorrect because the increased bilirubin is unconjugated (indirect), so no bile is in the urine and the stools are normal or dark; clay-coloured (pale) stools are a sign of obstructive jaundice, when bile cannot reach the gut.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q4",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "Microcytic anemia may result from:",
+        "options": {
+          "A": "Iron deficiency",
+          "B": "Folic acid deficiency",
+          "C": "Chronic renal failure",
+          "D": "Gastrectomy"
+        },
+        "correctAnswer": "A",
+        "explanation": "Iron deficiency (A) is correct because iron is needed to make haemoglobin, so when the iron stores are used up the red cells are produced pale and small (microcytic, hypochromic) with a low MCV. Iron deficiency anaemia is the commonest anaemia in the world, and thalassaemia is the other classic example of microcytic anaemia in the lecture notes. Folic acid deficiency (B) is incorrect because it impairs DNA synthesis and gives large immature red cells (megaloblastic, macrocytic anaemia). Chronic renal failure (C) is incorrect because the lack of erythropoietin gives a normocytic (normochromic) anaemia in which the cells are of normal size but low in number. Gastrectomy (D) is incorrect because removal of the stomach removes the intrinsic factor needed to absorb vitamin B12, which leads to pernicious (macrocytic) anaemia; it can also cause iron deficiency in the long term, but its classic result is B12 deficiency.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q5",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "In aplastic anemia, thrombocytopenia is manifested by:",
+        "options": {
+          "A": "Profound fatigue, exudate at wound sites",
+          "B": "Repeated throat infections, pallor",
+          "C": "Cyanosis, yellowness of the sclera",
+          "D": "Epistaxis, black tarry stools"
+        },
+        "correctAnswer": "D",
+        "explanation": "Epistaxis, black tarry stools (D) is correct because aplastic anaemia is a failure of the bone marrow to make all three cell lines (pancytopenia), and the low platelet count (thrombocytopenia) shows as bleeding: nose bleeds (epistaxis), bleeding gums, petechiae, easy bruising, heavy menses and melaena (black tarry stools from upper GI bleeding). Profound fatigue, exudate at wound sites (A) is incorrect because fatigue comes from the anaemia (low red cells), and exudate at wound sites points to infection (low white cells). Repeated throat infections, pallor (B) is incorrect because infections are caused by the low white cell count (leukopenia or neutropenia) and pallor is caused by the anaemia. Cyanosis, yellowness of the sclera (C) is incorrect because cyanosis is a sign of poor oxygenation and yellow sclera (jaundice) is a sign of haemolysis or liver disease; neither results from a low platelet count.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q6",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Regarding Idiopathic Thrombocytopenic Purpura (ITP):",
+        "options": {
+          "A": "Is common among the elderly",
+          "B": "Platelet transfusion is not indicated",
+          "C": "Low platelet occurs due to reduce platelet production",
+          "D": "Bone marrow biopsy shows an aplastic bone marrow"
+        },
+        "correctAnswer": "B",
+        "explanation": "Platelet transfusion is not indicated (B) is correct because in ITP the platelets are destroyed by antibodies (immune destruction), so transfused platelets are destroyed just as quickly and give only a brief rise; the treatment is corticosteroids (for example prednisolone), intravenous immunoglobulin and, in chronic cases, splenectomy or thrombopoietin-receptor drugs. Platelets are kept for life-threatening bleeding (for example intracranial haemorrhage) and not given routinely. Is common among the elderly (A) is incorrect because the acute form occurs mainly in children (often 1 to 6 weeks after a viral illness, and self-limiting), and the chronic form occurs mainly in adults, with a peak in young women, so it is not typically a disease of the elderly. Low platelet occurs due to reduce platelet production (C) is incorrect because the platelets are produced normally and then destroyed by the immune system. Bone marrow biopsy shows an aplastic bone marrow (D) is incorrect because the marrow in ITP is normal or shows increased megakaryocytes, as the marrow tries to compensate; an empty (aplastic) marrow is seen in aplastic anaemia.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q7",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "In Disseminated Intravascular Coagulopathy (DIC):",
+        "options": {
+          "A": "Coagulation symptoms predominate bleeding",
+          "B": "The platelet count is increased",
+          "C": "The D-dimers are elevated",
+          "D": "The Partial Thromboplastin Time (PTT) is prolonged"
+        },
+        "correctAnswer": "C",
+        "explanation": "The D-dimers are elevated (C) is correct because in DIC widespread clotting in the small vessels switches on the fibrinolytic system, which breaks down the fibrin and releases fibrin degradation products (FDPs), of which D-dimer is the most specific, so a high D-dimer shows that fibrin is being formed and broken down at the same time. The typical laboratory picture is low platelets and low fibrinogen, prolonged PT, PTT and thrombin time, and raised FDPs/D-dimers. Coagulation symptoms predominate bleeding (A) is incorrect because the early clotting (thrombosis, organ ischaemia) is followed by consumption of platelets and clotting factors, and the dominant and most obvious picture is bleeding (oozing from needle sites, epistaxis, haematuria, GI bleeding). The platelet count is increased (B) is incorrect because platelets are consumed in the microthrombi, so the count is low. The Partial Thromboplastin Time (PTT) is prolonged (D) is also a true finding in DIC because the clotting factors are used up, but the raised D-dimer is the most characteristic and the best answer here. Note: options C and D are both correct in DIC, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q8",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Neutropenia secondary to chemotherapy treatment is managed by administering:",
+        "options": {
+          "A": "Granulocyte/Macrophage Colony Stimulating Factors (GM-CSF) e.g. Neupogen",
+          "B": "Cryoprecipitate",
+          "C": "Fresh frozen plasma",
+          "D": "Hemopoietic hormones e.g. erythropoietin"
+        },
+        "correctAnswer": "A",
+        "explanation": "Granulocyte/Macrophage Colony Stimulating Factors (GM-CSF) e.g. Neupogen (A) is correct because the growth factors G-CSF (filgrastim, Neupogen) and GM-CSF stimulate the bone marrow to make neutrophils, so they shorten the period of neutropenia when the cause is reduced production (for example chemotherapy or radiation); Neupogen is given subcutaneously for several days depending on the severity. A neutropenic patient with a fever is admitted and given broad-spectrum antibiotics, which are adjusted after culture and sensitivity. Cryoprecipitate (B) is incorrect because it supplies fibrinogen, factor VIII and von Willebrand factor and is used for bleeding in DIC and haemophilia A or von Willebrand disease. Fresh frozen plasma (C) is incorrect because it replaces clotting factors in coagulation disorders (for example DIC and warfarin or vitamin K deficiency bleeding) and does not raise neutrophils. Hemopoietic hormones e.g. erythropoietin (D) is incorrect because erythropoietin stimulates red cell production, and is used in anaemia of chronic disease or renal disease. Note: Neupogen is strictly a G-CSF (filgrastim); the lecture notes list G-CSF or GM-CSF.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q9",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "Low microbial diets in patients undergoing treatment of Leukemia:",
+        "options": {
+          "A": "Aim to prevent exogenous infection",
+          "B": "Include unpeeled fresh fruits and salads",
+          "C": "Prevent constipation and bleeding in the gut",
+          "D": "Are contraindicated if patient is on blood transfusion"
+        },
+        "correctAnswer": "A",
+        "explanation": "Aim to prevent exogenous infection (A) is correct because chemotherapy and the leukaemia itself leave the patient with very few functioning neutrophils, so organisms from outside the body (exogenous sources), including those in raw foods, can enter the gut and pass into the bloodstream. A low-microbial (neutropenic) diet limits the intake of Pseudomonas, E. coli and Klebsiella by avoiding raw fresh vegetables, salads, unpeeled fruit, fresh juices, raw eggs and uncooked fish, poultry or meat. Include unpeeled fresh fruits and salads (B) is incorrect because these are exactly the foods that are forbidden, as they carry bacteria on their surface. Prevent constipation and bleeding in the gut (C) is incorrect because that is the aim of a high-fluid, high-fibre intake and rectal precautions, and it is not the purpose of a low-microbial diet. Are contraindicated if patient is on blood transfusion (D) is incorrect because the diet is not affected by transfusion, and these patients often need transfusions of blood, platelets and plasma during treatment.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-block1-april2019-blood-and-lymphatics-first-block-exam_q10",
+        "paperId": "krn-block1-april2019-blood-and-lymphatics-first-block-exam",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "mcq",
+        "text": "'B' symptoms in Hodgkin's disease include:",
+        "options": {
+          "A": "Painless lymphadenopathy, fatigue, pruritus",
+          "B": "Fever, night sweats, unintentional weight loss",
+          "C": "Bone pain, Reed Sternberg cells, cough",
+          "D": "Anaemia, thrombocytopenia, neutropenia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Fever, night sweats, unintentional weight loss (B) is correct because the 'B' symptoms are the systemic symptoms of lymphoma: unexplained fever, drenching night sweats and loss of more than 10 percent of body weight over 6 months. Their presence means more advanced disease and a worse prognosis, and the stage is written with the letter B (for example IIB), while stage A means that the symptoms are absent. Painless lymphadenopathy, fatigue, pruritus (A) is incorrect because painless enlargement of a lymph node (usually in the neck) is the typical presenting sign, and pruritus and fatigue are other common features, but they are not the B symptoms. Bone pain, Reed Sternberg cells, cough (C) is incorrect because the Reed-Sternberg cell is the histological hallmark seen on lymph node biopsy and not a symptom, and cough and bone pain are local effects of disease in the chest or bone. Anaemia, thrombocytopenia, neutropenia (D) is incorrect because these are blood count changes that result from marrow involvement or from treatment, and are not B symptoms.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q10"
+      }
+    ]
+  }
+]

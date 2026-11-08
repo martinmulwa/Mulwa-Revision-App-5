@@ -1,0 +1,217 @@
+[
+  {
+    "id": "krn-sept2019-block1-git-1",
+    "year": "2019",
+    "month": "September",
+    "examType": "Main",
+    "title": "TNH September 2019 Class GIT 1 End of Block 1 Examination",
+    "block": "Block 1",
+    "unit": "GIT Disorders",
+    "totalQuestions": 11,
+    "totalSets": 1,
+    "sets": [
+      {
+        "setNumber": 1,
+        "title": "Set 1: Original Exam Questions",
+        "description": "The original MCQs and True/False statements from TNH September 2019 class GIT 1 End of Block 1 Examination paper (GIT Disorders, sat 4 November 2020, Part A, Q1 to Q10).",
+        "questionCount": 11
+      }
+    ],
+    "questions": [
+      {
+        "id": "krn-sept2019-block1-git-1_q1",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 1,
+        "questionType": "mcq",
+        "text": "The following substances are produced by the gastric cells",
+        "options": {
+          "A": "Lipase, trypsinogen and mucus",
+          "B": "Pepsin, HCL and Cholecystokinin",
+          "C": "Amylase, mucus and secretin",
+          "D": "Intrinsic factor, HCL and gastrin"
+        },
+        "correctAnswer": "D",
+        "explanation": "Intrinsic factor, HCL and gastrin (D) is correct because parietal cells secrete hydrochloric acid and intrinsic factor, and the G cells of the gastric antrum secrete gastrin. Lipase, trypsinogen and mucus (A) is incorrect because trypsinogen is a pancreatic enzyme. Pepsin, HCL and Cholecystokinin (B) is incorrect because cholecystokinin is made by the duodenum. Amylase, mucus and secretin (C) is incorrect because amylase comes from the salivary glands and pancreas, and secretin from the duodenum.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q1"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q2",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 2,
+        "questionType": "mcq",
+        "text": "In relation to gastric tumors;",
+        "options": {
+          "A": "Incidence is higher among Africans compared to East Asians",
+          "B": "Proximal cancers are common among men compared to women",
+          "C": "Distal cancers are common in developing countries",
+          "D": "Proximal cancers are prevalent in developed countries"
+        },
+        "correctAnswer": "B",
+        "explanation": "Proximal cancers are common among men compared to women (B) is correct from the options because tumours of the proximal stomach (cardia and gastroesophageal junction) are much more frequent in men. Incidence is higher among Africans compared to East Asians (A) is incorrect because gastric cancer rates are highest in East Asia (Japan, Korea, China). Distal cancers are common in developing countries (C) and Proximal cancers are prevalent in developed countries (D) are both partly true in the literature (distal cancers linked to H. pylori are more frequent in developing countries and proximal cancers have risen in developed countries). Note: options C and D are also recognised patterns, so check this item against the marking scheme (the scanned paper marks B).",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q2"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q3",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 3,
+        "questionType": "mcq",
+        "text": "Clinical feature(s) of ulcerative colitis include;",
+        "options": {
+          "A": "Transmural lesions with fissures",
+          "B": "Right lower quadrant pain",
+          "C": "Cobblestone appearance of lesions",
+          "D": "Contiguous lesions with bowel strictures"
+        },
+        "correctAnswer": "D",
+        "explanation": "Contiguous lesions with bowel strictures (D) is correct from the options because ulcerative colitis starts in the rectum and spreads continuously (contiguous lesions) up the colon, and chronic inflammation can lead to fibrosis and strictures. Transmural lesions with fissures (A), right lower quadrant pain (B) and cobblestone appearance of lesions (C) are incorrect because they describe Crohn's disease (transmural, patchy, cobblestone mucosa, ileocecal pain). Note: strictures are more typical of Crohn's disease and the answer follows the mark on the scanned paper, so check this item against the marking scheme.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q3"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q4",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 4,
+        "questionType": "mcq",
+        "text": "The following is a risk factor to development of hiatal hernia;",
+        "options": {
+          "A": "Increased intrathoracic pressure",
+          "B": "Weakening of esophageal muscle",
+          "C": "Weakness in the diaphragmatic muscle",
+          "D": "Increased esophageal muscle pressure"
+        },
+        "correctAnswer": "C",
+        "explanation": "Weakness in the diaphragmatic muscle (C) is correct because a hiatal hernia occurs when the stomach pushes up through a widened or weakened esophageal hiatus of the diaphragm; age, obesity, pregnancy and trauma weaken the diaphragmatic muscle. Increased intrathoracic pressure (A) is incorrect because it is the intra-abdominal pressure (from obesity, pregnancy, straining) that is raised and pushes the stomach up. Weakening of esophageal muscle (B) and increased esophageal muscle pressure (D) are incorrect because the defect is in the diaphragm and not the esophageal muscle.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q4"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q5",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 5,
+        "questionType": "mcq",
+        "text": "Regarding pathophysiology of Achalasia;",
+        "options": {
+          "A": "There is transient decrease in lower esophageal sphincter pressure",
+          "B": "Lower esophageal constriction is due to decreased nitric oxide release",
+          "C": "Acetylcholine release leads to relaxation of lower esophageal sphincter",
+          "D": "Esophageal dilation occurs below the hiatal hernia"
+        },
+        "correctAnswer": "B",
+        "explanation": "Lower esophageal constriction is due to decreased nitric oxide release (B) is correct because in achalasia the inhibitory neurons of the myenteric plexus (which release nitric oxide and VIP) are lost, so the lower esophageal sphincter cannot relax and the esophageal body has no peristalsis. There is transient decrease in lower esophageal sphincter pressure (A) is incorrect because it describes GERD. Acetylcholine release leads to relaxation of lower esophageal sphincter (C) is incorrect because acetylcholine causes contraction. Esophageal dilation occurs below the hiatal hernia (D) is incorrect because the dilation occurs above the tight sphincter.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q5"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q6",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 6,
+        "questionType": "mcq",
+        "text": "Removal of the antral portion of the stomach with anastomosis to the middle portion of the intestines is commonly referred to as;",
+        "options": {
+          "A": "Billroth I",
+          "B": "Pyloroplasty",
+          "C": "Gastrectomy",
+          "D": "Billroth II"
+        },
+        "correctAnswer": "D",
+        "explanation": "Billroth II (D) is correct because it is a partial gastrectomy (antrectomy) in which the stomach remnant is joined to the jejunum (the middle portion of the small intestine). Billroth I (A) is incorrect because the remnant is joined to the duodenum. Pyloroplasty (B) is incorrect because it widens the pylorus and removes no stomach. Gastrectomy (C) is incorrect because it is the general term for removal of part or all of the stomach.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q6"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q7",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 7,
+        "questionType": "mcq",
+        "text": "The following is true regarding chronic gastritis type B;",
+        "options": {
+          "A": "It is common in Northern Europe and has an autoimmune component",
+          "B": "More common than type A and is associated with increased age",
+          "C": "There is loss of HCL and pepsin secretion",
+          "D": "Commonly related to chronic H.Pylori Infection and client develops pernicious anemia"
+        },
+        "correctAnswer": "B",
+        "explanation": "More common than type A and is associated with increased age (B) is correct because type B (environmental) gastritis is the more common form, is caused by H. pylori, and affects the antrum and becomes more frequent with age. It is common in Northern Europe and has an autoimmune component (A) is incorrect because it describes type A. There is loss of HCL and pepsin secretion (C) is incorrect because loss of acid and pepsin is typical of type A (parietal cell loss). Commonly related to chronic H.Pylori Infection and client develops pernicious anemia (D) is incorrect because pernicious anemia occurs in autoimmune type A, even though H. pylori is the cause of type B.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q7"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q8",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 8,
+        "questionType": "mcq",
+        "text": "Infectious food poisoning is characterized by;",
+        "options": {
+          "A": "Production of exotoxins by pathogens example clostridia",
+          "B": "Appearance of symptoms within 2 hours of food consumption",
+          "C": "Production of endotoxins by pathogens example salmonella",
+          "D": "Appearance of symptoms after 48 hours of food consumption"
+        },
+        "correctAnswer": "C",
+        "explanation": "Production of endotoxins by pathogens example salmonella (C) is correct from the options because infectious food poisoning is caused by the ingestion of living organisms such as Salmonella, which multiply in the gut, invade the mucosa and release toxins, so symptoms start after an incubation of 6 to 72 hours. Production of exotoxins by pathogens example clostridia (A) is incorrect because it describes toxin-mediated (preformed toxin) poisoning. Appearance of symptoms within 2 hours of food consumption (B) is incorrect because very rapid onset is typical of preformed toxins (Staphylococcus aureus). Appearance of symptoms after 48 hours (D) is incorrect because the usual onset is earlier. Note: the answer follows the mark on the scanned paper.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q8"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q9",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 9,
+        "questionType": "mcq",
+        "text": "A risk factor for inflammatory bowel disease is:",
+        "options": {
+          "A": "H.pylori infection",
+          "B": "Cigarette smoking",
+          "C": "Hypersecretion of gut serotonin",
+          "D": "Dysregulated mucosal immunity"
+        },
+        "correctAnswer": "D",
+        "explanation": "Dysregulated mucosal immunity (D) is correct because inflammatory bowel disease results from an abnormal immune response of the gut mucosa to the intestinal bacteria in genetically susceptible people. H.pylori infection (A) is incorrect because it causes gastritis and peptic ulcers. Cigarette smoking (B) is incorrect as the best answer because smoking worsens Crohn's disease but protects against ulcerative colitis. Hypersecretion of gut serotonin (C) is incorrect because it is linked to irritable bowel syndrome.",
+        "sourceType": "original_mcq",
+        "sourceRef": "Part A, Q9"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q10",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 10,
+        "questionType": "true_false",
+        "text": "In paralytic ileus, there is development of aperistalsis.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "A",
+        "explanation": "True (A) is correct because in paralytic (adynamic) ileus the intestinal muscles are paralysed, so there is no peristalsis (aperistalsis) and the contents do not move, giving abdominal distension, vomiting and absent bowel sounds without a mechanical block. It follows abdominal surgery, peritonitis and electrolyte imbalance (low potassium).",
+        "sourceType": "original_true_false",
+        "sourceRef": "Part A, Q10(a)"
+      },
+      {
+        "id": "krn-sept2019-block1-git-1_q11",
+        "paperId": "krn-sept2019-block1-git-1",
+        "setNumber": 1,
+        "questionNumberInSet": 11,
+        "questionType": "true_false",
+        "text": "Management of aerophagia includes drinking fluids with a straw.",
+        "options": {
+          "A": "True",
+          "B": "False"
+        },
+        "correctAnswer": "B",
+        "explanation": "False (B) is correct because drinking through a straw makes the patient swallow more air, so it worsens aerophagia (excessive air swallowing). Management includes eating slowly with the mouth closed, avoiding chewing gum, carbonated drinks and smoking, and checking that dentures fit.",
+        "sourceType": "original_true_false",
+        "sourceRef": "Part A, Q10(b)"
+      }
+    ]
+  }
+]
