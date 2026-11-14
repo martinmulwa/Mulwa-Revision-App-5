@@ -45,7 +45,7 @@ export default function BlockSelection({
       title: block1Meta?.title || 'Block 1',
       code: block1Meta?.code || 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101 · MHN 201',
       subtitle: block1Meta?.subtitle || 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1, Blood/Lymph & GIT',
-      stats: `${block1Meta?.papersCount ?? 73} Papers · ${block1Meta?.questionsCount.toLocaleString() ?? '1,832'} Questions · ${block1Meta?.saqCount ?? 112} SAQs`,
+      stats: `${block1Meta?.papersCount ?? 80} Papers · ${block1Meta?.questionsCount.toLocaleString() ?? '1,930'} Questions · ${block1Meta?.saqCount ?? 112} SAQs`,
       badge: `Active · ${block1Meta?.units.length ?? 8} Units`,
       isAvailable: true,
       icon: GraduationCap,
