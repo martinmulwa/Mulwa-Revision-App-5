@@ -251,6 +251,7 @@ export default function App() {
   };
 
   const handleNavigateUnitSection = (tab: AppNavTab) => {
+    if (tab === 'study') return;
     pushSnapshot();
     setActiveTab(tab);
     setView('tabs');
@@ -417,6 +418,7 @@ export default function App() {
   }, []);
 
   const handleTabNavigation = (tab: AppNavTab) => {
+    if (tab === 'study') return;
     if (tab !== activeTab || view !== 'tabs') {
       pushSnapshot();
     }

@@ -39,7 +39,6 @@ interface UnitHubProps {
 export function getUnitCapabilities(unitName: string) {
   const isRespiratory = unitName === 'Respiratory Disorders';
   const isTrauma = unitName === 'Trauma and Emergency' || unitName === 'Trauma and Emergency Nursing';
-  const isPharm = unitName === 'Pharmacology 1';
   const isHca = unitName === 'HCA' || unitName.includes('HCA') || unitName.includes('Health Care');
   const isFinals = unitName === 'College Final Exams' || unitName.includes('Final Exam') || unitName.includes('Finals');
 
@@ -47,7 +46,7 @@ export function getUnitCapabilities(unitName: string) {
     hasMcq: true,
     hasSaq: !isHca && !isFinals && (isRespiratory || isTrauma),
     hasPractice: !isHca && !isFinals && (isRespiratory || isTrauma),
-    hasStudy: !isHca && !isFinals && isPharm,
+    hasStudy: false,
     hasMistakes: true,
     isHca,
     isFinals
@@ -505,50 +504,27 @@ export default function UnitHub({
               Study
             </h2>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 sm:gap-3">
-              {caps.hasStudy ? (
-                <button
-                  type="button"
-                  onClick={() => onNavigateSection('study')}
-                  className="bg-gradient-to-br from-white via-white to-emerald-50/60 rounded-2xl border border-slate-200/90 hover:border-emerald-400 p-3.5 sm:p-4 flex justify-between items-center transition-all text-left group min-h-[64px] shadow-2xs hover:shadow-xs active:scale-[0.99] cursor-pointer"
-                  id="btn-unit-card-study"
-                >
-                  <div className="flex items-center gap-3 min-w-0">
-                    <div className="w-10 h-10 rounded-xl bg-emerald-100/80 border border-emerald-200/90 flex items-center justify-center text-emerald-700 group-hover:bg-emerald-600 group-hover:text-white transition-all shrink-0">
-                      <Sparkles className="w-5 h-5" />
-                    </div>
-                    <div className="min-w-0">
-                      <h3 className="font-bold text-sm sm:text-base text-slate-900 group-hover:text-emerald-950 transition-colors leading-snug truncate">
-                        Study
-                      </h3>
-                      <p className="text-[11px] font-medium text-slate-500 truncate mt-0.5">
-                        Curriculum & Lecture Notes
-                      </p>
-                    </div>
+              <button
+                type="button"
+                disabled
+                aria-disabled="true"
+                className="w-full bg-slate-50/80 rounded-2xl border border-slate-200 p-3.5 sm:p-4 flex justify-between items-center text-left opacity-60 cursor-not-allowed min-h-[64px]"
+                id="btn-unit-card-study"
+              >
+                <div className="flex items-center gap-3 min-w-0">
+                  <div className="w-10 h-10 rounded-xl bg-slate-100 border border-slate-200 flex items-center justify-center text-slate-400 shrink-0">
+                    <Sparkles className="w-5 h-5" />
                   </div>
-                  <ChevronRight
-                    className="w-4 h-4 text-slate-300 group-hover:text-emerald-600 group-hover:translate-x-0.5 transition-all shrink-0 ml-1.5"
-                    strokeWidth={2}
-                  />
-                </button>
-              ) : (
-                <div
-                  className="bg-slate-50/80 rounded-2xl border border-slate-200 p-3.5 sm:p-4 flex justify-between items-center text-left opacity-60 cursor-not-allowed min-h-[64px]"
-                >
-                  <div className="flex items-center gap-3 min-w-0">
-                    <div className="w-10 h-10 rounded-xl bg-slate-100 border border-slate-200 flex items-center justify-center text-slate-400 shrink-0">
-                      <Sparkles className="w-5 h-5" />
-                    </div>
-                    <div className="min-w-0">
-                      <h3 className="font-bold text-sm sm:text-base text-slate-500 leading-snug truncate">
-                        Study
-                      </h3>
-                      <p className="text-[11px] font-medium text-slate-400 truncate mt-0.5">
-                        Curriculum Notes in Preparation
-                      </p>
-                    </div>
+                  <div className="min-w-0">
+                    <h3 className="font-bold text-sm sm:text-base text-slate-500 leading-snug truncate">
+                      Study
+                    </h3>
+                    <p className="text-[11px] font-medium text-slate-400 truncate mt-0.5">
+                      Curriculum Notes in Preparation
+                    </p>
                   </div>
                 </div>
-              )}
+              </button>
             </div>
           </div>
         </>
