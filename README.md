@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **97 Papers** | 95 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **2,728 Questions** | Validated stems with distractors and clinical rationales (2,530 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **103 Papers** | 101 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **2,798 Questions** | Validated stems with distractors and clinical rationales (2,600 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
 | **Clinical Specialties & Tracks** | **10 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **148 Sets** | Standardized 10–25 question chunks for cognitive pacing (138 KRN + 10 HCA) |
+| **Active Practice Chunks** | **154 Sets** | Standardized 10–25 question chunks for cognitive pacing (144 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,7 +31,7 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 95 examination past papers, 2,530 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 101 examination past papers, 2,600 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
   - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
     - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
@@ -135,16 +135,22 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 ---
 
 ### 4. Pharmacology 2 (PHM 102)
-* **Status:** 8 Curated Examination Papers (**170 total MCQs & True/False items**)
+* **Status:** 14 Curated Examination Papers (**240 total MCQs & True/False items**)
 * **Examinations & Modules Included:**
-  1. **April 2019 Supplementary Exam** (`krn-block1-april2019-pharmacology-supplementary`) — 12 Questions
-  2. **April 2019 Special Exam** (`krn-block1-april2019-pharmacology-special`) — 12 Questions
-  3. **September 2019 End of Block Exam** (`krn-block1-sept2019-pharmacology-endofblock`) — 10 Questions
-  4. **September 2019 Supplementary Exam** (`krn-block1-sept2019-pharmacology-supplementary`) — 10 Questions
-  5. **April 2024 CAT 2 Exam** (`krn-block1-april2024-pharmacology-cat2`) — 32 Questions
-  6. **April 2025 End of Block Exam** (`krn-block1-april2025-pharmacology-paper2`) — 32 Questions
-  7. **April 2025 Supplementary Exam** (`krn-block1-april2025-pharmacology-supplementary`) — 31 Questions
-  8. **September 2025 End of Block Exam** (`krn-block1-sept2025-pharmacology-paper2`) — 31 Questions
+  1. **March 2011 Class End of Mid Block I Supplementary Exam** (`krn-block1-march2011-pharmacology-supplementary`) — 10 Questions
+  2. **September 2012 Class End of Mid Block I Exam** (`krn-block1-sept2012-pharmacology-endofmidblock`) — 13 Questions
+  3. **September 2012 Class CAT II Exam (End of Block I)** (`krn-block1-sept2012-pharmacology-cat2`) — 12 Questions
+  4. **September 2012 Class Supplementary Exam (End of Block I)** (`krn-block1-sept2012-pharmacology-supplementary`) — 12 Questions
+  5. **April 2019 Class CAT I Exam** (`krn-block1-april2019-pharmacology-cat1`) — 12 Questions
+  6. **April 2019 Class End of Block Exam** (`krn-block1-april2019-pharmacology-endofblock`) — 11 Questions
+  7. **April 2019 Supplementary Exam** (`krn-block1-april2019-pharmacology-supplementary`) — 12 Questions
+  8. **April 2019 Special Exam** (`krn-block1-april2019-pharmacology-special`) — 12 Questions
+  9. **September 2019 End of Block Exam** (`krn-block1-sept2019-pharmacology-endofblock`) — 10 Questions
+  10. **September 2019 Supplementary Exam** (`krn-block1-sept2019-pharmacology-supplementary`) — 10 Questions
+  11. **April 2024 CAT 2 Exam** (`krn-block1-april2024-pharmacology-cat2`) — 32 Questions
+  12. **April 2025 End of Block Exam** (`krn-block1-april2025-pharmacology-paper2`) — 32 Questions
+  13. **April 2025 Supplementary Exam** (`krn-block1-april2025-pharmacology-supplementary`) — 31 Questions
+  14. **September 2025 End of Block Exam** (`krn-block1-sept2025-pharmacology-paper2`) — 31 Questions
 * **Key Topics Covered:**
   * Gastrointestinal Pharmacology: Proton pump inhibitors (omeprazole, esomeprazole), mucosal protectants (sucralfate), antacids, stimulant laxatives (bisacodyl), stool softeners (docusate), osmotic laxatives (lactulose, PEG), opiate antidiarrheals (loperamide), 5-HT3 antagonists (ondansetron)
   * Nutrition, Vitamins & Herbal Supplements: Calcium, vitamin C (scurvy), vitamin B3 (pellagra), folic acid (B9) neural tube defect prevention, complementary/herbal product interactions (ginger, garlic)
@@ -327,7 +333,7 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   │   │   │   ├── paediatrics-1/              # 11 Paediatrics exam modules (173 MCQs)
 │   │   │   │   ├── perioperative-nursing/      # 9 Perioperative Nursing modules (126 MCQs)
 │   │   │   │   ├── pharmacology-1/             # 5 Pharmacology 1 exam modules (152 MCQs)
-│   │   │   │   ├── pharmacology-2/             # 8 Pharmacology 2 exam modules (170 MCQs)
+│   │   │   │   ├── pharmacology-2/             # 14 Pharmacology 2 exam modules (240 MCQs)
 │   │   │   │   ├── respiratory-disorders/      # 11 Respiratory exam modules (553 MCQs)
 │   │   │   │   └── trauma-and-emergency-nursing/# 12 Trauma & Emergency modules (357 MCQs)
 │   │   │   └── saqs/                           # 112 High-yield SAQs across 30 condition modules
