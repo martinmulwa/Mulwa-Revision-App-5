@@ -84,6 +84,9 @@ export default function UnitHub({
       if (unitName === 'Pharmacology 2') {
         return u === 'Pharmacology 2' || p.category === 'Pharmacology 2';
       }
+      if (unitName === 'Perioperative Nursing') {
+        return u === 'Perioperative Nursing' || p.category === 'Perioperative Nursing';
+      }
       if (unitName === 'Paediatrics 1') {
         return u.includes('Paediatric') || p.id.includes('paediatric');
       }
@@ -155,6 +158,7 @@ export default function UnitHub({
         (unitName === 'Paediatrics 1' && !rawUnit.includes('Trauma') && (rawUnit.includes('Paediatric') || paper.id.includes('paediatric'))) ||
         (unitName === 'Pharmacology 1' && (rawUnit === 'Pharmacology 1' || rawUnit === 'Pharmacology')) ||
         (unitName === 'Pharmacology 2' && rawUnit === 'Pharmacology 2') ||
+        (unitName === 'Perioperative Nursing' && rawUnit === 'Perioperative Nursing') ||
         ((unitName === 'Blood and Lymph Disorders' || unitName === 'Blood and Lymphatics' || unitName.includes('Blood and Lymph')) &&
          (rawUnit.includes('Blood') || paper.id.includes('blood'))) ||
         ((unitName === 'GIT Disorders' || unitName.includes('GIT')) &&

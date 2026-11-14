@@ -19,7 +19,8 @@ import {
   Baby,
   Award,
   Droplets,
-  Utensils
+  Utensils,
+  Scissors
 } from 'lucide-react';
 import { CourseId, BlockId } from '../types';
 import { PAST_PAPERS } from '../data/questions';
@@ -32,6 +33,7 @@ export const BLOCK1_UNITS = [
   'Trauma and Emergency',
   'Pharmacology 1',
   'Pharmacology 2',
+  'Perioperative Nursing',
   'Paediatrics 1',
   'Blood and Lymph Disorders',
   'GIT Disorders'
@@ -61,6 +63,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
   const traumaPracticeSaqs = getCategoriesByUnit('TNH Practice').reduce((sum, c) => sum + (c.questions?.length || 0), 0);
   const pharm = getUnitMetrics('Pharmacology 1');
   const pharm2 = getUnitMetrics('Pharmacology 2');
+  const periop = getUnitMetrics('Perioperative Nursing');
   const paeds = getUnitMetrics('Paediatrics 1');
   const blood = getUnitMetrics('Blood and Lymph Disorders');
   const git = getUnitMetrics('GIT Disorders');
@@ -107,6 +110,16 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       colorClass: 'bg-emerald-100/80 border-emerald-200/90 text-emerald-700 group-hover:bg-emerald-600 group-hover:text-white',
       cardHover: 'hover:border-emerald-400',
       toColor: 'to-emerald-50/60'
+    },
+    {
+      id: 'Perioperative Nursing',
+      title: 'Perioperative Nursing',
+      code: 'PON 101',
+      subtitle: `${periop.papersCount} ${periop.papersCount === 1 ? 'Paper' : 'Papers'} · ${periop.mcqsCount} MCQs`,
+      icon: Scissors,
+      colorClass: 'bg-violet-100/80 border-violet-200/90 text-violet-700 group-hover:bg-violet-600 group-hover:text-white',
+      cardHover: 'hover:border-violet-400',
+      toColor: 'to-violet-50/60'
     },
     {
       id: 'Paediatrics 1',

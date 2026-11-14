@@ -43,6 +43,10 @@ import {
 } from './pharmacology-2';
 
 import {
+  BLOCK1_PERIOPERATIVE_PAPERS
+} from './perioperative-nursing';
+
+import {
   BLOCK1_PAEDIATRICS_1_PAPERS,
   KRN_BLOCK1_APRIL2019_PAEDIATRICS_I_SUPPLEMENTARY,
   KRN_PTS_SEPTEMBER2019_INTRODUCTION_TO_PAEDIATRICS,
@@ -114,6 +118,7 @@ export * from './respiratory-disorders';
 export * from './trauma-and-emergency-nursing';
 export * from './pharmacology-1';
 export * from './pharmacology-2';
+export * from './perioperative-nursing';
 export * from './paediatrics-1';
 export * from './blood-and-lymph-disorders';
 export * from './git-disorders';
@@ -123,6 +128,7 @@ export const BLOCK1_ALL_PAPERS: PastPaper[] = [
   ...BLOCK1_TRAUMA_PAPERS,
   ...BLOCK1_PHARMACOLOGY_1_PAPERS,
   ...BLOCK1_PHARMACOLOGY_2_PAPERS,
+  ...BLOCK1_PERIOPERATIVE_PAPERS,
   ...BLOCK1_PAEDIATRICS_1_PAPERS,
   ...BLOCK1_BLOOD_AND_LYMPH_PAPERS,
   ...BLOCK1_GIT_PAPERS

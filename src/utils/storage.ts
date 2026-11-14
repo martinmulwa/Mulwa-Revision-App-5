@@ -296,6 +296,12 @@ export function isPaperForUnit(paper: PastPaper, unitName: string): boolean {
       paper.category === 'Pharmacology 2'
     );
   }
+  if (unitName === 'Perioperative Nursing') {
+    return (
+      rawUnit === 'Perioperative Nursing' ||
+      paper.category === 'Perioperative Nursing'
+    );
+  }
   if (unitName === 'Paediatrics 1') {
     const isTrauma =
       rawUnit.includes('Trauma') ||

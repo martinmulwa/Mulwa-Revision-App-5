@@ -60,6 +60,7 @@ export type PaperCategory =
   | 'Trauma and Emergency Nursing'
   | 'Pharmacology 1'
   | 'Pharmacology 2'
+  | 'Perioperative Nursing'
   | 'Paediatrics 1'
   | 'Blood and Lymph Disorders'
   | 'Blood and Lymphatic Disorders'

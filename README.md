@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **84 Papers** | 82 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **2,536 Questions** | Validated stems with distractors and clinical rationales (2,338 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **90 Papers** | 88 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **2,630 Questions** | Validated stems with distractors and clinical rationales (2,432 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
-| **Clinical Specialties & Tracks** | **9 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **122 Sets** | Standardized 10–25 question chunks for cognitive pacing (112 KRN + 10 HCA) |
+| **Clinical Specialties & Tracks** | **10 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
+| **Active Practice Chunks** | **141 Sets** | Standardized 10–25 question chunks for cognitive pacing (131 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,13 +31,13 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 82 examination past papers, 2,338 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 88 examination past papers, 2,432 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
   - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
-    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
+    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
     - **Block 2 (In Preparation):** MSN 201, 202, 203 & Reproductive Health modules.
     - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019 & 2021 Finals (600 MCQs across 30 revision sets).
-  - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Baby`, `Droplets`, `Utensils`, `Award`), paper/question stats, and course codes.
+  - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Scissors`, `Baby`, `Droplets`, `Utensils`, `Award`), paper/question stats, and course codes.
   - **Level 4 — Unit Revision Hub (`UnitHub.tsx`):** Inside each clinical unit, candidates choose from grouped revision cards:
     - **Past Papers:** MCQ Bank with dynamic multi-criterion filter and sort (by Year, Month, Exam Type, Completion Status, and Title) and instant keyword search.
     - **SAQ Bank:** High-yield condition-categorized short answer questions with model answers and mnemonics.
@@ -150,7 +150,25 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 5. Paediatrics 1 (PEN 101: Communicable Diseases & Medical-Surgical Conditions)
+### 5. Perioperative Nursing (PON 101)
+* **Status:** 6 Curated Examination Papers (**94 total MCQs, Matching & True/False items**)
+* **Examinations & Modules Included:**
+  1. **September 2023 End of Block Exam** (`krn-sept2023-block1-perioperative-nursing`) — 15 Questions
+  2. **April 2024 End of Block Exam** (`krn-april2024-block1-perioperative-nursing`) — 16 Questions
+  3. **September 2024 End of Block Exam** (`krn-sept2024-block1-perioperative-nursing`) — 16 Questions
+  4. **April 2025 End of Block Exam** (`krn-april2025-block1-perioperative-nursing`) — 15 Questions
+  5. **April 2025 Special Exam** (`krn-april2025-block1-perioperative-nursing-special`) — 16 Questions
+  6. **September 2025 End of Block Exam** (`krn-sept2025-block1-perioperative-nursing`) — 16 Questions
+* **Key Topics Covered:**
+  * Surgical Classifications & Terminology: Urgency tiers (Emergent, Urgent, Required, Elective, Optional), surgical intent (Ablative, Reconstructive, Corrective, Palliative), and surgical suffixes (`-ectomy`, `-otomy`, `-ostomy`, `-oscopy`, `-pexy`, `-plasty`)
+  * Operating Theatre Design, Zoning & Environmental Control: Unrestricted, semi-restricted, restricted, sterile, and disposal zones; one-way traffic flow; positive-pressure ceiling-to-floor HEPA ventilation; minimum 55% humidity for static/explosion prevention; seamless slip-resistant flooring; preliminary, interim, and terminal cleaning schedules
+  * Perioperative Phases & Team Roles: Pre-operative phase ("decision to table"), informed consent witnessing, WHO Surgical Safety Checklist (Sign In, Time Out, Sign Out), sterile vs non-sterile roles of the scrub nurse, circulating nurse, and anaesthesiologist, surgical counts
+  * Surgical Incisions, Positioning & Haemostasis: Midline, Pfannenstiel, Kocher subcostal, McBurney's, and lower oblique incisions; supine, lateral, lithotomy, Trendelenburg, and sniffing positions with pressure-point protection; mechanical (bone wax, ligatures) vs thermal (cryosurgery) vs chemical (thrombin, gelatin sponge) haemostasis
+  * Anaesthesia & PACU Priorities: Triad and four stages of general anaesthesia (medullary depression), depolarizing (suxamethonium) vs non-depolarizing muscle relaxants, inhalational vs intravenous agents (halothane, enflurane, propofol egg-lecithin precaution), Sellick manoeuvre (cricoid pressure), malignant hyperthermia (dantrolene), spinal headache prevention, and immediate PACU ABC airway/aspiration/haemorrhage interventions
+
+---
+
+### 6. Paediatrics 1 (PEN 101: Communicable Diseases & Medical-Surgical Conditions)
 * **Status:** 11 Curated Examination Papers (**173 total MCQs & True/False items**)
 * **Examinations & Modules Included:**
   1. **April 2025 Class End of Block 1 Special/Supplementary Exam** (`krn-block1-april2025-paediatric-nursing-i-supplementary`) — 15 Questions
@@ -175,7 +193,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 6. Blood and Lymph Disorders (MHN 201)
+### 7. Blood and Lymph Disorders (MHN 201)
 * **Status:** 7 Curated Examination Papers (**95 total MCQs**)
 * **Examinations & Modules Included:**
   1. **September 2025 Class Block 1 Exam** (`krn-block1-september2025-blood-and-lymphatic-disorders`) — 15 Questions
@@ -195,7 +213,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 7. GIT Disorders (MSN 105: Gastrointestinal Disorders)
+### 8. GIT Disorders (MSN 105: Gastrointestinal Disorders)
 * **Status:** 8 Curated Examination Papers & CAT Modules (**89 total MCQs & True/False items across 8 Revision Sets**)
 * **Examinations & Modules Included:**
   1. **TNH September 2013 Class GIT CAT II** (`nairobi-hospital-sept2013-block1-git-cat-ii`) — 10 Questions
@@ -214,7 +232,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 8. KRN College Final Examinations (KRCHN Final Exams)
+### 9. KRN College Final Examinations (KRCHN Final Exams)
 * **Status:** 15 Comprehensive College & Hospital Final Examination Papers (**600 total MCQs across 30 Revision Sets**)
 * **Examinations Included:**
   1. **September 2021 Class College Final Supplementary Exam** (`krn-collegefinal-sept2021-supplementary`) — 120 Questions (6 Revision Sets)
@@ -243,7 +261,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 9. SAQ Question Banks & Categorization
+### 10. SAQ Question Banks & Categorization
 
 #### A. Core Clinical SAQ Bank (40 Total SAQs)
 Accessible via the **SAQ Bank** tile:
@@ -300,6 +318,7 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   │   │   │   ├── blood-and-lymph-disorders/  # 7 Blood & Lymph modules (95 MCQs)
 │   │   │   │   ├── git-disorders/              # 17 GIT modules (304 MCQs)
 │   │   │   │   ├── paediatrics-1/              # 11 Paediatrics exam modules (173 MCQs)
+│   │   │   │   ├── perioperative-nursing/      # 6 Perioperative Nursing modules (94 MCQs)
 │   │   │   │   ├── pharmacology-1/             # 6 Pharmacology 1 exam modules (162 MCQs)
 │   │   │   │   ├── pharmacology-2/             # 3 Pharmacology 2 exam modules (94 MCQs)
 │   │   │   │   ├── respiratory-disorders/      # 11 Respiratory exam modules (553 MCQs)

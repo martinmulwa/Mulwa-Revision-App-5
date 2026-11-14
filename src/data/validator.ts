@@ -46,6 +46,7 @@ const ALLOWED_CATEGORIES = new Set<string>([
   'Trauma and Emergency Nursing',
   'Pharmacology 1',
   'Pharmacology 2',
+  'Perioperative Nursing',
   'Paediatrics 1',
   'Blood and Lymph Disorders',
   'Blood and Lymphatic Disorders',
@@ -92,18 +93,21 @@ export function validateQuestion(
   const options = q.options || {};
   const optionKeys = Object.keys(options);
 
-  // Rule 4: mcq has exactly keys A, B, C, D, all non-empty and all different
+  // Rule 4: mcq has contiguous option keys (A..C for 3-option matching items or A..D for standard 4-option MCQs), all non-empty and all different
   if (resolvedType === 'mcq') {
-    const requiredKeys = ['A', 'B', 'C', 'D'];
-    const hasExactlyKeys =
-      optionKeys.length === 4 &&
-      requiredKeys.every(k => optionKeys.includes(k));
+    const validThreeKeys = ['A', 'B', 'C'];
+    const validFourKeys = ['A', 'B', 'C', 'D'];
+    const isThreeOption =
+      optionKeys.length === 3 && validThreeKeys.every(k => optionKeys.includes(k));
+    const isFourOption =
+      optionKeys.length === 4 && validFourKeys.every(k => optionKeys.includes(k));
 
-    if (!hasExactlyKeys) {
-      errors.push(`${prefix} Violation: MCQ options must contain exactly keys A, B, C, D (found [${optionKeys.join(', ')}])`);
+    if (!isThreeOption && !isFourOption) {
+      errors.push(`${prefix} Violation: MCQ options must contain keys A, B, C, D (or A, B, C for 3-option matching) (found [${optionKeys.join(', ')}])`);
     } else {
+      const activeKeys = isThreeOption ? validThreeKeys : validFourKeys;
       const distinctValues = new Set<string>();
-      requiredKeys.forEach(k => {
+      activeKeys.forEach(k => {
         const val = options[k as keyof typeof options];
         if (!val || typeof val !== 'string' || val.trim() === '') {
           errors.push(`${prefix} Violation: MCQ option ${k} is empty`);
@@ -112,7 +116,7 @@ export function validateQuestion(
         }
       });
 
-      if (distinctValues.size < 4) {
+      if (distinctValues.size < activeKeys.length) {
         errors.push(`${prefix} Violation: MCQ options must all be different`);
       }
     }

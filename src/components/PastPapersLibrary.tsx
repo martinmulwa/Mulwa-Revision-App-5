@@ -35,7 +35,8 @@ import {
   Calendar,
   RotateCcw,
   Clock,
-  ChevronDown
+  ChevronDown,
+  Scissors
 } from 'lucide-react';
 import { SessionProgress, PastPaper } from '../types';
 import { BOARD_PAST_PAPERS, TNH_PRACTICE_PAPERS, getRevisionSetsForPaper } from '../data/questions';
@@ -123,6 +124,9 @@ export default function PastPapersLibrary({
     const pharmacology2Papers = sourcePapers.filter(
       p => (p.unit || p.category) === 'Pharmacology 2' || p.category === 'Pharmacology 2'
     );
+    const perioperativePapers = sourcePapers.filter(
+      p => (p.unit || p.category) === 'Perioperative Nursing' || p.category === 'Perioperative Nursing'
+    );
     const paediatricsPapers = sourcePapers.filter(
       p => (p.unit || p.category) === 'Paediatrics 1' ||
            p.category === 'Paediatrics 1' ||
@@ -189,6 +193,15 @@ export default function PastPapersLibrary({
         questionsCount: pharmacology2Papers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
         rawTotalPapers: pharmacology2Papers.length,
         unitType: 'pharmacology2' as const,
+        saqCount: 0
+      },
+      {
+        id: 'Perioperative Nursing',
+        title: 'Perioperative Nursing',
+        papersCount: perioperativePapers.length,
+        questionsCount: perioperativePapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: perioperativePapers.length,
+        unitType: 'perioperative' as const,
         saqCount: 0
       },
       {
@@ -724,6 +737,10 @@ export default function PastPapersLibrary({
                   pharmacology2: {
                     box: 'bg-emerald-50 text-emerald-600 border-emerald-200/80 group-hover:bg-emerald-100 group-hover:text-emerald-700',
                     icon: <Pill className="w-4.5 h-4.5" />
+                  },
+                  perioperative: {
+                    box: 'bg-violet-50 text-violet-600 border-violet-200/80 group-hover:bg-violet-100 group-hover:text-violet-700',
+                    icon: <Scissors className="w-4.5 h-4.5" />
                   },
                   paediatrics: {
                     box: 'bg-amber-50 text-amber-600 border-amber-200/80 group-hover:bg-amber-100 group-hover:text-amber-700',

@@ -62,6 +62,8 @@ export default function ReviewIncorrectScreen({
       canonicalUnit = 'Pharmacology 1';
     } else if (rawUnit === 'Pharmacology 2') {
       canonicalUnit = 'Pharmacology 2';
+    } else if (rawUnit === 'Perioperative Nursing') {
+      canonicalUnit = 'Perioperative Nursing';
     } else if (rawUnit === 'Respiratory Disorders') {
       canonicalUnit = 'Respiratory Disorders';
     } else if (rawUnit === 'HCA' || rawUnit.includes('HCA') || rawUnit.includes('Health Care Support Assistant') || paper.id.startsWith('hca-')) {
