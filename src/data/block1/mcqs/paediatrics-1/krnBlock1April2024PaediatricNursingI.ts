@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2024_PAEDIATRIC_NURSING_I: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2024 class Block One Exam paper (PEN 101: Paediatric Nursing I, sat 11 November 2024, Part A, Q1 to Q15).',
       questionCount: 15
     }

@@ -22,19 +22,19 @@ export const TNH_BLOCK1_AUG2013_RESPIRATORY: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from the August 2013 Supplementary End of Block I Respiratory paper.",
       questionCount: 10
     },
     {
       setNumber: 2,
-      title: "Set 2: SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's Short Answer Questions, covering every marking point.",
       questionCount: 28
     },
     {
       setNumber: 3,
-      title: "Set 3: LAQ Mastery Questions",
+      title: "Set 3",
       description: "MCQs and True/False questions derived from the paper's Long Answer Questions, covering every marking point.",
       questionCount: 26
     }

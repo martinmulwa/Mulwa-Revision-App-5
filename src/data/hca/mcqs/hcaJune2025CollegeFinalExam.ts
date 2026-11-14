@@ -27,31 +27,31 @@ export const HCA_JUNE2025_COLLEGE_FINAL_EXAM: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1 (Q1 to Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q1 to Q20.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2 (Q21 to Q40)",
+      "title": "Set 2",
       "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q21 to Q40.",
       "questionCount": 20
     },
     {
       "setNumber": 3,
-      "title": "Set 3 (Q41 to Q60)",
+      "title": "Set 3",
       "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q41 to Q60. Q57 has two True/False statements, (a) and (b), each listed as its own question.",
       "questionCount": 21
     },
     {
       "setNumber": 4,
-      "title": "Set 4 (Q61 to Q80)",
+      "title": "Set 4",
       "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q61 to Q80. Q62 has two True/False statements, (a) and (b), each listed as its own question.",
       "questionCount": 21
     },
     {
       "setNumber": 5,
-      "title": "Set 5 (Q81 to Q100)",
+      "title": "Set 5",
       "description": "The original MCQs from the June 2025 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (19 November 2025), Multiple Choice Questions Q81 to Q100.",
       "questionCount": 20
     }

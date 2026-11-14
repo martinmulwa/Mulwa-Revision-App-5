@@ -28,7 +28,7 @@ export const KRN_MARCH2011_HOSPITAL_FINAL_PAPER2: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Nursing Diagnosis, Med-Surg, Infection Control, Parasitology & ENT (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2011 class Hospital Final Examination Paper 2 of TNH (sat 8 October 2013, Multiple Choice Questions, Q1 to Q20) covering Nursing Process, Medical-Surgical Nursing, Infection Control, Parasitology, Gynaecology, Ophthalmology, ENT and Nursing Management.",
       "questionCount": 20
     }

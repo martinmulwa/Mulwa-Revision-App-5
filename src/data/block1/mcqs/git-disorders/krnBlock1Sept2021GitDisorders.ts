@@ -25,13 +25,13 @@ export const KRN_BLOCK1_SEPT2021_GIT_DISORDERS: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions (Part 1)",
+      "title": "Set 1",
       "description": "The original MCQs from TNH September 2021 class MSN GIT Disorders examination paper (sat 19 April 2022, Part One, Q1 to Q30). (Part 1, Q1 to Q15)",
       "questionCount": 15
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Original Exam Questions (Part 2)",
+      "title": "Set 2",
       "description": "The original MCQs from TNH September 2021 class MSN GIT Disorders examination paper (sat 19 April 2022, Part One, Q1 to Q30). (Part 2, Q16 to Q30)",
       "questionCount": 15
     }

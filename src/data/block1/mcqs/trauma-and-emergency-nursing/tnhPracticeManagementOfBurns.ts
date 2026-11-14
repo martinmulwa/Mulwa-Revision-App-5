@@ -22,13 +22,13 @@ export const TNH_PRACTICE_MANAGEMENT_OF_BURNS: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Management of Burns (Emergent Phase)",
+      "title": "Set 1",
       "description": "20 practice MCQs on the phases of burn management, on-the-burn scene care, primary survey, respiratory support, fluid resuscitation and the Parkland formula, based on the Management of Burns lecture notes.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Management of Burns (Acute and Rehabilitation Phases)",
+      "title": "Set 2",
       "description": "20 practice MCQs on the Parkland formula in practice, pain, gastrointestinal and nutrition care, topical antibacterial agents, wound care, rehabilitation and complications, based on the Management of Burns lecture notes.",
       "questionCount": 20
     }

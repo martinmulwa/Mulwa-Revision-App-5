@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2024_PAEDIATRIC_MEDICAL_SURGICAL_SUPPLEMENTARY: Pas
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2024 class End of Block I Supplementary Exam paper (PEN 101: Paediatric Medical-Surgical, sat 19 December 2024, Section A, Q1 to Q30). Q1 and Q2 share one scenario, which is repeated in each question. Q20 has two True/False statements, (a) and (b), each listed as its own question.',
       questionCount: 31
     }

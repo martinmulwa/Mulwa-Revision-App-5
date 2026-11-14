@@ -29,7 +29,7 @@ export const KRN_MARCH2010_HOSPITAL_FINAL_PAPER2: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Immunology, Conflict, Renal, Med-Surg, Resuscitation & Pharmacology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2010 class Hospital Final Examination Paper II of TNH (sat 9 October 2012, Part A Multiple Choice Questions, Q1 to Q20) covering Innate Inflammation, Conflict Resolution, Renal Allograft Rejection, Urinary Diversion, Nursing Process, Acute Cholecystitis, Cataracts, Romberg Balance Test, Fibrinolysis, Adrenal Hormones, Dermatology, Infant Resuscitation, Meniere's Disease, Thoracic Surgery Positioning, Spinal Anaesthesia Care, Ophthalmic Premedication, Inevitable Abortion, Chest Drain Emergency Protocol, Adrenalectomy Care, and GI Pharmacology.",
       "questionCount": 20
     }

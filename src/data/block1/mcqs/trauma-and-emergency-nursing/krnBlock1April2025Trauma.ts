@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2025_TRAUMA_EMERGENCY_NURSING: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from the April 2025 class Block One Exam paper (MSN 102: Trauma and Emergency Nursing, Section A, Q1 to Q15). Q5 has two True/False statements, (a) and (b), each listed as its own question.",
       questionCount: 16
     }

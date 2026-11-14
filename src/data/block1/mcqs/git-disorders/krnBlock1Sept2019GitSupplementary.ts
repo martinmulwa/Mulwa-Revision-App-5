@@ -25,7 +25,7 @@ export const KRN_BLOCK1_SEPT2019_GIT_SUPPLEMENTARY: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from TNH September 2019 class GIT End of Block 1 Supplementary Examination paper (GIT Disorders, sat 6 January 2021, Part A, Q1 to Q10).",
       "questionCount": 10
     }

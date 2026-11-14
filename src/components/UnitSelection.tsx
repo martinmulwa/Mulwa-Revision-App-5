@@ -22,11 +22,16 @@ import {
   Utensils
 } from 'lucide-react';
 import { CourseId, BlockId } from '../types';
+import { PAST_PAPERS } from '../data/questions';
+import { getCategoriesByUnit } from '../data/saqData';
+import { isPaperForUnit } from '../utils/storage';
+import { chunkQuestions } from '../utils/chunking';
 
 export const BLOCK1_UNITS = [
   'Respiratory Disorders',
   'Trauma and Emergency',
   'Pharmacology 1',
+  'Pharmacology 2',
   'Paediatrics 1',
   'Blood and Lymph Disorders',
   'GIT Disorders'
@@ -41,13 +46,33 @@ interface UnitSelectionProps {
   onBack?: () => void;
 }
 
+function getUnitMetrics(unitName: string) {
+  const papers = PAST_PAPERS.filter(p => isPaperForUnit(p, unitName));
+  const papersCount = papers.length;
+  const mcqsCount = papers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0);
+  const setsCount = papers.reduce((sum, p) => sum + chunkQuestions(p).length, 0);
+  const saqCount = getCategoriesByUnit(unitName).reduce((sum, c) => sum + (c.questions?.length || 0), 0);
+  return { papersCount, mcqsCount, setsCount, saqCount };
+}
+
 export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack }: UnitSelectionProps) {
+  const resp = getUnitMetrics('Respiratory Disorders');
+  const trauma = getUnitMetrics('Trauma and Emergency');
+  const traumaPracticeSaqs = getCategoriesByUnit('TNH Practice').reduce((sum, c) => sum + (c.questions?.length || 0), 0);
+  const pharm = getUnitMetrics('Pharmacology 1');
+  const pharm2 = getUnitMetrics('Pharmacology 2');
+  const paeds = getUnitMetrics('Paediatrics 1');
+  const blood = getUnitMetrics('Blood and Lymph Disorders');
+  const git = getUnitMetrics('GIT Disorders');
+  const hca = getUnitMetrics('HCA');
+  const finals = getUnitMetrics('College Final Exams');
+
   const krnUnits = [
     {
       id: 'Respiratory Disorders',
       title: 'Respiratory Disorders',
       code: 'MSN 101',
-      subtitle: '11 Papers · 553 MCQs · 29 SAQs',
+      subtitle: `${resp.papersCount} Papers · ${resp.mcqsCount} MCQs · ${resp.saqCount} SAQs`,
       icon: Wind,
       colorClass: 'bg-sky-100/80 border-sky-200/90 text-sky-700 group-hover:bg-sky-600 group-hover:text-white',
       cardHover: 'hover:border-sky-400',
@@ -57,7 +82,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'Trauma and Emergency',
       title: 'Trauma and Emergency',
       code: 'MSN 102',
-      subtitle: '12 Papers · 357 MCQs · 83 SAQs',
+      subtitle: `${trauma.papersCount} Papers · ${trauma.mcqsCount} MCQs · ${trauma.saqCount + traumaPracticeSaqs} SAQs`,
       icon: Activity,
       colorClass: 'bg-rose-100/80 border-rose-200/90 text-rose-700 group-hover:bg-rose-600 group-hover:text-white',
       cardHover: 'hover:border-rose-400',
@@ -67,17 +92,27 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'Pharmacology 1',
       title: 'Pharmacology 1',
       code: 'MSN 103',
-      subtitle: '6 Papers · 162 MCQs · 7 Study Guides',
+      subtitle: `${pharm.papersCount} Papers · ${pharm.mcqsCount} MCQs · 7 Study Guides`,
       icon: Pill,
       colorClass: 'bg-amber-100/80 border-amber-200/90 text-amber-700 group-hover:bg-amber-600 group-hover:text-white',
       cardHover: 'hover:border-amber-400',
       toColor: 'to-amber-50/60'
     },
     {
+      id: 'Pharmacology 2',
+      title: 'Pharmacology 2',
+      code: 'PHM 102',
+      subtitle: `${pharm2.papersCount} ${pharm2.papersCount === 1 ? 'Paper' : 'Papers'} · ${pharm2.mcqsCount} MCQs`,
+      icon: Pill,
+      colorClass: 'bg-emerald-100/80 border-emerald-200/90 text-emerald-700 group-hover:bg-emerald-600 group-hover:text-white',
+      cardHover: 'hover:border-emerald-400',
+      toColor: 'to-emerald-50/60'
+    },
+    {
       id: 'Paediatrics 1',
       title: 'Paediatrics 1',
       code: 'PEN 101',
-      subtitle: '11 Papers · 173 MCQs',
+      subtitle: `${paeds.papersCount} Papers · ${paeds.mcqsCount} MCQs`,
       icon: Baby,
       colorClass: 'bg-teal-100/80 border-teal-200/90 text-teal-700 group-hover:bg-teal-600 group-hover:text-white',
       cardHover: 'hover:border-teal-400',
@@ -87,7 +122,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'Blood and Lymph Disorders',
       title: 'Blood and Lymph Disorders',
       code: 'MHN 201',
-      subtitle: '7 Papers · 95 MCQs',
+      subtitle: `${blood.papersCount} Papers · ${blood.mcqsCount} MCQs`,
       icon: Droplets,
       colorClass: 'bg-red-100/80 border-red-200/90 text-red-700 group-hover:bg-red-600 group-hover:text-white',
       cardHover: 'hover:border-red-400',
@@ -97,7 +132,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'GIT Disorders',
       title: 'GIT Disorders',
       code: 'MSN 105',
-      subtitle: '17 Papers · 304 MCQs · 23 Sets',
+      subtitle: `${git.papersCount} Papers · ${git.mcqsCount} MCQs · ${git.setsCount} Sets`,
       icon: Utensils,
       colorClass: 'bg-orange-100/80 border-orange-200/90 text-orange-700 group-hover:bg-orange-600 group-hover:text-white',
       cardHover: 'hover:border-orange-400',
@@ -110,7 +145,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'HCA',
       title: 'HCA',
       code: 'HCA',
-      subtitle: '2 Papers · 198 MCQs · 10 Revision Sets',
+      subtitle: `${hca.papersCount} Papers · ${hca.mcqsCount} MCQs · ${hca.setsCount} Revision Sets`,
       icon: Award,
       colorClass: 'bg-emerald-100/80 border-emerald-200/90 text-emerald-700 group-hover:bg-emerald-600 group-hover:text-white',
       cardHover: 'hover:border-emerald-400',
@@ -123,7 +158,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       id: 'College Final Exams',
       title: 'College Final Exams',
       code: 'KRCHN Final',
-      subtitle: '15 Papers · 600 MCQs · 30 Revision Sets',
+      subtitle: `${finals.papersCount} Papers · ${finals.mcqsCount} MCQs · ${finals.setsCount} Revision Sets`,
       icon: Award,
       colorClass: 'bg-indigo-100/80 border-indigo-200/90 text-indigo-700 group-hover:bg-indigo-600 group-hover:text-white',
       cardHover: 'hover:border-indigo-400',

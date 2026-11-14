@@ -22,13 +22,13 @@ export const TNH_PRACTICE_TRAUMA_AND_EMERGENCY_CARE: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Practice Questions",
+      "title": "Set 1",
       "description": "Practice MCQs (Q1 to Q20) on Trauma and Emergency Care (MSN 102).",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Practice Questions",
+      "title": "Set 2",
       "description": "Practice MCQs (Q1 to Q20) on Trauma and Emergency Care (MSN 102).",
       "questionCount": 20
     }

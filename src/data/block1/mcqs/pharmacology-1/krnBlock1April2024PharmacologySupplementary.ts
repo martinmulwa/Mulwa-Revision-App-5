@@ -24,7 +24,7 @@ export const KRN_BLOCK1_APRIL2024_PHARMACOLOGY_SUPPLEMENTARY: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from the April 2024 class First Block Supplementary Exam paper (PHM 102: Pharmacology, Section A, Q1 to Q30).",
       "questionCount": 30
     }

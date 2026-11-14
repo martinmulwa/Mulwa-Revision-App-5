@@ -25,13 +25,13 @@ export const KRN_BLOCK1_APRIL2024_GIT_DISORDERS: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions (Part 1)",
+      "title": "Set 1",
       "description": "The original MCQs and True/False statements from TNH April 2024 Class MSN 106 Gastrointestinal Disorders Block One Examination paper (sat 2 November 2024, Section A, Q1 to Q30). (Part 1, Q1 to Q16)",
       "questionCount": 16
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Original Exam Questions (Part 2)",
+      "title": "Set 2",
       "description": "The original MCQs and True/False statements from TNH April 2024 Class MSN 106 Gastrointestinal Disorders Block One Examination paper (sat 2 November 2024, Section A, Q1 to Q30). (Part 2, Q17 to Q31)",
       "questionCount": 15
     }

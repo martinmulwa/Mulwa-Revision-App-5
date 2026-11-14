@@ -65,8 +65,8 @@ export function chunkQuestions(input: PastPaper | Question[]): RevisionSet[] {
 
     const startNum = startIdx + 1;
     const endNum = endIdx;
-    const rangeLabel = `Questions ${startNum} to ${endNum}`;
-    const name = `Set ${setNumber} (${rangeLabel})`;
+    const rangeLabel = startNum === endNum ? `Q${startNum}` : `Q${startNum}–Q${endNum}`;
+    const name = `Set ${setNumber}`;
     const section = chunkQuestions[0]?.section || 'A';
     const totalMarks = chunkQuestions.reduce((acc, q) => acc + getQuestionMarks(q), 0);
 

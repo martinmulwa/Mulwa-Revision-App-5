@@ -29,7 +29,7 @@ export const KRN_MARCH2011_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER3: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Community Health, Paediatrics, Mental Health, Research & Sociology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2011 class Hospital Final Supplementary Examination Paper 3 of TNH covering Community Diagnosis Sampling, School Health Pregnancy Re-entry Policy, Antiretroviral Contraceptive Interactions (Ritonavir & DMPA), Health Communication in Semi-Literate Communities, Gomez Malnutrition Classification, Geriatric Nutritional Risk Factors, Marx Alienation Theory, Renal Hormones (Renin & EPO), Down Syndrome Features, WHO Analgesic Ladder Step 2, Research Instrument Validity, Paranoid Schizophrenia, Isoniazid Neuropathy & Vitamin B6, Pediatric Weight Projection Milestones, Nephritic Syndrome Fluid Overload Pathophysiology, Hiatus Hernia Nissen Fundoplication, Status Asthmaticus Treatment Resistance, Poliomyelitis Transmission Routes, Sadistic Rape Classification, and Malnutrition Fluid Therapy & Pediatric HIV Exposure.",
       "questionCount": 20
     }

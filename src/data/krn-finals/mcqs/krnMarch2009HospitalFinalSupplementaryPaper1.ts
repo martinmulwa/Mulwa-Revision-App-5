@@ -29,7 +29,7 @@ export const KRN_MARCH2009_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Medical-Surgical, Cardiology, Respiratory, Sociology, Neuro & Midwifery (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2009 class Hospital Final Supplementary Examination Paper 1 of TNH covering Post-Liver Biopsy Right-Lateral Positioning, Exercise Stress Testing Indications, Left Heart Failure Pulmonary Congestion, Mannitol Osmotic Diuresis for Raised ICP, Complete Airway Obstruction Signs, Respiratory Distress Assessment, Geriatric Integumentary Changes, Colorectal Sigmoid Neoplasia, Sociological Role Conflict, Pre-Bone Marrow Biopsy Anticoagulation Checks, Polycythemia Vera Thrombotic Complications, Rift Valley Fever Culicine Transmission, Phobia Flooding Behavior Therapy, Cushingoid Truncal Adiposity, Cranial Nerves IX & X Gag Reflex, Preterm Infant Viability Thresholds, Daily Newborn Clinical Screening, Intrapartum Pethidine Timing & Cervical Dilatation, Breast Engorgement Management, and Pre-Eclampsia Diagnostic Triad.",
       "questionCount": 20
     }

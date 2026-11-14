@@ -28,37 +28,37 @@ export const KRN_SEPT2019_COLLEGE_FINAL_SUPPLEMENTARY_EXAM: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Fundamentals, Nursing Theory, Ethics & Law, Infection Prevention & A&P (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q1 to Q20) covering Nursing Fundamentals, Virginia Henderson Need Theory, Professional Ethics & Law, Infection Prevention, Anatomy & Physiology, and Pharmacology Calculations.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Anatomy & Physiology, Microbiology, Immunology, Parasitology & Psychology (Q21–Q40)",
+      "title": "Set 2",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q21 to Q40) covering Brainstem & Neural Pathways, Pancreatic Enzymes, Fluid & Electrolytes, Microbiology, Parasitology, Communication, and Psychology.",
       "questionCount": 20
     },
     {
       "setNumber": 3,
-      "title": "Set 3: Psychology, Growth & Development, Nursing Process, Med-Surg & Endocrine (Q41–Q60)",
+      "title": "Set 3",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q41 to Q60) covering Defence Mechanisms, Infant Growth Milestones, Professional Values, Nursing Process, Respiratory, Cardiovascular, Renal, and Endocrine Systems.",
       "questionCount": 20
     },
     {
       "setNumber": 4,
-      "title": "Set 4: Neurology, Orthopaedics, Dermatology, GI, Perioperative Care & Paediatrics (Q61–Q80)",
+      "title": "Set 4",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q61 to Q80) covering Facial Palsy, Compartment Syndrome, Osteomyelitis, Dermatology, Gastrointestinal Disorders, Perioperative Nursing, and Paediatric Illnesses.",
       "questionCount": 20
     },
     {
       "setNumber": 5,
-      "title": "Set 5: Paediatric Surgery, Burns Parkland Formula, HIV/IMNCI & Midwifery (Q81–Q100)",
+      "title": "Set 5",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q81 to Q100) covering Pyloromyotomy Care, Burns Parkland Formula, Early Infant Diagnosis of HIV, Mental Health, Research Methodology, and Midwifery.",
       "questionCount": 20
     },
     {
       "setNumber": 6,
-      "title": "Set 6: Child Protection, STIs, Mental Health, Midwifery & Family Planning (Q101–Q120)",
+      "title": "Set 6",
       "description": "The original MCQs from the September 2019 class Block 3 Supplementary College Final Exam paper (Kenya Registered Nursing, sat 6 December 2022, Multiple Choice Questions, Q101 to Q120) covering Emotional Child Abuse, Sexually Transmitted Infections, Malaria Prophylaxis in HIV, Psychiatric Assessment, Obstetric Management, and Family Planning.",
       "questionCount": 20
     }

@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2019_BLOOD_AND_LYMPHATICS_FIRST_BLOCK_EXAM: PastPap
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2019 class 1st Block Exam paper (Blood and Lymphatics, sat 8 November 2019, Part A, Q1 to Q10).',
       questionCount: 10
     }

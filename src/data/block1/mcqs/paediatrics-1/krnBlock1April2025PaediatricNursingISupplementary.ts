@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2025_PAEDIATRIC_NURSING_I_SUPPLEMENTARY: PastPaper 
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2025 class End of Block 1 Special/Supplementary Exam paper (PEN 101: Paediatric Nursing I, sat 18 December 2025, Section A, Q1 to Q15).',
       questionCount: 15
     }

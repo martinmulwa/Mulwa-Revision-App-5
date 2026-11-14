@@ -54,14 +54,16 @@ export default function ReviewIncorrectScreen({
   PAST_PAPERS.forEach(paper => {
     const rawUnit = paper.unit || paper.category || '';
     let canonicalUnit = rawUnit;
-    if (paper.id.includes('paediatric') || rawUnit.toLowerCase().includes('paediatric')) {
+    if (rawUnit === 'Trauma and Emergency Nursing' || rawUnit === 'Trauma and Emergency') {
+      canonicalUnit = 'Trauma and Emergency';
+    } else if (paper.id.includes('paediatric') || rawUnit.toLowerCase().includes('paediatric')) {
       canonicalUnit = 'Paediatrics 1';
     } else if (rawUnit === 'Pharmacology' || rawUnit === 'Pharmacology 1') {
       canonicalUnit = 'Pharmacology 1';
+    } else if (rawUnit === 'Pharmacology 2') {
+      canonicalUnit = 'Pharmacology 2';
     } else if (rawUnit === 'Respiratory Disorders') {
       canonicalUnit = 'Respiratory Disorders';
-    } else if (rawUnit === 'Trauma and Emergency Nursing' || rawUnit === 'Trauma and Emergency') {
-      canonicalUnit = 'Trauma and Emergency';
     } else if (rawUnit === 'HCA' || rawUnit.includes('HCA') || rawUnit.includes('Health Care Support Assistant') || paper.id.startsWith('hca-')) {
       canonicalUnit = 'HCA';
     } else if (rawUnit.includes('Blood') || paper.id.includes('blood')) {

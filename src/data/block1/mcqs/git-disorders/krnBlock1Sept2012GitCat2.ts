@@ -25,7 +25,7 @@ export const KRN_BLOCK1_SEPT2012_GIT_CAT2: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs, True/False statements and matching items (converted to MCQs) from TNH September 2012 class GIT CAT II End of Block I Examination paper (GIT Disorders, sat 2 July 2013, Part A, Q1 to Q10).",
       "questionCount": 12
     }

@@ -28,7 +28,7 @@ export const KRN_MARCH2010_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Anatomy, Mental Health, Med-Surg, Endocrine, Gerontology & Midwifery (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2010 class Hospital Final Supplementary Examination Paper I of TNH (sat 15 October 2012, Multiple Choice Questions, Q1 to Q20) covering Lymphatic System, Mental Health, Medical-Surgical Nursing, Endocrine, Gerontology, Community Health, Neonatal Care, Midwifery and Tropical Medicine.",
       "questionCount": 20
     }

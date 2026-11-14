@@ -59,6 +59,7 @@ export type PaperCategory =
   | 'Trauma and Emergency'
   | 'Trauma and Emergency Nursing'
   | 'Pharmacology 1'
+  | 'Pharmacology 2'
   | 'Paediatrics 1'
   | 'Blood and Lymph Disorders'
   | 'Blood and Lymphatic Disorders'

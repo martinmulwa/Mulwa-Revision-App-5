@@ -28,7 +28,7 @@ export const KRN_MARCH2010_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER3: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Endocrine, Pharmacology, Mental Health, Paediatrics & Palliative Care (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2010 class Hospital Final Supplementary Examination Paper III of TNH (sat 16 October 2012, Multiple Choice Questions, Q1 to Q20) covering Endocrine Disorders, Pharmacology, Mental Health, Paediatrics, Community Health, Palliative Care, Immunization, Research and Sociology.",
       "questionCount": 20
     }

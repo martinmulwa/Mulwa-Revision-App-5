@@ -284,14 +284,24 @@ export function isPaperForUnit(paper: PastPaper, unitName: string): boolean {
     );
   }
   if (unitName === 'Pharmacology 1') {
-    const cat = String(paper.category || '');
     return (
       rawUnit === 'Pharmacology 1' ||
       rawUnit === 'Pharmacology' ||
-      cat.includes('Pharmacology')
+      paper.category === 'Pharmacology 1'
+    );
+  }
+  if (unitName === 'Pharmacology 2') {
+    return (
+      rawUnit === 'Pharmacology 2' ||
+      paper.category === 'Pharmacology 2'
     );
   }
   if (unitName === 'Paediatrics 1') {
+    const isTrauma =
+      rawUnit.includes('Trauma') ||
+      (paper.category || '').includes('Trauma') ||
+      paper.id.startsWith('tnh-practice-paediatric-bls');
+    if (isTrauma) return false;
     return (
       rawUnit === 'Paediatrics 1' ||
       rawUnit === 'Paediatrics' ||

@@ -1,0 +1,23 @@
+/**
+ * Block 1 · Unit: Pharmacology 2
+ * Master MCQs & Past Papers Registry
+ *
+ * @author MULWA <martinmulwa95@gmail.com>
+ */
+
+import { PastPaper } from '../../../../types';
+import { KRN_BLOCK1_APRIL2025_PHARMACOLOGY_PAPER2 } from './krnBlock1April2025PharmacologyPaper2';
+import { KRN_BLOCK1_APRIL2025_PHARMACOLOGY_SUPPLEMENTARY } from './krnBlock1April2025PharmacologySupplementary';
+import { KRN_BLOCK1_SEPT2025_PHARMACOLOGY_PAPER2 } from './krnBlock1Sept2025PharmacologyPaper2';
+
+export {
+  KRN_BLOCK1_APRIL2025_PHARMACOLOGY_PAPER2,
+  KRN_BLOCK1_APRIL2025_PHARMACOLOGY_SUPPLEMENTARY,
+  KRN_BLOCK1_SEPT2025_PHARMACOLOGY_PAPER2
+};
+
+export const BLOCK1_PHARMACOLOGY_2_PAPERS: PastPaper[] = [
+  KRN_BLOCK1_APRIL2025_PHARMACOLOGY_PAPER2,
+  KRN_BLOCK1_APRIL2025_PHARMACOLOGY_SUPPLEMENTARY,
+  KRN_BLOCK1_SEPT2025_PHARMACOLOGY_PAPER2
+];

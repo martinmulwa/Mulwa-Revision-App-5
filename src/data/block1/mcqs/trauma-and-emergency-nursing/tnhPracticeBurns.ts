@@ -22,13 +22,13 @@ export const TNH_PRACTICE_BURNS: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Practice Questions",
+      "title": "Set 1",
       "description": "20 practice MCQs on burns: pathophysiology (local and systemic responses), complications, depth classification and TBSA estimation, drawn from the Burns lecture notes (20/03/2026).",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Practice Questions",
+      "title": "Set 2",
       "description": "20 further practice MCQs on burns covering the same notes with different questions, so that every major concept is tested across the two sets.",
       "questionCount": 20
     }

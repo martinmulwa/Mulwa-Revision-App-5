@@ -24,7 +24,7 @@ export const KRN_BLOCK1_SEPT2019_PHARMACOLOGY_SUPPLEMENTARY: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2019 class End of Block 1 Supplementary Examination paper (Pharmacology, Part A, Q1 to Q10).",
       "questionCount": 10
     }

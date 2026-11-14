@@ -25,7 +25,7 @@ export const KRN_BLOCK1_SEPT2023_TRAUMA_EMERGENCY_NURSING: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from the September 2023 class First Block Exam paper (MSN 102: Trauma and Emergency, Part A, Q1 to Q15).",
       questionCount: 15
     }

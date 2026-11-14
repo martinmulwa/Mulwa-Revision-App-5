@@ -28,7 +28,7 @@ export const KRN_SEPT2012_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Anatomy & Physiology, Med-Surg, Endocrine, Eye & Epidemiology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2012 class Hospital Final Supplementary Examination Paper I of TNH (sat 7 May 2015, Multiple Choice Questions, Q1 to Q20) covering Cardiovascular Endothelium, Anatomy and Physiology, Medical-Surgical, Endocrine, Eye Disorders, Community Health, Epidemiology and Midwifery.",
       "questionCount": 20
     }

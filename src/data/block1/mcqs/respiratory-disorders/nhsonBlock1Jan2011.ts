@@ -22,19 +22,19 @@ export const NHSON_BLOCK1_JAN2011_RESPIRATORY: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs and True/False statements from Part A of the January 2011 Supplementary End of Block I Respiratory paper.",
       questionCount: 11
     },
     {
       setNumber: 2,
-      title: "Set 2: SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's Part B Short Answer Questions, covering every marking point.",
       questionCount: 28
     },
     {
       setNumber: 3,
-      title: "Set 3: LAQ Mastery Questions",
+      title: "Set 3",
       description: "MCQs and True/False questions derived from the Part C Long Answer Question on acute asthma, covering every marking point.",
       questionCount: 15
     }

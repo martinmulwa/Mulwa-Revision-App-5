@@ -22,13 +22,13 @@ export const KRN_BLOCK1_OCT2025_RESPIRATORY_DISORDERS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs and True/False questions from the October 2025 First Block Exam paper.",
       questionCount: 17
     },
     {
       setNumber: 2,
-      title: "Set 2: SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's Short Answer Questions, covering every marking point.",
       questionCount: 20
     }

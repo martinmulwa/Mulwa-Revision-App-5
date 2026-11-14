@@ -16,7 +16,7 @@ export const KRN_BLOCK1_SEPTEMBER2021_PAEDIATRICS_COMMUNICABLE_DISEASES: PastPap
   year: '2021',
   month: 'September',
   examType: 'Main',
-  title: 'September 2021 Communicable Diseases Exam',
+  title: 'September 2021 Communicable Diseases',
   category: 'Paediatrics 1',
   block: 'Block 1',
   unit: 'Paediatrics 1',
@@ -25,7 +25,7 @@ export const KRN_BLOCK1_SEPTEMBER2021_PAEDIATRICS_COMMUNICABLE_DISEASES: PastPap
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the September 2021 class Paediatrics Communicable Diseases Exam paper (PEN 101, sat 20 April 2022, Part A, Q1 to Q15).',
       questionCount: 15
     }

@@ -22,6 +22,20 @@ interface RevisionSetSelectionProps {
   onBack: () => void;
 }
 
+/**
+ * Resolves a clean display name for a revision set, ensuring no empty brackets
+ * or malformed strings are ever presented.
+ */
+function getSetDisplayName(name: string | undefined, setNumber: number, totalSets: number): string {
+  if (totalSets === 1) return 'Exam Questions';
+  const raw = (name || '').trim();
+  const cleaned = raw.replace(/\s*\(\s*\)$/, '').trim();
+  if (!cleaned || cleaned === 'Set') {
+    return `Set ${setNumber}`;
+  }
+  return cleaned;
+}
+
 export default function RevisionSetSelection({
   paperId,
   progress,
@@ -102,7 +116,7 @@ export default function RevisionSetSelection({
                 {/* Set number and question count */}
                 <div className="min-w-0 pr-3">
                   <h2 className="text-sm sm:text-base font-bold text-slate-900 group-hover:text-[#0B1B3D] transition-colors leading-snug">
-                    {sets.length === 1 ? 'Exam Questions' : (set.name || `Set ${set.setNumber}`)}
+                    {getSetDisplayName(set.name, set.setNumber, sets.length)}
                   </h2>
                   <p className="text-xs sm:text-sm text-slate-500 font-medium mt-0.5">
                     {set.questions.length} Questions

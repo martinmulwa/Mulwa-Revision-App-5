@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2024_BLOOD_AND_LYMPHATIC_DISORDERS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2024 class Block 1 Exam paper (MSN 104: Blood and Lymphatic Disorders, sat 7 November 2024, Part A, Q1 to Q15).',
       questionCount: 15
     }

@@ -22,13 +22,13 @@ export const TNH_PRACTICE_ACUTE_CONDITIONS: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Core Concepts & Diagnostics",
+      "title": "Set 1",
       "description": "Definitions, causes, pathophysiology, and diagnostic assessments across acute bronchitis, chronic bronchitis, pulmonary oedema, and pleural effusion.",
       "questionCount": 29
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Clinical Scenarios & Nursing Management",
+      "title": "Set 2",
       "description": "Clinical scenarios, pharmacotherapy, positioning, and collaborative interventions for acute respiratory conditions.",
       "questionCount": 30
     }

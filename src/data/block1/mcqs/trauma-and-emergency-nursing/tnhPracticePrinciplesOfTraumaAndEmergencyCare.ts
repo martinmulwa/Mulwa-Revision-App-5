@@ -22,13 +22,13 @@ export const TNH_PRACTICE_PRINCIPLES_OF_TRAUMA_AND_EMERGENCY_CARE: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Practice Questions",
+      "title": "Set 1",
       "description": "Practice MCQs (Q1 to Q20) on Principles of trauma and Emergency Care (triage).",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Practice Questions",
+      "title": "Set 2",
       "description": "Practice MCQs (Q1 to Q20) on Principles of trauma and Emergency Care (triage).",
       "questionCount": 20
     }

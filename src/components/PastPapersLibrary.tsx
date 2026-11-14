@@ -120,6 +120,9 @@ export default function PastPapersLibrary({
     const pharmacologyPapers = sourcePapers.filter(
       p => (p.unit || p.category) === 'Pharmacology 1' || p.category === 'Pharmacology 1' || p.unit === 'Pharmacology'
     );
+    const pharmacology2Papers = sourcePapers.filter(
+      p => (p.unit || p.category) === 'Pharmacology 2' || p.category === 'Pharmacology 2'
+    );
     const paediatricsPapers = sourcePapers.filter(
       p => (p.unit || p.category) === 'Paediatrics 1' ||
            p.category === 'Paediatrics 1' ||
@@ -177,6 +180,15 @@ export default function PastPapersLibrary({
         questionsCount: pharmacologyPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
         rawTotalPapers: pharmacologyPapers.length,
         unitType: 'pharmacology' as const,
+        saqCount: 0
+      },
+      {
+        id: 'Pharmacology 2',
+        title: 'Pharmacology 2',
+        papersCount: pharmacology2Papers.length,
+        questionsCount: pharmacology2Papers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: pharmacology2Papers.length,
+        unitType: 'pharmacology2' as const,
         saqCount: 0
       },
       {
@@ -706,6 +718,10 @@ export default function PastPapersLibrary({
                     icon: <Activity className="w-4.5 h-4.5" />
                   },
                   pharmacology: {
+                    box: 'bg-amber-50 text-amber-600 border-amber-200/80 group-hover:bg-amber-100 group-hover:text-amber-700',
+                    icon: <Pill className="w-4.5 h-4.5" />
+                  },
+                  pharmacology2: {
                     box: 'bg-emerald-50 text-emerald-600 border-emerald-200/80 group-hover:bg-emerald-100 group-hover:text-emerald-700',
                     icon: <Pill className="w-4.5 h-4.5" />
                   },

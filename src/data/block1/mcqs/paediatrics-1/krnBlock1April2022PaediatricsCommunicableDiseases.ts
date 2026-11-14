@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2022_PAEDIATRICS_COMMUNICABLE_DISEASES: PastPaper =
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2022 class Block One Exam paper (PEN 101: Paediatrics Communicable Diseases, KRN September 2021 Class, Part A, Q1 to Q15).',
       questionCount: 15
     }

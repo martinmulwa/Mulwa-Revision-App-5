@@ -23,13 +23,13 @@ export const TNH_PRACTICE_CHRONIC_CONDITIONS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Knowledge and Recall",
+      title: "Set 1",
       description: "30 MCQs testing definitions, causes, pathophysiology, clinical manifestations and assessment findings from the lecture notes on asthma, status asthmaticus, emphysema and COPD.",
       questionCount: 30
     },
     {
       setNumber: 2,
-      title: "Set 2: Application and Clinical Scenarios",
+      title: "Set 2",
       description: "30 MCQs testing management, nursing care, complications and clinical scenarios from the same lecture notes on asthma, status asthmaticus, emphysema and COPD.",
       questionCount: 30
     }

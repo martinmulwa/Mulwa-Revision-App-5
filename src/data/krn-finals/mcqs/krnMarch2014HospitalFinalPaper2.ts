@@ -28,7 +28,7 @@ export const KRN_MARCH2014_HOSPITAL_FINAL_PAPER2: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Renal Physiology, Orthopaedics, Med-Surg, Emergency & Eye Nursing (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2014 class Hospital Final Examination Paper 2 of TNH (sat 11 October 2016, Multiple Choice Questions, Q1 to Q20) covering Renal Physiology, Immunology, Orthopaedics, Medical-Surgical Care, Emergency Triage, Endocrine, Eye Care, Nursing Management and Research.",
       "questionCount": 20
     }

@@ -28,37 +28,37 @@ export const KRN_SEPT2021_COLLEGE_FINAL_EXAM: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Fundamentals, A&P, Immunology, Parasitology & Pharmacology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q1 to Q20) covering Nursing Fundamentals, Anatomy & Physiology, Immunology, Parasitology, Psychology, and Pharmacology.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Pharmacology, Nursing Process, Med-Surg, GI, ENT & Gynaecology (Q21–Q40)",
+      "title": "Set 2",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q21 to Q40) covering Pharmacology, Nursing Process, Medical-Surgical Nursing, Gastrointestinal Disorders, ENT, and Gynaecology.",
       "questionCount": 20
     },
     {
       "setNumber": 3,
-      "title": "Set 3: Men's Health, Dermatology, CVS, Renal, Respiratory & Neuro (Q41–Q60)",
+      "title": "Set 3",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q41 to Q60) covering Men's Health, Dermatology, Cardiovascular, Renal and Urology, Respiratory, Neurology, Emergency Care, and Gerontology.",
       "questionCount": 20
     },
     {
       "setNumber": 4,
-      "title": "Set 4: Palliative Care, Endocrine, Eye, Haematology, Paediatrics & Mental Health (Q61–Q80)",
+      "title": "Set 4",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q61 to Q80) covering Pain and Palliative Care, Endocrine, Eye Disorders, Haematology, Theatre Nursing, Paediatrics, and Mental Health.",
       "questionCount": 20
     },
     {
       "setNumber": 5,
-      "title": "Set 5: Mental Health, Nursing Research, Midwifery & Family Planning (Q81–Q100)",
+      "title": "Set 5",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q81 to Q100) covering Mental Health & Psychiatry, Nursing Research & Biostatistics, Midwifery & Obstetric Nursing, and Family Planning.",
       "questionCount": 20
     },
     {
       "setNumber": 6,
-      "title": "Set 6: HIV, Community Health, Public Health, Education & Management (Q101–Q120)",
+      "title": "Set 6",
       "description": "The original MCQs from the September 2021 class College Final Supplementary Exam paper (Kenya Registered Nursing, sat 30 May 2024, Multiple Choice Questions, Q101 to Q120) covering HIV/AIDS Management, Community & Public Health, Nursing Education, Infectious Diseases, and Health Services Management.",
       "questionCount": 20
     }

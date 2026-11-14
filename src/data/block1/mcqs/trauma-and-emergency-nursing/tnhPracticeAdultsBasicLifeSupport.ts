@@ -22,13 +22,13 @@ export const TNH_PRACTICE_ADULTS_BASIC_LIFE_SUPPORT: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Adults Basic Life Support (Concepts and Assessment)",
+      "title": "Set 1",
       "description": "20 practice MCQs on definitions, goals of BLS, the chain of survival, scene safety, stimulation, shouting for help and checking for pulse and breathing, based on the Adults Basic Life Support lecture notes.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Adults Basic Life Support (CPR, Airway, Breathing and AED)",
+      "title": "Set 2",
       "description": "20 practice MCQs on chest compressions, high quality CPR, reassessment, airway manoeuvres, rescue breaths, bag-mask ventilation, recovery position and the AED, based on the Adults Basic Life Support lecture notes.",
       "questionCount": 20
     }

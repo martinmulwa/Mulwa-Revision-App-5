@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2019_PAEDIATRICS_I_SUPPLEMENTARY: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2019 class End of Block 1 Supplementary Exam paper (Paediatrics 1, sat 17 January 2020, Part A, Q1 to Q10).',
       questionCount: 10
     }

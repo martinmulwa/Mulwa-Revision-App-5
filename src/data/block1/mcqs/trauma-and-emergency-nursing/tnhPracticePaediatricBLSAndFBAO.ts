@@ -22,13 +22,13 @@ export const TNH_PRACTICE_PAEDIATRIC_BLS_AND_FBAO: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Paediatric BLS (Concepts and Assessment)",
+      "title": "Set 1",
       "description": "20 practice MCQs on the paediatric chain of survival, age definitions, paediatric airway considerations, the BLS sequence and algorithm, and assessment of pulse and breathing, based on the Paediatric BLS & Foreign Body Airway Obstruction lecture notes.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Infant and Child CPR and Foreign Body Airway Obstruction",
+      "title": "Set 2",
       "description": "20 practice MCQs on infant and child CPR technique, compression ratios, reassessment, causes and signs of airway obstruction, and management of foreign body airway obstruction in infants and children, based on the Paediatric BLS & Foreign Body Airway Obstruction lecture notes.",
       "questionCount": 20
     }

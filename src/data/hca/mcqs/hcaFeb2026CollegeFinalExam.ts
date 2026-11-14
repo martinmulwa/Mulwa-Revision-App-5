@@ -27,31 +27,31 @@ export const HCA_FEB2026_COLLEGE_FINAL_EXAM: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1 (Q8 to Q27)",
+      "title": "Set 1",
       "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q8 to Q27. Q1 to Q7 are not included because page 2 of the paper was not available.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2 (Q28 to Q47)",
+      "title": "Set 2",
       "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q28 to Q47. Q1 to Q7 are not included because page 2 of the paper was not available. Q30 is a matching question (Larynx and Nose against their functions), listed as two questions, (a) and (b).",
       "questionCount": 21
     },
     {
       "setNumber": 3,
-      "title": "Set 3 (Q48 to Q67)",
+      "title": "Set 3",
       "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q48 to Q67. Q1 to Q7 are not included because page 2 of the paper was not available.",
       "questionCount": 20
     },
     {
       "setNumber": 4,
-      "title": "Set 4 (Q68 to Q87)",
+      "title": "Set 4",
       "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q68 to Q87. Q1 to Q7 are not included because page 2 of the paper was not available. Q68 and Q78 each have two True/False statements, (a) and (b), each listed as its own question.",
       "questionCount": 22
     },
     {
       "setNumber": 5,
-      "title": "Set 5 (Q88 to Q100)",
+      "title": "Set 5",
       "description": "The original MCQs from the February 2026 Class Health Care Support Assistant College Final Exam, Cicely McDonnell College of Health Sciences (12 August 2026), Multiple Choice Questions Q88 to Q100. Q1 to Q7 are not included because page 2 of the paper was not available.",
       "questionCount": 13
     }

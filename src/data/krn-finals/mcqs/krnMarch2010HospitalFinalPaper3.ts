@@ -29,7 +29,7 @@ export const KRN_MARCH2010_HOSPITAL_FINAL_PAPER3: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Research, Med-Surg, Paediatrics, Community, Mental Health & Pharmacology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2010 class Hospital Final Examination Paper III of TNH (sat 10 October 2012, Part A Multiple Choice Questions, Q1 to Q20) covering Research Ethics, Sickle Cell Disease, Respiratory Complications, Paediatric Surgery, Gastrointestinal Volvulus, Primary Health Care NLTP, Measles Vaccine Reactions, Community Diagnosis, Growth Monitoring, Infant Nutrition, Heart Failure Diet, Autism & Talipes, IMCI Dehydration, WHO Analgesic Ladder, PMTCT, Psychiatric Sociology, Anticoagulant Contraindications, Bandura Social Learning, Cultural Norms, and Neurobiology of Depression.",
       "questionCount": 20
     }

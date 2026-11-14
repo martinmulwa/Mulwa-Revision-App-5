@@ -29,7 +29,7 @@ export const KRN_SEPT2012_HOSPITAL_FINAL_SUPPLEMENTARY_PAPER3: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Endocrine, Pharmacology, Sociology, Psych, Community, Paediatrics & Research (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2012 class Hospital Final Supplementary Examination Paper III of TNH covering Parathyroid Hormone & Calcium Homeostasis, Isoniazid Peripheral Neuropathy & Pyridoxine, Sociological Conflict, Substance Abuse Rehabilitation, Alogia in Psychosis, Erikson's Identity vs Role Confusion, School Health Components, Lesson Plan Structure, Severe Pneumonia Signs, Paraphimosis vs Phimosis, Hernioplasty vs Herniorrhaphy, Gomez Malnutrition Classification (Underweight), Community Home Visiting, Colostrum & Breast Milk Composition, Hospital Malnutrition Impact, Primary Health Care Community Participation, IMCI Urgent Hospital Referral Criteria, Hospice Principles & Palliative Care, Congenital Hypothyroidism (Cretinism), and Directional Research Hypotheses.",
       "questionCount": 20
     }

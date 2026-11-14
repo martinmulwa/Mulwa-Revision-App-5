@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **74 Papers** | 72 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **2,202 Questions** | Validated stems with distractors and clinical rationales (2,004 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **84 Papers** | 82 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **2,536 Questions** | Validated stems with distractors and clinical rationales (2,338 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
-| **Clinical Specialties & Tracks** | **8 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **120 Sets** | Standardized 10–25 question chunks for cognitive pacing (110 KRN + 10 HCA) |
+| **Clinical Specialties & Tracks** | **9 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
+| **Active Practice Chunks** | **122 Sets** | Standardized 10–25 question chunks for cognitive pacing (112 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,10 +31,10 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 79 examination past papers, 2,244 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 82 examination past papers, 2,338 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
   - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
-    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
+    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
     - **Block 2 (In Preparation):** MSN 201, 202, 203 & Reproductive Health modules.
     - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019 & 2021 Finals (600 MCQs across 30 revision sets).
   - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Baby`, `Droplets`, `Utensils`, `Award`), paper/question stats, and course codes.
@@ -124,19 +124,33 @@ The platform organizes content modularly under **Block 1**, divided into clinica
   3. **April 2024 Class Supplementary Exam** (`krn-block1-april2024-pharmacology-supplementary`) — 30 Questions
   4. **September 2024 Class CAT 1** (`krn-block1-sept2024-pharmacology-cat1`) — 31 Questions
   5. **April 2025 Class End of Block Exam** (`krn-block1-april2025-pharmacology-paper1`) — 31 Questions
-  6. **September 2025 Class End of Block Exam** (`krn-block1-sept2025-pharmacology-paper1`) — 30 Questions
+  6. **September 2025 End of Block Exam** (`krn-block1-sept2025-pharmacology-paper1`) — 30 Questions
 * **Key Topics Covered:**
   * Principles of Pharmacokinetics & Pharmacodynamics: Absorption, first-pass metabolism, bioavailability, volume of distribution, hepatic clearance, renal elimination, half-life ($t_{1/2}$), receptor agonism/antagonism
   * Autonomic Pharmacology: Sympathomimetics, beta-blockers, anticholinergics (atropine), parasympathomimetics
   * Antimicrobial Chemotherapy: Beta-lactams, macrolides, aminoglycosides, fluoroquinolones, antitubercular agents, mechanisms of resistance, ototoxicity/nephrotoxicity monitoring
   * Analgesics & Anti-Inflammatory Agents: NSAIDs, acetaminophen toxicity and N-acetylcysteine reversal, opioid analgesics and naloxone titration
   * Cardiovascular Drugs: Antihypertensives, ACE inhibitors, diuretics, cardiac glycosides (digoxin toxicity and therapeutic drug monitoring)
-  * Endocrine Pharmacology: Insulin regimens (rapid, regular, NPH, glargine), oral hypoglycemic agents, corticosteroids and adrenal suppression
   * Dosage Calculations: Flow rates, pediatric weight-based dosing, reconstitution formulas
 
 ---
 
-### 4. Paediatrics 1 (PEN 101: Communicable Diseases & Medical-Surgical Conditions)
+### 4. Pharmacology 2 (PHM 102)
+* **Status:** 3 Curated Examination Papers (**94 total MCQs & True/False items**)
+* **Examinations & Modules Included:**
+  1. **April 2025 End of Block Exam** (`krn-block1-april2025-pharmacology-paper2`) — 32 Questions
+  2. **April 2025 Supplementary Exam** (`krn-block1-april2025-pharmacology-supplementary`) — 31 Questions
+  3. **September 2025 End of Block Exam** (`krn-block1-sept2025-pharmacology-paper2`) — 31 Questions
+* **Key Topics Covered:**
+  * Gastrointestinal Pharmacology: Proton pump inhibitors (omeprazole), mucosal protectants (sucralfate), antacids, stool softeners (docusate), osmotic laxatives (lactulose)
+  * Nutrition, Vitamins & Herbal Supplements: Calcium, folic acid (B9) neural tube defect prevention, complementary/herbal product interactions (garlic)
+  * Urinary Tract & Analgesic/CNS Agents: Fluoroquinolone crystalluria & hydration, methenamine–sulfonamide incompatibility, opioid overdose & naloxone reversal, baclofen withdrawal precautions
+  * Autonomic & Pre-Anesthetic Pharmacology: Neostigmine cholinergic crisis vs anticholinergic effects (atropine), epinephrine in anaphylaxis, diazepam premedication, tamsulosin orthostatic hypotension
+  * Endocrine & Antineoplastic Chemotherapy: Metformin mechanism, long-term corticosteroid infection risk, levothyroxine administration, regular insulin IV route, sitagliptin (DPP-4 inhibition), alpha-glucosidase inhibitors, sulfonylureas, alkylating agents (cyclophosphamide, dacarbazine), methotrexate folate antagonism, flutamide, and monoclonal antibodies
+
+---
+
+### 5. Paediatrics 1 (PEN 101: Communicable Diseases & Medical-Surgical Conditions)
 * **Status:** 11 Curated Examination Papers (**173 total MCQs & True/False items**)
 * **Examinations & Modules Included:**
   1. **April 2025 Class End of Block 1 Special/Supplementary Exam** (`krn-block1-april2025-paediatric-nursing-i-supplementary`) — 15 Questions
@@ -161,7 +175,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 5. Blood and Lymph Disorders (MHN 201)
+### 6. Blood and Lymph Disorders (MHN 201)
 * **Status:** 7 Curated Examination Papers (**95 total MCQs**)
 * **Examinations & Modules Included:**
   1. **September 2025 Class Block 1 Exam** (`krn-block1-september2025-blood-and-lymphatic-disorders`) — 15 Questions
@@ -181,7 +195,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 6. GIT Disorders (MSN 105: Gastrointestinal Disorders)
+### 7. GIT Disorders (MSN 105: Gastrointestinal Disorders)
 * **Status:** 8 Curated Examination Papers & CAT Modules (**89 total MCQs & True/False items across 8 Revision Sets**)
 * **Examinations & Modules Included:**
   1. **TNH September 2013 Class GIT CAT II** (`nairobi-hospital-sept2013-block1-git-cat-ii`) — 10 Questions
@@ -200,7 +214,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 7. KRN College Final Examinations (KRCHN Final Exams)
+### 8. KRN College Final Examinations (KRCHN Final Exams)
 * **Status:** 15 Comprehensive College & Hospital Final Examination Papers (**600 total MCQs across 30 Revision Sets**)
 * **Examinations Included:**
   1. **September 2021 Class College Final Supplementary Exam** (`krn-collegefinal-sept2021-supplementary`) — 120 Questions (6 Revision Sets)
@@ -229,7 +243,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 8. SAQ Question Banks & Categorization
+### 9. SAQ Question Banks & Categorization
 
 #### A. Core Clinical SAQ Bank (40 Total SAQs)
 Accessible via the **SAQ Bank** tile:
@@ -283,8 +297,11 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   ├── data/
 │   │   ├── block1/
 │   │   │   ├── mcqs/
+│   │   │   │   ├── blood-and-lymph-disorders/  # 7 Blood & Lymph modules (95 MCQs)
+│   │   │   │   ├── git-disorders/              # 17 GIT modules (304 MCQs)
 │   │   │   │   ├── paediatrics-1/              # 11 Paediatrics exam modules (173 MCQs)
-│   │   │   │   ├── pharmacology-1/             # 6 Pharmacology exam modules (162 MCQs)
+│   │   │   │   ├── pharmacology-1/             # 6 Pharmacology 1 exam modules (162 MCQs)
+│   │   │   │   ├── pharmacology-2/             # 3 Pharmacology 2 exam modules (94 MCQs)
 │   │   │   │   ├── respiratory-disorders/      # 11 Respiratory exam modules (553 MCQs)
 │   │   │   │   └── trauma-and-emergency-nursing/# 12 Trauma & Emergency modules (357 MCQs)
 │   │   │   └── saqs/                           # 112 High-yield SAQs across 30 condition modules

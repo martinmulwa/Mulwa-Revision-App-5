@@ -22,13 +22,13 @@ export const KRN_BLOCK1_SEPT2023_RESPIRATORY_DISORDERS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from the September 2023 First Block Exam paper (Part A, Q1 to Q14).",
       questionCount: 14
     },
     {
       setNumber: 2,
-      title: "Set 2: Matching and SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's matching item and Short Answer Questions, covering every marking point.",
       questionCount: 26
     }

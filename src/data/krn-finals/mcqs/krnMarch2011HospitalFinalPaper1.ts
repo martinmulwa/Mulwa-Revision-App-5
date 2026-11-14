@@ -28,7 +28,7 @@ export const KRN_MARCH2011_HOSPITAL_FINAL_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Physiology, Med-Surg, Pharmacology, Nursing Process & Gerontology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the March 2011 class Hospital Final Examination Paper I of TNH (sat 8 October 2013, Multiple Choice Questions, Q1 to Q20) covering Pulmonary Physiology, Medical-Surgical Nursing, Pharmacology, Nursing Process, Gerontology, Infection Control, and Midwifery.",
       "questionCount": 20
     }

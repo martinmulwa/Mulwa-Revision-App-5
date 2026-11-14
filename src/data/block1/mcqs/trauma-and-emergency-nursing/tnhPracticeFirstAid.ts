@@ -22,13 +22,13 @@ export const TNH_PRACTICE_FIRST_AID: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Practice Questions",
+      "title": "Set 1",
       "description": "Practice MCQs (Q1 to Q20) on First Aid (bleeding, nose bleeding, insect bites, fractures).",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Practice Questions",
+      "title": "Set 2",
       "description": "Practice MCQs (Q1 to Q20) on First Aid (stroke, seizures, diabetic emergencies, spinal and head injuries).",
       "questionCount": 20
     }

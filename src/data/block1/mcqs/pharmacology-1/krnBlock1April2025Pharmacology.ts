@@ -24,7 +24,7 @@ export const KRN_BLOCK1_APRIL2025_PHARMACOLOGY_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from the April 2025 class Block One Exam paper (PHM 102: Pharmacology Paper One, Section A, Q1 to Q30). Q4 has two True/False statements, (a) and (b), each listed as its own question.",
       "questionCount": 31
     }

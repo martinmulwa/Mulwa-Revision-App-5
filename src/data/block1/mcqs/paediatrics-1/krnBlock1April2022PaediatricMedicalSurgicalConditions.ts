@@ -25,7 +25,7 @@ export const KRN_BLOCK1_APRIL2022_PAEDIATRIC_MEDICAL_SURGICAL_CONDITIONS: PastPa
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the April 2022 class Block One Exam paper (PEN 101: Paediatric Medical Surgical Conditions, KRN September 2021 Class, Part One, Q1 to Q30). Q21 and Q27 each have two True/False statements, (a) and (b), each listed as its own question.',
       questionCount: 32
     }

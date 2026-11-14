@@ -14,7 +14,7 @@ export const TNH_PRACTICE_TRAUMATIC_CONDITIONS: PastPaper = {
   year: "Practice",
   month: "",
   examType: "Practice",
-  title: "Traumatic Respiratory Conditions",
+  title: "Traumatic Conditions",
   category: "Respiratory Disorders",
   block: "TNH Practice",
   unit: "Traumatic Conditions",
@@ -23,13 +23,13 @@ export const TNH_PRACTICE_TRAUMATIC_CONDITIONS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Knowledge and Recall",
+      title: "Set 1",
       description: "30 MCQs testing definitions, causes, pathophysiology, clinical manifestations and assessment findings from the lecture notes on chest trauma, rib and sternal fractures, flail chest, penetrating trauma, pneumothorax and haemothorax.",
       questionCount: 30
     },
     {
       setNumber: 2,
-      title: "Set 2: Application and Clinical Scenarios",
+      title: "Set 2",
       description: "30 MCQs testing management, nursing care, complications and clinical scenarios from the same lecture notes on chest trauma, flail chest, penetrating trauma, emergency management, pneumothorax, haemothorax and underwater seal drainage.",
       questionCount: 30
     }

@@ -28,37 +28,37 @@ export const KRN_SEPT2019_COLLEGE_FINAL_EXAM: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Eye, Paediatrics, Research Ethics, Nephrology & Pharmacology (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q1 to Q20) covering Eye Conditions, Paediatric Surgical & Medical Conditions, Burns Parkland Formula, Research Ethics, Incontinence, Renal Disorders, Family Planning, and Autonomic & Central Nervous System Pharmacology.",
       "questionCount": 20
     },
     {
       "setNumber": 2,
-      "title": "Set 2: Pharmacology, Psychology, Neuro, Respiratory, Ethics & Parasitology (Q21–Q40)",
+      "title": "Set 2",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q21 to Q40) covering Anti-infectives, Antigout, Psychology Theories, Myasthenia Gravis, Vestibular Reflexes, Respiratory Assessment, Professional Ethics, Demography, Wound Prevention, and Filariasis.",
       "questionCount": 20
     },
     {
       "setNumber": 3,
-      "title": "Set 3: Immunology, Public Health, Oncology, Palliative Care, Education & Leadership (Q41–Q60)",
+      "title": "Set 3",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q41 to Q60) covering Humoral & Mucosal Immunity, Environmental Health, BLS Chain of Survival, Oncology & G-CSF, Geriatric Prescribing, HIV Opportunistic Prophylaxis, WHO Analgesic Ladder, Bloom's Taxonomy, Lewin's Change Theory, and Health Service Management.",
       "questionCount": 20
     },
     {
       "setNumber": 4,
-      "title": "Set 4: Leadership, Newborn, Nursing Process, Endocrine, Psychiatry & Orthopaedics (Q61–Q80)",
+      "title": "Set 4",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q61 to Q80) covering Power Bases, Neonatal Assessment, Nursing Process & Documentation, Thyroid & Pituitary Disorders, Diabetic Diuresis, Psychopathology, Psychotropic Drugs, Mental Health Legislation, and Orthopaedic Screening.",
       "questionCount": 20
     },
     {
       "setNumber": 5,
-      "title": "Set 5: Cardiovascular, Gastrointestinal, Gynaecology, Neonatal & Neurology (Q81–Q100)",
+      "title": "Set 5",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q81 to Q100) covering Cardiac Cycle & Heart Failure, Peripheral Vascular Disease, GI Pathologies & Post-op Care, Gynaecological Conditions, Fetal Shunts & Neonatal Jaundice, Lumbar Puncture Care, and Infectious Disease Control.",
       "questionCount": 20
     },
     {
       "setNumber": 6,
-      "title": "Set 6: Infectious Diseases, ENT, Obstetrics, Midwifery, Theatre & A&P (Q101–Q120)",
+      "title": "Set 6",
       "description": "The original MCQs from the September 2019 class College Final Exam paper (Kenya Registered Nursing, sat 18 November 2022, Multiple Choice Questions, Q101 to Q120) covering Helminths & Mycobacterial Therapy, Auditory Assessment, Resuscitation Mechanics, Obstetric Milestones, Active Management of 3rd Stage of Labour, Postpartum Mood Disorders, Perioperative Safety, and Applied Anatomy.",
       "questionCount": 20
     }

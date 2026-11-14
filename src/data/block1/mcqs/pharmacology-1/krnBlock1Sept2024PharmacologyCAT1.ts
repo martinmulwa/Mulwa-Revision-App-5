@@ -24,7 +24,7 @@ export const KRN_BLOCK1_SEPT2024_PHARMACOLOGY_CAT1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2024 class First Block CAT 1 paper (PHM 102: Pharmacology CAT 1, Part A, Q1 to Q30). Q28 has two True/False statements, (i) and (ii), each listed as its own question.",
       "questionCount": 31
     }

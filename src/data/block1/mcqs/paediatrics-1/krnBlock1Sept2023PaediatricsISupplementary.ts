@@ -25,7 +25,7 @@ export const KRN_BLOCK1_SEPTEMBER2023_PAEDIATRICS_I_SUPPLEMENTARY: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the September 2023 class First Block Supplementary Exam paper (PEN 101: Paediatrics I, sat 29 May 2024, Part A, Q1 to Q15).',
       questionCount: 15
     }

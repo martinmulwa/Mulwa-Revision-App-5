@@ -25,7 +25,7 @@ export const KRN_PTS_SEPTEMBER2019_INTRODUCTION_TO_PAEDIATRICS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: 'Set 1: Original Exam Questions',
+      title: 'Set 1',
       description: 'The original MCQs from the September 2019 class PTS Block Exam paper (Introduction to Paediatrics, sat 6 December 2019, Part A, Q1 to Q5).',
       questionCount: 5
     }

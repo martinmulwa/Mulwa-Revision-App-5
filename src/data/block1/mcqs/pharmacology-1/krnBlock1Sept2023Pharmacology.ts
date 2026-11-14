@@ -24,7 +24,7 @@ export const KRN_BLOCK1_SEPT2023_PHARMACOLOGY_PAPER1: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Original Exam Questions",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2023 class Block One Exam paper (PHM 102: Pharmacology Paper 1, Section A, Q1 to Q30).",
       "questionCount": 30
     }

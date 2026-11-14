@@ -22,19 +22,19 @@ export const TNH_BLOCK1_JUL2012_RESPIRATORY_DISEASES: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from Part A of the July 2012 Supplementary Exam paper.",
       questionCount: 10
     },
     {
       setNumber: 2,
-      title: "Set 2: SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's Short Answer Questions in Part B, covering every marking point.",
       questionCount: 24
     },
     {
       setNumber: 3,
-      title: "Set 3: LAQ Mastery Questions",
+      title: "Set 3",
       description: "MCQs and True/False questions derived from the acute asthma Long Answer Question in Part C, covering every marking point.",
       questionCount: 20
     }

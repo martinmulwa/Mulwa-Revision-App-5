@@ -29,7 +29,7 @@ export const KRN_SEPT2013_HOSPITAL_FINAL_PAPER3: PastPaper = {
   "sets": [
     {
       "setNumber": 1,
-      "title": "Set 1: Leadership, Psychology, Nutrition, Paediatrics, HIV, Research & Psychiatry (Q1–Q20)",
+      "title": "Set 1",
       "description": "The original MCQs from the September 2013 class Hospital Final Examination Paper 3 of TNH covering Tuckman's Team Development (Norming Phase), Piaget's Preoperational Egocentrism, BMI Class I Obesity Thresholds, Durkheim's Division of Labour, Talipes Calcaneus Deformity, Wernicke's Encephalopathy & Thiamine Deficiency, Kübler-Ross Bargaining Stage, Tonsillectomy Post-operative Bleeding Protocols, Tracheoesophageal Fistula 3 Cs Triad, Pertussis Paroxysmal Stage, Hypospadias vs Epispadias, IMCI Persistent Diarrhoea Nutrition (Lactose Reduction), HIV Reverse Transcriptase Mechanism, PHC Equitable Distribution Principle, Experimental & Observational Research Designs, First-line 2RHZE Tuberculosis Regimen, Community Nurse Engagement Barriers, Shannon-Weaver Communication Model, Avoidant Personality Disorder, and Protein-Energy Malnutrition Differential (Kwashiorkor vs Marasmus).",
       "questionCount": 20
     }

@@ -21,19 +21,19 @@ export const KRN_RESPIRATORY_JAN2011_RESPIRATORY_CONDITIONS: PastPaper = {
   sets: [
     {
       setNumber: 1,
-      title: "Set 1: Original Exam Questions",
+      title: "Set 1",
       description: "The original MCQs from the Respiratory Conditions past paper.",
       questionCount: 11
     },
     {
       setNumber: 2,
-      title: "Set 2: SAQ Mastery Questions",
+      title: "Set 2",
       description: "MCQs and True/False questions derived from the paper's Short Answer Questions, covering every marking point.",
       questionCount: 23
     },
     {
       setNumber: 3,
-      title: "Set 3: LAQ Mastery Questions",
+      title: "Set 3",
       description: "MCQs and True/False questions derived from the paper's Long Answer Question on chest tube drainage, covering every marking point.",
       questionCount: 15
     }
