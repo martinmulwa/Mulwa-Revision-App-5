@@ -65,8 +65,8 @@ export const KRN_BLOCKS: BlockInfo[] = [
     id: 'block1',
     courseId: 'KRN',
     title: 'Block 1',
-    code: 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101, 102 · MHN 201',
-    subtitle: 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1 & 2, Blood/Lymph & GIT',
+    code: 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101, 102 · MHN 201 · NUP 101',
+    subtitle: 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1 & 2, Blood/Lymph, GIT, Nursing Process & Cardiovascular',
     description: `Core foundational clinical nursing papers including ${BLOCK1_PAPERS_COUNT} curated examination papers, ${BLOCK1_QUESTIONS_COUNT.toLocaleString()} MCQs, and ${TOTAL_SAQ_COUNT} SAQs.`,
     isAvailable: true,
     activeBadge: `Active · ${BLOCK1_PAPERS_COUNT} Papers`,
@@ -82,7 +82,9 @@ export const KRN_BLOCKS: BlockInfo[] = [
       'Paediatrics 1',
       'Paediatrics 2',
       'Blood and Lymph Disorders',
-      'GIT Disorders'
+      'GIT Disorders',
+      'Nursing Process',
+      'Cardiovascular Disorders'
     ]
   },
   {

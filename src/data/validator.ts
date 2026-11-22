@@ -52,6 +52,8 @@ const ALLOWED_CATEGORIES = new Set<string>([
   'Blood and Lymph Disorders',
   'Blood and Lymphatic Disorders',
   'GIT Disorders',
+  'Nursing Process',
+  'Cardiovascular Disorders',
   'TNH Practice',
   'College Final Exam',
   'College Final Exams',

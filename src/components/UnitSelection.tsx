@@ -20,7 +20,9 @@ import {
   Award,
   Droplets,
   Utensils,
-  Scissors
+  Scissors,
+  ClipboardList,
+  HeartPulse
 } from 'lucide-react';
 import { CourseId, BlockId } from '../types';
 import { PAST_PAPERS } from '../data/questions';
@@ -37,7 +39,9 @@ export const BLOCK1_UNITS = [
   'Paediatrics 1',
   'Paediatrics 2',
   'Blood and Lymph Disorders',
-  'GIT Disorders'
+  'GIT Disorders',
+  'Nursing Process',
+  'Cardiovascular Disorders'
 ] as const;
 
 export type Block1Unit = typeof BLOCK1_UNITS[number];
@@ -69,6 +73,8 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
   const paeds2 = getUnitMetrics('Paediatrics 2');
   const blood = getUnitMetrics('Blood and Lymph Disorders');
   const git = getUnitMetrics('GIT Disorders');
+  const nursingProcess = getUnitMetrics('Nursing Process');
+  const cardiovascular = getUnitMetrics('Cardiovascular Disorders');
   const hca = getUnitMetrics('HCA');
   const finals = getUnitMetrics('College Final Exams');
 
@@ -162,6 +168,26 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       colorClass: 'bg-orange-100/80 border-orange-200/90 text-orange-700 group-hover:bg-orange-600 group-hover:text-white',
       cardHover: 'hover:border-orange-400',
       toColor: 'to-orange-50/60'
+    },
+    {
+      id: 'Nursing Process',
+      title: 'Nursing Process',
+      code: 'NUP 101',
+      subtitle: `${nursingProcess.papersCount} ${nursingProcess.papersCount === 1 ? 'Paper' : 'Papers'} · ${nursingProcess.mcqsCount} MCQs · ${nursingProcess.setsCount} Sets`,
+      icon: ClipboardList,
+      colorClass: 'bg-blue-100/80 border-blue-200/90 text-blue-700 group-hover:bg-blue-600 group-hover:text-white',
+      cardHover: 'hover:border-blue-400',
+      toColor: 'to-blue-50/60'
+    },
+    {
+      id: 'Cardiovascular Disorders',
+      title: 'Cardiovascular Disorders',
+      code: 'MSN 105',
+      subtitle: `${cardiovascular.papersCount} ${cardiovascular.papersCount === 1 ? 'Paper' : 'Papers'} · ${cardiovascular.mcqsCount} MCQs · ${cardiovascular.setsCount} Sets`,
+      icon: HeartPulse,
+      colorClass: 'bg-pink-100/80 border-pink-200/90 text-pink-700 group-hover:bg-pink-600 group-hover:text-white',
+      cardHover: 'hover:border-pink-400',
+      toColor: 'to-pink-50/60'
     }
   ];
 

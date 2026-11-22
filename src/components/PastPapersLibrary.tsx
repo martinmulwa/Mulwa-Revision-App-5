@@ -36,7 +36,9 @@ import {
   RotateCcw,
   Clock,
   ChevronDown,
-  Scissors
+  Scissors,
+  ClipboardList,
+  HeartPulse
 } from 'lucide-react';
 import { SessionProgress, PastPaper } from '../types';
 import { BOARD_PAST_PAPERS, TNH_PRACTICE_PAPERS, getRevisionSetsForPaper } from '../data/questions';
@@ -156,6 +158,12 @@ export default function PastPapersLibrary({
     const gitPapers = sourcePapers.filter(
       p => (p.unit || p.category || '').includes('GIT') || p.id.includes('git')
     );
+    const nursingProcessPapers = sourcePapers.filter(
+      p => (p.unit || p.category) === 'Nursing Process' || p.category === 'Nursing Process' || p.id.includes('nursing-process')
+    );
+    const cardiovascularPapers = sourcePapers.filter(
+      p => (p.unit || p.category) === 'Cardiovascular Disorders' || p.category === 'Cardiovascular Disorders' || p.id.includes('cardiovascular')
+    );
     const hcaPapers = sourcePapers.filter(
       p => (p.unit || p.category) === 'HCA' ||
            p.id.startsWith('hca-') ||
@@ -255,6 +263,24 @@ export default function PastPapersLibrary({
         unitType: 'git' as const,
         saqCount: 0
       },
+      {
+        id: 'Nursing Process',
+        title: 'Nursing Process',
+        papersCount: nursingProcessPapers.length,
+        questionsCount: nursingProcessPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: nursingProcessPapers.length,
+        unitType: 'nursingProcess' as const,
+        saqCount: 0
+      },
+      {
+        id: 'Cardiovascular Disorders',
+        title: 'Cardiovascular Disorders',
+        papersCount: cardiovascularPapers.length,
+        questionsCount: cardiovascularPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: cardiovascularPapers.length,
+        unitType: 'cardiovascular' as const,
+        saqCount: 0
+      },
       ...(collegeFinalPapers.length > 0 ? [{
         id: 'College Final Exams',
         title: 'College Final Exams',
@@ -329,6 +355,12 @@ export default function PastPapersLibrary({
           selectedUnit.includes('GIT')
         ) {
           return u.includes('GIT') || p.id.includes('git') || p.category === 'GIT Disorders';
+        }
+        if (selectedUnit === 'Nursing Process') {
+          return u === 'Nursing Process' || p.category === 'Nursing Process' || p.id.includes('nursing-process');
+        }
+        if (selectedUnit === 'Cardiovascular Disorders') {
+          return u === 'Cardiovascular Disorders' || p.category === 'Cardiovascular Disorders' || p.id.includes('cardiovascular');
         }
         if (
           selectedUnit === 'College Final Exams' ||
@@ -792,6 +824,14 @@ export default function PastPapersLibrary({
                   git: {
                     box: 'bg-orange-50 text-orange-600 border-orange-200/80 group-hover:bg-orange-100 group-hover:text-orange-700',
                     icon: <Utensils className="w-4.5 h-4.5" />
+                  },
+                  nursingProcess: {
+                    box: 'bg-blue-50 text-blue-600 border-blue-200/80 group-hover:bg-blue-100 group-hover:text-blue-700',
+                    icon: <ClipboardList className="w-4.5 h-4.5" />
+                  },
+                  cardiovascular: {
+                    box: 'bg-pink-50 text-pink-600 border-pink-200/80 group-hover:bg-pink-100 group-hover:text-pink-700',
+                    icon: <HeartPulse className="w-4.5 h-4.5" />
                   },
                   finals: {
                     box: 'bg-indigo-50 text-indigo-600 border-indigo-200/80 group-hover:bg-indigo-100 group-hover:text-indigo-700',

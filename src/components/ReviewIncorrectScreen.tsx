@@ -82,6 +82,10 @@ export default function ReviewIncorrectScreen({
       canonicalUnit = 'Blood and Lymph Disorders';
     } else if (rawUnit.includes('GIT') || paper.id.includes('git')) {
       canonicalUnit = 'GIT Disorders';
+    } else if (rawUnit === 'Nursing Process' || paper.category === 'Nursing Process' || paper.id.includes('nursing-process')) {
+      canonicalUnit = 'Nursing Process';
+    } else if (rawUnit === 'Cardiovascular Disorders' || paper.category === 'Cardiovascular Disorders' || paper.id.includes('cardiovascular')) {
+      canonicalUnit = 'Cardiovascular Disorders';
     } else if (rawUnit === 'College Final Exams' || rawUnit.includes('College Final') || paper.id.startsWith('krn-collegefinal')) {
       canonicalUnit = 'College Final Exams';
     }

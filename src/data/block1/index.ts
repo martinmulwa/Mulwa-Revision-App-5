@@ -10,6 +10,8 @@
  * - Paediatrics 2
  * - Blood and Lymph Disorders
  * - GIT Disorders
+ * - Nursing Process
+ * - Cardiovascular Disorders
  */
 
 export * from './mcqs';

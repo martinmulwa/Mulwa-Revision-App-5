@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **108 Papers** | 106 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **2,979 Questions** | Validated stems with distractors and clinical rationales (2,781 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **122 Papers** | 120 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **3,179 Questions** | Validated stems with distractors and clinical rationales (2,981 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
-| **Clinical Specialties & Tracks** | **11 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **164 Sets** | Standardized 10–25 question chunks for cognitive pacing (154 KRN + 10 HCA) |
+| **Clinical Specialties & Tracks** | **13 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood & Lymph, GIT Disorders, Nursing Process, Cardiovascular Disorders, KRN Final Exams, HCA Final Exams |
+| **Active Practice Chunks** | **178 Sets** | Standardized 10–25 question chunks for cognitive pacing (168 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,13 +31,13 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 106 examination past papers, 2,781 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 120 examination past papers, 2,981 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
   - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
-    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, PEN 102, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood and Lymph Disorders, and GIT Disorders).
+    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, PEN 102, MHN 201, and NUP 101 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood and Lymph Disorders, GIT Disorders, Nursing Process, and Cardiovascular Disorders).
     - **Block 2 (In Preparation):** MSN 201, 202, 203 & Reproductive Health modules.
     - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019, 2021 & 2023 Finals (720 MCQs across 36 revision sets).
-  - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Scissors`, `Baby`, `Droplets`, `Utensils`, `Award`), paper/question stats, and course codes.
+  - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Scissors`, `Baby`, `Droplets`, `Utensils`, `ClipboardList`, `HeartPulse`, `Award`), paper/question stats, and course codes.
   - **Level 4 — Unit Revision Hub (`UnitHub.tsx`):** Inside each clinical unit, candidates choose from grouped revision cards:
     - **Past Papers:** MCQ Bank with dynamic multi-criterion filter and sort (by Year, Month, Exam Type, Completion Status, and Title) and instant keyword search.
     - **SAQ Bank:** High-yield condition-categorized short answer questions with model answers and mnemonics.
@@ -259,7 +259,45 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 10. KRN College Final Examinations (KRCHN Final Exams)
+### 10. Nursing Process (NUP 101)
+* **Status:** 7 Curated Examination Papers (**88 total MCQs & True/False items across 7 Revision Sets**)
+* **Examinations & Modules Included:**
+  1. **September 2025 First Block Exam** (`krn-sept2025-block1-nursing-process-first-block`) — 16 Questions
+  2. **April 2025 First Block Exam** (`krn-april2025-block1-nursing-process-first-block`) — 16 Questions
+  3. **September 2024 Special/Supp Exam** (`krn-sept2024-block1-nursing-process-special-supplementary`) — 16 Questions
+  4. **September 2019 End of Block Exam** (`krn-sept2019-block1-nursing-process-end-of-block`) — 10 Questions
+  5. **September 2019 Supp Exam** (`krn-sept2019-block1-nursing-process-supplementary`) — 10 Questions
+  6. **April 2019 End of Block Exam** (`krn-april2019-block1-nursing-process-end-of-block`) — 10 Questions
+  7. **April 2019 Supp Exam** (`krn-april2019-block1-nursing-process-supplementary`) — 10 Questions
+* **Key Topics Covered:**
+  * Assessment Phase: Primary vs secondary data sources, subjective vs objective clinical data, comprehensive/initial vs focused/ongoing assessment, abdominal physical examination sequence (inspection, auscultation, percussion, palpation)
+  * Nursing Diagnosis (NANDA-I & PES/PE Format): Actual, risk/potential, possible/suspected, wellness, and syndrome diagnoses; etiology/related factors vs defining characteristics; prioritization of airway and life-threatening needs
+  * Planning & Outcome Identification: Goal setting (short-term vs long-term, SMART client-centered outcomes), Maslow's hierarchy of needs prioritization, independent vs dependent vs collaborative nursing orders (preventive, promotive, curative)
+  * Implementation & Documentation: Evidence-based clinical interventions, delegation principles, legal and ethical standards of nursing documentation (PIE, SOAPIE, DAR, Kardex charting)
+  * Evaluation Phase: Concurrent vs terminal/retrospective evaluation, measuring goal attainment (met, partially met, unmet), care plan modification and reassessment cycle
+
+---
+
+### 11. Cardiovascular Disorders (MSN 105)
+* **Status:** 7 Curated Examination Papers (**112 total MCQs & True/False items across 7 Revision Sets**)
+* **Examinations & Modules Included:**
+  1. **September 2024 First Block Special Exam** (`krn-september2024-block1-cardiovascular-disorders-special`) — 30 Questions
+  2. **September 2023 First Block Supp Exam** (`krn-september2023-block1-cardiovascular-disorders-supplementary`) — 31 Questions
+  3. **September 2019 End of Block Exam** (`krn-september2019-block1-cardiovascular-end-of-block`) — 10 Questions
+  4. **September 2019 Special Exam** (`krn-september2019-block1-cardiovascular-special`) — 11 Questions
+  5. **April 2019 End of Block Exam** (`krn-april2019-block1-cardiovascular-system-disorders-end-of-block`) — 10 Questions
+  6. **April 2019 1st Block Exam** (`krn-april2019-block1-cardiovascular-diseases-first-block`) — 10 Questions
+  7. **April 2019 Special Exam** (`krn-april2019-block1-cardiovascular-disorders-special`) — 10 Questions
+* **Key Topics Covered:**
+  * Cardiac Anatomy, Electrophysiology & Hemodynamics: Atrioventricular vs semilunar valves, chordae tendineae, SA node intrinsic pacing, ECG wave interpretation (P wave, QRS complex, T wave), stroke volume, preload/CVP monitoring, and cardiac biomarkers (Troponin I/T, myoglobin, CK-MB, BNP, CRP)
+  * Coronary Artery Disease & Acute Coronary Syndromes: Modifiable vs non-modifiable cardiovascular risk factors, atherosclerosis vs arteriosclerosis, stable, unstable, Prinzmetal's variant angina, silent ischemia, antiplatelet/statin/thrombolytic therapy (aspirin, atorvastatin, alteplase, nitroglycerin, morphine)
+  * Hypertension, Heart Failure & Shock Syndromes: Essential vs secondary hypertension, ACE inhibitors in diabetes, left-sided pulmonary congestion vs right-sided systemic venous distension, RAAS neurohormonal compensation, distributive vs hypovolemic/cardiogenic/obstructive shock stages
+  * Valvular, Inflammatory, Structural & Congenital Heart Disease: Rheumatic fever and benzathine penicillin prophylaxis, Sydenham's chorea, infective endocarditis prevention, dilated/hypertrophic/restrictive cardiomyopathies, pericardial effusion & Beck's triad in cardiac tamponade, acyanotic vs cyanotic congenital defects (Tetralogy of Fallot)
+  * Vascular Disorders: Aneurysm classifications (fusiform, saccular, dissecting), peripheral artery disease & intermittent claudication, Raynaud's disease vasospasm, Virchow's triad, DVT (D-dimer, pulmonary embolism V/Q mismatch), and varicose vein management
+
+---
+
+### 12. KRN College Final Examinations (KRCHN Final Exams)
 * **Status:** 16 Comprehensive College & Hospital Final Examination Papers (**720 total MCQs across 36 Revision Sets**)
 * **Examinations Included:**
   1. **2023 College Final Supplementary Exam** (`krn-collegefinal-2023-supplementary`) — 120 Questions (6 Revision Sets)
@@ -289,7 +327,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 11. SAQ Question Banks & Categorization
+### 13. SAQ Question Banks & Categorization
 
 #### A. Core Clinical SAQ Bank (40 Total SAQs)
 Accessible via the **SAQ Bank** tile:
@@ -344,7 +382,9 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   │   ├── block1/
 │   │   │   ├── mcqs/
 │   │   │   │   ├── blood-and-lymph-disorders/  # 7 Blood & Lymph modules (95 MCQs)
+│   │   │   │   ├── cardiovascular-disorders/   # 7 Cardiovascular modules (112 MCQs)
 │   │   │   │   ├── git-disorders/              # 17 GIT modules (304 MCQs)
+│   │   │   │   ├── nursing-process/            # 7 Nursing Process modules (88 MCQs)
 │   │   │   │   ├── paediatrics-1/              # 10 Paediatrics 1 exam modules (142 MCQs)
 │   │   │   │   ├── paediatrics-2/              # 5 Paediatrics 2 exam modules (92 MCQs)
 │   │   │   │   ├── perioperative-nursing/      # 9 Perioperative Nursing modules (126 MCQs)

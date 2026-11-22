@@ -350,6 +350,20 @@ export function isPaperForUnit(paper: PastPaper, unitName: string): boolean {
       paper.id.toLowerCase().includes('git')
     );
   }
+  if (unitName === 'Nursing Process') {
+    return (
+      rawUnit === 'Nursing Process' ||
+      paper.category === 'Nursing Process' ||
+      paper.id.toLowerCase().includes('nursing-process')
+    );
+  }
+  if (unitName === 'Cardiovascular Disorders') {
+    return (
+      rawUnit === 'Cardiovascular Disorders' ||
+      paper.category === 'Cardiovascular Disorders' ||
+      paper.id.toLowerCase().includes('cardiovascular')
+    );
+  }
   if (
     unitName === 'HCA' ||
     unitName === 'Health Care Support Assistant (All Units)' ||

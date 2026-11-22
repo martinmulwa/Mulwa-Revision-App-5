@@ -109,6 +109,12 @@ export default function UnitHub({
       if (unitName === 'GIT Disorders' || unitName === 'GIT' || unitName.includes('GIT')) {
         return u.includes('GIT') || p.id.includes('git') || p.category === 'GIT Disorders';
       }
+      if (unitName === 'Nursing Process') {
+        return u === 'Nursing Process' || p.category === 'Nursing Process' || p.id.includes('nursing-process');
+      }
+      if (unitName === 'Cardiovascular Disorders') {
+        return u === 'Cardiovascular Disorders' || p.category === 'Cardiovascular Disorders' || p.id.includes('cardiovascular');
+      }
       if (unitName === 'College Final Exams' || unitName.includes('Final Exam') || unitName.includes('Finals')) {
         return (u === 'College Final Exams' || p.id.startsWith('krn-collegefinal') || p.category === 'College Final Exam' || p.category === 'College Final Exams') && !p.id.startsWith('hca-');
       }
@@ -182,6 +188,10 @@ export default function UnitHub({
          (rawUnit.includes('Blood') || paper.id.includes('blood'))) ||
         ((unitName === 'GIT Disorders' || unitName.includes('GIT')) &&
          (rawUnit.includes('GIT') || paper.id.includes('git'))) ||
+        (unitName === 'Nursing Process' &&
+         (rawUnit === 'Nursing Process' || paper.category === 'Nursing Process' || paper.id.includes('nursing-process'))) ||
+        (unitName === 'Cardiovascular Disorders' &&
+         (rawUnit === 'Cardiovascular Disorders' || paper.category === 'Cardiovascular Disorders' || paper.id.includes('cardiovascular'))) ||
         ((unitName === 'HCA' || unitName.includes('HCA') || unitName.includes('Health Care')) &&
          (rawUnit === 'HCA' || rawUnit.includes('HCA') || paper.id.startsWith('hca-') || rawUnit.includes('Health Care')));
       if (isMatch) count++;
