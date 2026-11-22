@@ -302,12 +302,23 @@ export function isPaperForUnit(paper: PastPaper, unitName: string): boolean {
       paper.category === 'Perioperative Nursing'
     );
   }
+  const isPaeds2Paper =
+    rawUnit === 'Paediatrics 2' ||
+    rawUnit === 'Paediatrics II' ||
+    rawUnit === 'Paediatric Nursing II' ||
+    paper.category === 'Paediatrics 2' ||
+    paper.id.includes('paediatrics-2') ||
+    paper.id.includes('paediatric-nursing-2') ||
+    paper.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary';
+  if (unitName === 'Paediatrics 2') {
+    return isPaeds2Paper;
+  }
   if (unitName === 'Paediatrics 1') {
     const isTrauma =
       rawUnit.includes('Trauma') ||
       (paper.category || '').includes('Trauma') ||
       paper.id.startsWith('tnh-practice-paediatric-bls');
-    if (isTrauma) return false;
+    if (isTrauma || isPaeds2Paper) return false;
     return (
       rawUnit === 'Paediatrics 1' ||
       rawUnit === 'Paediatrics' ||

@@ -19,6 +19,7 @@ import {
 } from 'lucide-react';
 import { CourseId, BlockId } from '../types';
 import { KRN_BLOCKS, HCA_BLOCKS } from '../data/courses';
+import { KRN_FINALS_ALL_PAPERS } from '../data/papers';
 
 interface BlockSelectionProps {
   courseId: CourseId;
@@ -38,15 +39,20 @@ export default function BlockSelection({
 
   const block1Meta = KRN_BLOCKS.find(b => b.id === 'block1');
   const finalsMeta = KRN_BLOCKS.find(b => b.id === 'finals');
+  const finalsSetsCount = KRN_FINALS_ALL_PAPERS.reduce(
+    (sum, p) =>
+      sum + (p.sets?.length || p.totalSets || Math.ceil((p.questions?.length || p.totalQuestions || 0) / 20)),
+    0
+  );
 
   const krnBlocksData = [
     {
       id: 'block1' as BlockId,
       title: block1Meta?.title || 'Block 1',
-      code: block1Meta?.code || 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101 · MHN 201',
-      subtitle: block1Meta?.subtitle || 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1, Blood/Lymph & GIT',
-      stats: `${block1Meta?.papersCount ?? 80} Papers · ${block1Meta?.questionsCount.toLocaleString() ?? '1,930'} Questions · ${block1Meta?.saqCount ?? 112} SAQs`,
-      badge: `Active · ${block1Meta?.units.length ?? 8} Units`,
+      code: block1Meta?.code || 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101, 102 · MHN 201',
+      subtitle: block1Meta?.subtitle || 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1 & 2, Blood/Lymph & GIT',
+      stats: `${block1Meta?.papersCount ?? 84} Papers · ${block1Meta?.questionsCount.toLocaleString() ?? '1,991'} Questions · ${block1Meta?.saqCount ?? 112} SAQs`,
+      badge: `Active · ${block1Meta?.units.length ?? 9} Units`,
       isAvailable: true,
       icon: GraduationCap,
       colorClass: 'bg-indigo-100/80 border-indigo-200/90 text-indigo-700 group-hover:bg-indigo-600 group-hover:text-white',
@@ -70,9 +76,9 @@ export default function BlockSelection({
       id: 'finals' as BlockId,
       title: finalsMeta?.title || 'Finals & Licensure',
       code: finalsMeta?.code || 'KRCHN Final Exams',
-      subtitle: finalsMeta?.subtitle || 'March 2009–2014, Sept 2012–2013, Sept 2019 & 2021 Finals',
-      stats: `${finalsMeta?.papersCount ?? 15} Papers · ${finalsMeta?.questionsCount ?? 600} Questions · 30 Revision Sets`,
-      badge: finalsMeta?.activeBadge || 'Active · 15 Papers',
+      subtitle: finalsMeta?.subtitle || 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
+      stats: `${finalsMeta?.papersCount ?? 16} Papers · ${finalsMeta?.questionsCount ?? 720} Questions · ${finalsSetsCount} Revision Sets`,
+      badge: finalsMeta?.activeBadge || 'Active · 16 Papers',
       isAvailable: true,
       icon: Award,
       colorClass: 'bg-indigo-100/80 border-indigo-200/90 text-indigo-700 group-hover:bg-indigo-600 group-hover:text-white',

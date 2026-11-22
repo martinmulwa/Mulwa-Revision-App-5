@@ -127,14 +127,29 @@ export default function PastPapersLibrary({
     const perioperativePapers = sourcePapers.filter(
       p => (p.unit || p.category) === 'Perioperative Nursing' || p.category === 'Perioperative Nursing'
     );
+    const isPaeds2Paper = (p: PastPaper) => {
+      const u = p.unit || p.category || '';
+      return (
+        u === 'Paediatrics 2' ||
+        u === 'Paediatrics II' ||
+        u === 'Paediatric Nursing II' ||
+        p.category === 'Paediatrics 2' ||
+        p.id.includes('paediatrics-2') ||
+        p.id.includes('paediatric-nursing-2') ||
+        p.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary'
+      );
+    };
     const paediatricsPapers = sourcePapers.filter(
-      p => (p.unit || p.category) === 'Paediatrics 1' ||
-           p.category === 'Paediatrics 1' ||
-           p.unit === 'Paediatrics Communicable Diseases' ||
-           p.unit === 'Paediatric Medical Surgical Conditions' ||
-           p.unit === 'Paediatric Nursing I' ||
-           p.id.includes('paediatric')
+      p => !isPaeds2Paper(p) && (
+        (p.unit || p.category) === 'Paediatrics 1' ||
+        p.category === 'Paediatrics 1' ||
+        p.unit === 'Paediatrics Communicable Diseases' ||
+        p.unit === 'Paediatric Medical Surgical Conditions' ||
+        p.unit === 'Paediatric Nursing I' ||
+        p.id.includes('paediatric')
+      )
     );
+    const paediatrics2Papers = sourcePapers.filter(isPaeds2Paper);
     const bloodPapers = sourcePapers.filter(
       p => (p.unit || p.category || '').includes('Blood') || p.id.includes('blood')
     );
@@ -211,6 +226,15 @@ export default function PastPapersLibrary({
         questionsCount: paediatricsPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
         rawTotalPapers: paediatricsPapers.length,
         unitType: 'paediatrics' as const,
+        saqCount: 0
+      },
+      {
+        id: 'Paediatrics 2',
+        title: 'Paediatrics 2',
+        papersCount: paediatrics2Papers.length,
+        questionsCount: paediatrics2Papers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: paediatrics2Papers.length,
+        unitType: 'paediatrics2' as const,
         saqCount: 0
       },
       {
@@ -321,10 +345,21 @@ export default function PastPapersLibrary({
             !p.id.startsWith('hca-')
           );
         }
+        const isPaeds2Paper =
+          u === 'Paediatrics 2' ||
+          u === 'Paediatrics II' ||
+          u === 'Paediatric Nursing II' ||
+          p.category === 'Paediatrics 2' ||
+          p.id.includes('paediatrics-2') ||
+          p.id.includes('paediatric-nursing-2') ||
+          p.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary';
+        if (selectedUnit === 'Paediatrics 2') {
+          return isPaeds2Paper;
+        }
         return u === selectedUnit ||
                p.category === selectedUnit ||
                (selectedUnit === 'Pharmacology 1' && p.unit === 'Pharmacology') ||
-               (selectedUnit === 'Paediatrics 1' && (
+               (selectedUnit === 'Paediatrics 1' && !isPaeds2Paper && (
                  p.unit === 'Paediatrics 1' ||
                  p.category === 'Paediatrics 1' ||
                  p.unit === 'Paediatrics Communicable Diseases' ||
@@ -744,6 +779,10 @@ export default function PastPapersLibrary({
                   },
                   paediatrics: {
                     box: 'bg-amber-50 text-amber-600 border-amber-200/80 group-hover:bg-amber-100 group-hover:text-amber-700',
+                    icon: <Baby className="w-4.5 h-4.5" />
+                  },
+                  paediatrics2: {
+                    box: 'bg-cyan-50 text-cyan-600 border-cyan-200/80 group-hover:bg-cyan-100 group-hover:text-cyan-700',
                     icon: <Baby className="w-4.5 h-4.5" />
                   },
                   blood: {

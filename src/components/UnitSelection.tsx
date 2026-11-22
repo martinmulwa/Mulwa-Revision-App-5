@@ -35,6 +35,7 @@ export const BLOCK1_UNITS = [
   'Pharmacology 2',
   'Perioperative Nursing',
   'Paediatrics 1',
+  'Paediatrics 2',
   'Blood and Lymph Disorders',
   'GIT Disorders'
 ] as const;
@@ -65,6 +66,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
   const pharm2 = getUnitMetrics('Pharmacology 2');
   const periop = getUnitMetrics('Perioperative Nursing');
   const paeds = getUnitMetrics('Paediatrics 1');
+  const paeds2 = getUnitMetrics('Paediatrics 2');
   const blood = getUnitMetrics('Blood and Lymph Disorders');
   const git = getUnitMetrics('GIT Disorders');
   const hca = getUnitMetrics('HCA');
@@ -130,6 +132,16 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
       colorClass: 'bg-teal-100/80 border-teal-200/90 text-teal-700 group-hover:bg-teal-600 group-hover:text-white',
       cardHover: 'hover:border-teal-400',
       toColor: 'to-teal-50/60'
+    },
+    {
+      id: 'Paediatrics 2',
+      title: 'Paediatrics 2',
+      code: 'PEN 102',
+      subtitle: `${paeds2.papersCount} ${paeds2.papersCount === 1 ? 'Paper' : 'Papers'} · ${paeds2.mcqsCount} MCQs`,
+      icon: Baby,
+      colorClass: 'bg-cyan-100/80 border-cyan-200/90 text-cyan-700 group-hover:bg-cyan-600 group-hover:text-white',
+      cardHover: 'hover:border-cyan-400',
+      toColor: 'to-cyan-50/60'
     },
     {
       id: 'Blood and Lymph Disorders',

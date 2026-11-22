@@ -15,10 +15,18 @@ import { SAQ_CATEGORIES } from './saqData';
 const countQuestions = (papers: PastPaper[]): number =>
   papers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0);
 
+const countSets = (papers: PastPaper[]): number =>
+  papers.reduce(
+    (sum, p) =>
+      sum + (p.sets?.length || p.totalSets || Math.ceil((p.questions?.length || p.totalQuestions || 0) / 20)),
+    0
+  );
+
 const BLOCK1_PAPERS_COUNT = BLOCK1_ALL_PAPERS.length;
 const BLOCK1_QUESTIONS_COUNT = countQuestions(BLOCK1_ALL_PAPERS);
 const KRN_FINALS_PAPERS_COUNT = KRN_FINALS_ALL_PAPERS.length;
 const KRN_FINALS_QUESTIONS_COUNT = countQuestions(KRN_FINALS_ALL_PAPERS);
+const KRN_FINALS_SETS_COUNT = countSets(KRN_FINALS_ALL_PAPERS);
 const KRN_PAPERS_COUNT = BLOCK1_PAPERS_COUNT + KRN_FINALS_PAPERS_COUNT;
 const KRN_QUESTIONS_COUNT = BLOCK1_QUESTIONS_COUNT + KRN_FINALS_QUESTIONS_COUNT;
 const HCA_PAPERS_COUNT = HCA_ALL_PAPERS.length;
@@ -57,8 +65,8 @@ export const KRN_BLOCKS: BlockInfo[] = [
     id: 'block1',
     courseId: 'KRN',
     title: 'Block 1',
-    code: 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101 · MHN 201',
-    subtitle: 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1, Blood/Lymph & GIT',
+    code: 'MSN 101, 102, 103, 105 · PHM 102 · PON 101 · PEN 101, 102 · MHN 201',
+    subtitle: 'Respiratory, Trauma, Pharmacology 1 & 2, Perioperative, Paediatrics 1 & 2, Blood/Lymph & GIT',
     description: `Core foundational clinical nursing papers including ${BLOCK1_PAPERS_COUNT} curated examination papers, ${BLOCK1_QUESTIONS_COUNT.toLocaleString()} MCQs, and ${TOTAL_SAQ_COUNT} SAQs.`,
     isAvailable: true,
     activeBadge: `Active · ${BLOCK1_PAPERS_COUNT} Papers`,
@@ -72,6 +80,7 @@ export const KRN_BLOCKS: BlockInfo[] = [
       'Pharmacology 2',
       'Perioperative Nursing',
       'Paediatrics 1',
+      'Paediatrics 2',
       'Blood and Lymph Disorders',
       'GIT Disorders'
     ]
@@ -100,8 +109,8 @@ export const KRN_BLOCKS: BlockInfo[] = [
     courseId: 'KRN',
     title: 'Finals & Licensure',
     code: 'KRCHN Final Exams',
-    subtitle: 'March 2009–2014, Sept 2012–2013, Sept 2019 & 2021 Finals',
-    description: `Comprehensive qualifying and hospital/college final examination papers across all clinical domains (${KRN_FINALS_QUESTIONS_COUNT.toLocaleString()} MCQs across 30 revision sets).`,
+    subtitle: 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
+    description: `Comprehensive qualifying and hospital/college final examination papers across all clinical domains (${KRN_FINALS_QUESTIONS_COUNT.toLocaleString()} MCQs across ${KRN_FINALS_SETS_COUNT} revision sets).`,
     isAvailable: true,
     activeBadge: `Active · ${KRN_FINALS_PAPERS_COUNT} Papers`,
     papersCount: KRN_FINALS_PAPERS_COUNT,

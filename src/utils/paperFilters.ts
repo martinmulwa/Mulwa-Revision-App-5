@@ -84,8 +84,10 @@ export const SORT_OPTIONS: Array<{ value: PaperSortOption; label: string }> = [
 export function getPaperMonth(paper: PastPaper): string | undefined {
   if (paper.month && paper.month.trim() !== '') {
     const raw = paper.month.trim();
-    // Capitalize first letter
     const lower = raw.toLowerCase();
+    if (lower === 'not stated' || lower === 'undated' || lower === 'unknown' || lower === 'n/a') {
+      return undefined;
+    }
     for (const m of MONTH_NAMES) {
       if (lower === m.toLowerCase()) return m;
     }
@@ -181,9 +183,14 @@ export function getDistinctYears(papers: PastPaper[]): string[] {
   });
 
   return Array.from(years).sort((a, b) => {
-    if (a === 'Practice') return 1;
-    if (b === 'Practice') return -1;
-    return parseInt(b, 10) - parseInt(a, 10);
+    const numA = /^\d{4}$/.test(a) ? parseInt(a, 10) : NaN;
+    const numB = /^\d{4}$/.test(b) ? parseInt(b, 10) : NaN;
+    if (!isNaN(numA) && !isNaN(numB)) return numB - numA;
+    if (!isNaN(numA)) return -1;
+    if (!isNaN(numB)) return 1;
+    if (a === 'Practice' && b !== 'Practice') return 1;
+    if (b === 'Practice' && a !== 'Practice') return -1;
+    return a.localeCompare(b);
   });
 }
 

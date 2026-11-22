@@ -56,6 +56,16 @@ export default function ReviewIncorrectScreen({
     let canonicalUnit = rawUnit;
     if (rawUnit === 'Trauma and Emergency Nursing' || rawUnit === 'Trauma and Emergency') {
       canonicalUnit = 'Trauma and Emergency';
+    } else if (
+      rawUnit === 'Paediatrics 2' ||
+      rawUnit === 'Paediatrics II' ||
+      rawUnit === 'Paediatric Nursing II' ||
+      paper.category === 'Paediatrics 2' ||
+      paper.id.includes('paediatrics-2') ||
+      paper.id.includes('paediatric-nursing-2') ||
+      paper.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary'
+    ) {
+      canonicalUnit = 'Paediatrics 2';
     } else if (paper.id.includes('paediatric') || rawUnit.toLowerCase().includes('paediatric')) {
       canonicalUnit = 'Paediatrics 1';
     } else if (rawUnit === 'Pharmacology' || rawUnit === 'Pharmacology 1') {

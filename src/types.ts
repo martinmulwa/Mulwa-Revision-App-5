@@ -62,6 +62,7 @@ export type PaperCategory =
   | 'Pharmacology 2'
   | 'Perioperative Nursing'
   | 'Paediatrics 1'
+  | 'Paediatrics 2'
   | 'Blood and Lymph Disorders'
   | 'Blood and Lymphatic Disorders'
   | 'GIT Disorders'

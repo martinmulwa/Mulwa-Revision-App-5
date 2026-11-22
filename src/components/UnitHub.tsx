@@ -86,8 +86,19 @@ export default function UnitHub({
       if (unitName === 'Perioperative Nursing') {
         return u === 'Perioperative Nursing' || p.category === 'Perioperative Nursing';
       }
+      const isPaeds2 =
+        u === 'Paediatrics 2' ||
+        u === 'Paediatrics II' ||
+        u === 'Paediatric Nursing II' ||
+        p.category === 'Paediatrics 2' ||
+        p.id.includes('paediatrics-2') ||
+        p.id.includes('paediatric-nursing-2') ||
+        p.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary';
+      if (unitName === 'Paediatrics 2') {
+        return isPaeds2;
+      }
       if (unitName === 'Paediatrics 1') {
-        return u.includes('Paediatric') || p.id.includes('paediatric');
+        return !isPaeds2 && (u.includes('Paediatric') || p.id.includes('paediatric'));
       }
       if (unitName === 'HCA' || unitName.includes('HCA') || unitName.includes('Health Care')) {
         return u === 'HCA' || p.id.startsWith('hca-') || u.includes('HCA') || u.includes('Health Care');
@@ -150,11 +161,20 @@ export default function UnitHub({
       const paper = findPaper(rec.paperId);
       if (!paper) return;
       const rawUnit = paper.unit || paper.category || '';
+      const isPaeds2 =
+        rawUnit === 'Paediatrics 2' ||
+        rawUnit === 'Paediatrics II' ||
+        rawUnit === 'Paediatric Nursing II' ||
+        paper.category === 'Paediatrics 2' ||
+        paper.id.includes('paediatrics-2') ||
+        paper.id.includes('paediatric-nursing-2') ||
+        paper.id === 'krn-block1-april2024-paediatric-medical-surgical-supplementary';
       const isMatch =
         rawUnit === unitName ||
         ((unitName === 'Trauma and Emergency' || unitName === 'Trauma and Emergency Nursing') &&
          (rawUnit === 'Trauma and Emergency' || rawUnit === 'Trauma and Emergency Nursing')) ||
-        (unitName === 'Paediatrics 1' && !rawUnit.includes('Trauma') && (rawUnit.includes('Paediatric') || paper.id.includes('paediatric'))) ||
+        (unitName === 'Paediatrics 2' && isPaeds2) ||
+        (unitName === 'Paediatrics 1' && !isPaeds2 && !rawUnit.includes('Trauma') && (rawUnit.includes('Paediatric') || paper.id.includes('paediatric'))) ||
         (unitName === 'Pharmacology 1' && (rawUnit === 'Pharmacology 1' || rawUnit === 'Pharmacology')) ||
         (unitName === 'Pharmacology 2' && rawUnit === 'Pharmacology 2') ||
         (unitName === 'Perioperative Nursing' && rawUnit === 'Perioperative Nursing') ||

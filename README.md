@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **103 Papers** | 101 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **2,798 Questions** | Validated stems with distractors and clinical rationales (2,600 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **108 Papers** | 106 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **2,979 Questions** | Validated stems with distractors and clinical rationales (2,781 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
-| **Clinical Specialties & Tracks** | **10 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **154 Sets** | Standardized 10–25 question chunks for cognitive pacing (144 KRN + 10 HCA) |
+| **Clinical Specialties & Tracks** | **11 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood & Lymph, GIT Disorders, KRN Final Exams, HCA Final Exams |
+| **Active Practice Chunks** | **164 Sets** | Standardized 10–25 question chunks for cognitive pacing (154 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,12 +31,12 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 101 examination past papers, 2,600 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 106 examination past papers, 2,781 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
   - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
-    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Blood and Lymph Disorders, and GIT Disorders).
+    - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, PEN 102, and MHN 201 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood and Lymph Disorders, and GIT Disorders).
     - **Block 2 (In Preparation):** MSN 201, 202, 203 & Reproductive Health modules.
-    - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019 & 2021 Finals (600 MCQs across 30 revision sets).
+    - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019, 2021 & 2023 Finals (720 MCQs across 36 revision sets).
   - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Scissors`, `Baby`, `Droplets`, `Utensils`, `Award`), paper/question stats, and course codes.
   - **Level 4 — Unit Revision Hub (`UnitHub.tsx`):** Inside each clinical unit, candidates choose from grouped revision cards:
     - **Past Papers:** MCQ Bank with dynamic multi-criterion filter and sort (by Year, Month, Exam Type, Completion Status, and Title) and instant keyword search.
@@ -181,32 +181,46 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 6. Paediatrics 1 (PEN 101: Communicable Diseases & Medical-Surgical Conditions)
-* **Status:** 11 Curated Examination Papers (**173 total MCQs & True/False items**)
+### 6. Paediatrics 1 (PEN 101: Communicable Diseases & Paediatric Conditions)
+* **Status:** 10 Curated Examination Papers (**142 total MCQs & True/False items**)
 * **Examinations & Modules Included:**
   1. **April 2025 Class End of Block 1 Special/Supplementary Exam** (`krn-block1-april2025-paediatric-nursing-i-supplementary`) — 15 Questions
   2. **April 2024 Class End of Block Exam** (`krn-block1-april2024-paediatric-nursing-i`) — 15 Questions
-  3. **April 2024 Class End of Block Supplementary Exam — Medical-Surgical** (`krn-block1-april2024-paediatric-medical-surgical-supplementary`) — 31 Questions
-  4. **September 2023 Class First Block Supplementary Exam** (`krn-block1-september2023-paediatrics-i-supplementary`) — 15 Questions
-  5. **April 2022 Class End of Block Exam — Medical-Surgical Conditions** (`krn-block1-april2022-paediatric-medical-surgical-conditions`) — 32 Questions
-  6. **April 2022 Class End of Block Exam — Communicable Diseases** (`krn-block1-april2022-paediatrics-communicable-diseases`) — 15 Questions
-  7. **September 2021 Class Paediatrics Communicable Diseases Exam** (`krn-block1-september2021-paediatrics-communicable-diseases`) — 15 Questions
-  8. **September 2019 Class End of Block 1 Exam** (`krn-block1-september2019-paediatrics-i-end-of-block`) — 10 Questions
-  9. **September 2019 Class End of Block 1 Special Exam** (`krn-block1-september2019-paediatrics-i-special`) — 10 Questions
-  10. **September 2019 Class PTS Block Exam: Introduction to Paediatrics** (`krn-pts-september2019-introduction-to-paediatrics`) — 5 Questions
-  11. **April 2019 Class End of Block 1 Supplementary Exam** (`krn-block1-april2019-paediatrics-i-supplementary`) — 10 Questions
+  3. **September 2023 Class First Block Supplementary Exam** (`krn-block1-september2023-paediatrics-i-supplementary`) — 15 Questions
+  4. **April 2022 Class End of Block Exam — Medical-Surgical Conditions** (`krn-block1-april2022-paediatric-medical-surgical-conditions`) — 32 Questions
+  5. **April 2022 Class End of Block Exam — Communicable Diseases** (`krn-block1-april2022-paediatrics-communicable-diseases`) — 15 Questions
+  6. **September 2021 Class Paediatrics Communicable Diseases Exam** (`krn-block1-september2021-paediatrics-communicable-diseases`) — 15 Questions
+  7. **September 2019 Class End of Block 1 Exam** (`krn-block1-september2019-paediatrics-i-end-of-block`) — 10 Questions
+  8. **September 2019 Class End of Block 1 Special Exam** (`krn-block1-september2019-paediatrics-i-special`) — 10 Questions
+  9. **September 2019 Class PTS Block Exam: Introduction to Paediatrics** (`krn-pts-september2019-introduction-to-paediatrics`) — 5 Questions
+  10. **April 2019 Class End of Block 1 Supplementary Exam** (`krn-block1-april2019-paediatrics-i-supplementary`) — 10 Questions
 * **Key Topics Covered:**
   * Developmental Milestones & Physical Assessment (weight doubling/quadrupling, head lag thresholds, fine pincer grasp, MUAC malnutrition screening)
   * Pediatric Nursing Principles & Restraints (family-centered care, separation anxiety phases, restraint classifications)
   * Pediatric Triage (ETAT) & Respiratory Distress (age-specific tachypnea thresholds)
-  * Fluid Resuscitation & Dehydration (IMCI/WHO Plan C, $20\,\text{mL/kg}$ emergency boluses)
-  * Congenital GI Anomalies (TEF 3 Cs triad, Pyloric Stenosis olive mass, Hirschsprung's aganglionic megacolon, Intussusception currant jelly stool, Gastroschisis vs Omphalocele, Cleft Lip/Palate Rule of 10s)
-  * Pediatric Genitourinary Disorders (Cryptorchidism orchidopexy timing, Phimosis vs Paraphimosis, Hypospadias foreskin preservation, Wilms' tumor "DO NOT PALPATE" precaution)
   * Communicable Pediatric Infections (Measles Koplik spots and Vitamin A, Diphtheria pseudomembrane, Pertussis, Mumps, Neonatal Tetanus, Pediatric TB)
+  * Growth & Nutritional Assessments, Congenital Anomalies & Paediatric Nursing Foundations
 
 ---
 
-### 7. Blood and Lymph Disorders (MHN 201)
+### 7. Paediatrics 2 (PEN 102: Paediatric Nursing II & Medical-Surgical Conditions)
+* **Status:** 5 Curated Examination Papers (**92 total MCQs & True/False items**)
+* **Examinations & Modules Included:**
+  1. **September 2025 End of Block Exam** (`krn-sept2025-block1-pen102-paediatric-nursing-2`) — 30 Questions
+  2. **April 2024 Med-Surg Supp Exam** (`krn-block1-april2024-paediatric-medical-surgical-supplementary`) — 31 Questions
+  3. **April 2019 End of Block Exam** (`krn-april2019-block1-paediatrics-2-end-of-block`) — 11 Questions
+  4. **April 2019 Special Exam** (`krn-april2019-block1-paediatrics-2-special-exam`) — 10 Questions
+  5. **April 2019 Supplementary Exam** (`krn-april2019-block1-paediatrics-2-supplementary`) — 10 Questions
+* **Key Topics Covered:**
+  * Fluid Resuscitation & Dehydration Assessment (IMCI/WHO Plan A/B/C classification, $20\,\text{mL/kg}$ emergency Ringers lactate boluses, ReSoMal for severe malnutrition)
+  * Congenital GI & Abdominal Wall Anomalies (Tracheoesophageal Fistula 3 Cs triad, Pyloric Stenosis olive mass & metabolic alkalosis, Hirschsprung's aganglionic megacolon, Intussusception currant jelly stool, Gastroschisis vs Omphalocele, Cleft Lip/Palate Rule of 10s & Logan bow)
+  * Paediatric Genitourinary & Renal Disorders (Cryptorchidism orchidopexy timing, Phimosis vs Paraphimosis, Hypospadias foreskin preservation, Wilms' tumour "DO NOT PALPATE" precaution, Acute Glomerulonephritis vs Nephrotic Syndrome)
+  * Congenital Heart & Neurologic Conditions (Patent Ductus Arteriosus indomethacin, Tetralogy of Fallot knee-chest position, Rheumatic Fever Jones criteria, Spina Bifida prone moist-sterile care, Hydrocephalus VP shunt, Duchenne Muscular Dystrophy Gowers sign)
+  * Paediatric Infectious & Musculoskeletal Emergencies (Pneumocystis jirovecii prophylaxis with cotrimoxazole, Paediatric HAART formulations, Osteomyelitis, Talipes equinovarus Ponseti casting, Burns Parkland resuscitation)
+
+---
+
+### 8. Blood and Lymph Disorders (MHN 201)
 * **Status:** 7 Curated Examination Papers (**95 total MCQs**)
 * **Examinations & Modules Included:**
   1. **September 2025 Class Block 1 Exam** (`krn-block1-september2025-blood-and-lymphatic-disorders`) — 15 Questions
@@ -226,7 +240,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 8. GIT Disorders (MSN 105: Gastrointestinal Disorders)
+### 9. GIT Disorders (MSN 105: Gastrointestinal Disorders)
 * **Status:** 8 Curated Examination Papers & CAT Modules (**89 total MCQs & True/False items across 8 Revision Sets**)
 * **Examinations & Modules Included:**
   1. **TNH September 2013 Class GIT CAT II** (`nairobi-hospital-sept2013-block1-git-cat-ii`) — 10 Questions
@@ -245,24 +259,25 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 9. KRN College Final Examinations (KRCHN Final Exams)
-* **Status:** 15 Comprehensive College & Hospital Final Examination Papers (**600 total MCQs across 30 Revision Sets**)
+### 10. KRN College Final Examinations (KRCHN Final Exams)
+* **Status:** 16 Comprehensive College & Hospital Final Examination Papers (**720 total MCQs across 36 Revision Sets**)
 * **Examinations Included:**
-  1. **September 2021 Class College Final Supplementary Exam** (`krn-collegefinal-sept2021-supplementary`) — 120 Questions (6 Revision Sets)
-  2. **September 2019 Class College Final Exam** (`krn-collegefinal-sept2019`) — 120 Questions (6 Revision Sets)
-  3. **September 2019 Class College Final Supplementary Exam** (`krn-collegefinal-sept2019-supplementary`) — 120 Questions (6 Revision Sets)
-  4. **TNH September 2013 Class Hospital Final Examination, Paper 3** (`krn-nairobihospital-sept2013-hospitalfinal-paper3`) — 20 Questions (1 Revision Set)
-  5. **TNH September 2012 Class Hospital Final Supplementary Examination, Paper III** (`krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
-  6. **TNH September 2012 Class Hospital Final Supplementary Examination, Paper I** (`krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
-  7. **TNH March 2014 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2014-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
-  8. **TNH March 2011 Class Hospital Final Supplementary Examination, Paper 3** (`krn-nairobihospital-march2011-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
-  9. **TNH March 2011 Class Hospital Final Examination, Paper I** (`krn-nairobihospital-march2011-hospitalfinal-paper1`) — 20 Questions (1 Revision Set)
-  10. **TNH March 2011 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2011-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
-  11. **TNH March 2010 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2010-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
-  12. **TNH March 2010 Class Hospital Final Examination, Paper III** (`krn-nairobihospital-march2010-hospitalfinal-paper3`) — 20 Questions (1 Revision Set)
-  13. **TNH March 2010 Class Hospital Final Supplementary Examination, Paper I** (`krn-nairobihospital-march2010-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
-  14. **TNH March 2010 Class Hospital Final Supplementary Examination, Paper III** (`krn-nairobihospital-march2010-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
-  15. **TNH March 2009 Class Hospital Final Supplementary Examination, Paper 1** (`krn-nairobihospital-march2009-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
+  1. **2023 College Final Supplementary Exam** (`krn-collegefinal-2023-supplementary`) — 120 Questions (6 Revision Sets)
+  2. **September 2021 Class College Final Supplementary Exam** (`krn-collegefinal-sept2021-supplementary`) — 120 Questions (6 Revision Sets)
+  3. **September 2019 Class College Final Exam** (`krn-collegefinal-sept2019`) — 120 Questions (6 Revision Sets)
+  4. **September 2019 Class College Final Supplementary Exam** (`krn-collegefinal-sept2019-supplementary`) — 120 Questions (6 Revision Sets)
+  5. **TNH September 2013 Class Hospital Final Examination, Paper 3** (`krn-nairobihospital-sept2013-hospitalfinal-paper3`) — 20 Questions (1 Revision Set)
+  6. **TNH September 2012 Class Hospital Final Supplementary Examination, Paper III** (`krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
+  7. **TNH September 2012 Class Hospital Final Supplementary Examination, Paper I** (`krn-nairobihospital-sept2012-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
+  8. **TNH March 2014 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2014-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
+  9. **TNH March 2011 Class Hospital Final Supplementary Examination, Paper 3** (`krn-nairobihospital-march2011-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
+  10. **TNH March 2011 Class Hospital Final Examination, Paper I** (`krn-nairobihospital-march2011-hospitalfinal-paper1`) — 20 Questions (1 Revision Set)
+  11. **TNH March 2011 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2011-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
+  12. **TNH March 2010 Class Hospital Final Examination, Paper II** (`krn-nairobihospital-march2010-hospitalfinal-paper2`) — 20 Questions (1 Revision Set)
+  13. **TNH March 2010 Class Hospital Final Examination, Paper III** (`krn-nairobihospital-march2010-hospitalfinal-paper3`) — 20 Questions (1 Revision Set)
+  14. **TNH March 2010 Class Hospital Final Supplementary Examination, Paper I** (`krn-nairobihospital-march2010-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
+  15. **TNH March 2010 Class Hospital Final Supplementary Examination, Paper III** (`krn-nairobihospital-march2010-hospitalfinal-supplementary-paper3`) — 20 Questions (1 Revision Set)
+  16. **TNH March 2009 Class Hospital Final Supplementary Examination, Paper 1** (`krn-nairobihospital-march2009-hospitalfinal-supplementary-paper1`) — 20 Questions (1 Revision Set)
 * **Key Topics Covered:**
   * Foundations of Nursing, Nursing Theories (Watson, Henderson, Orem, Nightingale, Bandura Social Learning), Medical Law & Ethics (Assault, Battery, Negligence, Veracity, Vulnerable Research Populations)
   * Applied Anatomy & Physiology, Immunology (Innate Inflammation vs Cell-Mediated, Active/Passive, Humoral Secretory IgA), Parasitology (Filariasis, Schistosomiasis, Helminths)
@@ -274,7 +289,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 10. SAQ Question Banks & Categorization
+### 11. SAQ Question Banks & Categorization
 
 #### A. Core Clinical SAQ Bank (40 Total SAQs)
 Accessible via the **SAQ Bank** tile:
@@ -330,7 +345,8 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   │   │   ├── mcqs/
 │   │   │   │   ├── blood-and-lymph-disorders/  # 7 Blood & Lymph modules (95 MCQs)
 │   │   │   │   ├── git-disorders/              # 17 GIT modules (304 MCQs)
-│   │   │   │   ├── paediatrics-1/              # 11 Paediatrics exam modules (173 MCQs)
+│   │   │   │   ├── paediatrics-1/              # 10 Paediatrics 1 exam modules (142 MCQs)
+│   │   │   │   ├── paediatrics-2/              # 5 Paediatrics 2 exam modules (92 MCQs)
 │   │   │   │   ├── perioperative-nursing/      # 9 Perioperative Nursing modules (126 MCQs)
 │   │   │   │   ├── pharmacology-1/             # 5 Pharmacology 1 exam modules (152 MCQs)
 │   │   │   │   ├── pharmacology-2/             # 14 Pharmacology 2 exam modules (240 MCQs)

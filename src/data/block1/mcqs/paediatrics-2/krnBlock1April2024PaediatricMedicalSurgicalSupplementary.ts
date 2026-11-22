@@ -3,7 +3,7 @@
  * April 2024 Class End of Block Supplementary Exam — Paediatric Medical-Surgical Conditions
  *
  * Block: Block 1
- * Unit: Paediatrics 1
+ * Unit: Paediatrics 2
  *
  * @author MULWA <martinmulwa95@gmail.com>
  * @version 1.0.0
@@ -17,9 +17,9 @@ export const KRN_BLOCK1_APRIL2024_PAEDIATRIC_MEDICAL_SURGICAL_SUPPLEMENTARY: Pas
   month: 'April',
   examType: 'Supplementary',
   title: 'April 2024 Med-Surg Supp Exam',
-  category: 'Paediatrics 1',
+  category: 'Paediatrics 2',
   block: 'Block 1',
-  unit: 'Paediatrics 1',
+  unit: 'Paediatrics 2',
   totalQuestions: 31,
   totalSets: 1,
   sets: [

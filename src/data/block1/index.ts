@@ -7,6 +7,7 @@
  * - Pharmacology 2
  * - Perioperative Nursing
  * - Paediatrics 1
+ * - Paediatrics 2
  * - Blood and Lymph Disorders
  * - GIT Disorders
  */
