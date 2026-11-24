@@ -224,7 +224,7 @@ export default function App() {
   };
 
   const handleSelectBlock = (blockId: BlockId) => {
-    if (selectedCourse === 'KRN' && blockId !== 'block1' && blockId !== 'finals') return;
+    if (selectedCourse === 'KRN' && blockId !== 'block1' && blockId !== 'finals' && blockId !== 'nck') return;
     if (selectedCourse === 'HCA' && blockId !== 'finals') return;
     pushSnapshot();
     setSelectedBlock(blockId);
@@ -232,6 +232,8 @@ export default function App() {
       setSelectedUnit('HCA');
     } else if (selectedCourse === 'KRN' && blockId === 'finals') {
       setSelectedUnit('College Final Exams');
+    } else if (selectedCourse === 'KRN' && blockId === 'nck') {
+      setSelectedUnit('NCK');
     } else {
       setSelectedUnit(null);
     }
@@ -287,7 +289,8 @@ export default function App() {
       return selectedUnit ? selectedUnit : 'Hub';
     }
     if (selectedUnit !== null) {
-      if (selectedBlock === 'finals') return selectedCourse === 'HCA' ? 'College Final Exams' : 'Finals & Licensure';
+      if (selectedBlock === 'finals') return selectedCourse === 'HCA' ? 'College Final Exams' : 'TNH Finals';
+      if (selectedBlock === 'nck') return 'NCK';
       return selectedCourse === 'HCA' ? 'College Final Exams' : 'Block 1';
     }
     if (selectedBlock !== null) {
@@ -313,7 +316,13 @@ export default function App() {
       if (nextSnap.activeTab === 'review') return 'Mistakes';
     }
     if (nextSnap.selectedUnit && !selectedUnit) return nextSnap.selectedUnit;
-    if (nextSnap.selectedBlock && !selectedBlock) return nextSnap.selectedBlock === 'block1' ? 'Block 1' : 'College Final Exams';
+    if (nextSnap.selectedBlock && !selectedBlock) {
+      return nextSnap.selectedBlock === 'block1'
+        ? 'Block 1'
+        : nextSnap.selectedBlock === 'nck'
+          ? 'NCK'
+          : (selectedCourse === 'HCA' ? 'College Final Exams' : 'TNH Finals');
+    }
     if (nextSnap.selectedCourse && !selectedCourse) return nextSnap.selectedCourse;
     return 'Forward';
   };
@@ -342,13 +351,19 @@ export default function App() {
 
     // Block level
     if (selectedBlock) {
-      const isDirectFinals = selectedBlock === 'finals';
-      const blockTitle = selectedBlock === 'block1' ? 'Block 1' : selectedBlock === 'block2' ? 'Block 2' : 'College Final Exams';
+      const isDirectSection = selectedBlock === 'finals' || selectedBlock === 'nck';
+      const blockTitle = selectedBlock === 'block1'
+        ? 'Block 1'
+        : selectedBlock === 'block2'
+          ? 'Block 2'
+          : selectedBlock === 'nck'
+            ? 'NCK'
+            : (selectedCourse === 'HCA' ? 'College Final Exams' : 'TNH Finals');
       crumbs.push({
         label: blockTitle,
         onClick: () => {
           pushSnapshot();
-          if (isDirectFinals) {
+          if (isDirectSection) {
             setSelectedUnit(null);
             setSelectedBlock(null);
           } else {
@@ -357,25 +372,25 @@ export default function App() {
           setActiveTab('home');
           setView('tabs');
         },
-        active: isDirectFinals ? activeTab === 'home' && view === 'tabs' : !selectedUnit
+        active: isDirectSection ? activeTab === 'home' && view === 'tabs' : !selectedUnit
       });
-    } else {
-      crumbs.push({ label: selectedCourse === 'HCA' ? 'Exams' : 'Blocks', active: true });
-      return crumbs;
-    }
 
-    // Unit level (only for non-HCA because HCA jumps straight to UnitHub)
-    if (selectedUnit && selectedCourse !== 'HCA') {
-      crumbs.push({
-        label: selectedUnit,
-        onClick: () => {
-          pushSnapshot();
-          setActiveTab('home');
-          setView('tabs');
-          setSaqView('library');
-        },
-        active: activeTab === 'home' && view === 'tabs'
-      });
+      // Unit level (only when distinct from direct section title)
+      if (selectedUnit && selectedCourse !== 'HCA' && !isDirectSection) {
+        crumbs.push({
+          label: selectedUnit,
+          onClick: () => {
+            pushSnapshot();
+            setActiveTab('home');
+            setView('tabs');
+            setSaqView('library');
+          },
+          active: activeTab === 'home' && view === 'tabs'
+        });
+      }
+    } else {
+      crumbs.push({ label: selectedCourse === 'HCA' ? 'Exams' : 'Sections', active: true });
+      return crumbs;
     }
 
     // Section level (MCQs, SAQs, Practice, Study, Mistakes, Exam)
@@ -851,7 +866,7 @@ export default function App() {
         !selectedCourse ||
         !selectedBlock ||
         !(
-          (selectedCourse === 'KRN' && (selectedBlock === 'block1' || selectedBlock === 'finals')) ||
+          (selectedCourse === 'KRN' && (selectedBlock === 'block1' || selectedBlock === 'finals' || selectedBlock === 'nck')) ||
           (selectedCourse === 'HCA' && selectedBlock === 'finals')
         ) ||
         !selectedUnit ||
@@ -880,7 +895,7 @@ export default function App() {
 
       {/* 3. In-Preparation Blocks (KRN Block 2 or HCA Stage 1/2) */}
       {selectedCourse && selectedBlock && (
-        (selectedCourse === 'KRN' && selectedBlock !== 'block1' && selectedBlock !== 'finals') ||
+        (selectedCourse === 'KRN' && selectedBlock !== 'block1' && selectedBlock !== 'finals' && selectedBlock !== 'nck') ||
         (selectedCourse === 'HCA' && selectedBlock !== 'finals')
       ) && (
         <EmptyCourseBlockView
@@ -898,9 +913,9 @@ export default function App() {
         />
       )}
 
-      {/* 4. Active Course/Block Views (KRN Block 1/Finals or HCA Finals) */}
+      {/* 4. Active Course/Block Views (KRN Block 1/TNH Finals/NCK or HCA Finals) */}
       {selectedCourse && selectedBlock && (
-        (selectedCourse === 'KRN' && (selectedBlock === 'block1' || selectedBlock === 'finals')) ||
+        (selectedCourse === 'KRN' && (selectedBlock === 'block1' || selectedBlock === 'finals' || selectedBlock === 'nck')) ||
         (selectedCourse === 'HCA' && selectedBlock === 'finals')
       ) && (
         <>
@@ -926,7 +941,7 @@ export default function App() {
                       onResetUnitProgress={handleResetUnitProgress}
                       onBack={() => {
                         pushSnapshot();
-                        if (selectedCourse === 'HCA' || (selectedCourse === 'KRN' && selectedBlock === 'finals')) {
+                        if (selectedCourse === 'HCA' || (selectedCourse === 'KRN' && (selectedBlock === 'finals' || selectedBlock === 'nck'))) {
                           setSelectedUnit(null);
                           setSelectedBlock(null);
                         } else {

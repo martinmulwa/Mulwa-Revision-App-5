@@ -77,6 +77,7 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
   const cardiovascular = getUnitMetrics('Cardiovascular Disorders');
   const hca = getUnitMetrics('HCA');
   const finals = getUnitMetrics('College Final Exams');
+  const nck = getUnitMetrics('NCK');
 
   const krnUnits = [
     {
@@ -217,16 +218,31 @@ export default function UnitSelection({ courseId, blockId, onSelectUnit, onBack 
     }
   ];
 
+  const krnNckUnits = [
+    {
+      id: 'NCK',
+      title: 'NCK',
+      code: 'NCK Paper 1',
+      subtitle: `${nck.papersCount} ${nck.papersCount === 1 ? 'Paper' : 'Papers'} · ${nck.mcqsCount} Questions · ${nck.setsCount} Revision Sets`,
+      icon: Award,
+      colorClass: 'bg-sky-100/80 border-sky-200/90 text-sky-700 group-hover:bg-sky-600 group-hover:text-white',
+      cardHover: 'hover:border-sky-400',
+      toColor: 'to-sky-50/60'
+    }
+  ];
+
   const unitsData = courseId === 'HCA'
     ? hcaUnits
-    : (blockId === 'finals' ? krnFinalsUnits : krnUnits);
+    : (blockId === 'finals' ? krnFinalsUnits : blockId === 'nck' ? krnNckUnits : krnUnits);
   const blockTitle = blockId === 'block1'
     ? 'Block 1'
     : blockId === 'block2'
       ? 'Block 2'
-      : blockId === 'finals'
-        ? (courseId === 'HCA' ? 'HCA College Final Exams' : 'KRN College Final Exams')
-        : 'Units';
+      : blockId === 'nck'
+        ? 'NCK'
+        : blockId === 'finals'
+          ? (courseId === 'HCA' ? 'HCA College Final Exams' : 'TNH Finals')
+          : 'Units';
 
   return (
     <div className="space-y-4 sm:space-y-5" id="screen-unit-selection">

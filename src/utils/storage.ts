@@ -364,6 +364,27 @@ export function isPaperForUnit(paper: PastPaper, unitName: string): boolean {
       paper.id.toLowerCase().includes('cardiovascular')
     );
   }
+  if (unitName === 'NCK' || unitName.startsWith('NCK ')) {
+    return (
+      rawUnit === 'NCK' ||
+      paper.block === 'nck' ||
+      paper.category === 'NCK' ||
+      paper.id.startsWith('nck-')
+    );
+  }
+  if (unitName === 'College Final Exams' || unitName.includes('Final Exam')) {
+    return (
+      (rawUnit === 'College Final Exams' ||
+        paper.block === 'finals' ||
+        paper.category === 'College Final Exam' ||
+        paper.category === 'College Final Exams' ||
+        paper.id.startsWith('krn-collegefinal') ||
+        paper.id.includes('hospitalfinal')) &&
+      !paper.id.startsWith('hca-') &&
+      !paper.id.startsWith('nck-') &&
+      paper.block !== 'nck'
+    );
+  }
   if (
     unitName === 'HCA' ||
     unitName === 'Health Care Support Assistant (All Units)' ||

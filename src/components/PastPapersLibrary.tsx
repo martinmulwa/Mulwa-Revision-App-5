@@ -170,6 +170,9 @@ export default function PastPapersLibrary({
            (p.unit || '').includes('HCA') ||
            (p.unit || '').includes('Health Care Support Assistant')
     );
+    const nckPapers = sourcePapers.filter(
+      p => p.block === 'nck' || (p.unit || p.category) === 'NCK' || p.category === 'NCK' || p.id.startsWith('nck-')
+    );
     const collegeFinalPapers = sourcePapers.filter(
       p => ((p.unit || p.category) === 'College Final Exams' ||
            p.id.startsWith('krn-collegefinal') ||
@@ -178,7 +181,9 @@ export default function PastPapersLibrary({
            p.category === 'College Final Exam' ||
            p.category === 'College Final Exams' ||
            (p.unit || '').includes('College Final')) &&
-           !p.id.startsWith('hca-')
+           !p.id.startsWith('hca-') &&
+           p.block !== 'nck' &&
+           !p.id.startsWith('nck-')
     );
 
     const allUnits = [
@@ -283,11 +288,20 @@ export default function PastPapersLibrary({
       },
       ...(collegeFinalPapers.length > 0 ? [{
         id: 'College Final Exams',
-        title: 'College Final Exams',
+        title: 'TNH Finals',
         papersCount: collegeFinalPapers.length,
         questionsCount: collegeFinalPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
         rawTotalPapers: collegeFinalPapers.length,
         unitType: 'finals' as const,
+        saqCount: 0
+      }] : []),
+      ...(nckPapers.length > 0 ? [{
+        id: 'NCK',
+        title: 'NCK',
+        papersCount: nckPapers.length,
+        questionsCount: nckPapers.reduce((sum, p) => sum + (p.questions?.length || p.totalQuestions || 0), 0),
+        rawTotalPapers: nckPapers.length,
+        unitType: 'nck' as const,
         saqCount: 0
       }] : []),
       ...(hcaPapers.length > 0 ? [{
@@ -362,6 +376,9 @@ export default function PastPapersLibrary({
         if (selectedUnit === 'Cardiovascular Disorders') {
           return u === 'Cardiovascular Disorders' || p.category === 'Cardiovascular Disorders' || p.id.includes('cardiovascular');
         }
+        if (selectedUnit === 'NCK' || selectedUnit.startsWith('NCK ')) {
+          return p.block === 'nck' || u === 'NCK' || p.category === 'NCK' || p.id.startsWith('nck-');
+        }
         if (
           selectedUnit === 'College Final Exams' ||
           selectedUnit.includes('College Final') ||
@@ -374,7 +391,9 @@ export default function PastPapersLibrary({
              p.block === 'finals' ||
              p.category === 'College Final Exam' ||
              p.category === 'College Final Exams') &&
-            !p.id.startsWith('hca-')
+            !p.id.startsWith('hca-') &&
+            p.block !== 'nck' &&
+            !p.id.startsWith('nck-')
           );
         }
         const isPaeds2Paper =
@@ -837,6 +856,10 @@ export default function PastPapersLibrary({
                     box: 'bg-indigo-50 text-indigo-600 border-indigo-200/80 group-hover:bg-indigo-100 group-hover:text-indigo-700',
                     icon: <Award className="w-4.5 h-4.5" />
                   },
+                  nck: {
+                    box: 'bg-sky-50 text-sky-600 border-sky-200/80 group-hover:bg-sky-100 group-hover:text-sky-700',
+                    icon: <Award className="w-4.5 h-4.5" />
+                  },
                   hca: {
                     box: 'bg-emerald-50 text-emerald-600 border-emerald-200/80 group-hover:bg-emerald-100 group-hover:text-emerald-700',
                     icon: <Award className="w-4.5 h-4.5" />
@@ -963,12 +986,20 @@ export default function PastPapersLibrary({
 
           <div className="min-w-0">
             <div className="flex items-center gap-1.5 text-[10px] sm:text-[11px] uppercase tracking-wider font-extrabold text-slate-400 truncate">
-              <span className="text-indigo-900 font-bold">{selectedUnit === 'HCA' ? 'HCA' : 'Block 1'}</span>
+              <span className="text-indigo-900 font-bold">
+                {selectedUnit === 'HCA'
+                  ? 'HCA'
+                  : selectedUnit === 'NCK'
+                    ? 'NCK'
+                    : selectedUnit === 'College Final Exams'
+                      ? 'TNH Finals'
+                      : 'Block 1'}
+              </span>
               <span>·</span>
               <span>{isPastPapers ? 'MCQ Bank' : (selectedBank === 'mcq' ? 'MCQ Sets' : 'SAQ Sets')}</span>
             </div>
             <h1 className="text-base sm:text-lg font-bold text-slate-900 tracking-tight leading-snug truncate">
-              {selectedUnit}
+              {selectedUnit === 'College Final Exams' ? 'TNH Finals' : selectedUnit}
             </h1>
           </div>
         </div>

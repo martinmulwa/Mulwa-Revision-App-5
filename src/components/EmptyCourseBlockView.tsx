@@ -26,7 +26,7 @@ export default function EmptyCourseBlockView({
   onChangeBlock
 }: EmptyCourseBlockViewProps) {
   const handleBack = onChangeBlock || onChangeCourse;
-  const name = blockId === 'block2' ? 'Block 2' : blockId === 'finals' ? 'Finals & Licensure' : courseId;
+  const name = blockId === 'block2' ? 'Block 2' : blockId === 'finals' ? 'TNH Finals' : blockId === 'nck' ? 'NCK' : courseId;
   const subtitle =
     courseId === 'HCA'
       ? 'HCA curriculum modules are currently in preparation.'

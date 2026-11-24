@@ -19,7 +19,7 @@ import {
 } from 'lucide-react';
 import { CourseId, BlockId } from '../types';
 import { KRN_BLOCKS, HCA_BLOCKS } from '../data/courses';
-import { KRN_FINALS_ALL_PAPERS } from '../data/papers';
+import { KRN_FINALS_ALL_PAPERS, NCK_ALL_PAPERS } from '../data/papers';
 
 interface BlockSelectionProps {
   courseId: CourseId;
@@ -39,7 +39,13 @@ export default function BlockSelection({
 
   const block1Meta = KRN_BLOCKS.find(b => b.id === 'block1');
   const finalsMeta = KRN_BLOCKS.find(b => b.id === 'finals');
+  const nckMeta = KRN_BLOCKS.find(b => b.id === 'nck');
   const finalsSetsCount = KRN_FINALS_ALL_PAPERS.reduce(
+    (sum, p) =>
+      sum + (p.sets?.length || p.totalSets || Math.ceil((p.questions?.length || p.totalQuestions || 0) / 20)),
+    0
+  );
+  const nckSetsCount = NCK_ALL_PAPERS.reduce(
     (sum, p) =>
       sum + (p.sets?.length || p.totalSets || Math.ceil((p.questions?.length || p.totalQuestions || 0) / 20)),
     0
@@ -60,6 +66,32 @@ export default function BlockSelection({
       toColor: 'to-indigo-50/60'
     },
     {
+      id: 'finals' as BlockId,
+      title: finalsMeta?.title || 'TNH Finals',
+      code: finalsMeta?.code || 'KRCHN Final Exams',
+      subtitle: finalsMeta?.subtitle || 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
+      stats: `${finalsMeta?.papersCount ?? 16} Papers · ${finalsMeta?.questionsCount ?? 720} Questions · ${finalsSetsCount} Revision Sets`,
+      badge: finalsMeta?.activeBadge || 'Active · 16 Papers',
+      isAvailable: true,
+      icon: Award,
+      colorClass: 'bg-indigo-100/80 border-indigo-200/90 text-indigo-700 group-hover:bg-indigo-600 group-hover:text-white',
+      cardHover: 'hover:border-indigo-400',
+      toColor: 'to-indigo-50/60'
+    },
+    {
+      id: 'nck' as BlockId,
+      title: nckMeta?.title || 'NCK',
+      code: nckMeta?.code || 'NCK KRCHN Licensing Exams',
+      subtitle: nckMeta?.subtitle || 'Nursing Council of Kenya KRCHN (Basic) Paper 1 Past Papers',
+      stats: `${nckMeta?.papersCount ?? 2} Papers · ${nckMeta?.questionsCount ?? 43} Questions · ${nckSetsCount} Revision Sets`,
+      badge: nckMeta?.activeBadge || 'Active · 2 Papers',
+      isAvailable: true,
+      icon: Award,
+      colorClass: 'bg-sky-100/80 border-sky-200/90 text-sky-700 group-hover:bg-sky-600 group-hover:text-white',
+      cardHover: 'hover:border-sky-400',
+      toColor: 'to-sky-50/60'
+    },
+    {
       id: 'block2' as BlockId,
       title: 'Block 2',
       code: 'MSN 201, 202, 203 · RH 201',
@@ -71,19 +103,6 @@ export default function BlockSelection({
       colorClass: 'bg-slate-100 border-slate-200 text-slate-400',
       cardHover: '',
       toColor: ''
-    },
-    {
-      id: 'finals' as BlockId,
-      title: finalsMeta?.title || 'Finals & Licensure',
-      code: finalsMeta?.code || 'KRCHN Final Exams',
-      subtitle: finalsMeta?.subtitle || 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
-      stats: `${finalsMeta?.papersCount ?? 16} Papers · ${finalsMeta?.questionsCount ?? 720} Questions · ${finalsSetsCount} Revision Sets`,
-      badge: finalsMeta?.activeBadge || 'Active · 16 Papers',
-      isAvailable: true,
-      icon: Award,
-      colorClass: 'bg-indigo-100/80 border-indigo-200/90 text-indigo-700 group-hover:bg-indigo-600 group-hover:text-white',
-      cardHover: 'hover:border-indigo-400',
-      toColor: 'to-indigo-50/60'
     }
   ];
 
@@ -159,7 +178,7 @@ export default function BlockSelection({
       {/* Grouped Cards */}
       <div className="space-y-2">
         <h2 className="text-xs uppercase tracking-wider font-extrabold text-slate-500 px-1">
-          Blocks
+          {courseId === 'KRN' ? 'Sections' : 'Blocks'}
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 sm:gap-3">
           {blocksData.map(block => {

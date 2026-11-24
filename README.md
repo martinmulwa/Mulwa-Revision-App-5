@@ -15,14 +15,14 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 | Metric | Count | Details |
 | :--- | :--- | :--- |
 | **Access Model** | **Open & Equal** | Universal access for all candidates; no administrative barriers or sign-in gates |
-| **Total Past Papers & Practice Modules** | **122 Papers** | 120 KRN official exams/practice modules + 2 HCA College Final Exam papers |
-| **Total MCQ & True/False Items** | **3,179 Questions** | Validated stems with distractors and clinical rationales (2,981 KRN + 198 HCA) |
+| **Total Past Papers & Practice Modules** | **124 Papers** | 122 KRN official exams/practice modules + 2 HCA College Final Exam papers |
+| **Total MCQ & True/False Items** | **3,222 Questions** | Validated stems with distractors and clinical rationales (3,024 KRN + 198 HCA) |
 | **High-Yield SAQ Items** | **112 Questions** | Model answers scaled to marks with examiner scoring tips |
 | **Clinical SAQ Units** | **2 Clinical Units** | Respiratory Disorders (29 SAQs) & Trauma and Emergency (11 SAQs) |
 | **TNH Practice SAQ Modules** | **16 Modules (72 SAQs)** | Dedicated Trauma & Emergency SAQs (Sets 1–4) under TNH Practice |
 | **Study Curriculum Hub** | **Block 1 Guides** | High-yield lecture transcriptions, mnemonics & exam pattern decoding |
-| **Clinical Specialties & Tracks** | **13 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood & Lymph, GIT Disorders, Nursing Process, Cardiovascular Disorders, KRN Final Exams, HCA Final Exams |
-| **Active Practice Chunks** | **178 Sets** | Standardized 10–25 question chunks for cognitive pacing (168 KRN + 10 HCA) |
+| **Clinical Specialties & Tracks** | **14 Active Units** | Respiratory, Trauma & Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood & Lymph, GIT Disorders, Nursing Process, Cardiovascular Disorders, TNH Finals, NCK, HCA Final Exams |
+| **Active Practice Chunks** | **180 Sets** | Standardized 10–25 question chunks for cognitive pacing (170 KRN + 10 HCA) |
 | **Workstation Privacy** | **Session-Isolated** | Zero lingering data on shared library or ward computers |
 
 ---
@@ -31,12 +31,13 @@ The portal combines 1,000+ past examination questions, physiological and pathoph
 
 - **Multi-Course Hierarchy (KRN & HCA):**
   - **Level 1 — Course Selection (`CourseSelection.tsx`):** Candidates select their academic programme via modern card tiles:
-    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 120 examination past papers, 2,981 MCQs, 112 SAQs, and lecture study guides.
+    - **KRN (Kenya Registered Nursing / KRCHN):** Active curriculum loaded with 122 examination past papers, 3,024 MCQs, 112 SAQs, and lecture study guides.
     - **HCA (Health Care Assistant):** Active curriculum with 2 comprehensive College Final Exam papers (198 MCQs across 10 modular revision sets).
-  - **Level 2 — Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
+  - **Level 2 — Section / Block Selection (`BlockSelection.tsx`):** Under KRN, candidates navigate their academic stage:
     - **Block 1 (Active):** Complete coverage of MSN 101, 102, 103, 105, PHM 102, PON 101, PEN 101, PEN 102, MHN 201, and NUP 101 (Respiratory Disorders, Trauma and Emergency, Pharmacology 1, Pharmacology 2, Perioperative Nursing, Paediatrics 1, Paediatrics 2, Blood and Lymph Disorders, GIT Disorders, Nursing Process, and Cardiovascular Disorders).
+    - **TNH Finals (Active):** March 2009–2014, September 2012–2013, September 2019, 2021 & 2023 Finals (720 MCQs across 36 revision sets).
+    - **NCK (Active):** Nursing Council of Kenya KRCHN (Basic) Paper 1 licensure examinations (43 questions across 2 revision sets).
     - **Block 2 (In Preparation):** MSN 201, 202, 203 & Reproductive Health modules.
-    - **Finals & Licensure (Active):** March 2009–2014, September 2012–2013, September 2019, 2021 & 2023 Finals (720 MCQs across 36 revision sets).
   - **Level 3 — Unit Selection (`UnitSelection.tsx`):** Displays clinical units with specialty icons (`Wind`, `Activity`, `Pill`, `Scissors`, `Baby`, `Droplets`, `Utensils`, `ClipboardList`, `HeartPulse`, `Award`), paper/question stats, and course codes.
   - **Level 4 — Unit Revision Hub (`UnitHub.tsx`):** Inside each clinical unit, candidates choose from grouped revision cards:
     - **Past Papers:** MCQ Bank with dynamic multi-criterion filter and sort (by Year, Month, Exam Type, Completion Status, and Title) and instant keyword search.
@@ -297,7 +298,7 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 12. KRN College Final Examinations (KRCHN Final Exams)
+### 12. TNH Finals (KRCHN College & Hospital Final Exams)
 * **Status:** 16 Comprehensive College & Hospital Final Examination Papers (**720 total MCQs across 36 Revision Sets**)
 * **Examinations Included:**
   1. **2023 College Final Supplementary Exam** (`krn-collegefinal-2023-supplementary`) — 120 Questions (6 Revision Sets)
@@ -327,7 +328,17 @@ The platform organizes content modularly under **Block 1**, divided into clinica
 
 ---
 
-### 13. SAQ Question Banks & Categorization
+### 13. NCK (Nursing Council of Kenya Licensing Examinations)
+* **Status:** 2 Official NCK KRCHN (Basic) Paper 1 Examination Papers (**43 total MCQs, Matching & True/False items across 2 Revision Sets**)
+* **Examinations Included:**
+  1. **NCK Paper 1 - KRCHN (Basic) Examination, July 2014** (`nck-paper1-krchn-july2014`) — 21 Questions (1 Revision Set)
+  2. **NCK Paper 1 - KRCHN (Basic) Examination, August 2012** (`nck-paper1-krchn-aug2012`) — 22 Questions (1 Revision Set)
+* **Key Topics Covered:**
+  * Comprehensive Medical-Surgical Nursing (increased intracranial pressure, Cushing's syndrome, pernicious anaemia, compartment syndrome, inhalational burns, breast mastectomy lymphoedema prevention, haemorrhagic shock 3:1 crystalloid replacement, functional intestinal obstruction, renal transplant rejection, basal skull fracture signs, general anaesthesia triad, cancer hyperthermia, cataract surgery complications, osteochondroma, fat embolism, pneumothorax, hypothyroidism, gastrectomy dumping syndrome, nephrostomy vs suprapubic catheterization, hyperkalaemia, tympanoplasty precautions, varicose veins & aortic aneurysm matching, reproductive embryology & endometriosis)
+
+---
+
+### 14. SAQ Question Banks & Categorization
 
 #### A. Core Clinical SAQ Bank (40 Total SAQs)
 Accessible via the **SAQ Bank** tile:
@@ -396,6 +407,9 @@ Accessible via the **TNH Practice** tile -> Trauma and Emergency -> **SAQ Bank**
 │   │   │       ├── respiratory-disorders/      # 29 Respiratory SAQs
 │   │   │       ├── tnh-practice/               # 72 TNH Practice SAQs (Sets 1–4)
 │   │   │       └── trauma-and-emergency-nursing/# 11 Trauma & Emergency SAQs
+│   │   ├── krn-finals/                         # 16 TNH Finals exam modules (720 MCQs)
+│   │   ├── nck/                                # 2 NCK Paper 1 licensing modules (43 Qs)
+│   │   ├── hca/                                # 2 HCA Final exam modules (198 MCQs)
 │   │   ├── study/                              # Block 1 curriculum notes & lecture slide guides
 │   │   │   ├── antibioticsContent.ts           # Foundations & classification of antibiotics
 │   │   │   ├── combinationsContent.ts          # Synergism and beta-lactamase

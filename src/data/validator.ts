@@ -57,6 +57,7 @@ const ALLOWED_CATEGORIES = new Set<string>([
   'TNH Practice',
   'College Final Exam',
   'College Final Exams',
+  'NCK',
   'Health Care Support Assistant'
 ]);
 
@@ -96,19 +97,26 @@ export function validateQuestion(
   const options = q.options || {};
   const optionKeys = Object.keys(options);
 
-  // Rule 4: mcq has contiguous option keys (A..C for 3-option matching items or A..D for standard 4-option MCQs), all non-empty and all different
+  // Rule 4: mcq has contiguous option keys (A..C for 3-option matching items, A..D for standard 4-option MCQs, or 1..5 for 5-option matching items), all non-empty and all different
   if (resolvedType === 'mcq') {
     const validThreeKeys = ['A', 'B', 'C'];
     const validFourKeys = ['A', 'B', 'C', 'D'];
+    const validFiveNumberKeys = ['1', '2', '3', '4', '5'];
     const isThreeOption =
       optionKeys.length === 3 && validThreeKeys.every(k => optionKeys.includes(k));
     const isFourOption =
       optionKeys.length === 4 && validFourKeys.every(k => optionKeys.includes(k));
+    const isFiveNumberOption =
+      optionKeys.length === 5 && validFiveNumberKeys.every(k => optionKeys.includes(k));
 
-    if (!isThreeOption && !isFourOption) {
-      errors.push(`${prefix} Violation: MCQ options must contain keys A, B, C, D (or A, B, C for 3-option matching) (found [${optionKeys.join(', ')}])`);
+    if (!isThreeOption && !isFourOption && !isFiveNumberOption) {
+      errors.push(`${prefix} Violation: MCQ options must contain keys A, B, C, D (or A, B, C / 1..5 for matching) (found [${optionKeys.join(', ')}])`);
     } else {
-      const activeKeys = isThreeOption ? validThreeKeys : validFourKeys;
+      const activeKeys = isThreeOption
+        ? validThreeKeys
+        : isFiveNumberOption
+          ? validFiveNumberKeys
+          : validFourKeys;
       const distinctValues = new Set<string>();
       activeKeys.forEach(k => {
         const val = options[k as keyof typeof options];

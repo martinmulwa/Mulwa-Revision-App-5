@@ -86,7 +86,9 @@ export default function ReviewIncorrectScreen({
       canonicalUnit = 'Nursing Process';
     } else if (rawUnit === 'Cardiovascular Disorders' || paper.category === 'Cardiovascular Disorders' || paper.id.includes('cardiovascular')) {
       canonicalUnit = 'Cardiovascular Disorders';
-    } else if (rawUnit === 'College Final Exams' || rawUnit.includes('College Final') || paper.id.startsWith('krn-collegefinal')) {
+    } else if (rawUnit === 'NCK' || paper.block === 'nck' || paper.category === 'NCK' || paper.id.startsWith('nck-')) {
+      canonicalUnit = 'NCK';
+    } else if (rawUnit === 'College Final Exams' || rawUnit.includes('College Final') || paper.block === 'finals' || paper.id.startsWith('krn-collegefinal')) {
       canonicalUnit = 'College Final Exams';
     }
 

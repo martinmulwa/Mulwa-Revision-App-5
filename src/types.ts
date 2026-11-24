@@ -8,7 +8,7 @@
  * @version 4.0.0
  */
 
-export type OptionKey = 'A' | 'B' | 'C' | 'D';
+export type OptionKey = 'A' | 'B' | 'C' | 'D' | 'E' | '1' | '2' | '3' | '4' | '5';
 
 export type QuestionType = 'mcq' | 'true_false' | 'saq';
 
@@ -23,7 +23,7 @@ export type SourceType =
 
 export type CourseId = 'KRN' | 'HCA';
 
-export type BlockId = 'block1' | 'block2' | 'finals';
+export type BlockId = 'block1' | 'block2' | 'finals' | 'nck';
 
 export interface CourseInfo {
   id: CourseId;
@@ -71,6 +71,7 @@ export type PaperCategory =
   | 'TNH Practice'
   | 'College Final Exam'
   | 'College Final Exams'
+  | 'NCK'
   | 'HCA'
   | 'Health Care Support Assistant';
 

@@ -256,6 +256,14 @@ export {
 import { KRN_FINALS_ALL_PAPERS } from '../krn-finals';
 
 export {
+  NCK_PAPER1_KRCHN_JULY2014,
+  NCK_PAPER1_KRCHN_AUG2012,
+  NCK_ALL_PAPERS
+} from '../nck';
+
+import { NCK_ALL_PAPERS } from '../nck';
+
+export {
   HCA_JUNE2025_COLLEGE_FINAL_EXAM,
   HCA_FEB2026_COLLEGE_FINAL_EXAM,
   HCA_ALL_PAPERS
@@ -269,6 +277,7 @@ import { HCA_ALL_PAPERS } from '../hca';
 export const ALL_PAPERS: PastPaper[] = [
   ...BLOCK1_ALL_PAPERS,
   ...KRN_FINALS_ALL_PAPERS,
+  ...NCK_ALL_PAPERS,
   ...HCA_ALL_PAPERS
 ];
 

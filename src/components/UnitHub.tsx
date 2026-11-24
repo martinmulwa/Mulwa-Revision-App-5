@@ -41,15 +41,17 @@ export function getUnitCapabilities(unitName: string) {
   const isTrauma = unitName === 'Trauma and Emergency' || unitName === 'Trauma and Emergency Nursing';
   const isHca = unitName === 'HCA' || unitName.includes('HCA') || unitName.includes('Health Care');
   const isFinals = unitName === 'College Final Exams' || unitName.includes('Final Exam') || unitName.includes('Finals');
+  const isNck = unitName === 'NCK' || unitName.startsWith('NCK ');
 
   return {
     hasMcq: true,
-    hasSaq: !isHca && !isFinals && (isRespiratory || isTrauma),
-    hasPractice: !isHca && !isFinals && (isRespiratory || isTrauma),
+    hasSaq: !isHca && !isFinals && !isNck && (isRespiratory || isTrauma),
+    hasPractice: !isHca && !isFinals && !isNck && (isRespiratory || isTrauma),
     hasStudy: false,
     hasMistakes: true,
     isHca,
-    isFinals
+    isFinals,
+    isNck
   };
 }
 
@@ -115,8 +117,11 @@ export default function UnitHub({
       if (unitName === 'Cardiovascular Disorders') {
         return u === 'Cardiovascular Disorders' || p.category === 'Cardiovascular Disorders' || p.id.includes('cardiovascular');
       }
+      if (unitName === 'NCK' || unitName.startsWith('NCK ')) {
+        return p.block === 'nck' || u === 'NCK' || p.category === 'NCK' || p.id.startsWith('nck-');
+      }
       if (unitName === 'College Final Exams' || unitName.includes('Final Exam') || unitName.includes('Finals')) {
-        return (u === 'College Final Exams' || p.id.startsWith('krn-collegefinal') || p.category === 'College Final Exam' || p.category === 'College Final Exams') && !p.id.startsWith('hca-');
+        return (u === 'College Final Exams' || p.id.startsWith('krn-collegefinal') || p.block === 'finals' || p.category === 'College Final Exam' || p.category === 'College Final Exams') && !p.id.startsWith('hca-') && !p.id.startsWith('nck-') && p.block !== 'nck';
       }
       return u === unitName || p.category === unitName;
     });
@@ -192,6 +197,11 @@ export default function UnitHub({
          (rawUnit === 'Nursing Process' || paper.category === 'Nursing Process' || paper.id.includes('nursing-process'))) ||
         (unitName === 'Cardiovascular Disorders' &&
          (rawUnit === 'Cardiovascular Disorders' || paper.category === 'Cardiovascular Disorders' || paper.id.includes('cardiovascular'))) ||
+        ((unitName === 'NCK' || unitName.startsWith('NCK ')) &&
+         (rawUnit === 'NCK' || paper.block === 'nck' || paper.category === 'NCK' || paper.id.startsWith('nck-'))) ||
+        ((unitName === 'College Final Exams' || unitName.includes('Final Exam')) &&
+         (rawUnit === 'College Final Exams' || paper.block === 'finals' || paper.id.startsWith('krn-collegefinal') || paper.id.includes('hospitalfinal')) &&
+         !paper.id.startsWith('hca-') && !paper.id.startsWith('nck-') && paper.block !== 'nck') ||
         ((unitName === 'HCA' || unitName.includes('HCA') || unitName.includes('Health Care')) &&
          (rawUnit === 'HCA' || rawUnit.includes('HCA') || paper.id.startsWith('hca-') || rawUnit.includes('Health Care')));
       if (isMatch) count++;
@@ -244,8 +254,8 @@ export default function UnitHub({
         )}
       </div>
 
-      {/* Final Exams Layout (HCA & KRN Finals): ONLY MCQ Bank and Review Mistakes */}
-      {caps.isHca || caps.isFinals ? (
+      {/* Final & Licensure Exams Layout (HCA, TNH Finals & NCK): ONLY MCQ Bank and Review Mistakes */}
+      {caps.isHca || caps.isFinals || caps.isNck ? (
         <div className="space-y-2">
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-2.5 sm:gap-3">
             {/* MCQ Bank Card */}

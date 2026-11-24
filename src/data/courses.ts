@@ -9,7 +9,7 @@
  */
 
 import { CourseInfo, BlockInfo, CourseId, BlockId, PastPaper } from '../types';
-import { BLOCK1_ALL_PAPERS, KRN_FINALS_ALL_PAPERS, HCA_ALL_PAPERS } from './papers';
+import { BLOCK1_ALL_PAPERS, KRN_FINALS_ALL_PAPERS, NCK_ALL_PAPERS, HCA_ALL_PAPERS } from './papers';
 import { SAQ_CATEGORIES } from './saqData';
 
 const countQuestions = (papers: PastPaper[]): number =>
@@ -27,8 +27,11 @@ const BLOCK1_QUESTIONS_COUNT = countQuestions(BLOCK1_ALL_PAPERS);
 const KRN_FINALS_PAPERS_COUNT = KRN_FINALS_ALL_PAPERS.length;
 const KRN_FINALS_QUESTIONS_COUNT = countQuestions(KRN_FINALS_ALL_PAPERS);
 const KRN_FINALS_SETS_COUNT = countSets(KRN_FINALS_ALL_PAPERS);
-const KRN_PAPERS_COUNT = BLOCK1_PAPERS_COUNT + KRN_FINALS_PAPERS_COUNT;
-const KRN_QUESTIONS_COUNT = BLOCK1_QUESTIONS_COUNT + KRN_FINALS_QUESTIONS_COUNT;
+const NCK_PAPERS_COUNT = NCK_ALL_PAPERS.length;
+const NCK_QUESTIONS_COUNT = countQuestions(NCK_ALL_PAPERS);
+const NCK_SETS_COUNT = countSets(NCK_ALL_PAPERS);
+const KRN_PAPERS_COUNT = BLOCK1_PAPERS_COUNT + KRN_FINALS_PAPERS_COUNT + NCK_PAPERS_COUNT;
+const KRN_QUESTIONS_COUNT = BLOCK1_QUESTIONS_COUNT + KRN_FINALS_QUESTIONS_COUNT + NCK_QUESTIONS_COUNT;
 const HCA_PAPERS_COUNT = HCA_ALL_PAPERS.length;
 const HCA_QUESTIONS_COUNT = countQuestions(HCA_ALL_PAPERS);
 const TOTAL_SAQ_COUNT = SAQ_CATEGORIES.reduce((sum, cat) => sum + (cat.questions?.length || 0), 0);
@@ -88,6 +91,38 @@ export const KRN_BLOCKS: BlockInfo[] = [
     ]
   },
   {
+    id: 'finals',
+    courseId: 'KRN',
+    title: 'TNH Finals',
+    code: 'KRCHN Final Exams',
+    subtitle: 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
+    description: `Comprehensive qualifying and hospital/college final examination papers across all clinical domains (${KRN_FINALS_QUESTIONS_COUNT.toLocaleString()} MCQs across ${KRN_FINALS_SETS_COUNT} revision sets).`,
+    isAvailable: true,
+    activeBadge: `Active · ${KRN_FINALS_PAPERS_COUNT} Papers`,
+    papersCount: KRN_FINALS_PAPERS_COUNT,
+    questionsCount: KRN_FINALS_QUESTIONS_COUNT,
+    saqCount: 0,
+    units: [
+      'College Final Exams'
+    ]
+  },
+  {
+    id: 'nck',
+    courseId: 'KRN',
+    title: 'NCK',
+    code: 'NCK KRCHN Licensing Exams',
+    subtitle: 'Nursing Council of Kenya KRCHN (Basic) Paper 1 Past Papers',
+    description: `Official Nursing Council of Kenya (NCK) KRCHN licensure examination papers and clinical rationales (${NCK_QUESTIONS_COUNT.toLocaleString()} Questions across ${NCK_SETS_COUNT} revision sets).`,
+    isAvailable: true,
+    activeBadge: `Active · ${NCK_PAPERS_COUNT} Papers`,
+    papersCount: NCK_PAPERS_COUNT,
+    questionsCount: NCK_QUESTIONS_COUNT,
+    saqCount: 0,
+    units: [
+      'NCK'
+    ]
+  },
+  {
     id: 'block2',
     courseId: 'KRN',
     title: 'Block 2',
@@ -104,22 +139,6 @@ export const KRN_BLOCKS: BlockInfo[] = [
       'Renal & Urology Nursing',
       'Gastrointestinal Nursing',
       'Reproductive Health & Midwifery'
-    ]
-  },
-  {
-    id: 'finals',
-    courseId: 'KRN',
-    title: 'Finals & Licensure',
-    code: 'KRCHN Final Exams',
-    subtitle: 'March 2009–2014, Sept 2012–2013, Sept 2019, 2021 & 2023 Finals',
-    description: `Comprehensive qualifying and hospital/college final examination papers across all clinical domains (${KRN_FINALS_QUESTIONS_COUNT.toLocaleString()} MCQs across ${KRN_FINALS_SETS_COUNT} revision sets).`,
-    isAvailable: true,
-    activeBadge: `Active · ${KRN_FINALS_PAPERS_COUNT} Papers`,
-    papersCount: KRN_FINALS_PAPERS_COUNT,
-    questionsCount: KRN_FINALS_QUESTIONS_COUNT,
-    saqCount: 0,
-    units: [
-      'College Final Exams'
     ]
   }
 ];
