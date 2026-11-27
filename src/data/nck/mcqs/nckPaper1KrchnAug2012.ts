@@ -20,7 +20,7 @@ export const NCK_PAPER1_KRCHN_AUG2012: PastPaper = {
   "year": "2012",
   "month": "August",
   "examType": "Main",
-  "title": "NCK Paper 1 - KRCHN (Basic) Examination, August 2012",
+  "title": "NCK Paper 2",
   "category": "NCK",
   "block": "nck",
   "unit": "NCK",
